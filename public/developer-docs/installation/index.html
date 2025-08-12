@@ -1,0 +1,88 @@
+<!doctype html><html lang=en dir=ltr><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="Guide for installing and configuring BigLedger SDK.
+
+  System Requirements
+  
+  #
+  
+
+
+Node.js 16+ or Python 3.8+
+4GB RAM minimum
+10GB free disk space
+
+
+  Installation Methods
+  
+  #
+  
+
+
+  NPM (Node.js)
+  
+  #
+  
+
+npm install @bigledger/sdk
+
+  Pip (Python)
+  
+  #
+  
+
+pip install bigledger-sdk
+
+  Docker
+  
+  #
+  
+
+docker pull bigledger/sdk:latest
+
+  Configuration
+  
+  #
+  
+
+Create a configuration file:
+// config.js
+module.exports = {
+  apiKey: 'YOUR_API_KEY',
+  network: 'mainnet', // or 'testnet'
+  timeout: 30000
+};
+
+  Verification
+  
+  #
+  
+
+Verify your installation:"><meta name=theme-color media="(prefers-color-scheme: light)" content="#ffffff"><meta name=theme-color media="(prefers-color-scheme: dark)" content="#343a40"><meta name=color-scheme content="light dark"><meta property="og:url" content="https://wiki.bigledger.com/developer-docs/installation/"><meta property="og:site_name" content="BigLedger Documentation"><meta property="og:title" content="Installation"><meta property="og:description" content="Guide for installing and configuring BigLedger SDK.
+System Requirements # Node.js 16+ or Python 3.8+ 4GB RAM minimum 10GB free disk space Installation Methods # NPM (Node.js) # npm install @bigledger/sdk Pip (Python) # pip install bigledger-sdk Docker # docker pull bigledger/sdk:latest Configuration # Create a configuration file:
+// config.js module.exports = { apiKey: 'YOUR_API_KEY', network: 'mainnet', // or 'testnet' timeout: 30000 }; Verification # Verify your installation:"><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="article:section" content="developer-docs"><title>Installation | BigLedger Documentation</title><link rel=icon href=/favicon.png><link rel=manifest href=/manifest.json><link rel=canonical href=https://wiki.bigledger.com/developer-docs/installation/><link rel=stylesheet href=/book.min.ce742184041b67827be505801d71b6b40c09608dfb292033ea54dbbc1d71a174.css integrity="sha256-znQhhAQbZ4J75QWAHXG2tAwJYI37KSAz6lTbvB1xoXQ=" crossorigin=anonymous><script defer src=/fuse.min.js></script><script defer src=/en.search.min.536d1c65b66c02652aa50f401861ed51b0a4ecdeb0da3d6746431d6b3a42637e.js integrity="sha256-U20cZbZsAmUqpQ9AGGHtUbCk7N6w2j1nRkMdazpCY34=" crossorigin=anonymous></script><script defer src=/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js integrity="sha256-b2+Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC+NdcPIvZhzk=" crossorigin=anonymous></script></head><body dir=ltr class="book-kind-page book-type-developer-docs"><input type=checkbox class="hidden toggle" id=menu-control>
+<input type=checkbox class="hidden toggle" id=toc-control><main class="container flex"><aside class=book-menu><div class=book-menu-content><nav><h2 class=book-brand><a class="flex align-center" href=/><img src=/logo.png alt=Logo><span>BigLedger Documentation</span></a></h2><div class="book-search hidden"><input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/><div class="book-search-spinner hidden"></div><ul id=book-search-results></ul></div><script>document.querySelector(".book-search").classList.remove("hidden")</script><ul class=book-languages><li><input type=checkbox id=languages class=toggle>
+<label for=languages class=flex><a role=button class="flex flex-auto"><img src=/svg/translate.svg class=book-icon alt=Languages>
+<span>English</span></a></label><ul><li><a href=/zh/><span>中文</span></a></li><li><a href=/ms/><span>Bahasa Melayu</span></a></li><li><a href=/ar/><span>العربية</span></a></li></ul></li></ul></nav><script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script></div></aside><div class=book-page><header class=book-header><div class="flex align-center justify-between"><label for=menu-control><img src=/svg/menu.svg class=book-icon alt=Menu></label><h3>Installation</h3><label for=toc-control><img src=/svg/toc.svg class=book-icon alt="Table of Contents"></label></div><aside class="hidden clearfix"><nav id=TableOfContents><ul><li><a href=#system-requirements>System Requirements</a></li><li><a href=#installation-methods>Installation Methods</a><ul><li><a href=#npm-nodejs>NPM (Node.js)</a></li><li><a href=#pip-python>Pip (Python)</a></li><li><a href=#docker>Docker</a></li></ul></li><li><a href=#configuration>Configuration</a></li><li><a href=#verification>Verification</a></li><li><a href=#troubleshooting>Troubleshooting</a></li></ul></nav></aside></header><article class="markdown book-article"><p>Guide for installing and configuring BigLedger SDK.</p><h2 id=system-requirements>System Requirements
+<a class=anchor href=#system-requirements>#</a></h2><ul><li>Node.js 16+ or Python 3.8+</li><li>4GB RAM minimum</li><li>10GB free disk space</li></ul><h2 id=installation-methods>Installation Methods
+<a class=anchor href=#installation-methods>#</a></h2><h3 id=npm-nodejs>NPM (Node.js)
+<a class=anchor href=#npm-nodejs>#</a></h3><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>npm install @bigledger/sdk
+</span></span></code></pre></div><h3 id=pip-python>Pip (Python)
+<a class=anchor href=#pip-python>#</a></h3><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>pip install bigledger-sdk
+</span></span></code></pre></div><h3 id=docker>Docker
+<a class=anchor href=#docker>#</a></h3><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>docker pull bigledger/sdk:latest
+</span></span></code></pre></div><h2 id=configuration>Configuration
+<a class=anchor href=#configuration>#</a></h2><p>Create a configuration file:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#75715e>// config.js
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span><span style=color:#a6e22e>module</span>.<span style=color:#a6e22e>exports</span> <span style=color:#f92672>=</span> {
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>apiKey</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#39;YOUR_API_KEY&#39;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>network</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#39;mainnet&#39;</span>, <span style=color:#75715e>// or &#39;testnet&#39;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>  <span style=color:#a6e22e>timeout</span><span style=color:#f92672>:</span> <span style=color:#ae81ff>30000</span>
+</span></span><span style=display:flex><span>};
+</span></span></code></pre></div><h2 id=verification>Verification
+<a class=anchor href=#verification>#</a></h2><p>Verify your installation:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#66d9ef>const</span> <span style=color:#a6e22e>BigLedger</span> <span style=color:#f92672>=</span> <span style=color:#a6e22e>require</span>(<span style=color:#e6db74>&#39;@bigledger/sdk&#39;</span>);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>const</span> <span style=color:#a6e22e>client</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> <span style=color:#a6e22e>BigLedger</span>({
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>apiKey</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#39;YOUR_API_KEY&#39;</span>
+</span></span><span style=display:flex><span>});
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#a6e22e>client</span>.<span style=color:#a6e22e>getStatus</span>().<span style=color:#a6e22e>then</span>(<span style=color:#a6e22e>console</span>.<span style=color:#a6e22e>log</span>);
+</span></span></code></pre></div><h2 id=troubleshooting>Troubleshooting
+<a class=anchor href=#troubleshooting>#</a></h2><p>Common issues and solutions:</p><ul><li><strong>Connection errors</strong>: Check your API key and network settings</li><li><strong>Version conflicts</strong>: Ensure you&rsquo;re using compatible versions</li><li><strong>Permission issues</strong>: Verify your account has the necessary permissions</li></ul></article><footer class=book-footer><div class="flex flex-wrap justify-between"></div><script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script></footer><div class=book-comments></div><label for=menu-control class="hidden book-menu-overlay"></label></div><aside class=book-toc><div class=book-toc-content><nav id=TableOfContents><ul><li><a href=#system-requirements>System Requirements</a></li><li><a href=#installation-methods>Installation Methods</a><ul><li><a href=#npm-nodejs>NPM (Node.js)</a></li><li><a href=#pip-python>Pip (Python)</a></li><li><a href=#docker>Docker</a></li></ul></li><li><a href=#configuration>Configuration</a></li><li><a href=#verification>Verification</a></li><li><a href=#troubleshooting>Troubleshooting</a></li></ul></nav></div></aside></main></body></html>

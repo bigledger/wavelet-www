@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>User Guide on BigLedger Documentation</title><link>https://wiki.bigledger.com/user-guide/</link><description>Recent content in User Guide on BigLedger Documentation</description><generator>Hugo</generator><language>en</language><atom:link href="https://wiki.bigledger.com/user-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started</title><link>https://wiki.bigledger.com/user-guide/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/getting-started/</guid><description>&lt;p>Welcome to BigLedger! This guide will help you get started quickly.&lt;/p>
+&lt;h2 id="prerequisites">
+ Prerequisites
+ 
+ &lt;a class="anchor" href="#prerequisites">#&lt;/a>
+ 
+&lt;/h2>
+&lt;p>Before you begin, ensure you have:&lt;/p>
+&lt;ul>
+&lt;li>An active BigLedger account&lt;/li>
+&lt;li>Basic understanding of blockchain concepts&lt;/li>
+&lt;li>Internet connection&lt;/li>
+&lt;/ul>
+&lt;h2 id="first-steps">
+ First Steps
+ 
+ &lt;a class="anchor" href="#first-steps">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="1-account-setup">
+ 1. Account Setup
+ 
+ &lt;a class="anchor" href="#1-account-setup">#&lt;/a>
+ 
+&lt;/h3>
+&lt;p>Create your BigLedger account:&lt;/p>
+&lt;ol>
+&lt;li>Visit 
+ &lt;a href="https://bigledger.com">BigLedger Platform&lt;/a>&lt;/li>
+&lt;li>Click &amp;ldquo;Sign Up&amp;rdquo;&lt;/li>
+&lt;li>Follow the registration process&lt;/li>
+&lt;li>Verify your email&lt;/li>
+&lt;/ol>
+&lt;h3 id="2-dashboard-overview">
+ 2. Dashboard Overview
+ 
+ &lt;a class="anchor" href="#2-dashboard-overview">#&lt;/a>
+ 
+&lt;/h3>
+&lt;p>After logging in, you&amp;rsquo;ll see the main dashboard with:&lt;/p></description></item></channel></rss>

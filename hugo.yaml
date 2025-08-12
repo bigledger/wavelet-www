@@ -1,0 +1,68 @@
+baseURL: https://wiki.bigledger.com/
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+theme: book
+
+languages:
+  en:
+    languageName: English
+    contentDir: content/en
+    title: BigLedger Documentation
+    weight: 1
+    params:
+      description: BigLedger Documentation - Comprehensive guides for end users and developers
+  
+  zh:
+    languageName: 中文
+    contentDir: content/zh
+    title: BigLedger 文档
+    weight: 2
+    params:
+      description: BigLedger 文档 - 为终端用户和开发者提供的综合指南
+  
+  ms:
+    languageName: Bahasa Melayu
+    contentDir: content/ms
+    title: Dokumentasi BigLedger
+    weight: 3
+    params:
+      description: Dokumentasi BigLedger - Panduan komprehensif untuk pengguna akhir dan pembangun
+  
+  ar:
+    languageName: العربية
+    contentDir: content/ar
+    title: وثائق BigLedger
+    weight: 4
+    languageDirection: rtl
+    params:
+      description: وثائق BigLedger - أدلة شاملة للمستخدمين النهائيين والمطورين
+
+params:
+  BookTheme: light
+  BookToC: true
+  BookSection: docs
+  BookRepo: https://github.com/bigledger/documentation
+  BookEditPath: edit/main
+  BookSearch: true
+  BookServiceWorker: true
+  BookPortableLinks: true
+  BookMenuBundle: /menu
+  
+  BookLogo: /logo.png
+  BookBrand: BigLedger
+  
+  description: BigLedger Documentation - Comprehensive guides for end users and developers
+  author: BigLedger Team
+
+# Menu configuration moved to language-specific params
+
+outputs:
+  home:
+    - HTML
+    - JSON
+
+deployment:
+  targets:
+    - name: production
+      URL: s3://wiki.bigledger.com?region=ap-southeast-5
+      cloudFrontDistributionID: E3FOFD9ZXC2QVT

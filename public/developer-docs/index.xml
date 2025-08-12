@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Developer Documentation on BigLedger Documentation</title><link>https://wiki.bigledger.com/developer-docs/</link><description>Recent content in Developer Documentation on BigLedger Documentation</description><generator>Hugo</generator><language>en</language><atom:link href="https://wiki.bigledger.com/developer-docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Installation</title><link>https://wiki.bigledger.com/developer-docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/developer-docs/installation/</guid><description>&lt;p>Guide for installing and configuring BigLedger SDK.&lt;/p>
+&lt;h2 id="system-requirements">
+ System Requirements
+ 
+ &lt;a class="anchor" href="#system-requirements">#&lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>Node.js 16+ or Python 3.8+&lt;/li>
+&lt;li>4GB RAM minimum&lt;/li>
+&lt;li>10GB free disk space&lt;/li>
+&lt;/ul>
+&lt;h2 id="installation-methods">
+ Installation Methods
+ 
+ &lt;a class="anchor" href="#installation-methods">#&lt;/a>
+ 
+&lt;/h2>
+&lt;h3 id="npm-nodejs">
+ NPM (Node.js)
+ 
+ &lt;a class="anchor" href="#npm-nodejs">#&lt;/a>
+ 
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>npm install @bigledger/sdk
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="pip-python">
+ Pip (Python)
+ 
+ &lt;a class="anchor" href="#pip-python">#&lt;/a>
+ 
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>pip install bigledger-sdk
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="docker">
+ Docker
+ 
+ &lt;a class="anchor" href="#docker">#&lt;/a>
+ 
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>docker pull bigledger/sdk:latest
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="configuration">
+ Configuration
+ 
+ &lt;a class="anchor" href="#configuration">#&lt;/a>
+ 
+&lt;/h2>
+&lt;p>Create a configuration file:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">// config.js
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#a6e22e">module&lt;/span>.&lt;span style="color:#a6e22e">exports&lt;/span> &lt;span style="color:#f92672">=&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">apiKey&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#39;YOUR_API_KEY&amp;#39;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">network&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#39;mainnet&amp;#39;&lt;/span>, &lt;span style="color:#75715e">// or &amp;#39;testnet&amp;#39;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">timeout&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">30000&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>};
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="verification">
+ Verification
+ 
+ &lt;a class="anchor" href="#verification">#&lt;/a>
+ 
+&lt;/h2>
+&lt;p>Verify your installation:&lt;/p></description></item></channel></rss>

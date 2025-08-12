@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(mkdir:*)",
+      "Bash(pkill:*)",
+      "Bash(true)",
+      "Bash(export AWS_ACCESS_KEY_ID=AKIAVH4VT3Q3SANWFTVT)",
+      "Bash(export AWS_REGION=ap-southeast-5)",
+      "Bash(aws s3 ls:*)",
+      "Bash(aws cloudfront list-distributions:*)",
+      "Bash(gh secret set:*)",
+      "Bash(gh secret:*)",
+      "Bash(curl:*)",
+      "Bash(aws s3api get-bucket-policy:*)",
+      "Bash(aws cloudfront get-distribution:*)",
+      "Bash(aws iam list-attached-user-policies:*)",
+      "Bash(npm install)",
+      "Bash(rm:*)",
+      "Bash(git submodule:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
