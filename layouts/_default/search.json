@@ -1,0 +1,15 @@
+{{- $pages := where .Site.RegularPages "Type" "in" (slice "page" "docs" "user-guide" "developer-docs" "api-reference" "tutorials") -}}
+[
+{{- range $index, $page := $pages -}}
+  {{- if $index -}},{{- end }}
+  {
+    "id": {{ $index }},
+    "url": {{ $page.RelPermalink | jsonify }},
+    "title": {{ $page.Title | jsonify }},
+    "content": {{ $page.Plain | jsonify }},
+    "description": {{ with $page.Description }}{{ . | jsonify }}{{ else }}{{ $page.Summary | jsonify }}{{ end }},
+    "section": {{ $page.Section | jsonify }},
+    "lang": {{ $page.Language.Lang | jsonify }}
+  }
+{{- end -}}
+]

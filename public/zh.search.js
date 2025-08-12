@@ -192,7 +192,7 @@ document.addEventListener("DOMContentLoaded", function () {
    * @returns {Promise<void>} A promise that resolves when the index is preloaded.
    */
   async function preloadIndex() {
-    const tokenize = 'full';
+    const tokenize = 'forward';
 
     // https://github.com/TryGhost/Ghost/pull/21148
     const regex = new RegExp(

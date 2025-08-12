@@ -1,0 +1,210 @@
+<div class="search-container">
+  <div class="search-box">
+    <input 
+      type="text" 
+      id="search-input" 
+      class="search-input" 
+      placeholder="Search documentation..."
+      autocomplete="off"
+    />
+    <div class="search-icon">
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16zM15 15l4.35 4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+  </div>
+  <div id="search-results" class="search-results"></div>
+</div>
+
+<style>
+.search-container {
+  margin: 2rem 0;
+}
+
+.search-box {
+  position: relative;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.search-input {
+  width: 100%;
+  padding: 1rem 1rem 1rem 3rem;
+  font-size: 1rem;
+  border: 2px solid var(--primary, #00D9FF);
+  border-radius: 0.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-primary);
+  transition: all 0.3s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 217, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.search-icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--primary, #00D9FF);
+  pointer-events: none;
+}
+
+.search-results {
+  margin-top: 1rem;
+  max-height: 400px;
+  overflow-y: auto;
+  border-radius: 0.5rem;
+}
+
+.search-result {
+  padding: 1rem;
+  border: 1px solid rgba(0, 217, 255, 0.2);
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  transition: all 0.3s ease;
+}
+
+.search-result:hover {
+  background: rgba(0, 217, 255, 0.1);
+  border-color: var(--primary, #00D9FF);
+  transform: translateX(5px);
+}
+
+.search-result-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--primary, #00D9FF);
+  margin-bottom: 0.5rem;
+}
+
+.search-result-content {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.search-result-path {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 0.5rem;
+}
+
+.search-highlight {
+  background: rgba(0, 217, 255, 0.3);
+  padding: 0.1rem 0.2rem;
+  border-radius: 0.2rem;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchInput = document.getElementById('search-input');
+  const searchResults = document.getElementById('search-results');
+  let searchIndex = [];
+
+  // Load search index
+  fetch('/search-index.json')
+    .then(response => response.json())
+    .then(data => {
+      searchIndex = data;
+    })
+    .catch(error => console.error('Error loading search index:', error));
+
+  // Search function
+  function performSearch(query) {
+    if (!query || query.length < 2) {
+      searchResults.innerHTML = '';
+      return;
+    }
+
+    const results = searchIndex.filter(item => {
+      const searchString = `${item.title} ${item.content} ${item.description}`.toLowerCase();
+      return searchString.includes(query.toLowerCase());
+    });
+
+    displayResults(results.slice(0, 10), query);
+  }
+
+  // Display results
+  function displayResults(results, query) {
+    if (results.length === 0) {
+      searchResults.innerHTML = '<div class="search-result">No results found</div>';
+      return;
+    }
+
+    const html = results.map(result => {
+      const title = highlightText(result.title, query);
+      const content = getExcerpt(result.content, query);
+      
+      return `
+        <a href="${result.url}" class="search-result" style="display: block; text-decoration: none;">
+          <div class="search-result-title">${title}</div>
+          <div class="search-result-content">${content}</div>
+          <div class="search-result-path">${result.section || 'Documentation'}</div>
+        </a>
+      `;
+    }).join('');
+
+    searchResults.innerHTML = html;
+  }
+
+  // Highlight matching text
+  function highlightText(text, query) {
+    const regex = new RegExp(`(${query})`, 'gi');
+    return text.replace(regex, '<span class="search-highlight">$1</span>');
+  }
+
+  // Get excerpt with context
+  function getExcerpt(content, query) {
+    const index = content.toLowerCase().indexOf(query.toLowerCase());
+    if (index === -1) return content.substring(0, 150) + '...';
+    
+    const start = Math.max(0, index - 50);
+    const end = Math.min(content.length, index + query.length + 100);
+    let excerpt = content.substring(start, end);
+    
+    if (start > 0) excerpt = '...' + excerpt;
+    if (end < content.length) excerpt = excerpt + '...';
+    
+    return highlightText(excerpt, query);
+  }
+
+  // Debounce function
+  function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+      const later = () => {
+        clearTimeout(timeout);
+        func(...args);
+      };
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+    };
+  }
+
+  // Add event listener with debounce
+  searchInput.addEventListener('input', debounce(function(e) {
+    performSearch(e.target.value);
+  }, 300));
+
+  // Handle keyboard shortcuts
+  document.addEventListener('keydown', function(e) {
+    // Ctrl+K or Cmd+K to focus search
+    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+      e.preventDefault();
+      searchInput.focus();
+    }
+    // Escape to clear search
+    if (e.key === 'Escape' && document.activeElement === searchInput) {
+      searchInput.value = '';
+      searchResults.innerHTML = '';
+      searchInput.blur();
+    }
+  });
+});
+</script>
