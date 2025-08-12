@@ -18,7 +18,15 @@
       "Bash(npm install)",
       "Bash(rm:*)",
       "Bash(git submodule:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(gh run list:*)",
+      "Bash(gh run view:*)",
+      "Bash(gh workflow run:*)",
+      "Bash(gh api:*)",
+      "Bash(aws cloudfront create-invalidation:*)",
+      "Bash(git clone:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []

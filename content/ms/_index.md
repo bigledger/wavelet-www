@@ -1,10 +1,19 @@
 ---
 title: Dokumentasi BigLedger
-type: docs
-bookToc: false
+toc: false
 ---
 
-# Dokumentasi BigLedger
+{{< hextra/hero-badge >}}
+  <span>Selamat Datang ke Masa Depan Blockchain</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
+<div class="mt-6 mb-6">
+{{< hextra/hero-headline >}}
+  Bina dengan BigLedger&nbsp;<br class="sm:block hidden" />
+  Platform Blockchain Generasi Baharu
+{{< /hextra/hero-headline >}}
+</div>
 
 Selamat datang ke **Portal Dokumentasi BigLedger**. Sumber komprehensif ini menyediakan panduan untuk pengguna akhir dan pembangun teknikal.
 

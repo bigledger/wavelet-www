@@ -1,12 +1,30 @@
 ---
 title: BigLedger Documentation
-type: docs
-bookToc: false
+toc: false
 ---
 
-# BigLedger Documentation
+{{< hextra/hero-badge >}}
+  <span>Welcome to the Future of Blockchain</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
 
-Welcome to the **BigLedger Documentation Portal**. This comprehensive resource provides guides for both end users and technical developers.
+<div class="mt-6 mb-6">
+{{< hextra/hero-headline >}}
+  Build on BigLedger&nbsp;<br class="sm:block hidden" />
+  Next-Generation Blockchain Platform
+{{< /hextra/hero-headline >}}
+</div>
+
+<div class="mb-12">
+{{< hextra/hero-subtitle >}}
+  Comprehensive documentation for developers and users&nbsp;<br class="sm:block hidden" />
+  Enterprise-grade blockchain infrastructure with lightning-fast transactions
+{{< /hextra/hero-subtitle >}}
+</div>
+
+<div class="mb-6">
+{{< hextra/hero-button text="Get Started" link="/user-guide/getting-started" >}}
+</div>
 
 ## 📚 Documentation Sections
 

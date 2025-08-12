@@ -1,64 +1,167 @@
 baseURL: https://wiki.bigledger.com/
+title: BigLedger Documentation
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-theme: book
+theme: hextra
+enableGitInfo: true
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 languages:
   en:
     languageName: English
+    languageCode: en
     contentDir: content/en
     title: BigLedger Documentation
     weight: 1
     params:
-      description: BigLedger Documentation - Comprehensive guides for end users and developers
+      description: BigLedger Documentation - Next-Generation Blockchain Platform
   
   zh:
     languageName: 中文
+    languageCode: zh-CN
     contentDir: content/zh
     title: BigLedger 文档
     weight: 2
     params:
-      description: BigLedger 文档 - 为终端用户和开发者提供的综合指南
+      description: BigLedger 文档 - 下一代区块链平台
   
   ms:
     languageName: Bahasa Melayu
+    languageCode: ms
     contentDir: content/ms
     title: Dokumentasi BigLedger
     weight: 3
     params:
-      description: Dokumentasi BigLedger - Panduan komprehensif untuk pengguna akhir dan pembangun
+      description: Dokumentasi BigLedger - Platform Blockchain Generasi Seterusnya
   
   ar:
     languageName: العربية
+    languageCode: ar
     contentDir: content/ar
     title: وثائق BigLedger
     weight: 4
     languageDirection: rtl
     params:
-      description: وثائق BigLedger - أدلة شاملة للمستخدمين النهائيين والمطورين
+      description: وثائق BigLedger - منصة البلوك تشين من الجيل التالي
 
 params:
-  BookTheme: light
-  BookToC: true
-  BookSection: docs
-  BookRepo: https://github.com/bigledger/documentation
-  BookEditPath: edit/main
-  BookSearch: true
-  BookServiceWorker: true
-  BookPortableLinks: true
-  BookMenuBundle: /menu
-  
-  BookLogo: /logo.png
-  BookBrand: BigLedger
-  
-  description: BigLedger Documentation - Comprehensive guides for end users and developers
-  author: BigLedger Team
+  # Theme settings
+  theme:
+    default: system
+    displayToggle: true
+    
+  # Navigation
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      width: 40
+      height: 40
+      link: /
+    width: wide
+    
+  # Page settings
+  page:
+    width: normal
+    
+  # Footer
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+    width: wide
+    
+  # Edit this page
+  editURL:
+    enable: true
+    base: "https://github.com/bigledger/blg-wiki/edit/main"
+    
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
+      tokenize: full
+      optimize: true
+      
+  # Sidebar
+  sidebar:
+    enable: true
+    fold: false
+    
+  # Table of contents
+  toc:
+    enable: true
+    headingLevel: 3
+    
+  # Comments
+  comments:
+    enable: false
+    
+  # Analytics
+  analytics:
+    enable: false
+    
+  # Social links
+  socialLinks:
+    - icon: github
+      link: https://github.com/bigledger
+    - icon: twitter
+      link: https://twitter.com/bigledger
+      
+  # Custom CSS for high-tech theme
+  custom_css:
+    - css/custom.css
 
-# Menu configuration moved to language-specific params
+# Menu configuration
+menu:
+  main:
+    - identifier: docs
+      name: Documentation
+      weight: 1
+      
+    - identifier: user-guide
+      name: User Guide
+      parent: docs
+      pageRef: /user-guide
+      weight: 10
+      
+    - identifier: developer
+      name: Developer Docs
+      parent: docs
+      pageRef: /developer-docs
+      weight: 20
+      
+    - identifier: api
+      name: API Reference
+      parent: docs
+      pageRef: /api-reference
+      weight: 30
+      
+    - identifier: tutorials
+      name: Tutorials
+      parent: docs
+      pageRef: /tutorials
+      weight: 40
+      
+    - identifier: github
+      name: GitHub
+      weight: 100
+      url: https://github.com/bigledger
+      params:
+        external: true
 
 outputs:
   home:
     - HTML
+    - RSS
     - JSON
 
 deployment:

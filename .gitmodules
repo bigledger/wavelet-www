@@ -4,3 +4,9 @@
 [submodule "themes/book"]
 	path = themes/book
 	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/lotusdocs"]
+	path = themes/lotusdocs
+	url = https://github.com/colinwilson/lotusdocs
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra.git

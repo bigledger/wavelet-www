@@ -1,10 +1,19 @@
 ---
 title: BigLedger 文档
-type: docs
-bookToc: false
+toc: false
 ---
 
-# BigLedger 文档
+{{< hextra/hero-badge >}}
+  <span>欢迎来到区块链的未来</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
+<div class="mt-6 mb-6">
+{{< hextra/hero-headline >}}
+  BigLedger 构建平台&nbsp;<br class="sm:block hidden" />
+  下一代区块链技术
+{{< /hextra/hero-headline >}}
+</div>
 
 欢迎访问 **BigLedger 文档门户**。这个综合资源为终端用户和技术开发者提供指南。
 

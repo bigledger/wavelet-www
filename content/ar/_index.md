@@ -1,10 +1,19 @@
 ---
 title: وثائق BigLedger
-type: docs
-bookToc: false
+toc: false
 ---
 
-# وثائق BigLedger
+{{< hextra/hero-badge >}}
+  <span>مرحباً بكم في مستقبل البلوك تشين</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
+<div class="mt-6 mb-6">
+{{< hextra/hero-headline >}}
+  ابني مع BigLedger&nbsp;<br class="sm:block hidden" />
+  منصة البلوك تشين من الجيل القادم
+{{< /hextra/hero-headline >}}
+</div>
 
 مرحباً بكم في **بوابة وثائق BigLedger**. يوفر هذا المورد الشامل أدلة للمستخدمين النهائيين والمطورين التقنيين.
 
