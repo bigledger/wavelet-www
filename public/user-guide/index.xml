@@ -1,39 +1,204 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – User Guide</title><link>https://wiki.bigledger.com/user-guide/</link><description>Recent content in User Guide on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/user-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started</title><link>https://wiki.bigledger.com/user-guide/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/getting-started/</guid><description>
-&lt;p>Welcome to BigLedger! This guide will help you get started quickly.&lt;/p>
+&lt;p>Welcome to BigLedger! This comprehensive business management platform combines powerful ERP capabilities with modern technology to help your business thrive.&lt;/p>
+&lt;h2>What is BigLedger?&lt;span class="hx:absolute hx:-mt-20" id="what-is-bigledger">&lt;/span>
+&lt;a href="#what-is-bigledger" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger is an integrated Enterprise Resource Planning (ERP) system that provides:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Financial Management&lt;/strong>: Complete accounting and financial control&lt;/li>
+&lt;li>&lt;strong>Sales &amp;amp; CRM&lt;/strong>: Customer relationship and sales pipeline management&lt;/li>
+&lt;li>&lt;strong>Operations&lt;/strong>: Inventory, procurement, and manufacturing&lt;/li>
+&lt;li>&lt;strong>Human Resources&lt;/strong>: Employee and payroll management&lt;/li>
+&lt;li>&lt;strong>Business Intelligence&lt;/strong>: Real-time analytics and reporting&lt;/li>
+&lt;/ul>
 &lt;h2>Prerequisites&lt;span class="hx:absolute hx:-mt-20" id="prerequisites">&lt;/span>
 &lt;a href="#prerequisites" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Before you begin, ensure you have:&lt;/p>
 &lt;ul>
 &lt;li>An active BigLedger account&lt;/li>
-&lt;li>Basic understanding of blockchain concepts&lt;/li>
+&lt;li>Admin or appropriate user permissions&lt;/li>
 &lt;li>Internet connection&lt;/li>
+&lt;li>Modern web browser (Chrome, Firefox, Safari, Edge)&lt;/li>
 &lt;/ul>
 &lt;h2>First Steps&lt;span class="hx:absolute hx:-mt-20" id="first-steps">&lt;/span>
 &lt;a href="#first-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1. Account Setup&lt;span class="hx:absolute hx:-mt-20" id="1-account-setup">&lt;/span>
 &lt;a href="#1-account-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Create your BigLedger account:&lt;/p>
 &lt;ol>
 &lt;li>Visit &lt;a href="https://bigledger.com" target="_blank" rel="noopener">BigLedger Platform&lt;/a>&lt;/li>
-&lt;li>Click &amp;ldquo;Sign Up&amp;rdquo;&lt;/li>
+&lt;li>Click &amp;ldquo;Start Free Trial&amp;rdquo; or &amp;ldquo;Sign Up&amp;rdquo;&lt;/li>
+&lt;li>Choose your deployment option:
+&lt;ul>
+&lt;li>Cloud (recommended for most businesses)&lt;/li>
+&lt;li>On-premise (for specific compliance needs)&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>Follow the registration process&lt;/li>
 &lt;li>Verify your email&lt;/li>
 &lt;/ol>
-&lt;h3>2. Dashboard Overview&lt;span class="hx:absolute hx:-mt-20" id="2-dashboard-overview">&lt;/span>
-&lt;a href="#2-dashboard-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>After logging in, you&amp;rsquo;ll see the main dashboard with:&lt;/p>
+&lt;h3>2. Initial Configuration&lt;span class="hx:absolute hx:-mt-20" id="2-initial-configuration">&lt;/span>
+&lt;a href="#2-initial-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>After your first login, the setup wizard will guide you through:&lt;/p>
+&lt;h4>Company Information&lt;span class="hx:absolute hx:-mt-20" id="company-information">&lt;/span>
+&lt;a href="#company-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Company name and legal entity&lt;/li>
+&lt;li>Tax identification numbers&lt;/li>
+&lt;li>Fiscal year settings&lt;/li>
+&lt;li>Base currency&lt;/li>
+&lt;li>Time zone&lt;/li>
+&lt;/ul>
+&lt;h4>Module Selection&lt;span class="hx:absolute hx:-mt-20" id="module-selection">&lt;/span>
+&lt;a href="#module-selection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Choose which modules to activate:&lt;/p>
 &lt;ul>
-&lt;li>Account overview&lt;/li>
+&lt;li>Financial Accounting (recommended to start)&lt;/li>
+&lt;li>Point of Sales&lt;/li>
+&lt;li>Inventory Management&lt;/li>
+&lt;li>Customer Relationship Management&lt;/li>
+&lt;li>Human Resources&lt;/li>
+&lt;li>Project Management&lt;/li>
+&lt;/ul>
+&lt;h4>User Setup&lt;span class="hx:absolute hx:-mt-20" id="user-setup">&lt;/span>
+&lt;a href="#user-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Create user accounts&lt;/li>
+&lt;li>Assign roles and permissions&lt;/li>
+&lt;li>Set up departments/teams&lt;/li>
+&lt;li>Configure approval hierarchies&lt;/li>
+&lt;/ul>
+&lt;h3>3. Dashboard Overview&lt;span class="hx:absolute hx:-mt-20" id="3-dashboard-overview">&lt;/span>
+&lt;a href="#3-dashboard-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>After setup, you&amp;rsquo;ll see the main dashboard with:&lt;/p>
+&lt;h4>Key Performance Indicators&lt;span class="hx:absolute hx:-mt-20" id="key-performance-indicators">&lt;/span>
+&lt;a href="#key-performance-indicators" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Revenue and expenses&lt;/li>
+&lt;li>Cash position&lt;/li>
+&lt;li>Sales pipeline&lt;/li>
+&lt;li>Inventory levels&lt;/li>
+&lt;li>Outstanding receivables/payables&lt;/li>
+&lt;/ul>
+&lt;h4>Quick Actions&lt;span class="hx:absolute hx:-mt-20" id="quick-actions">&lt;/span>
+&lt;a href="#quick-actions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Create invoice&lt;/li>
+&lt;li>Record payment&lt;/li>
+&lt;li>Add customer&lt;/li>
+&lt;li>Create purchase order&lt;/li>
+&lt;li>View reports&lt;/li>
+&lt;/ul>
+&lt;h4>Activity Feed&lt;span class="hx:absolute hx:-mt-20" id="activity-feed">&lt;/span>
+&lt;a href="#activity-feed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
 &lt;li>Recent transactions&lt;/li>
-&lt;li>Quick actions&lt;/li>
-&lt;li>Notifications&lt;/li>
+&lt;li>Pending approvals&lt;/li>
+&lt;li>System notifications&lt;/li>
+&lt;li>Task reminders&lt;/li>
 &lt;/ul>
-&lt;h3>3. Basic Operations&lt;span class="hx:absolute hx:-mt-20" id="3-basic-operations">&lt;/span>
-&lt;a href="#3-basic-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Learn the fundamental operations:&lt;/p>
-&lt;ul>
-&lt;li>Creating transactions&lt;/li>
-&lt;li>Viewing history&lt;/li>
-&lt;li>Managing settings&lt;/li>
+&lt;h3>4. Basic Operations&lt;span class="hx:absolute hx:-mt-20" id="4-basic-operations">&lt;/span>
+&lt;a href="#4-basic-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Start with these fundamental operations:&lt;/p>
+&lt;h4>Financial Operations&lt;span class="hx:absolute hx:-mt-20" id="financial-operations">&lt;/span>
+&lt;a href="#financial-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Setting up Chart of Accounts&lt;/li>
+&lt;li>Recording journal entries&lt;/li>
+&lt;li>Creating invoices&lt;/li>
+&lt;li>Processing payments&lt;/li>
+&lt;li>Bank reconciliation&lt;/li>
 &lt;/ul>
+&lt;h4>Sales Operations&lt;span class="hx:absolute hx:-mt-20" id="sales-operations">&lt;/span>
+&lt;a href="#sales-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Adding customers&lt;/li>
+&lt;li>Creating quotes&lt;/li>
+&lt;li>Processing orders&lt;/li>
+&lt;li>Managing pipeline&lt;/li>
+&lt;li>Tracking commissions&lt;/li>
+&lt;/ul>
+&lt;h4>Inventory Operations&lt;span class="hx:absolute hx:-mt-20" id="inventory-operations">&lt;/span>
+&lt;a href="#inventory-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Adding products&lt;/li>
+&lt;li>Managing stock levels&lt;/li>
+&lt;li>Processing transfers&lt;/li>
+&lt;li>Running stock counts&lt;/li>
+&lt;li>Setting reorder points&lt;/li>
+&lt;/ul>
+&lt;h2>Implementation Roadmap&lt;span class="hx:absolute hx:-mt-20" id="implementation-roadmap">&lt;/span>
+&lt;a href="#implementation-roadmap" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Phase 1: Foundation (Week 1-2)&lt;span class="hx:absolute hx:-mt-20" id="phase-1-foundation-week-1-2">&lt;/span>
+&lt;a href="#phase-1-foundation-week-1-2" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Complete initial setup&lt;/li>
+&lt;li>Import Chart of Accounts&lt;/li>
+&lt;li>Set up tax configuration&lt;/li>
+&lt;li>Add key users&lt;/li>
+&lt;li>Configure basic workflows&lt;/li>
+&lt;/ol>
+&lt;h3>Phase 2: Core Modules (Week 3-4)&lt;span class="hx:absolute hx:-mt-20" id="phase-2-core-modules-week-3-4">&lt;/span>
+&lt;a href="#phase-2-core-modules-week-3-4" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Implement Financial Accounting&lt;/li>
+&lt;li>Set up customer database&lt;/li>
+&lt;li>Configure products/services&lt;/li>
+&lt;li>Test transaction flows&lt;/li>
+&lt;li>Train core team&lt;/li>
+&lt;/ol>
+&lt;h3>Phase 3: Extended Modules (Week 5-8)&lt;span class="hx:absolute hx:-mt-20" id="phase-3-extended-modules-week-5-8">&lt;/span>
+&lt;a href="#phase-3-extended-modules-week-5-8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Add additional modules as needed&lt;/li>
+&lt;li>Configure advanced features&lt;/li>
+&lt;li>Set up integrations&lt;/li>
+&lt;li>Customize reports&lt;/li>
+&lt;li>Train all users&lt;/li>
+&lt;/ol>
+&lt;h3>Phase 4: Go Live (Week 9+)&lt;span class="hx:absolute hx:-mt-20" id="phase-4-go-live-week-9">&lt;/span>
+&lt;a href="#phase-4-go-live-week-9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Final data migration&lt;/li>
+&lt;li>User acceptance testing&lt;/li>
+&lt;li>Final training&lt;/li>
+&lt;li>Parallel run (if needed)&lt;/li>
+&lt;li>Full production launch&lt;/li>
+&lt;/ol>
+&lt;h2>Training Resources&lt;span class="hx:absolute hx:-mt-20" id="training-resources">&lt;/span>
+&lt;a href="#training-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Self-Service Learning&lt;span class="hx:absolute hx:-mt-20" id="self-service-learning">&lt;/span>
+&lt;a href="#self-service-learning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/" >Video Tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/" >Module Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/docs/best-practices/" >Best Practices Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://forum.bigledger.com" target="_blank" rel="noopener">Community Forum&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3>Instructor-Led Training&lt;span class="hx:absolute hx:-mt-20" id="instructor-led-training">&lt;/span>
+&lt;a href="#instructor-led-training" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Webinar series (weekly)&lt;/li>
+&lt;li>On-site training (available)&lt;/li>
+&lt;li>Custom training programs&lt;/li>
+&lt;li>Certification courses&lt;/li>
+&lt;/ul>
+&lt;h2>Getting Help&lt;span class="hx:absolute hx:-mt-20" id="getting-help">&lt;/span>
+&lt;a href="#getting-help" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Support Channels&lt;span class="hx:absolute hx:-mt-20" id="support-channels">&lt;/span>
+&lt;a href="#support-channels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>In-App Help&lt;/strong>: Click the help icon for contextual assistance&lt;/li>
+&lt;li>&lt;strong>Knowledge Base&lt;/strong>: Searchable documentation&lt;/li>
+&lt;li>&lt;strong>Email Support&lt;/strong>: &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Phone Support&lt;/strong>: Available for premium plans&lt;/li>
+&lt;li>&lt;strong>Community Forum&lt;/strong>: Get help from other users&lt;/li>
+&lt;/ul>
+&lt;h3>Best Practices for New Users&lt;span class="hx:absolute hx:-mt-20" id="best-practices-for-new-users">&lt;/span>
+&lt;a href="#best-practices-for-new-users" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Start with one module and expand gradually&lt;/li>
+&lt;li>Use the sandbox environment for testing&lt;/li>
+&lt;li>Document your processes&lt;/li>
+&lt;li>Regular backups (automated in cloud)&lt;/li>
+&lt;li>Stay updated with release notes&lt;/li>
+&lt;/ol>
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
-&lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>Explore more User Guides&lt;/li>
-&lt;li>Check out Developer Documentation&lt;/li>
-&lt;li>Review API Reference&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Now that you&amp;rsquo;re familiar with the basics:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Explore Modules&lt;/strong>: Visit our &lt;a href="https://wiki.bigledger.com/modules/" >Modules Overview&lt;/a> to understand capabilities&lt;/li>
+&lt;li>&lt;strong>Review Documentation&lt;/strong>: Check module-specific guides for detailed setup&lt;/li>
+&lt;li>&lt;strong>Join Training&lt;/strong>: Register for upcoming webinars&lt;/li>
+&lt;li>&lt;strong>Connect with Community&lt;/strong>: Join our user forum&lt;/li>
+&lt;li>&lt;strong>Plan Your Implementation&lt;/strong>: Use our implementation templates&lt;/li>
+&lt;/ol>
+&lt;h2>Quick Reference&lt;span class="hx:absolute hx:-mt-20" id="quick-reference">&lt;/span>
+&lt;a href="#quick-reference" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Keyboard Shortcuts&lt;span class="hx:absolute hx:-mt-20" id="keyboard-shortcuts">&lt;/span>
+&lt;a href="#keyboard-shortcuts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;code>Ctrl/Cmd + K&lt;/code>: Quick search&lt;/li>
+&lt;li>&lt;code>Ctrl/Cmd + N&lt;/code>: New transaction&lt;/li>
+&lt;li>&lt;code>Ctrl/Cmd + S&lt;/code>: Save&lt;/li>
+&lt;li>&lt;code>Ctrl/Cmd + P&lt;/code>: Print&lt;/li>
+&lt;li>&lt;code>F1&lt;/code>: Help&lt;/li>
+&lt;/ul>
+&lt;h3>Common Tasks&lt;span class="hx:absolute hx:-mt-20" id="common-tasks">&lt;/span>
+&lt;a href="#common-tasks" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/first-invoice/" >Creating Your First Invoice&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/product-setup/" >Setting Up Products&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/customer-setup/" >Adding Customers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/basic-reports/" >Running Reports&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/month-end/" >Month-End Procedures&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Welcome to BigLedger - Your Complete Business Management Solution!&lt;/p></description></item></channel></rss>

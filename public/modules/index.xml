@@ -1,0 +1,2362 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – BigLedger Modules</title><link>https://wiki.bigledger.com/modules/</link><description>Recent content in BigLedger Modules on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/modules/index.xml" rel="self" type="application/rss+xml"/><item><title>Financial Accounting</title><link>https://wiki.bigledger.com/modules/financial-accounting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/financial-accounting/</guid><description>
+&lt;h1>Financial Accounting Module&lt;/h1>&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Financial Accounting module provides a comprehensive, standards-compliant accounting system designed for businesses of all sizes. Built with GAAP, IFRS, and local accounting standards in mind, it offers real-time financial insights while maintaining the rigor required for audit compliance.&lt;/p>
+&lt;h2>Core Concepts&lt;span class="hx:absolute hx:-mt-20" id="core-concepts">&lt;/span>
+&lt;a href="#core-concepts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Double-Entry Accounting&lt;span class="hx:absolute hx:-mt-20" id="double-entry-accounting">&lt;/span>
+&lt;a href="#double-entry-accounting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>BigLedger implements true double-entry bookkeeping where every transaction affects at least two accounts:&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;pre>&lt;code>Debit Account A = Credit Account B
+Example: Sale of $1,000
+Debit: Accounts Receivable $1,000
+Credit: Sales Revenue $1,000&lt;/code>&lt;/pre>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Chart of Accounts Structure&lt;span class="hx:absolute hx:-mt-20" id="chart-of-accounts-structure">&lt;/span>
+&lt;a href="#chart-of-accounts-structure" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;pre>&lt;code>1000-1999: Assets
+1000-1099: Current Assets
+1000: Cash and Cash Equivalents
+1010: Petty Cash
+1020: Bank Accounts
+1100: Accounts Receivable
+1200: Inventory
+1500-1599: Fixed Assets
+1500: Property, Plant &amp;amp; Equipment
+1550: Accumulated Depreciation
+2000-2999: Liabilities
+2000-2099: Current Liabilities
+2000: Accounts Payable
+2100: Accrued Expenses
+2200: Taxes Payable
+2500-2599: Long-term Liabilities
+2500: Long-term Debt
+2600: Deferred Tax Liabilities
+3000-3999: Equity
+3000: Common Stock
+3100: Retained Earnings
+3200: Additional Paid-in Capital
+4000-4999: Revenue
+4000: Product Sales
+4100: Service Revenue
+4200: Other Income
+5000-5999: Cost of Goods Sold
+5000: Direct Materials
+5100: Direct Labor
+5200: Manufacturing Overhead
+6000-6999: Operating Expenses
+6000: Salaries and Wages
+6100: Rent Expense
+6200: Utilities
+6300: Marketing
+6400: Professional Fees&lt;/code>&lt;/pre>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>📊 General Ledger&lt;span class="hx:absolute hx:-mt-20" id="-general-ledger">&lt;/span>
+&lt;a href="#-general-ledger" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Transaction Management&lt;span class="hx:absolute hx:-mt-20" id="transaction-management">&lt;/span>
+&lt;a href="#transaction-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Journal Entries&lt;/strong>: Manual and automated entries&lt;/li>
+&lt;li>&lt;strong>Recurring Entries&lt;/strong>: Scheduled recurring transactions&lt;/li>
+&lt;li>&lt;strong>Reversing Entries&lt;/strong>: Automatic reversal capabilities&lt;/li>
+&lt;li>&lt;strong>Batch Processing&lt;/strong>: Bulk transaction imports&lt;/li>
+&lt;li>&lt;strong>Multi-currency&lt;/strong>: Automatic exchange rate calculations&lt;/li>
+&lt;li>&lt;strong>Audit Trail&lt;/strong>: Complete transaction history&lt;/li>
+&lt;/ul>
+&lt;h4>Account Management&lt;span class="hx:absolute hx:-mt-20" id="account-management">&lt;/span>
+&lt;a href="#account-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Flexible COA&lt;/strong>: Customizable chart of accounts&lt;/li>
+&lt;li>&lt;strong>Account Groups&lt;/strong>: Hierarchical account structure&lt;/li>
+&lt;li>&lt;strong>Sub-accounts&lt;/strong>: Unlimited sub-account levels&lt;/li>
+&lt;li>&lt;strong>Cost Centers&lt;/strong>: Department/project tracking&lt;/li>
+&lt;li>&lt;strong>Account Reconciliation&lt;/strong>: Bank and inter-company reconciliation&lt;/li>
+&lt;li>&lt;strong>Opening Balances&lt;/strong>: Historical data import&lt;/li>
+&lt;/ul>
+&lt;h3>💰 Accounts Payable (AP)&lt;span class="hx:absolute hx:-mt-20" id="-accounts-payable-ap">&lt;/span>
+&lt;a href="#-accounts-payable-ap" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Vendor Management&lt;span class="hx:absolute hx:-mt-20" id="vendor-management">&lt;/span>
+&lt;a href="#vendor-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Vendor Database&lt;/strong>: Comprehensive vendor profiles&lt;/li>
+&lt;li>&lt;strong>Payment Terms&lt;/strong>: Flexible payment term configuration&lt;/li>
+&lt;li>&lt;strong>Credit Limits&lt;/strong>: Vendor credit management&lt;/li>
+&lt;li>&lt;strong>1099 Tracking&lt;/strong>: US tax reporting&lt;/li>
+&lt;li>&lt;strong>Vendor Portal&lt;/strong>: Self-service vendor access&lt;/li>
+&lt;/ul>
+&lt;h4>Purchase Processing&lt;span class="hx:absolute hx:-mt-20" id="purchase-processing">&lt;/span>
+&lt;a href="#purchase-processing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>The complete purchase-to-pay workflow:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Purchase Requisition&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Department request&lt;/li>
+&lt;li>Budget validation&lt;/li>
+&lt;li>Approval routing&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Purchase Order&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Vendor selection&lt;/li>
+&lt;li>Price negotiation&lt;/li>
+&lt;li>Terms agreement&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Goods Receipt&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Quantity verification&lt;/li>
+&lt;li>Quality check&lt;/li>
+&lt;li>Three-way matching&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Invoice Processing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>OCR invoice capture&lt;/li>
+&lt;li>Automatic matching&lt;/li>
+&lt;li>Approval workflow&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Payment&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Payment scheduling&lt;/li>
+&lt;li>Batch payments&lt;/li>
+&lt;li>Electronic payments&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h4>Payment Features&lt;span class="hx:absolute hx:-mt-20" id="payment-features">&lt;/span>
+&lt;a href="#payment-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Payment Runs&lt;/strong>: Automated payment processing&lt;/li>
+&lt;li>&lt;strong>Check Printing&lt;/strong>: MICR check printing&lt;/li>
+&lt;li>&lt;strong>ACH/Wire&lt;/strong>: Electronic payment support&lt;/li>
+&lt;li>&lt;strong>Foreign Payments&lt;/strong>: International wire transfers&lt;/li>
+&lt;li>&lt;strong>Payment Matching&lt;/strong>: Automatic reconciliation&lt;/li>
+&lt;li>&lt;strong>Early Payment Discounts&lt;/strong>: Discount optimization&lt;/li>
+&lt;/ul>
+&lt;h3>💳 Accounts Receivable (AR)&lt;span class="hx:absolute hx:-mt-20" id="-accounts-receivable-ar">&lt;/span>
+&lt;a href="#-accounts-receivable-ar" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Customer Management&lt;span class="hx:absolute hx:-mt-20" id="customer-management">&lt;/span>
+&lt;a href="#customer-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Customer Database&lt;/strong>: 360-degree customer view&lt;/li>
+&lt;li>&lt;strong>Credit Management&lt;/strong>: Credit limits and terms&lt;/li>
+&lt;li>&lt;strong>Aging Analysis&lt;/strong>: Detailed aging reports&lt;/li>
+&lt;li>&lt;strong>Collection Management&lt;/strong>: Automated reminders&lt;/li>
+&lt;li>&lt;strong>Customer Portal&lt;/strong>: Self-service portal&lt;/li>
+&lt;li>&lt;strong>Statement Generation&lt;/strong>: Automatic statements&lt;/li>
+&lt;/ul>
+&lt;h4>Billing &amp;amp; Invoicing&lt;span class="hx:absolute hx:-mt-20" id="billing--invoicing">&lt;/span>
+&lt;a href="#billing--invoicing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Invoice Templates&lt;/strong>: Customizable invoice designs&lt;/li>
+&lt;li>&lt;strong>Recurring Invoices&lt;/strong>: Subscription billing&lt;/li>
+&lt;li>&lt;strong>Pro-forma Invoices&lt;/strong>: Quote to invoice conversion&lt;/li>
+&lt;li>&lt;strong>Credit Notes&lt;/strong>: Returns and adjustments&lt;/li>
+&lt;li>&lt;strong>Multi-currency Billing&lt;/strong>: Foreign currency invoices&lt;/li>
+&lt;li>&lt;strong>Tax Calculation&lt;/strong>: Automatic tax computation&lt;/li>
+&lt;/ul>
+&lt;h4>Collections Workflow&lt;span class="hx:absolute hx:-mt-20" id="collections-workflow">&lt;/span>
+&lt;a href="#collections-workflow" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Automated collection rules based on aging:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Days Overdue&lt;/th>
+&lt;th>Action&lt;/th>
+&lt;th>Template&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>0&lt;/td>
+&lt;td>Send invoice&lt;/td>
+&lt;td>Standard invoice&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>Send reminder&lt;/td>
+&lt;td>Friendly reminder&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>Send notice&lt;/td>
+&lt;td>Payment notice&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>60&lt;/td>
+&lt;td>Escalate&lt;/td>
+&lt;td>Collections team&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>90&lt;/td>
+&lt;td>Legal action&lt;/td>
+&lt;td>Legal department&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3>🏦 Cash Management&lt;span class="hx:absolute hx:-mt-20" id="-cash-management">&lt;/span>
+&lt;a href="#-cash-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Bank Integration&lt;span class="hx:absolute hx:-mt-20" id="bank-integration">&lt;/span>
+&lt;a href="#bank-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Bank Feeds&lt;/strong>: Automatic transaction import&lt;/li>
+&lt;li>&lt;strong>Bank Reconciliation&lt;/strong>: Smart matching algorithms&lt;/li>
+&lt;li>&lt;strong>Multi-bank Support&lt;/strong>: Manage multiple accounts&lt;/li>
+&lt;li>&lt;strong>Cash Forecasting&lt;/strong>: Predictive cash flow&lt;/li>
+&lt;li>&lt;strong>Sweep Accounts&lt;/strong>: Automatic fund transfers&lt;/li>
+&lt;/ul>
+&lt;h4>Cash Operations&lt;span class="hx:absolute hx:-mt-20" id="cash-operations">&lt;/span>
+&lt;a href="#cash-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Cash Position&lt;/strong>: Real-time cash visibility&lt;/li>
+&lt;li>&lt;strong>Payment Gateway&lt;/strong>: Integrated payment processing&lt;/li>
+&lt;li>&lt;strong>Petty Cash&lt;/strong>: Petty cash management&lt;/li>
+&lt;li>&lt;strong>Cash Journals&lt;/strong>: Manual cash entries&lt;/li>
+&lt;li>&lt;strong>Float Management&lt;/strong>: Check float tracking&lt;/li>
+&lt;/ul>
+&lt;h3>📈 Financial Reporting&lt;span class="hx:absolute hx:-mt-20" id="-financial-reporting">&lt;/span>
+&lt;a href="#-financial-reporting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Standard Reports&lt;span class="hx:absolute hx:-mt-20" id="standard-reports">&lt;/span>
+&lt;a href="#standard-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;h5>Income Statement (P&amp;amp;L)&lt;span class="hx:absolute hx:-mt-20" id="income-statement-pl">&lt;/span>
+&lt;a href="#income-statement-pl" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h5>&lt;ul>
+&lt;li>Revenue breakdown by category&lt;/li>
+&lt;li>Cost of goods sold analysis&lt;/li>
+&lt;li>Operating expense details&lt;/li>
+&lt;li>EBITDA calculations&lt;/li>
+&lt;li>Net profit margins&lt;/li>
+&lt;li>Period comparisons&lt;/li>
+&lt;/ul>
+&lt;h5>Balance Sheet&lt;span class="hx:absolute hx:-mt-20" id="balance-sheet">&lt;/span>
+&lt;a href="#balance-sheet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h5>&lt;ul>
+&lt;li>Asset categorization&lt;/li>
+&lt;li>Liability tracking&lt;/li>
+&lt;li>Equity movements&lt;/li>
+&lt;li>Working capital analysis&lt;/li>
+&lt;li>Financial ratios&lt;/li>
+&lt;li>Trend analysis&lt;/li>
+&lt;/ul>
+&lt;h5>Cash Flow Statement&lt;span class="hx:absolute hx:-mt-20" id="cash-flow-statement">&lt;/span>
+&lt;a href="#cash-flow-statement" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h5>&lt;ul>
+&lt;li>Operating activities&lt;/li>
+&lt;li>Investing activities&lt;/li>
+&lt;li>Financing activities&lt;/li>
+&lt;li>Free cash flow analysis&lt;/li>
+&lt;li>Cash conversion cycle&lt;/li>
+&lt;li>Liquidity metrics&lt;/li>
+&lt;/ul>
+&lt;h4>Custom Reports&lt;span class="hx:absolute hx:-mt-20" id="custom-reports">&lt;/span>
+&lt;a href="#custom-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Report Builder&lt;/strong>: Drag-and-drop report designer&lt;/li>
+&lt;li>&lt;strong>Financial Ratios&lt;/strong>: Automated ratio calculations&lt;/li>
+&lt;li>&lt;strong>Variance Analysis&lt;/strong>: Budget vs actual comparisons&lt;/li>
+&lt;li>&lt;strong>Trend Analysis&lt;/strong>: Period-over-period comparisons&lt;/li>
+&lt;li>&lt;strong>Consolidated Reports&lt;/strong>: Multi-entity consolidation&lt;/li>
+&lt;li>&lt;strong>Segment Reporting&lt;/strong>: Business unit analysis&lt;/li>
+&lt;/ul>
+&lt;h3>🌍 Multi-Entity Management&lt;span class="hx:absolute hx:-mt-20" id="-multi-entity-management">&lt;/span>
+&lt;a href="#-multi-entity-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Entity Structure&lt;span class="hx:absolute hx:-mt-20" id="entity-structure">&lt;/span>
+&lt;a href="#entity-structure" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Support for complex organizational structures:&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;pre>&lt;code>Parent Company
+├── Subsidiary A (USA)
+│ ├── Division 1
+│ └── Division 2
+├── Subsidiary B (Europe)
+│ ├── Germany Branch
+│ └── France Branch
+└── Subsidiary C (Asia)
+├── Singapore Office
+└── Hong Kong Office&lt;/code>&lt;/pre>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h4>Consolidation Features&lt;span class="hx:absolute hx:-mt-20" id="consolidation-features">&lt;/span>
+&lt;a href="#consolidation-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Automated Elimination&lt;/strong>: Inter-company transactions&lt;/li>
+&lt;li>&lt;strong>Currency Translation&lt;/strong>: Foreign subsidiary consolidation&lt;/li>
+&lt;li>&lt;strong>Minority Interest&lt;/strong>: Non-controlling interest calculations&lt;/li>
+&lt;li>&lt;strong>Transfer Pricing&lt;/strong>: Inter-company pricing rules&lt;/li>
+&lt;li>&lt;strong>Consolidated Reporting&lt;/strong>: Group financial statements&lt;/li>
+&lt;/ul>
+&lt;h3>📋 Compliance &amp;amp; Audit&lt;span class="hx:absolute hx:-mt-20" id="-compliance--audit">&lt;/span>
+&lt;a href="#-compliance--audit" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Tax Compliance&lt;span class="hx:absolute hx:-mt-20" id="tax-compliance">&lt;/span>
+&lt;a href="#tax-compliance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Sales Tax&lt;/strong>: Multi-jurisdiction tax support&lt;/li>
+&lt;li>&lt;strong>VAT/GST&lt;/strong>: Value-added tax management&lt;/li>
+&lt;li>&lt;strong>Income Tax&lt;/strong>: Tax provision calculations&lt;/li>
+&lt;li>&lt;strong>Tax Returns&lt;/strong>: Automated tax return preparation&lt;/li>
+&lt;li>&lt;strong>E-invoicing&lt;/strong>: Government e-invoice compliance&lt;/li>
+&lt;li>&lt;strong>BEPS Reporting&lt;/strong>: International tax reporting&lt;/li>
+&lt;/ul>
+&lt;h4>Audit Features&lt;span class="hx:absolute hx:-mt-20" id="audit-features">&lt;/span>
+&lt;a href="#audit-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Audit Trail&lt;/strong>: Complete transaction history&lt;/li>
+&lt;li>&lt;strong>Document Management&lt;/strong>: Supporting document storage&lt;/li>
+&lt;li>&lt;strong>User Activity Logs&lt;/strong>: Detailed access logs&lt;/li>
+&lt;li>&lt;strong>Approval Workflows&lt;/strong>: Multi-level approvals&lt;/li>
+&lt;li>&lt;strong>Segregation of Duties&lt;/strong>: Role-based permissions&lt;/li>
+&lt;li>&lt;strong>Period Locking&lt;/strong>: Prevent unauthorized changes&lt;/li>
+&lt;/ul>
+&lt;h3>🔄 Period-End Processing&lt;span class="hx:absolute hx:-mt-20" id="-period-end-processing">&lt;/span>
+&lt;a href="#-period-end-processing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Month-End Checklist&lt;span class="hx:absolute hx:-mt-20" id="month-end-checklist">&lt;/span>
+&lt;a href="#month-end-checklist" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Complete all transactions for the period&lt;/li>
+&lt;li>Run bank reconciliations&lt;/li>
+&lt;li>Post depreciation entries&lt;/li>
+&lt;li>Accrue expenses&lt;/li>
+&lt;li>Defer revenues&lt;/li>
+&lt;li>Run allocation rules&lt;/li>
+&lt;li>Reconcile inter-company accounts&lt;/li>
+&lt;li>Review and post adjusting entries&lt;/li>
+&lt;li>Generate preliminary reports&lt;/li>
+&lt;li>Management review and approval&lt;/li>
+&lt;li>Lock the period&lt;/li>
+&lt;li>Generate final reports&lt;/li>
+&lt;li>Backup data&lt;/li>
+&lt;/ul>
+&lt;h4>Year-End Processing&lt;span class="hx:absolute hx:-mt-20" id="year-end-processing">&lt;/span>
+&lt;a href="#year-end-processing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Closing Entries&lt;/strong>: Automated closing process&lt;/li>
+&lt;li>&lt;strong>Retained Earnings&lt;/strong>: Automatic rollover&lt;/li>
+&lt;li>&lt;strong>1099 Generation&lt;/strong>: Vendor tax forms&lt;/li>
+&lt;li>&lt;strong>Financial Statements&lt;/strong>: Annual report generation&lt;/li>
+&lt;li>&lt;strong>Audit Preparation&lt;/strong>: Audit schedule preparation&lt;/li>
+&lt;li>&lt;strong>Tax Package&lt;/strong>: Tax return support documents&lt;/li>
+&lt;/ul>
+&lt;h2>Configuration&lt;span class="hx:absolute hx:-mt-20" id="configuration">&lt;/span>
+&lt;a href="#configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Initial Setup&lt;span class="hx:absolute hx:-mt-20" id="initial-setup">&lt;/span>
+&lt;a href="#initial-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Step 1: Company Configuration&lt;span class="hx:absolute hx:-mt-20" id="step-1-company-configuration">&lt;/span>
+&lt;a href="#step-1-company-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Define your company structure and accounting preferences:&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Company&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Name&lt;/span>: &lt;span style="color:#ae81ff">Your Company Name&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Tax ID&lt;/span>: &lt;span style="color:#ae81ff">XX-XXXXXXX&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Fiscal Year&lt;/span>: &lt;span style="color:#ae81ff">January - December&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Functional Currency&lt;/span>: &lt;span style="color:#ae81ff">USD&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Reporting Currency&lt;/span>: &lt;span style="color:#ae81ff">USD&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Accounting Standards&lt;/span>: &lt;span style="color:#ae81ff">GAAP&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Industry&lt;/span>: &lt;span style="color:#ae81ff">Your Industry&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h4>Step 2: Chart of Accounts Setup&lt;span class="hx:absolute hx:-mt-20" id="step-2-chart-of-accounts-setup">&lt;/span>
+&lt;a href="#step-2-chart-of-accounts-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Import Standard COA&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Select industry template&lt;/li>
+&lt;li>Review account structure&lt;/li>
+&lt;li>Customize as needed&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Configure Account Properties&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Set account types&lt;/li>
+&lt;li>Define normal balances&lt;/li>
+&lt;li>Configure reconciliation settings&lt;/li>
+&lt;li>Set up cost centers&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h4>Step 3: Opening Balances&lt;span class="hx:absolute hx:-mt-20" id="step-3-opening-balances">&lt;/span>
+&lt;a href="#step-3-opening-balances" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Import your existing trial balance to get started quickly:&lt;/p>
+&lt;ol>
+&lt;li>Prepare trial balance in CSV format&lt;/li>
+&lt;li>Map accounts to BigLedger COA&lt;/li>
+&lt;li>Import and verify balances&lt;/li>
+&lt;li>Ensure debits equal credits&lt;/li>
+&lt;/ol>
+&lt;h3>Tax Configuration&lt;span class="hx:absolute hx:-mt-20" id="tax-configuration">&lt;/span>
+&lt;a href="#tax-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Sales Tax Setup&lt;span class="hx:absolute hx:-mt-20" id="sales-tax-setup">&lt;/span>
+&lt;a href="#sales-tax-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Configure multi-jurisdiction tax rules:&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>{
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;tax_rules&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> [
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;jurisdiction&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;CA&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;rate&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">0.0725&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;components&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> [
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;State Tax&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;rate&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">0.06&lt;/span>},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;County Tax&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;rate&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">0.0125&lt;/span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> },
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;jurisdiction&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;NY&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;rate&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">0.08&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;exemptions&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> [&lt;span style="color:#e6db74">&amp;#34;food&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;medicine&amp;#34;&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h4>VAT Configuration&lt;span class="hx:absolute hx:-mt-20" id="vat-configuration">&lt;/span>
+&lt;a href="#vat-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>For international operations:&lt;/p>
+&lt;ul>
+&lt;li>Standard Rate: 20%&lt;/li>
+&lt;li>Reduced Rate: 5%&lt;/li>
+&lt;li>Zero Rate: 0%&lt;/li>
+&lt;li>Exempt: No VAT&lt;/li>
+&lt;li>Reverse Charge support&lt;/li>
+&lt;/ul>
+&lt;h2>Integration&lt;span class="hx:absolute hx:-mt-20" id="integration">&lt;/span>
+&lt;a href="#integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>ERP Module Integration&lt;span class="hx:absolute hx:-mt-20" id="erp-module-integration">&lt;/span>
+&lt;a href="#erp-module-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The Financial Accounting module seamlessly integrates with all other BigLedger modules:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Point of Sale&lt;/strong>: Automatic sales recording&lt;/li>
+&lt;li>&lt;strong>Inventory&lt;/strong>: COGS calculations and valuation&lt;/li>
+&lt;li>&lt;strong>Procurement&lt;/strong>: Purchase order and invoice processing&lt;/li>
+&lt;li>&lt;strong>HR/Payroll&lt;/strong>: Salary and expense postings&lt;/li>
+&lt;li>&lt;strong>Manufacturing&lt;/strong>: Production cost accounting&lt;/li>
+&lt;li>&lt;strong>CRM&lt;/strong>: Customer credit management&lt;/li>
+&lt;/ul>
+&lt;h3>Banking Integration&lt;span class="hx:absolute hx:-mt-20" id="banking-integration">&lt;/span>
+&lt;a href="#banking-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Supported Banks&lt;span class="hx:absolute hx:-mt-20" id="supported-banks">&lt;/span>
+&lt;a href="#supported-banks" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Major US banks (Bank of America, Chase, Wells Fargo, etc.)&lt;/li>
+&lt;li>International banks via Open Banking&lt;/li>
+&lt;li>Regional and local banks&lt;/li>
+&lt;li>Credit unions&lt;/li>
+&lt;/ul>
+&lt;h4>Integration Methods&lt;span class="hx:absolute hx:-mt-20" id="integration-methods">&lt;/span>
+&lt;a href="#integration-methods" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>&lt;strong>Direct API&lt;/strong>: Real-time connection&lt;/li>
+&lt;li>&lt;strong>File Import&lt;/strong>: OFX, QFX, CSV&lt;/li>
+&lt;li>&lt;strong>Manual Entry&lt;/strong>: For unsupported banks&lt;/li>
+&lt;/ol>
+&lt;h3>External Systems&lt;span class="hx:absolute hx:-mt-20" id="external-systems">&lt;/span>
+&lt;a href="#external-systems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Easy migration from popular accounting systems:&lt;/p>
+&lt;ul>
+&lt;li>QuickBooks&lt;/li>
+&lt;li>Sage&lt;/li>
+&lt;li>Xero&lt;/li>
+&lt;li>NetSuite&lt;/li>
+&lt;li>SAP&lt;/li>
+&lt;li>Oracle Financials&lt;/li>
+&lt;/ul>
+&lt;h2>Best Practices&lt;span class="hx:absolute hx:-mt-20" id="best-practices">&lt;/span>
+&lt;a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Internal Controls&lt;span class="hx:absolute hx:-mt-20" id="internal-controls">&lt;/span>
+&lt;a href="#internal-controls" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Segregation of Duties&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Separate authorization, recording, custody&lt;/li>
+&lt;li>Maker-checker for critical transactions&lt;/li>
+&lt;li>Regular rotation of duties&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Approval Matrix&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Transaction Type&lt;/th>
+&lt;th>Amount&lt;/th>
+&lt;th>Approver&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Purchase Order&lt;/td>
+&lt;td>&amp;lt; $1,000&lt;/td>
+&lt;td>Supervisor&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Purchase Order&lt;/td>
+&lt;td>&amp;lt; $10,000&lt;/td>
+&lt;td>Manager&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Purchase Order&lt;/td>
+&lt;td>&amp;gt; $10,000&lt;/td>
+&lt;td>Director&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Journal Entry&lt;/td>
+&lt;td>Any&lt;/td>
+&lt;td>Controller&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Payment&lt;/td>
+&lt;td>&amp;lt; $5,000&lt;/td>
+&lt;td>AP Manager&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Payment&lt;/td>
+&lt;td>&amp;gt; $5,000&lt;/td>
+&lt;td>CFO&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;ol start="3">
+&lt;li>&lt;strong>Reconciliation Schedule&lt;/strong>
+&lt;ul>
+&lt;li>Daily: Cash reconciliation&lt;/li>
+&lt;li>Weekly: Credit card reconciliation&lt;/li>
+&lt;li>Monthly: Bank reconciliation, AR/AP aging&lt;/li>
+&lt;li>Quarterly: Inter-company reconciliation&lt;/li>
+&lt;li>Annually: Full account reconciliation&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3>Performance Optimization&lt;span class="hx:absolute hx:-mt-20" id="performance-optimization">&lt;/span>
+&lt;a href="#performance-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Database Optimization&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Regular index maintenance&lt;/li>
+&lt;li>Partition large tables&lt;/li>
+&lt;li>Archive historical data&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Archiving Strategy&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Archive transactions older than 7 years&lt;/li>
+&lt;li>Maintain summary data for reporting&lt;/li>
+&lt;li>Compress archived data&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3>Security Measures&lt;span class="hx:absolute hx:-mt-20" id="security-measures">&lt;/span>
+&lt;a href="#security-measures" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Access Control&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Role-based permissions&lt;/li>
+&lt;li>IP restrictions&lt;/li>
+&lt;li>Two-factor authentication&lt;/li>
+&lt;li>Session management&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Data Protection&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Encryption at rest and in transit&lt;/li>
+&lt;li>Regular backups&lt;/li>
+&lt;li>Disaster recovery plan&lt;/li>
+&lt;li>GDPR/CCPA compliance&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2>Troubleshooting&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting">&lt;/span>
+&lt;a href="#troubleshooting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Common Issues&lt;span class="hx:absolute hx:-mt-20" id="common-issues">&lt;/span>
+&lt;a href="#common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Issue&lt;/th>
+&lt;th>Cause&lt;/th>
+&lt;th>Solution&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Out of balance&lt;/td>
+&lt;td>Missing journal entry leg&lt;/td>
+&lt;td>Review journal entries, ensure debits = credits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Reconciliation mismatch&lt;/td>
+&lt;td>Timing differences&lt;/td>
+&lt;td>Check outstanding items, adjust for timing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Report discrepancies&lt;/td>
+&lt;td>Incorrect mapping&lt;/td>
+&lt;td>Verify account mappings in report configuration&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Performance issues&lt;/td>
+&lt;td>Large data volume&lt;/td>
+&lt;td>Implement archiving, optimize queries&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tax calculation errors&lt;/td>
+&lt;td>Outdated tax tables&lt;/td>
+&lt;td>Update tax configuration, verify rates&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2>Regulatory Compliance&lt;span class="hx:absolute hx:-mt-20" id="regulatory-compliance">&lt;/span>
+&lt;a href="#regulatory-compliance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Supported Standards&lt;span class="hx:absolute hx:-mt-20" id="supported-standards">&lt;/span>
+&lt;a href="#supported-standards" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>US GAAP&lt;/strong>: Generally Accepted Accounting Principles&lt;/li>
+&lt;li>&lt;strong>IFRS&lt;/strong>: International Financial Reporting Standards&lt;/li>
+&lt;li>&lt;strong>UK GAAP&lt;/strong>: UK accounting standards&lt;/li>
+&lt;li>&lt;strong>IND AS&lt;/strong>: Indian Accounting Standards&lt;/li>
+&lt;li>&lt;strong>PRC GAAP&lt;/strong>: Chinese accounting standards&lt;/li>
+&lt;/ul>
+&lt;h3>Compliance Features&lt;span class="hx:absolute hx:-mt-20" id="compliance-features">&lt;/span>
+&lt;a href="#compliance-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>SOX Compliance&lt;/strong>: Sarbanes-Oxley controls&lt;/li>
+&lt;li>&lt;strong>GDPR&lt;/strong>: Data privacy compliance&lt;/li>
+&lt;li>&lt;strong>PCI DSS&lt;/strong>: Payment card security&lt;/li>
+&lt;li>&lt;strong>HIPAA&lt;/strong>: Healthcare data protection&lt;/li>
+&lt;li>&lt;strong>ISO 27001&lt;/strong>: Information security&lt;/li>
+&lt;/ul>
+&lt;h2>Support &amp;amp; Resources&lt;span class="hx:absolute hx:-mt-20" id="support--resources">&lt;/span>
+&lt;a href="#support--resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>📚 &lt;a href="https://wiki.bigledger.com/docs/best-practices/accounting/" >Accounting Best Practices Guide&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://wiki.bigledger.com/tutorials/financial-accounting/" >Video Tutorials&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://wiki.bigledger.com/templates/financial/" >Report Templates Library&lt;/a>&lt;/li>
+&lt;li>🤝 &lt;a href="https://forum.bigledger.com/finance" target="_blank" rel="noopener">Community Forum&lt;/a>&lt;/li>
+&lt;li>📧 &lt;a href="mailto:finance@bigledger.com" >Expert Support&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Point of Sales (POS)</title><link>https://wiki.bigledger.com/modules/pos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/pos/</guid><description>
+&lt;h1>Point of Sales (POS) Module&lt;/h1>&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Point of Sales (POS) module is a comprehensive retail management solution designed for modern businesses. Built with speed, reliability, and user-friendliness in mind, it seamlessly integrates with all other BigLedger modules while providing standalone capabilities for retail operations.&lt;/p>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>🚀 Core Functionality&lt;span class="hx:absolute hx:-mt-20" id="-core-functionality">&lt;/span>
+&lt;a href="#-core-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Multi-Store Support&lt;/strong>: Manage multiple locations from a single system&lt;/li>
+&lt;li>&lt;strong>Offline Mode&lt;/strong>: Continue operations even without internet connectivity&lt;/li>
+&lt;li>&lt;strong>Touch-Optimized Interface&lt;/strong>: Designed for tablets and touch screens&lt;/li>
+&lt;li>&lt;strong>Barcode Scanning&lt;/strong>: Support for 1D and 2D barcodes&lt;/li>
+&lt;li>&lt;strong>Quick Keys&lt;/strong>: Customizable product shortcuts&lt;/li>
+&lt;li>&lt;strong>Multi-Payment Methods&lt;/strong>: Cash, card, digital wallets, layaway&lt;/li>
+&lt;li>&lt;strong>Real-time Inventory&lt;/strong>: Instant stock updates across all channels&lt;/li>
+&lt;li>&lt;strong>Customer Management&lt;/strong>: Built-in CRM and loyalty programs&lt;/li>
+&lt;li>&lt;strong>Multi-Currency&lt;/strong>: Accept payments in multiple currencies&lt;/li>
+&lt;li>&lt;strong>Tax Management&lt;/strong>: Complex tax calculations and reporting&lt;/li>
+&lt;/ul>
+&lt;h3>💳 Payment Processing&lt;span class="hx:absolute hx:-mt-20" id="-payment-processing">&lt;/span>
+&lt;a href="#-payment-processing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Supported Payment Methods&lt;span class="hx:absolute hx:-mt-20" id="supported-payment-methods">&lt;/span>
+&lt;a href="#supported-payment-methods" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Cash (with cash drawer integration)&lt;/li>
+&lt;li>Credit/Debit Cards (EMV, NFC, Swipe)&lt;/li>
+&lt;li>Digital Wallets (Apple Pay, Google Pay, Samsung Pay)&lt;/li>
+&lt;li>QR Code Payments (Alipay, WeChat Pay)&lt;/li>
+&lt;li>Store Credit and Gift Cards&lt;/li>
+&lt;li>Layaway and Installments&lt;/li>
+&lt;li>Buy Now, Pay Later (BNPL) Integration&lt;/li>
+&lt;li>Cryptocurrency (Bitcoin, Ethereum, USDC)&lt;/li>
+&lt;/ul>
+&lt;h4>Payment Gateway Integrations&lt;span class="hx:absolute hx:-mt-20" id="payment-gateway-integrations">&lt;/span>
+&lt;a href="#payment-gateway-integrations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Stripe&lt;/li>
+&lt;li>Square&lt;/li>
+&lt;li>PayPal&lt;/li>
+&lt;li>Adyen&lt;/li>
+&lt;li>Worldpay&lt;/li>
+&lt;li>Regional gateways (country-specific)&lt;/li>
+&lt;/ul>
+&lt;h3>📊 Sales Features&lt;span class="hx:absolute hx:-mt-20" id="-sales-features">&lt;/span>
+&lt;a href="#-sales-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Product Variants&lt;/strong>: Size, color, style management&lt;/li>
+&lt;li>&lt;strong>Bundle Products&lt;/strong>: Create and sell product bundles&lt;/li>
+&lt;li>&lt;strong>Promotions Engine&lt;/strong>:
+&lt;ul>
+&lt;li>Buy X Get Y&lt;/li>
+&lt;li>Percentage/Fixed discounts&lt;/li>
+&lt;li>Time-based promotions&lt;/li>
+&lt;li>Member-exclusive deals&lt;/li>
+&lt;li>Coupon codes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Price Management&lt;/strong>:
+&lt;ul>
+&lt;li>Multiple price lists&lt;/li>
+&lt;li>Customer-specific pricing&lt;/li>
+&lt;li>Volume discounts&lt;/li>
+&lt;li>Dynamic pricing rules&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Commission Tracking&lt;/strong>: Sales associate commissions&lt;/li>
+&lt;li>&lt;strong>Returns &amp;amp; Exchanges&lt;/strong>: Full or partial returns with reason tracking&lt;/li>
+&lt;li>&lt;strong>Quotations&lt;/strong>: Create and convert quotes to sales&lt;/li>
+&lt;li>&lt;strong>Suspended Sales&lt;/strong>: Park and retrieve transactions&lt;/li>
+&lt;/ul>
+&lt;h3>👥 Customer Experience&lt;span class="hx:absolute hx:-mt-20" id="-customer-experience">&lt;/span>
+&lt;a href="#-customer-experience" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Customer Display&lt;/strong>: Secondary display for customers&lt;/li>
+&lt;li>&lt;strong>Digital Receipts&lt;/strong>: Email/SMS receipts&lt;/li>
+&lt;li>&lt;strong>Loyalty Programs&lt;/strong>:
+&lt;ul>
+&lt;li>Points-based rewards&lt;/li>
+&lt;li>Tier-based benefits&lt;/li>
+&lt;li>Punch cards&lt;/li>
+&lt;li>Cashback programs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Customer Account&lt;/strong>: Store credit, payment history&lt;/li>
+&lt;li>&lt;strong>Wishlist Management&lt;/strong>: Save items for later&lt;/li>
+&lt;li>&lt;strong>Order Management&lt;/strong>: Special orders, pre-orders&lt;/li>
+&lt;li>&lt;strong>Appointment Booking&lt;/strong>: For service-based businesses&lt;/li>
+&lt;/ul>
+&lt;h3>🏪 Store Operations&lt;span class="hx:absolute hx:-mt-20" id="-store-operations">&lt;/span>
+&lt;a href="#-store-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Shift Management&lt;/strong>: Open/close shifts with cash reconciliation&lt;/li>
+&lt;li>&lt;strong>Cash Management&lt;/strong>:
+&lt;ul>
+&lt;li>Cash float&lt;/li>
+&lt;li>Cash in/out&lt;/li>
+&lt;li>Till reconciliation&lt;/li>
+&lt;li>Safe drops&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Staff Management&lt;/strong>:
+&lt;ul>
+&lt;li>Role-based permissions&lt;/li>
+&lt;li>Time clock integration&lt;/li>
+&lt;li>Performance tracking&lt;/li>
+&lt;li>Training mode&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Inventory Operations&lt;/strong>:
+&lt;ul>
+&lt;li>Stock transfers&lt;/li>
+&lt;li>Stock counts&lt;/li>
+&lt;li>Receiving&lt;/li>
+&lt;li>Adjustments&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>Industry-Specific Features&lt;span class="hx:absolute hx:-mt-20" id="industry-specific-features">&lt;/span>
+&lt;a href="#industry-specific-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Retail&lt;span class="hx:absolute hx:-mt-20" id="retail">&lt;/span>
+&lt;a href="#retail" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Size/color matrix&lt;/li>
+&lt;li>Season management&lt;/li>
+&lt;li>Style tracking&lt;/li>
+&lt;li>Vendor catalogs&lt;/li>
+&lt;li>Purchase orders&lt;/li>
+&lt;/ul>
+&lt;h3>Restaurant &amp;amp; Hospitality&lt;span class="hx:absolute hx:-mt-20" id="restaurant--hospitality">&lt;/span>
+&lt;a href="#restaurant--hospitality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Table management&lt;/li>
+&lt;li>Kitchen display system&lt;/li>
+&lt;li>Menu modifiers&lt;/li>
+&lt;li>Split bills&lt;/li>
+&lt;li>Tips management&lt;/li>
+&lt;li>Happy hour pricing&lt;/li>
+&lt;li>Course management&lt;/li>
+&lt;/ul>
+&lt;h3>Services&lt;span class="hx:absolute hx:-mt-20" id="services">&lt;/span>
+&lt;a href="#services" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Appointment scheduling&lt;/li>
+&lt;li>Service duration tracking&lt;/li>
+&lt;li>Resource allocation&lt;/li>
+&lt;li>Package sales&lt;/li>
+&lt;li>Membership management&lt;/li>
+&lt;/ul>
+&lt;h2>Hardware Integration&lt;span class="hx:absolute hx:-mt-20" id="hardware-integration">&lt;/span>
+&lt;a href="#hardware-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Supported Hardware&lt;span class="hx:absolute hx:-mt-20" id="supported-hardware">&lt;/span>
+&lt;a href="#supported-hardware" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Receipt Printers&lt;span class="hx:absolute hx:-mt-20" id="receipt-printers">&lt;/span>
+&lt;a href="#receipt-printers" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Epson TM series&lt;/li>
+&lt;li>Star Micronics&lt;/li>
+&lt;li>Bixolon&lt;/li>
+&lt;li>Citizen&lt;/li>
+&lt;li>Bluetooth mobile printers&lt;/li>
+&lt;/ul>
+&lt;h4>Barcode Scanners&lt;span class="hx:absolute hx:-mt-20" id="barcode-scanners">&lt;/span>
+&lt;a href="#barcode-scanners" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>USB scanners (plug-and-play)&lt;/li>
+&lt;li>Bluetooth scanners&lt;/li>
+&lt;li>2D imaging scanners&lt;/li>
+&lt;li>Mobile device cameras&lt;/li>
+&lt;/ul>
+&lt;h4>Payment Terminals&lt;span class="hx:absolute hx:-mt-20" id="payment-terminals">&lt;/span>
+&lt;a href="#payment-terminals" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Ingenico&lt;/li>
+&lt;li>Verifone&lt;/li>
+&lt;li>PAX&lt;/li>
+&lt;li>Clover&lt;/li>
+&lt;li>Square Terminal&lt;/li>
+&lt;/ul>
+&lt;h4>Cash Drawers&lt;span class="hx:absolute hx:-mt-20" id="cash-drawers">&lt;/span>
+&lt;a href="#cash-drawers" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>USB-triggered drawers&lt;/li>
+&lt;li>Printer-triggered drawers&lt;/li>
+&lt;li>Manual drawers with sensors&lt;/li>
+&lt;/ul>
+&lt;h4>Scales&lt;span class="hx:absolute hx:-mt-20" id="scales">&lt;/span>
+&lt;a href="#scales" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Digital weighing scales&lt;/li>
+&lt;li>Label printing scales&lt;/li>
+&lt;li>Counting scales&lt;/li>
+&lt;/ul>
+&lt;h4>Other Devices&lt;span class="hx:absolute hx:-mt-20" id="other-devices">&lt;/span>
+&lt;a href="#other-devices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Customer displays&lt;/li>
+&lt;li>Pole displays&lt;/li>
+&lt;li>Kitchen printers&lt;/li>
+&lt;li>RFID readers&lt;/li>
+&lt;li>Fingerprint scanners&lt;/li>
+&lt;/ul>
+&lt;h2>Configuration Guide&lt;span class="hx:absolute hx:-mt-20" id="configuration-guide">&lt;/span>
+&lt;a href="#configuration-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Initial Setup&lt;span class="hx:absolute hx:-mt-20" id="initial-setup">&lt;/span>
+&lt;a href="#initial-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Step 1: Store Configuration&lt;span class="hx:absolute hx:-mt-20" id="step-1-store-configuration">&lt;/span>
+&lt;a href="#step-1-store-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Store Settings&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Name&lt;/span>: &lt;span style="color:#ae81ff">Main Store&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Code&lt;/span>: &lt;span style="color:#ae81ff">MAIN&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Address&lt;/span>: &lt;span style="color:#ae81ff">123&lt;/span> &lt;span style="color:#ae81ff">Business St&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Tax ID&lt;/span>: &lt;span style="color:#ae81ff">XX-XXXXXXX&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Currency&lt;/span>: &lt;span style="color:#ae81ff">USD&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Time Zone&lt;/span>: &lt;span style="color:#ae81ff">America/New_York&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Operating Hours&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Monday-Friday&lt;/span>: &lt;span style="color:#ae81ff">9&lt;/span>:&lt;span style="color:#ae81ff">00&lt;/span> &lt;span style="color:#ae81ff">AM - 9:00 PM&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Saturday&lt;/span>: &lt;span style="color:#ae81ff">10&lt;/span>:&lt;span style="color:#ae81ff">00&lt;/span> &lt;span style="color:#ae81ff">AM - 8:00 PM&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Sunday&lt;/span>: &lt;span style="color:#ae81ff">11&lt;/span>:&lt;span style="color:#ae81ff">00&lt;/span> &lt;span style="color:#ae81ff">AM - 6:00 PM&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h4>Step 2: Register Setup&lt;span class="hx:absolute hx:-mt-20" id="step-2-register-setup">&lt;/span>
+&lt;a href="#step-2-register-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Register Configuration&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Register Name&lt;/span>: &lt;span style="color:#ae81ff">Register 1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Register Code&lt;/span>: &lt;span style="color:#ae81ff">REG001&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Location&lt;/span>: &lt;span style="color:#ae81ff">Front Counter&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Receipt Printer&lt;/span>: &lt;span style="color:#ae81ff">Epson TM-T88V&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Cash Drawer&lt;/span>: &lt;span style="color:#ae81ff">Auto-open&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Scanner&lt;/span>: &lt;span style="color:#ae81ff">USB Barcode Scanner&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Payment Terminal&lt;/span>: &lt;span style="color:#ae81ff">Integrated&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h4>Step 3: User Permissions&lt;span class="hx:absolute hx:-mt-20" id="step-3-user-permissions">&lt;/span>
+&lt;a href="#step-3-user-permissions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Role&lt;/th>
+&lt;th>Permissions&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Manager&lt;/td>
+&lt;td>All permissions&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Supervisor&lt;/td>
+&lt;td>Sales, returns, reports, cash management&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cashier&lt;/td>
+&lt;td>Sales, returns, view reports&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Trainee&lt;/td>
+&lt;td>Sales only (training mode)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3>Payment Configuration&lt;span class="hx:absolute hx:-mt-20" id="payment-configuration">&lt;/span>
+&lt;a href="#payment-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Credit Card Setup&lt;span class="hx:absolute hx:-mt-20" id="credit-card-setup">&lt;/span>
+&lt;a href="#credit-card-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>Navigate to &lt;strong>POS → Settings → Payment Methods&lt;/strong>&lt;/li>
+&lt;li>Select payment gateway (e.g., Stripe)&lt;/li>
+&lt;li>Enter API credentials&lt;/li>
+&lt;li>Configure terminal settings&lt;/li>
+&lt;li>Test connection&lt;/li>
+&lt;/ol>
+&lt;h4>Tax Configuration&lt;span class="hx:absolute hx:-mt-20" id="tax-configuration">&lt;/span>
+&lt;a href="#tax-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">// Tax Rules Example
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>{
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;default_tax&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;rate&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">0.08&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;State Tax&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;type&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;percentage&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> },
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;tax_rules&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> [
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;category&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;food&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;rate&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Food Exempt&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> },
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;category&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;luxury&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;rate&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">0.12&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Luxury Tax&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h2>Operations Guide&lt;span class="hx:absolute hx:-mt-20" id="operations-guide">&lt;/span>
+&lt;a href="#operations-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Daily Operations&lt;span class="hx:absolute hx:-mt-20" id="daily-operations">&lt;/span>
+&lt;a href="#daily-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Opening Procedures&lt;span class="hx:absolute hx:-mt-20" id="opening-procedures">&lt;/span>
+&lt;a href="#opening-procedures" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Start Shift&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Log into POS system&lt;/li>
+&lt;li>Count opening cash float&lt;/li>
+&lt;li>Enter float amount&lt;/li>
+&lt;li>Verify hardware connections&lt;/li>
+&lt;li>Print test receipt&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Verify Inventory&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Check stock levels&lt;/li>
+&lt;li>Review low stock alerts&lt;/li>
+&lt;li>Process pending transfers&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h4>During Operations&lt;span class="hx:absolute hx:-mt-20" id="during-operations">&lt;/span>
+&lt;a href="#during-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>&lt;strong>Processing Sales&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Scan/search products&lt;/li>
+&lt;li>Apply discounts if applicable&lt;/li>
+&lt;li>Select payment method&lt;/li>
+&lt;li>Process payment&lt;/li>
+&lt;li>Print/email receipt&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Handling Returns&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Scan receipt or search transaction&lt;/li>
+&lt;li>Select items to return&lt;/li>
+&lt;li>Enter return reason&lt;/li>
+&lt;li>Process refund&lt;/li>
+&lt;li>Update inventory&lt;/li>
+&lt;/ol>
+&lt;h4>Closing Procedures&lt;span class="hx:absolute hx:-mt-20" id="closing-procedures">&lt;/span>
+&lt;a href="#closing-procedures" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>&lt;strong>End Shift&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Count cash drawer&lt;/li>
+&lt;li>Reconcile payments&lt;/li>
+&lt;li>Generate Z-report&lt;/li>
+&lt;li>Secure cash in safe&lt;/li>
+&lt;li>Clock out&lt;/li>
+&lt;/ul>
+&lt;h3>Reports &amp;amp; Analytics&lt;span class="hx:absolute hx:-mt-20" id="reports--analytics">&lt;/span>
+&lt;a href="#reports--analytics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Sales Reports&lt;span class="hx:absolute hx:-mt-20" id="sales-reports">&lt;/span>
+&lt;a href="#sales-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Daily sales summary&lt;/li>
+&lt;li>Hourly sales analysis&lt;/li>
+&lt;li>Product performance&lt;/li>
+&lt;li>Category analysis&lt;/li>
+&lt;li>Staff performance&lt;/li>
+&lt;li>Payment method breakdown&lt;/li>
+&lt;/ul>
+&lt;h4>Inventory Reports&lt;span class="hx:absolute hx:-mt-20" id="inventory-reports">&lt;/span>
+&lt;a href="#inventory-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Stock levels&lt;/li>
+&lt;li>Movement reports&lt;/li>
+&lt;li>Shrinkage analysis&lt;/li>
+&lt;li>Reorder suggestions&lt;/li>
+&lt;/ul>
+&lt;h4>Customer Reports&lt;span class="hx:absolute hx:-mt-20" id="customer-reports">&lt;/span>
+&lt;a href="#customer-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Top customers&lt;/li>
+&lt;li>Customer purchase history&lt;/li>
+&lt;li>Loyalty program metrics&lt;/li>
+&lt;li>Customer lifetime value&lt;/li>
+&lt;/ul>
+&lt;h2>Integration Guide&lt;span class="hx:absolute hx:-mt-20" id="integration-guide">&lt;/span>
+&lt;a href="#integration-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>E-Commerce Integration&lt;span class="hx:absolute hx:-mt-20" id="e-commerce-integration">&lt;/span>
+&lt;a href="#e-commerce-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Synchronize online and offline inventory in real-time:&lt;/p>
+&lt;ul>
+&lt;li>Unified product catalog&lt;/li>
+&lt;li>Centralized inventory management&lt;/li>
+&lt;li>Cross-channel pricing&lt;/li>
+&lt;li>Omnichannel customer profiles&lt;/li>
+&lt;li>Order fulfillment from any location&lt;/li>
+&lt;/ul>
+&lt;h3>Accounting Integration&lt;span class="hx:absolute hx:-mt-20" id="accounting-integration">&lt;/span>
+&lt;a href="#accounting-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The POS module automatically syncs with Financial Accounting:&lt;/p>
+&lt;ul>
+&lt;li>Sales recorded as revenue&lt;/li>
+&lt;li>Tax collected tracked separately&lt;/li>
+&lt;li>Cash reconciliation to bank accounts&lt;/li>
+&lt;li>Inventory COGS calculations&lt;/li>
+&lt;li>Commission accruals&lt;/li>
+&lt;/ul>
+&lt;h3>CRM Integration&lt;span class="hx:absolute hx:-mt-20" id="crm-integration">&lt;/span>
+&lt;a href="#crm-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Customer data flows seamlessly to CRM:&lt;/p>
+&lt;ul>
+&lt;li>Purchase history&lt;/li>
+&lt;li>Preferences&lt;/li>
+&lt;li>Contact information&lt;/li>
+&lt;li>Loyalty status&lt;/li>
+&lt;li>Marketing consent&lt;/li>
+&lt;/ul>
+&lt;h2>Best Practices&lt;span class="hx:absolute hx:-mt-20" id="best-practices">&lt;/span>
+&lt;a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Performance Optimization&lt;span class="hx:absolute hx:-mt-20" id="performance-optimization">&lt;/span>
+&lt;a href="#performance-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Database Optimization&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Regular index maintenance&lt;/li>
+&lt;li>Archive old transactions&lt;/li>
+&lt;li>Optimize product search&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Network Optimization&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Local caching for offline mode&lt;/li>
+&lt;li>Compressed data transmission&lt;/li>
+&lt;li>Prioritized transaction queuing&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Hardware Maintenance&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Regular cleaning of scanners&lt;/li>
+&lt;li>Printer maintenance&lt;/li>
+&lt;li>Cash drawer calibration&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3>Security Best Practices&lt;span class="hx:absolute hx:-mt-20" id="security-best-practices">&lt;/span>
+&lt;a href="#security-best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Access Control&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Strong password policies&lt;/li>
+&lt;li>Two-factor authentication&lt;/li>
+&lt;li>Regular permission audits&lt;/li>
+&lt;li>Session timeouts&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>PCI Compliance&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Never store card details&lt;/li>
+&lt;li>Use tokenization&lt;/li>
+&lt;li>Regular security updates&lt;/li>
+&lt;li>Encrypted communications&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Cash Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Regular cash drops&lt;/li>
+&lt;li>Dual control for large amounts&lt;/li>
+&lt;li>Security cameras&lt;/li>
+&lt;li>Audit trails&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3>Training Guidelines&lt;span class="hx:absolute hx:-mt-20" id="training-guidelines">&lt;/span>
+&lt;a href="#training-guidelines" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>New Cashier Training&lt;span class="hx:absolute hx:-mt-20" id="new-cashier-training">&lt;/span>
+&lt;a href="#new-cashier-training" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>&lt;strong>Week 1: Basics&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>System navigation&lt;/li>
+&lt;li>Product search&lt;/li>
+&lt;li>Basic sales transactions&lt;/li>
+&lt;li>Payment processing&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Week 2: Advanced&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Returns and exchanges&lt;/li>
+&lt;li>Discounts and promotions&lt;/li>
+&lt;li>Customer management&lt;/li>
+&lt;li>Special orders&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Week 3: Operations&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Opening/closing procedures&lt;/li>
+&lt;li>Cash management&lt;/li>
+&lt;li>Report generation&lt;/li>
+&lt;li>Troubleshooting&lt;/li>
+&lt;/ul>
+&lt;h2>Troubleshooting&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting">&lt;/span>
+&lt;a href="#troubleshooting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Common Issues&lt;span class="hx:absolute hx:-mt-20" id="common-issues">&lt;/span>
+&lt;a href="#common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Issue&lt;/th>
+&lt;th>Solution&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Scanner not working&lt;/td>
+&lt;td>Check USB connection, reinstall drivers&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Printer offline&lt;/td>
+&lt;td>Verify power, check paper, reset spooler&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Payment declined&lt;/td>
+&lt;td>Check internet, verify terminal connection&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Slow performance&lt;/td>
+&lt;td>Clear cache, check network, optimize database&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sync issues&lt;/td>
+&lt;td>Check connectivity, force sync, review logs&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3>Error Codes&lt;span class="hx:absolute hx:-mt-20" id="error-codes">&lt;/span>
+&lt;a href="#error-codes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>POS001&lt;/strong>: Network connection lost&lt;/li>
+&lt;li>&lt;strong>POS002&lt;/strong>: Payment gateway timeout&lt;/li>
+&lt;li>&lt;strong>POS003&lt;/strong>: Insufficient inventory&lt;/li>
+&lt;li>&lt;strong>POS004&lt;/strong>: Invalid barcode&lt;/li>
+&lt;li>&lt;strong>POS005&lt;/strong>: Printer error&lt;/li>
+&lt;/ul>
+&lt;h2>API Reference&lt;span class="hx:absolute hx:-mt-20" id="api-reference">&lt;/span>
+&lt;a href="#api-reference" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>REST API Endpoints&lt;span class="hx:absolute hx:-mt-20" id="rest-api-endpoints">&lt;/span>
+&lt;a href="#rest-api-endpoints" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-http" data-lang="http">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"># Create Sale
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">POST /api/v1/pos/sales
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">Content-Type: application/json
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">{
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;store_id&amp;#34;: &amp;#34;STORE001&amp;#34;,
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;register_id&amp;#34;: &amp;#34;REG001&amp;#34;,
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;items&amp;#34;: [
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> {
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;product_id&amp;#34;: &amp;#34;PROD123&amp;#34;,
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;quantity&amp;#34;: 2,
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;price&amp;#34;: 29.99
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> }
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> ],
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;payment&amp;#34;: {
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;method&amp;#34;: &amp;#34;card&amp;#34;,
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;amount&amp;#34;: 59.98
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> }
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">}
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"># Get Sales Report
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">GET /api/v1/pos/reports/sales?date=2024-01-01&amp;amp;store_id=STORE001
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"># Process Return
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">POST /api/v1/pos/returns
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">{
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;original_sale_id&amp;#34;: &amp;#34;SALE123&amp;#34;,
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;items&amp;#34;: [&amp;#34;ITEM1&amp;#34;, &amp;#34;ITEM2&amp;#34;],
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010"> &amp;#34;reason&amp;#34;: &amp;#34;defective&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#960050;background-color:#1e0010">}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Webhooks&lt;span class="hx:absolute hx:-mt-20" id="webhooks">&lt;/span>
+&lt;a href="#webhooks" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Available webhook events:&lt;/p>
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>{
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;sale.completed&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Triggered when sale is finalized&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;return.processed&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Triggered when return is completed&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;shift.closed&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Triggered at shift end&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;inventory.low&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Triggered when stock below threshold&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h2>Mobile POS&lt;span class="hx:absolute hx:-mt-20" id="mobile-pos">&lt;/span>
+&lt;a href="#mobile-pos" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Features&lt;span class="hx:absolute hx:-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Full POS functionality on tablets&lt;/li>
+&lt;li>Line busting capabilities&lt;/li>
+&lt;li>Mobile payments&lt;/li>
+&lt;li>Inventory lookup&lt;/li>
+&lt;li>Customer assistance mode&lt;/li>
+&lt;/ul>
+&lt;h3>Supported Devices&lt;span class="hx:absolute hx:-mt-20" id="supported-devices">&lt;/span>
+&lt;a href="#supported-devices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>iOS: iPad (iOS 13+)&lt;/li>
+&lt;li>Android: Tablets (Android 8+)&lt;/li>
+&lt;li>Windows: Surface devices&lt;/li>
+&lt;/ul>
+&lt;h2>Updates &amp;amp; Roadmap&lt;span class="hx:absolute hx:-mt-20" id="updates--roadmap">&lt;/span>
+&lt;a href="#updates--roadmap" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Recent Updates (v2.5)&lt;span class="hx:absolute hx:-mt-20" id="recent-updates-v25">&lt;/span>
+&lt;a href="#recent-updates-v25" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>✅ Offline mode improvements&lt;/li>
+&lt;li>✅ Advanced promotions engine&lt;/li>
+&lt;li>✅ Multi-currency support&lt;/li>
+&lt;li>✅ Kitchen display system&lt;/li>
+&lt;li>✅ BNPL integration&lt;/li>
+&lt;/ul>
+&lt;h3>Upcoming Features (v3.0)&lt;span class="hx:absolute hx:-mt-20" id="upcoming-features-v30">&lt;/span>
+&lt;a href="#upcoming-features-v30" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>🔄 AI-powered demand forecasting&lt;/li>
+&lt;li>🔄 Self-checkout support&lt;/li>
+&lt;li>🔄 Augmented reality product preview&lt;/li>
+&lt;li>🔄 Voice-activated commands&lt;/li>
+&lt;li>🔄 Blockchain-based loyalty points&lt;/li>
+&lt;/ul>
+&lt;h2>Support Resources&lt;span class="hx:absolute hx:-mt-20" id="support-resources">&lt;/span>
+&lt;a href="#support-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>📖 &lt;a href="https://wiki.bigledger.com/tutorials/pos/" >Video Tutorials&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://forum.bigledger.com/pos" target="_blank" rel="noopener">Community Forum&lt;/a>&lt;/li>
+&lt;li>📧 &lt;a href="mailto:pos-support@bigledger.com" >Email Support&lt;/a>&lt;/li>
+&lt;li>📞 24/7 Support: +1-800-POS-HELP&lt;/li>
+&lt;/ul></description></item><item><title>Customer Relationship Management (CRM)</title><link>https://wiki.bigledger.com/modules/crm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/crm/</guid><description>
+&lt;h1>Customer Relationship Management (CRM) Module&lt;/h1>&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger CRM module provides a comprehensive solution for managing customer relationships, sales pipelines, and marketing campaigns. Built to help businesses understand, engage, and retain customers more effectively, it integrates seamlessly with all other BigLedger modules.&lt;/p>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>👥 Contact Management&lt;span class="hx:absolute hx:-mt-20" id="-contact-management">&lt;/span>
+&lt;a href="#-contact-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Customer Database&lt;span class="hx:absolute hx:-mt-20" id="customer-database">&lt;/span>
+&lt;a href="#customer-database" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>360-Degree View&lt;/strong>: Complete customer profile with all interactions&lt;/li>
+&lt;li>&lt;strong>Contact Information&lt;/strong>: Multiple addresses, phones, emails&lt;/li>
+&lt;li>&lt;strong>Company Hierarchy&lt;/strong>: Parent/child company relationships&lt;/li>
+&lt;li>&lt;strong>Contact Roles&lt;/strong>: Decision makers, influencers, users&lt;/li>
+&lt;li>&lt;strong>Custom Fields&lt;/strong>: Industry-specific data capture&lt;/li>
+&lt;li>&lt;strong>Tags &amp;amp; Segmentation&lt;/strong>: Flexible categorization&lt;/li>
+&lt;li>&lt;strong>Activity Timeline&lt;/strong>: Complete interaction history&lt;/li>
+&lt;li>&lt;strong>Document Storage&lt;/strong>: Contracts, proposals, correspondence&lt;/li>
+&lt;/ul>
+&lt;h4>Lead Management&lt;span class="hx:absolute hx:-mt-20" id="lead-management">&lt;/span>
+&lt;a href="#lead-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Lead Capture&lt;/strong>: Web forms, email, API integration&lt;/li>
+&lt;li>&lt;strong>Lead Scoring&lt;/strong>: Automatic qualification based on criteria&lt;/li>
+&lt;li>&lt;strong>Lead Assignment&lt;/strong>: Round-robin or rule-based distribution&lt;/li>
+&lt;li>&lt;strong>Lead Nurturing&lt;/strong>: Automated follow-up sequences&lt;/li>
+&lt;li>&lt;strong>Duplicate Detection&lt;/strong>: Prevent duplicate entries&lt;/li>
+&lt;li>&lt;strong>Lead Source Tracking&lt;/strong>: ROI analysis by channel&lt;/li>
+&lt;/ul>
+&lt;h3>💼 Sales Pipeline Management&lt;span class="hx:absolute hx:-mt-20" id="-sales-pipeline-management">&lt;/span>
+&lt;a href="#-sales-pipeline-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Opportunity Tracking&lt;span class="hx:absolute hx:-mt-20" id="opportunity-tracking">&lt;/span>
+&lt;a href="#opportunity-tracking" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Visual Pipeline&lt;/strong>: Kanban-style deal management&lt;/li>
+&lt;li>&lt;strong>Custom Stages&lt;/strong>: Configure to match your sales process&lt;/li>
+&lt;li>&lt;strong>Probability Weighting&lt;/strong>: Forecast accuracy&lt;/li>
+&lt;li>&lt;strong>Deal Value Tracking&lt;/strong>: Products, services, recurring revenue&lt;/li>
+&lt;li>&lt;strong>Competitor Tracking&lt;/strong>: Win/loss analysis&lt;/li>
+&lt;li>&lt;strong>Activity Requirements&lt;/strong>: Stage-based task automation&lt;/li>
+&lt;/ul>
+&lt;h4>Sales Process Automation&lt;span class="hx:absolute hx:-mt-20" id="sales-process-automation">&lt;/span>
+&lt;a href="#sales-process-automation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Workflow Automation&lt;/strong>: Trigger actions based on events&lt;/li>
+&lt;li>&lt;strong>Email Templates&lt;/strong>: Personalized mass communication&lt;/li>
+&lt;li>&lt;strong>Quote Generation&lt;/strong>: Professional proposals&lt;/li>
+&lt;li>&lt;strong>Contract Management&lt;/strong>: E-signatures and tracking&lt;/li>
+&lt;li>&lt;strong>Commission Calculation&lt;/strong>: Automatic sales compensation&lt;/li>
+&lt;/ul>
+&lt;h3>📊 Sales Analytics&lt;span class="hx:absolute hx:-mt-20" id="-sales-analytics">&lt;/span>
+&lt;a href="#-sales-analytics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Performance Metrics&lt;span class="hx:absolute hx:-mt-20" id="performance-metrics">&lt;/span>
+&lt;a href="#performance-metrics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Sales Dashboard&lt;/strong>: Real-time KPIs&lt;/li>
+&lt;li>&lt;strong>Pipeline Analytics&lt;/strong>: Conversion rates by stage&lt;/li>
+&lt;li>&lt;strong>Forecast Reports&lt;/strong>: Revenue predictions&lt;/li>
+&lt;li>&lt;strong>Team Performance&lt;/strong>: Individual and team metrics&lt;/li>
+&lt;li>&lt;strong>Activity Reports&lt;/strong>: Calls, meetings, emails&lt;/li>
+&lt;li>&lt;strong>Win/Loss Analysis&lt;/strong>: Reason tracking&lt;/li>
+&lt;/ul>
+&lt;h4>Advanced Analytics&lt;span class="hx:absolute hx:-mt-20" id="advanced-analytics">&lt;/span>
+&lt;a href="#advanced-analytics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Sales Velocity&lt;/strong>: Time to close analysis&lt;/li>
+&lt;li>&lt;strong>Customer Lifetime Value&lt;/strong>: CLV calculations&lt;/li>
+&lt;li>&lt;strong>Churn Prediction&lt;/strong>: AI-powered risk scoring&lt;/li>
+&lt;li>&lt;strong>Next Best Action&lt;/strong>: AI recommendations&lt;/li>
+&lt;li>&lt;strong>Territory Analysis&lt;/strong>: Geographic performance&lt;/li>
+&lt;/ul>
+&lt;h3>📧 Marketing Integration&lt;span class="hx:absolute hx:-mt-20" id="-marketing-integration">&lt;/span>
+&lt;a href="#-marketing-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Campaign Management&lt;span class="hx:absolute hx:-mt-20" id="campaign-management">&lt;/span>
+&lt;a href="#campaign-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Multi-channel Campaigns&lt;/strong>: Email, SMS, social&lt;/li>
+&lt;li>&lt;strong>Campaign ROI&lt;/strong>: Track costs and returns&lt;/li>
+&lt;li>&lt;strong>A/B Testing&lt;/strong>: Optimize messaging&lt;/li>
+&lt;li>&lt;strong>Landing Pages&lt;/strong>: Integrated form builder&lt;/li>
+&lt;li>&lt;strong>Marketing Automation&lt;/strong>: Nurture sequences&lt;/li>
+&lt;/ul>
+&lt;h4>Email Marketing&lt;span class="hx:absolute hx:-mt-20" id="email-marketing">&lt;/span>
+&lt;a href="#email-marketing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Email Builder&lt;/strong>: Drag-and-drop designer&lt;/li>
+&lt;li>&lt;strong>Personalization&lt;/strong>: Dynamic content&lt;/li>
+&lt;li>&lt;strong>Segmentation&lt;/strong>: Target specific audiences&lt;/li>
+&lt;li>&lt;strong>Analytics&lt;/strong>: Open rates, clicks, conversions&lt;/li>
+&lt;li>&lt;strong>Compliance&lt;/strong>: GDPR, CAN-SPAM support&lt;/li>
+&lt;/ul>
+&lt;h3>🎯 Customer Service&lt;span class="hx:absolute hx:-mt-20" id="-customer-service">&lt;/span>
+&lt;a href="#-customer-service" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Case Management&lt;span class="hx:absolute hx:-mt-20" id="case-management">&lt;/span>
+&lt;a href="#case-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Ticket System&lt;/strong>: Track customer issues&lt;/li>
+&lt;li>&lt;strong>SLA Management&lt;/strong>: Service level tracking&lt;/li>
+&lt;li>&lt;strong>Knowledge Base&lt;/strong>: Self-service portal&lt;/li>
+&lt;li>&lt;strong>Escalation Rules&lt;/strong>: Automatic routing&lt;/li>
+&lt;li>&lt;strong>Customer Portal&lt;/strong>: Self-service access&lt;/li>
+&lt;/ul>
+&lt;h4>Communication Channels&lt;span class="hx:absolute hx:-mt-20" id="communication-channels">&lt;/span>
+&lt;a href="#communication-channels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Email Integration&lt;/strong>: Two-way sync&lt;/li>
+&lt;li>&lt;strong>Phone Integration&lt;/strong>: Click-to-call, call logging&lt;/li>
+&lt;li>&lt;strong>Chat Integration&lt;/strong>: Live chat support&lt;/li>
+&lt;li>&lt;strong>Social Media&lt;/strong>: Monitor and respond&lt;/li>
+&lt;li>&lt;strong>SMS&lt;/strong>: Two-way messaging&lt;/li>
+&lt;/ul>
+&lt;h2>Configuration&lt;span class="hx:absolute hx:-mt-20" id="configuration">&lt;/span>
+&lt;a href="#configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Initial Setup&lt;span class="hx:absolute hx:-mt-20" id="initial-setup">&lt;/span>
+&lt;a href="#initial-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Step 1: Sales Process Configuration&lt;span class="hx:absolute hx:-mt-20" id="step-1-sales-process-configuration">&lt;/span>
+&lt;a href="#step-1-sales-process-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Sales Pipeline&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Stages&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Prospecting&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">probability&lt;/span>: &lt;span style="color:#ae81ff">10&lt;/span>&lt;span style="color:#ae81ff">%&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">activities&lt;/span>: [&lt;span style="color:#e6db74">&amp;#34;Initial Contact&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Qualification Call&amp;#34;&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Qualification&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">probability&lt;/span>: &lt;span style="color:#ae81ff">25&lt;/span>&lt;span style="color:#ae81ff">%&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">activities&lt;/span>: [&lt;span style="color:#e6db74">&amp;#34;Needs Analysis&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Budget Confirmation&amp;#34;&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Proposal&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">probability&lt;/span>: &lt;span style="color:#ae81ff">50&lt;/span>&lt;span style="color:#ae81ff">%&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">activities&lt;/span>: [&lt;span style="color:#e6db74">&amp;#34;Send Proposal&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Follow-up&amp;#34;&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Negotiation&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">probability&lt;/span>: &lt;span style="color:#ae81ff">75&lt;/span>&lt;span style="color:#ae81ff">%&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">activities&lt;/span>: [&lt;span style="color:#e6db74">&amp;#34;Contract Review&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Final Terms&amp;#34;&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Closed Won&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">probability&lt;/span>: &lt;span style="color:#ae81ff">100&lt;/span>&lt;span style="color:#ae81ff">%&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">activities&lt;/span>: [&lt;span style="color:#e6db74">&amp;#34;Contract Signed&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Kickoff&amp;#34;&lt;/span>]&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h4>Step 2: Lead Scoring Rules&lt;span class="hx:absolute hx:-mt-20" id="step-2-lead-scoring-rules">&lt;/span>
+&lt;a href="#step-2-lead-scoring-rules" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>{
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;scoring_rules&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> [
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;criteria&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;company_size &amp;gt; 100&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;points&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">20&lt;/span>},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;criteria&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;industry = &amp;#39;Technology&amp;#39;&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;points&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">15&lt;/span>},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;criteria&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;visited_pricing_page&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;points&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">10&lt;/span>},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;criteria&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;downloaded_whitepaper&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;points&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">5&lt;/span>},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;criteria&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;email_opened &amp;gt; 3&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;points&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">5&lt;/span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ],
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;qualification_threshold&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">50&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Team Structure&lt;span class="hx:absolute hx:-mt-20" id="team-structure">&lt;/span>
+&lt;a href="#team-structure" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Sales Roles and Permissions&lt;span class="hx:absolute hx:-mt-20" id="sales-roles-and-permissions">&lt;/span>
+&lt;a href="#sales-roles-and-permissions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Role&lt;/th>
+&lt;th>Permissions&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sales Manager&lt;/td>
+&lt;td>Full access, team reports, territory management&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Account Executive&lt;/td>
+&lt;td>Own deals, contacts, activities&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sales Development Rep&lt;/td>
+&lt;td>Leads, initial qualification&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sales Operations&lt;/td>
+&lt;td>Reports, configuration, workflows&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2>Integration&lt;span class="hx:absolute hx:-mt-20" id="integration">&lt;/span>
+&lt;a href="#integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>BigLedger Module Integration&lt;span class="hx:absolute hx:-mt-20" id="bigledger-module-integration">&lt;/span>
+&lt;a href="#bigledger-module-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Financial Accounting&lt;/strong>: Invoice generation, payment tracking&lt;/li>
+&lt;li>&lt;strong>POS&lt;/strong>: Customer purchase history, loyalty status&lt;/li>
+&lt;li>&lt;strong>Inventory&lt;/strong>: Product availability, pricing&lt;/li>
+&lt;li>&lt;strong>Projects&lt;/strong>: Project delivery tracking&lt;/li>
+&lt;li>&lt;strong>Support&lt;/strong>: Case history, SLA management&lt;/li>
+&lt;/ul>
+&lt;h3>Third-Party Integrations&lt;span class="hx:absolute hx:-mt-20" id="third-party-integrations">&lt;/span>
+&lt;a href="#third-party-integrations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Email&lt;/strong>: Gmail, Outlook, Exchange&lt;/li>
+&lt;li>&lt;strong>Calendar&lt;/strong>: Google Calendar, Outlook Calendar&lt;/li>
+&lt;li>&lt;strong>Phone Systems&lt;/strong>: VoIP integration&lt;/li>
+&lt;li>&lt;strong>Marketing Tools&lt;/strong>: Mailchimp, HubSpot&lt;/li>
+&lt;li>&lt;strong>Social Media&lt;/strong>: LinkedIn, Twitter, Facebook&lt;/li>
+&lt;/ul>
+&lt;h2>Best Practices&lt;span class="hx:absolute hx:-mt-20" id="best-practices">&lt;/span>
+&lt;a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Data Quality&lt;span class="hx:absolute hx:-mt-20" id="data-quality">&lt;/span>
+&lt;a href="#data-quality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Regular Data Cleansing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Deduplicate records&lt;/li>
+&lt;li>Update outdated information&lt;/li>
+&lt;li>Verify email addresses&lt;/li>
+&lt;li>Standardize data formats&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Data Entry Standards&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Required fields enforcement&lt;/li>
+&lt;li>Validation rules&lt;/li>
+&lt;li>Naming conventions&lt;/li>
+&lt;li>Address standardization&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3>Sales Process Optimization&lt;span class="hx:absolute hx:-mt-20" id="sales-process-optimization">&lt;/span>
+&lt;a href="#sales-process-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Pipeline Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Regular pipeline reviews&lt;/li>
+&lt;li>Stage velocity tracking&lt;/li>
+&lt;li>Bottleneck identification&lt;/li>
+&lt;li>Win rate improvement&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Activity Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Daily activity goals&lt;/li>
+&lt;li>Call/email templates&lt;/li>
+&lt;li>Follow-up automation&lt;/li>
+&lt;li>Task prioritization&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2>Reporting&lt;span class="hx:absolute hx:-mt-20" id="reporting">&lt;/span>
+&lt;a href="#reporting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Standard Reports&lt;span class="hx:absolute hx:-mt-20" id="standard-reports">&lt;/span>
+&lt;a href="#standard-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Sales Pipeline Report&lt;/li>
+&lt;li>Forecast Report&lt;/li>
+&lt;li>Activity Report&lt;/li>
+&lt;li>Lead Source Analysis&lt;/li>
+&lt;li>Customer Acquisition Cost&lt;/li>
+&lt;li>Sales Cycle Length&lt;/li>
+&lt;li>Territory Performance&lt;/li>
+&lt;li>Product Performance&lt;/li>
+&lt;/ul>
+&lt;h3>Custom Dashboards&lt;span class="hx:absolute hx:-mt-20" id="custom-dashboards">&lt;/span>
+&lt;a href="#custom-dashboards" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Create personalized dashboards with:&lt;/p>
+&lt;ul>
+&lt;li>Real-time widgets&lt;/li>
+&lt;li>Custom KPIs&lt;/li>
+&lt;li>Drill-down capabilities&lt;/li>
+&lt;li>Export functionality&lt;/li>
+&lt;li>Scheduled delivery&lt;/li>
+&lt;/ul>
+&lt;h2>Mobile CRM&lt;span class="hx:absolute hx:-mt-20" id="mobile-crm">&lt;/span>
+&lt;a href="#mobile-crm" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Features&lt;span class="hx:absolute hx:-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Full CRM access on mobile&lt;/li>
+&lt;li>Offline capability&lt;/li>
+&lt;li>GPS check-in&lt;/li>
+&lt;li>Voice notes&lt;/li>
+&lt;li>Business card scanning&lt;/li>
+&lt;li>Mobile signatures&lt;/li>
+&lt;/ul>
+&lt;h3>Supported Platforms&lt;span class="hx:absolute hx:-mt-20" id="supported-platforms">&lt;/span>
+&lt;a href="#supported-platforms" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>iOS (iPhone and iPad)&lt;/li>
+&lt;li>Android&lt;/li>
+&lt;li>Progressive Web App&lt;/li>
+&lt;/ul>
+&lt;h2>Support &amp;amp; Training&lt;span class="hx:absolute hx:-mt-20" id="support--training">&lt;/span>
+&lt;a href="#support--training" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>📚 &lt;a href="https://wiki.bigledger.com/docs/best-practices/crm/" >CRM Best Practices Guide&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://wiki.bigledger.com/tutorials/crm/" >Video Tutorials&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://wiki.bigledger.com/templates/crm/" >Report Templates&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://forum.bigledger.com/crm" target="_blank" rel="noopener">Community Forum&lt;/a>&lt;/li>
+&lt;li>📧 &lt;a href="mailto:crm-support@bigledger.com" >Support&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Inventory Management</title><link>https://wiki.bigledger.com/modules/inventory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/inventory/</guid><description>
+&lt;h1>Inventory Management Module&lt;/h1>&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Inventory Management module provides comprehensive control over your entire supply chain, from procurement to warehouse management to order fulfillment. With real-time tracking, intelligent forecasting, and seamless integration across all channels, it ensures optimal stock levels while minimizing carrying costs.&lt;/p>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>📦 Product Management&lt;span class="hx:absolute hx:-mt-20" id="-product-management">&lt;/span>
+&lt;a href="#-product-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Product Information&lt;span class="hx:absolute hx:-mt-20" id="product-information">&lt;/span>
+&lt;a href="#product-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Master Data&lt;/strong>: SKU, barcode, descriptions&lt;/li>
+&lt;li>&lt;strong>Product Variants&lt;/strong>: Size, color, style, material&lt;/li>
+&lt;li>&lt;strong>Product Bundles&lt;/strong>: Kit and assembly management&lt;/li>
+&lt;li>&lt;strong>Serial/Lot Tracking&lt;/strong>: Full traceability&lt;/li>
+&lt;li>&lt;strong>Expiry Date Management&lt;/strong>: FEFO/FIFO support&lt;/li>
+&lt;li>&lt;strong>Multi-UOM&lt;/strong>: Multiple units of measure&lt;/li>
+&lt;li>&lt;strong>Product Images&lt;/strong>: Multiple images per product&lt;/li>
+&lt;li>&lt;strong>Custom Attributes&lt;/strong>: Flexible field configuration&lt;/li>
+&lt;/ul>
+&lt;h4>Product Categories&lt;span class="hx:absolute hx:-mt-20" id="product-categories">&lt;/span>
+&lt;a href="#product-categories" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Hierarchical Structure&lt;/strong>: Unlimited category levels&lt;/li>
+&lt;li>&lt;strong>Category Rules&lt;/strong>: Automated categorization&lt;/li>
+&lt;li>&lt;strong>Cross-References&lt;/strong>: Alternative product codes&lt;/li>
+&lt;li>&lt;strong>Product Lifecycle&lt;/strong>: Introduction to discontinuation&lt;/li>
+&lt;/ul>
+&lt;h3>🏭 Warehouse Management&lt;span class="hx:absolute hx:-mt-20" id="-warehouse-management">&lt;/span>
+&lt;a href="#-warehouse-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Multi-Location Support&lt;span class="hx:absolute hx:-mt-20" id="multi-location-support">&lt;/span>
+&lt;a href="#multi-location-support" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Multiple Warehouses&lt;/strong>: Unlimited locations&lt;/li>
+&lt;li>&lt;strong>Zones &amp;amp; Bins&lt;/strong>: Detailed location tracking&lt;/li>
+&lt;li>&lt;strong>Virtual Warehouses&lt;/strong>: Consignment, transit stock&lt;/li>
+&lt;li>&lt;strong>Store Locations&lt;/strong>: Retail floor and backroom&lt;/li>
+&lt;li>&lt;strong>3PL Integration&lt;/strong>: Third-party logistics&lt;/li>
+&lt;/ul>
+&lt;h4>Warehouse Operations&lt;span class="hx:absolute hx:-mt-20" id="warehouse-operations">&lt;/span>
+&lt;a href="#warehouse-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Receiving&lt;/strong>: Purchase order receipt, quality check&lt;/li>
+&lt;li>&lt;strong>Put-away&lt;/strong>: Directed put-away strategies&lt;/li>
+&lt;li>&lt;strong>Picking&lt;/strong>: Wave, batch, zone picking&lt;/li>
+&lt;li>&lt;strong>Packing&lt;/strong>: Pack verification, shipping labels&lt;/li>
+&lt;li>&lt;strong>Shipping&lt;/strong>: Carrier integration, tracking&lt;/li>
+&lt;li>&lt;strong>Cycle Counting&lt;/strong>: Perpetual inventory accuracy&lt;/li>
+&lt;li>&lt;strong>Stock Transfers&lt;/strong>: Inter-warehouse movements&lt;/li>
+&lt;/ul>
+&lt;h3>📊 Inventory Control&lt;span class="hx:absolute hx:-mt-20" id="-inventory-control">&lt;/span>
+&lt;a href="#-inventory-control" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Stock Management&lt;span class="hx:absolute hx:-mt-20" id="stock-management">&lt;/span>
+&lt;a href="#stock-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Real-time Levels&lt;/strong>: Live inventory updates&lt;/li>
+&lt;li>&lt;strong>Stock Valuation&lt;/strong>: FIFO, LIFO, Average Cost&lt;/li>
+&lt;li>&lt;strong>Min/Max Levels&lt;/strong>: Automatic reorder points&lt;/li>
+&lt;li>&lt;strong>Safety Stock&lt;/strong>: Buffer calculations&lt;/li>
+&lt;li>&lt;strong>ABC Analysis&lt;/strong>: Product classification&lt;/li>
+&lt;li>&lt;strong>Stock Aging&lt;/strong>: Slow-moving identification&lt;/li>
+&lt;li>&lt;strong>Negative Stock&lt;/strong>: Control and prevention&lt;/li>
+&lt;/ul>
+&lt;h4>Inventory Tracking&lt;span class="hx:absolute hx:-mt-20" id="inventory-tracking">&lt;/span>
+&lt;a href="#inventory-tracking" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Transaction History&lt;/strong>: Complete audit trail&lt;/li>
+&lt;li>&lt;strong>Stock Movements&lt;/strong>: Detailed tracking&lt;/li>
+&lt;li>&lt;strong>Adjustments&lt;/strong>: Reason codes, approvals&lt;/li>
+&lt;li>&lt;strong>Stock Takes&lt;/strong>: Full and cycle counts&lt;/li>
+&lt;li>&lt;strong>Variance Analysis&lt;/strong>: Count vs system&lt;/li>
+&lt;li>&lt;strong>Reconciliation&lt;/strong>: Multi-level verification&lt;/li>
+&lt;/ul>
+&lt;h3>🚚 Supply Chain Management&lt;span class="hx:absolute hx:-mt-20" id="-supply-chain-management">&lt;/span>
+&lt;a href="#-supply-chain-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Procurement&lt;span class="hx:absolute hx:-mt-20" id="procurement">&lt;/span>
+&lt;a href="#procurement" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Purchase Requisitions&lt;/strong>: Automated requests&lt;/li>
+&lt;li>&lt;strong>Purchase Orders&lt;/strong>: Multi-vendor sourcing&lt;/li>
+&lt;li>&lt;strong>Vendor Management&lt;/strong>: Performance tracking&lt;/li>
+&lt;li>&lt;strong>Price Lists&lt;/strong>: Vendor-specific pricing&lt;/li>
+&lt;li>&lt;strong>Lead Time Management&lt;/strong>: Delivery scheduling&lt;/li>
+&lt;li>&lt;strong>Blanket Orders&lt;/strong>: Long-term agreements&lt;/li>
+&lt;li>&lt;strong>Drop Shipping&lt;/strong>: Direct vendor fulfillment&lt;/li>
+&lt;/ul>
+&lt;h4>Demand Planning&lt;span class="hx:absolute hx:-mt-20" id="demand-planning">&lt;/span>
+&lt;a href="#demand-planning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Forecasting&lt;/strong>: AI-powered predictions&lt;/li>
+&lt;li>&lt;strong>Seasonal Adjustments&lt;/strong>: Historical patterns&lt;/li>
+&lt;li>&lt;strong>Trend Analysis&lt;/strong>: Growth projections&lt;/li>
+&lt;li>&lt;strong>Reorder Optimization&lt;/strong>: Economic order quantity&lt;/li>
+&lt;li>&lt;strong>MRP&lt;/strong>: Material requirements planning&lt;/li>
+&lt;li>&lt;strong>Supply Planning&lt;/strong>: Production scheduling&lt;/li>
+&lt;/ul>
+&lt;h3>📈 Analytics &amp;amp; Reporting&lt;span class="hx:absolute hx:-mt-20" id="-analytics--reporting">&lt;/span>
+&lt;a href="#-analytics--reporting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Inventory Analytics&lt;span class="hx:absolute hx:-mt-20" id="inventory-analytics">&lt;/span>
+&lt;a href="#inventory-analytics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Turnover Rates&lt;/strong>: Efficiency metrics&lt;/li>
+&lt;li>&lt;strong>Carrying Costs&lt;/strong>: Total cost analysis&lt;/li>
+&lt;li>&lt;strong>Stockout Analysis&lt;/strong>: Lost sales tracking&lt;/li>
+&lt;li>&lt;strong>Excess Inventory&lt;/strong>: Overstock identification&lt;/li>
+&lt;li>&lt;strong>Velocity Analysis&lt;/strong>: Fast/slow movers&lt;/li>
+&lt;li>&lt;strong>Profitability&lt;/strong>: Product margin analysis&lt;/li>
+&lt;/ul>
+&lt;h4>Operational Reports&lt;span class="hx:absolute hx:-mt-20" id="operational-reports">&lt;/span>
+&lt;a href="#operational-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Stock Status Report&lt;/li>
+&lt;li>Movement History&lt;/li>
+&lt;li>Aging Analysis&lt;/li>
+&lt;li>Reorder Report&lt;/li>
+&lt;li>Valuation Report&lt;/li>
+&lt;li>Variance Report&lt;/li>
+&lt;li>Location Report&lt;/li>
+&lt;li>Expiry Report&lt;/li>
+&lt;/ul>
+&lt;h2>Configuration&lt;span class="hx:absolute hx:-mt-20" id="configuration">&lt;/span>
+&lt;a href="#configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Initial Setup&lt;span class="hx:absolute hx:-mt-20" id="initial-setup">&lt;/span>
+&lt;a href="#initial-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Step 1: Warehouse Configuration&lt;span class="hx:absolute hx:-mt-20" id="step-1-warehouse-configuration">&lt;/span>
+&lt;a href="#step-1-warehouse-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Warehouse Setup&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Main Warehouse&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Code&lt;/span>: &lt;span style="color:#ae81ff">WH001&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Name&lt;/span>: &lt;span style="color:#ae81ff">Central Distribution Center&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Address&lt;/span>: &lt;span style="color:#ae81ff">123&lt;/span> &lt;span style="color:#ae81ff">Logistics Blvd&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Type&lt;/span>: &lt;span style="color:#ae81ff">Distribution Center&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Zones&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Receiving&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">bins&lt;/span>: [&lt;span style="color:#ae81ff">R01-R10]&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Storage&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">bins&lt;/span>: [&lt;span style="color:#ae81ff">A01-Z99]&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Shipping&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">bins&lt;/span>: [&lt;span style="color:#ae81ff">S01-S20]&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h4>Step 2: Product Configuration&lt;span class="hx:absolute hx:-mt-20" id="step-2-product-configuration">&lt;/span>
+&lt;a href="#step-2-product-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>{
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;product&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;sku&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;PROD-001&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;name&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Standard Widget&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;category&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Widgets&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;tracking&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;lot&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;uom&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;base&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Each&amp;#34;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;alternates&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> [
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;unit&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Case&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;conversion&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">12&lt;/span>},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#e6db74">&amp;#34;unit&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Pallet&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;conversion&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">144&lt;/span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> },
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;stock_levels&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;min&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">100&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;max&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">500&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;reorder_point&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">150&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;safety_stock&amp;#34;&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#ae81ff">50&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Inventory Policies&lt;span class="hx:absolute hx:-mt-20" id="inventory-policies">&lt;/span>
+&lt;a href="#inventory-policies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Stock Valuation Methods&lt;span class="hx:absolute hx:-mt-20" id="stock-valuation-methods">&lt;/span>
+&lt;a href="#stock-valuation-methods" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Method&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;th>Best For&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>FIFO&lt;/td>
+&lt;td>First In, First Out&lt;/td>
+&lt;td>Perishable goods&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>LIFO&lt;/td>
+&lt;td>Last In, First Out&lt;/td>
+&lt;td>Non-perishables&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Average Cost&lt;/td>
+&lt;td>Weighted average&lt;/td>
+&lt;td>Stable prices&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Specific Identification&lt;/td>
+&lt;td>Actual cost tracking&lt;/td>
+&lt;td>High-value items&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>Reorder Strategies&lt;span class="hx:absolute hx:-mt-20" id="reorder-strategies">&lt;/span>
+&lt;a href="#reorder-strategies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Fixed Order Quantity&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Order same quantity each time&lt;/li>
+&lt;li>When stock hits reorder point&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Fixed Order Period&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Order at regular intervals&lt;/li>
+&lt;li>Variable quantities&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Min-Max&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Order when below minimum&lt;/li>
+&lt;li>Order up to maximum&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Economic Order Quantity (EOQ)&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Optimal order size&lt;/li>
+&lt;li>Minimizes total costs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2>Operations&lt;span class="hx:absolute hx:-mt-20" id="operations">&lt;/span>
+&lt;a href="#operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Daily Operations&lt;span class="hx:absolute hx:-mt-20" id="daily-operations">&lt;/span>
+&lt;a href="#daily-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Receiving Process&lt;span class="hx:absolute hx:-mt-20" id="receiving-process">&lt;/span>
+&lt;a href="#receiving-process" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Pre-Receipt&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>ASN (Advance Shipping Notice)&lt;/li>
+&lt;li>Dock scheduling&lt;/li>
+&lt;li>Resource allocation&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Receipt&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Barcode scanning&lt;/li>
+&lt;li>Quantity verification&lt;/li>
+&lt;li>Quality inspection&lt;/li>
+&lt;li>Discrepancy reporting&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Put-away&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Location assignment&lt;/li>
+&lt;li>Label printing&lt;/li>
+&lt;li>Movement tracking&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h4>Order Fulfillment&lt;span class="hx:absolute hx:-mt-20" id="order-fulfillment">&lt;/span>
+&lt;a href="#order-fulfillment" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Order Processing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Inventory allocation&lt;/li>
+&lt;li>Pick list generation&lt;/li>
+&lt;li>Wave planning&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Picking&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Pick path optimization&lt;/li>
+&lt;li>Batch picking&lt;/li>
+&lt;li>Pick confirmation&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Packing &amp;amp; Shipping&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Pack verification&lt;/li>
+&lt;li>Label printing&lt;/li>
+&lt;li>Carrier selection&lt;/li>
+&lt;li>Tracking updates&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3>Cycle Counting&lt;span class="hx:absolute hx:-mt-20" id="cycle-counting">&lt;/span>
+&lt;a href="#cycle-counting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Count Planning&lt;span class="hx:absolute hx:-mt-20" id="count-planning">&lt;/span>
+&lt;a href="#count-planning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>ABC-based frequency&lt;/li>
+&lt;li>Location-based counts&lt;/li>
+&lt;li>Random sampling&lt;/li>
+&lt;li>Exception-based counts&lt;/li>
+&lt;/ul>
+&lt;h4>Count Process&lt;span class="hx:absolute hx:-mt-20" id="count-process">&lt;/span>
+&lt;a href="#count-process" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>Generate count sheets&lt;/li>
+&lt;li>Freeze inventory&lt;/li>
+&lt;li>Physical count&lt;/li>
+&lt;li>Enter results&lt;/li>
+&lt;li>Variance review&lt;/li>
+&lt;li>Adjustment approval&lt;/li>
+&lt;li>Update records&lt;/li>
+&lt;/ol>
+&lt;h2>Integration&lt;span class="hx:absolute hx:-mt-20" id="integration">&lt;/span>
+&lt;a href="#integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>BigLedger Modules&lt;span class="hx:absolute hx:-mt-20" id="bigledger-modules">&lt;/span>
+&lt;a href="#bigledger-modules" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Sales/POS&lt;/strong>: Real-time availability&lt;/li>
+&lt;li>&lt;strong>Purchasing&lt;/strong>: Automated procurement&lt;/li>
+&lt;li>&lt;strong>Manufacturing&lt;/strong>: Component availability&lt;/li>
+&lt;li>&lt;strong>Financial Accounting&lt;/strong>: Inventory valuation&lt;/li>
+&lt;li>&lt;strong>CRM&lt;/strong>: Product information&lt;/li>
+&lt;li>&lt;strong>E-commerce&lt;/strong>: Multi-channel inventory&lt;/li>
+&lt;/ul>
+&lt;h3>External Systems&lt;span class="hx:absolute hx:-mt-20" id="external-systems">&lt;/span>
+&lt;a href="#external-systems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Shipping Carriers&lt;span class="hx:absolute hx:-mt-20" id="shipping-carriers">&lt;/span>
+&lt;a href="#shipping-carriers" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>FedEx&lt;/li>
+&lt;li>UPS&lt;/li>
+&lt;li>DHL&lt;/li>
+&lt;li>USPS&lt;/li>
+&lt;li>Regional carriers&lt;/li>
+&lt;/ul>
+&lt;h4>Marketplaces&lt;span class="hx:absolute hx:-mt-20" id="marketplaces">&lt;/span>
+&lt;a href="#marketplaces" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Amazon&lt;/li>
+&lt;li>eBay&lt;/li>
+&lt;li>Shopify&lt;/li>
+&lt;li>WooCommerce&lt;/li>
+&lt;li>Magento&lt;/li>
+&lt;/ul>
+&lt;h2>Best Practices&lt;span class="hx:absolute hx:-mt-20" id="best-practices">&lt;/span>
+&lt;a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Inventory Accuracy&lt;span class="hx:absolute hx:-mt-20" id="inventory-accuracy">&lt;/span>
+&lt;a href="#inventory-accuracy" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Regular Cycle Counts&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Daily for A items&lt;/li>
+&lt;li>Weekly for B items&lt;/li>
+&lt;li>Monthly for C items&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Process Discipline&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Scan everything&lt;/li>
+&lt;li>Real-time updates&lt;/li>
+&lt;li>Exception handling&lt;/li>
+&lt;li>Training compliance&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3>Optimization Strategies&lt;span class="hx:absolute hx:-mt-20" id="optimization-strategies">&lt;/span>
+&lt;a href="#optimization-strategies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>ABC Analysis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>A Items (20%): 80% of value&lt;/li>
+&lt;li>B Items (30%): 15% of value&lt;/li>
+&lt;li>C Items (50%): 5% of value&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Safety Stock Optimization&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Service level targets&lt;/li>
+&lt;li>Lead time variability&lt;/li>
+&lt;li>Demand variability&lt;/li>
+&lt;li>Cost considerations&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2>Advanced Features&lt;span class="hx:absolute hx:-mt-20" id="advanced-features">&lt;/span>
+&lt;a href="#advanced-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Automation&lt;span class="hx:absolute hx:-mt-20" id="automation">&lt;/span>
+&lt;a href="#automation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Automated Replenishment&lt;span class="hx:absolute hx:-mt-20" id="automated-replenishment">&lt;/span>
+&lt;a href="#automated-replenishment" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Demand sensing&lt;/li>
+&lt;li>Automatic PO generation&lt;/li>
+&lt;li>Vendor managed inventory&lt;/li>
+&lt;li>Cross-docking&lt;/li>
+&lt;/ul>
+&lt;h4>Warehouse Automation&lt;span class="hx:absolute hx:-mt-20" id="warehouse-automation">&lt;/span>
+&lt;a href="#warehouse-automation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>WMS integration&lt;/li>
+&lt;li>RF scanning&lt;/li>
+&lt;li>Voice picking&lt;/li>
+&lt;li>Robotics interface&lt;/li>
+&lt;li>Conveyor systems&lt;/li>
+&lt;/ul>
+&lt;h3>Traceability&lt;span class="hx:absolute hx:-mt-20" id="traceability">&lt;/span>
+&lt;a href="#traceability" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>Lot/Serial Tracking&lt;span class="hx:absolute hx:-mt-20" id="lotserial-tracking">&lt;/span>
+&lt;a href="#lotserial-tracking" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Complete genealogy&lt;/li>
+&lt;li>Recall management&lt;/li>
+&lt;li>Warranty tracking&lt;/li>
+&lt;li>Compliance reporting&lt;/li>
+&lt;/ul>
+&lt;h4>Chain of Custody&lt;span class="hx:absolute hx:-mt-20" id="chain-of-custody">&lt;/span>
+&lt;a href="#chain-of-custody" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>Temperature tracking&lt;/li>
+&lt;li>Location history&lt;/li>
+&lt;li>Handler tracking&lt;/li>
+&lt;li>Time stamps&lt;/li>
+&lt;/ul>
+&lt;h2>Mobile Inventory&lt;span class="hx:absolute hx:-mt-20" id="mobile-inventory">&lt;/span>
+&lt;a href="#mobile-inventory" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Features&lt;span class="hx:absolute hx:-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Barcode scanning&lt;/li>
+&lt;li>Stock counts&lt;/li>
+&lt;li>Transfers&lt;/li>
+&lt;li>Adjustments&lt;/li>
+&lt;li>Receiving&lt;/li>
+&lt;li>Location lookup&lt;/li>
+&lt;/ul>
+&lt;h3>Hardware Support&lt;span class="hx:absolute hx:-mt-20" id="hardware-support">&lt;/span>
+&lt;a href="#hardware-support" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Android scanners&lt;/li>
+&lt;li>iOS devices&lt;/li>
+&lt;li>Windows Mobile&lt;/li>
+&lt;li>Dedicated RF guns&lt;/li>
+&lt;/ul>
+&lt;h2>Troubleshooting&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting">&lt;/span>
+&lt;a href="#troubleshooting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Common Issues&lt;span class="hx:absolute hx:-mt-20" id="common-issues">&lt;/span>
+&lt;a href="#common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Issue&lt;/th>
+&lt;th>Cause&lt;/th>
+&lt;th>Solution&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Stock discrepancies&lt;/td>
+&lt;td>Unrecorded movements&lt;/td>
+&lt;td>Implement scanning, training&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stockouts&lt;/td>
+&lt;td>Poor forecasting&lt;/td>
+&lt;td>Adjust safety stock, lead times&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Excess inventory&lt;/td>
+&lt;td>Over-ordering&lt;/td>
+&lt;td>Review min/max levels&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Slow picking&lt;/td>
+&lt;td>Poor layout&lt;/td>
+&lt;td>Optimize pick paths, locations&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Count variances&lt;/td>
+&lt;td>Process errors&lt;/td>
+&lt;td>Training, process review&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2>Support &amp;amp; Resources&lt;span class="hx:absolute hx:-mt-20" id="support--resources">&lt;/span>
+&lt;a href="#support--resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>📚 &lt;a href="https://wiki.bigledger.com/docs/best-practices/inventory/" >Inventory Best Practices&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://wiki.bigledger.com/tutorials/inventory/" >Training Videos&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://wiki.bigledger.com/templates/inventory/" >Report Templates&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://forum.bigledger.com/inventory" target="_blank" rel="noopener">Community Forum&lt;/a>&lt;/li>
+&lt;li>📧 &lt;a href="mailto:inventory-support@bigledger.com" >Support&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Procurement</title><link>https://wiki.bigledger.com/modules/procurement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/procurement/</guid><description>
+&lt;h1>Procurement Module&lt;/h1>&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Procurement module streamlines your entire purchase-to-pay process, from requisition to payment. It helps organizations reduce costs, improve supplier relationships, and ensure compliance with purchasing policies.&lt;/p>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Purchase Requisitions&lt;span class="hx:absolute hx:-mt-20" id="purchase-requisitions">&lt;/span>
+&lt;a href="#purchase-requisitions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Multi-level approval workflows&lt;/li>
+&lt;li>Budget validation&lt;/li>
+&lt;li>Catalog-based ordering&lt;/li>
+&lt;li>Requisition templates&lt;/li>
+&lt;li>Mobile approvals&lt;/li>
+&lt;/ul>
+&lt;h3>Purchase Orders&lt;span class="hx:absolute hx:-mt-20" id="purchase-orders">&lt;/span>
+&lt;a href="#purchase-orders" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Automated PO generation&lt;/li>
+&lt;li>Multi-vendor RFQs&lt;/li>
+&lt;li>Blanket orders&lt;/li>
+&lt;li>Contract management&lt;/li>
+&lt;li>Change order tracking&lt;/li>
+&lt;/ul>
+&lt;h3>Vendor Management&lt;span class="hx:absolute hx:-mt-20" id="vendor-management">&lt;/span>
+&lt;a href="#vendor-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Vendor onboarding&lt;/li>
+&lt;li>Performance scorecards&lt;/li>
+&lt;li>Compliance tracking&lt;/li>
+&lt;li>Risk assessment&lt;/li>
+&lt;li>Vendor portals&lt;/li>
+&lt;/ul>
+&lt;h3>Receiving &amp;amp; Inspection&lt;span class="hx:absolute hx:-mt-20" id="receiving--inspection">&lt;/span>
+&lt;a href="#receiving--inspection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Three-way matching&lt;/li>
+&lt;li>Quality control&lt;/li>
+&lt;li>Return management&lt;/li>
+&lt;li>Receipt discrepancies&lt;/li>
+&lt;li>ASN processing&lt;/li>
+&lt;/ul>
+&lt;h3>Invoice Processing&lt;span class="hx:absolute hx:-mt-20" id="invoice-processing">&lt;/span>
+&lt;a href="#invoice-processing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>OCR invoice capture&lt;/li>
+&lt;li>Automatic matching&lt;/li>
+&lt;li>Exception handling&lt;/li>
+&lt;li>Early payment discounts&lt;/li>
+&lt;li>Approval workflows&lt;/li>
+&lt;/ul>
+&lt;h2>Benefits&lt;span class="hx:absolute hx:-mt-20" id="benefits">&lt;/span>
+&lt;a href="#benefits" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Cost Reduction&lt;/strong>: Negotiate better prices through consolidated purchasing&lt;/li>
+&lt;li>&lt;strong>Process Efficiency&lt;/strong>: Automate manual tasks and approvals&lt;/li>
+&lt;li>&lt;strong>Compliance&lt;/strong>: Ensure adherence to purchasing policies&lt;/li>
+&lt;li>&lt;strong>Visibility&lt;/strong>: Real-time spending analytics&lt;/li>
+&lt;li>&lt;strong>Supplier Relations&lt;/strong>: Improve vendor collaboration&lt;/li>
+&lt;/ul>
+&lt;h2>Integration&lt;span class="hx:absolute hx:-mt-20" id="integration">&lt;/span>
+&lt;a href="#integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Financial Accounting for invoice processing&lt;/li>
+&lt;li>Inventory for stock replenishment&lt;/li>
+&lt;li>Projects for project-based purchasing&lt;/li>
+&lt;li>Quality Management for inspection workflows&lt;/li>
+&lt;/ul>
+&lt;h2>Getting Started&lt;span class="hx:absolute hx:-mt-20" id="getting-started">&lt;/span>
+&lt;a href="#getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>Set up your vendor database&lt;/li>
+&lt;li>Configure approval hierarchies&lt;/li>
+&lt;li>Define purchasing policies&lt;/li>
+&lt;li>Create product catalogs&lt;/li>
+&lt;li>Train procurement team&lt;/li>
+&lt;/ol>
+&lt;p>For detailed documentation, visit our &lt;a href="https://wiki.bigledger.com/docs/procurement/" >Procurement Guide&lt;/a> or contact support.&lt;/p></description></item><item><title>Manufacturing</title><link>https://wiki.bigledger.com/modules/manufacturing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/manufacturing/</guid><description>
+&lt;h1>Manufacturing Module&lt;/h1>&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Manufacturing module provides comprehensive production management capabilities, from planning to execution to quality control. Designed for discrete, process, and mixed-mode manufacturing environments.&lt;/p>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Production Planning&lt;span class="hx:absolute hx:-mt-20" id="production-planning">&lt;/span>
+&lt;a href="#production-planning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Master Production Schedule (MPS)&lt;/li>
+&lt;li>Material Requirements Planning (MRP)&lt;/li>
+&lt;li>Capacity planning&lt;/li>
+&lt;li>Demand forecasting&lt;/li>
+&lt;li>What-if scenarios&lt;/li>
+&lt;/ul>
+&lt;h3>Bill of Materials (BOM)&lt;span class="hx:absolute hx:-mt-20" id="bill-of-materials-bom">&lt;/span>
+&lt;a href="#bill-of-materials-bom" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Multi-level BOMs&lt;/li>
+&lt;li>Version control&lt;/li>
+&lt;li>Engineering changes&lt;/li>
+&lt;li>Phantom assemblies&lt;/li>
+&lt;li>Alternative components&lt;/li>
+&lt;/ul>
+&lt;h3>Work Orders&lt;span class="hx:absolute hx:-mt-20" id="work-orders">&lt;/span>
+&lt;a href="#work-orders" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Work order generation&lt;/li>
+&lt;li>Routing management&lt;/li>
+&lt;li>Shop floor scheduling&lt;/li>
+&lt;li>Resource allocation&lt;/li>
+&lt;li>Progress tracking&lt;/li>
+&lt;/ul>
+&lt;h3>Shop Floor Control&lt;span class="hx:absolute hx:-mt-20" id="shop-floor-control">&lt;/span>
+&lt;a href="#shop-floor-control" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Real-time production monitoring&lt;/li>
+&lt;li>Machine integration&lt;/li>
+&lt;li>Labor tracking&lt;/li>
+&lt;li>Scrap and rework&lt;/li>
+&lt;li>Quality checkpoints&lt;/li>
+&lt;/ul>
+&lt;h3>Quality Management&lt;span class="hx:absolute hx:-mt-20" id="quality-management">&lt;/span>
+&lt;a href="#quality-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Quality control plans&lt;/li>
+&lt;li>Inspection workflows&lt;/li>
+&lt;li>Non-conformance tracking&lt;/li>
+&lt;li>Corrective actions&lt;/li>
+&lt;li>Statistical Process Control (SPC)&lt;/li>
+&lt;/ul>
+&lt;h3>Costing&lt;span class="hx:absolute hx:-mt-20" id="costing">&lt;/span>
+&lt;a href="#costing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Standard costing&lt;/li>
+&lt;li>Actual costing&lt;/li>
+&lt;li>Variance analysis&lt;/li>
+&lt;li>Overhead allocation&lt;/li>
+&lt;li>Product profitability&lt;/li>
+&lt;/ul>
+&lt;h2>Manufacturing Types Supported&lt;span class="hx:absolute hx:-mt-20" id="manufacturing-types-supported">&lt;/span>
+&lt;a href="#manufacturing-types-supported" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Discrete Manufacturing&lt;/strong>: Assembly-based production&lt;/li>
+&lt;li>&lt;strong>Process Manufacturing&lt;/strong>: Formula and recipe-based&lt;/li>
+&lt;li>&lt;strong>Repetitive Manufacturing&lt;/strong>: High-volume production&lt;/li>
+&lt;li>&lt;strong>Job Shop&lt;/strong>: Custom and make-to-order&lt;/li>
+&lt;li>&lt;strong>Mixed Mode&lt;/strong>: Combination approaches&lt;/li>
+&lt;/ul>
+&lt;h2>Benefits&lt;span class="hx:absolute hx:-mt-20" id="benefits">&lt;/span>
+&lt;a href="#benefits" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Efficiency&lt;/strong>: Optimize production schedules and resource utilization&lt;/li>
+&lt;li>&lt;strong>Quality&lt;/strong>: Ensure consistent product quality&lt;/li>
+&lt;li>&lt;strong>Visibility&lt;/strong>: Real-time production tracking&lt;/li>
+&lt;li>&lt;strong>Cost Control&lt;/strong>: Accurate product costing&lt;/li>
+&lt;li>&lt;strong>Compliance&lt;/strong>: Meet regulatory requirements&lt;/li>
+&lt;/ul>
+&lt;h2>Integration&lt;span class="hx:absolute hx:-mt-20" id="integration">&lt;/span>
+&lt;a href="#integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Inventory for material management&lt;/li>
+&lt;li>Sales for demand planning&lt;/li>
+&lt;li>Procurement for material purchasing&lt;/li>
+&lt;li>Financial Accounting for cost accounting&lt;/li>
+&lt;li>Quality for inspection management&lt;/li>
+&lt;/ul>
+&lt;h2>Getting Started&lt;span class="hx:absolute hx:-mt-20" id="getting-started">&lt;/span>
+&lt;a href="#getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>Define your products and BOMs&lt;/li>
+&lt;li>Set up work centers and routings&lt;/li>
+&lt;li>Configure quality plans&lt;/li>
+&lt;li>Establish costing methods&lt;/li>
+&lt;li>Train production staff&lt;/li>
+&lt;/ol>
+&lt;p>For detailed documentation, visit our &lt;a href="https://wiki.bigledger.com/docs/manufacturing/" >Manufacturing Guide&lt;/a> or contact support.&lt;/p></description></item><item><title>Human Resources</title><link>https://wiki.bigledger.com/modules/hr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/hr/</guid><description>
+&lt;h1>Human Resources Module&lt;/h1>&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger HR module provides a complete human capital management solution, from recruitment to retirement. Streamline HR processes, ensure compliance, and empower employees with self-service capabilities.&lt;/p>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core HR&lt;span class="hx:absolute hx:-mt-20" id="core-hr">&lt;/span>
+&lt;a href="#core-hr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Employee database&lt;/li>
+&lt;li>Organization structure&lt;/li>
+&lt;li>Position management&lt;/li>
+&lt;li>Document management&lt;/li>
+&lt;li>Policy management&lt;/li>
+&lt;/ul>
+&lt;h3>Recruitment&lt;span class="hx:absolute hx:-mt-20" id="recruitment">&lt;/span>
+&lt;a href="#recruitment" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Job posting management&lt;/li>
+&lt;li>Applicant tracking&lt;/li>
+&lt;li>Interview scheduling&lt;/li>
+&lt;li>Onboarding workflows&lt;/li>
+&lt;li>Background checks&lt;/li>
+&lt;/ul>
+&lt;h3>Time &amp;amp; Attendance&lt;span class="hx:absolute hx:-mt-20" id="time--attendance">&lt;/span>
+&lt;a href="#time--attendance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Time tracking&lt;/li>
+&lt;li>Shift scheduling&lt;/li>
+&lt;li>Overtime management&lt;/li>
+&lt;li>Leave management&lt;/li>
+&lt;li>Holiday calendars&lt;/li>
+&lt;/ul>
+&lt;h3>Payroll&lt;span class="hx:absolute hx:-mt-20" id="payroll">&lt;/span>
+&lt;a href="#payroll" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Salary processing&lt;/li>
+&lt;li>Tax calculations&lt;/li>
+&lt;li>Deductions management&lt;/li>
+&lt;li>Direct deposits&lt;/li>
+&lt;li>Pay slip generation&lt;/li>
+&lt;li>Year-end processing&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Management&lt;span class="hx:absolute hx:-mt-20" id="performance-management">&lt;/span>
+&lt;a href="#performance-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Goal setting&lt;/li>
+&lt;li>Performance reviews&lt;/li>
+&lt;li>360-degree feedback&lt;/li>
+&lt;li>Competency assessment&lt;/li>
+&lt;li>Career development&lt;/li>
+&lt;/ul>
+&lt;h3>Learning &amp;amp; Development&lt;span class="hx:absolute hx:-mt-20" id="learning--development">&lt;/span>
+&lt;a href="#learning--development" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Training management&lt;/li>
+&lt;li>Course catalog&lt;/li>
+&lt;li>Certification tracking&lt;/li>
+&lt;li>Skills gap analysis&lt;/li>
+&lt;li>E-learning integration&lt;/li>
+&lt;/ul>
+&lt;h3>Employee Self-Service&lt;span class="hx:absolute hx:-mt-20" id="employee-self-service">&lt;/span>
+&lt;a href="#employee-self-service" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Personal information updates&lt;/li>
+&lt;li>Leave requests&lt;/li>
+&lt;li>Timesheet submission&lt;/li>
+&lt;li>Pay slip access&lt;/li>
+&lt;li>Benefits enrollment&lt;/li>
+&lt;/ul>
+&lt;h3>Benefits Administration&lt;span class="hx:absolute hx:-mt-20" id="benefits-administration">&lt;/span>
+&lt;a href="#benefits-administration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Benefits enrollment&lt;/li>
+&lt;li>Life events processing&lt;/li>
+&lt;li>COBRA administration&lt;/li>
+&lt;li>Benefits statements&lt;/li>
+&lt;li>Open enrollment&lt;/li>
+&lt;/ul>
+&lt;h2>Compliance Features&lt;span class="hx:absolute hx:-mt-20" id="compliance-features">&lt;/span>
+&lt;a href="#compliance-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Labor law compliance&lt;/li>
+&lt;li>Tax compliance&lt;/li>
+&lt;li>Equal employment opportunity&lt;/li>
+&lt;li>Health and safety&lt;/li>
+&lt;li>Data privacy (GDPR)&lt;/li>
+&lt;/ul>
+&lt;h2>Analytics &amp;amp; Reporting&lt;span class="hx:absolute hx:-mt-20" id="analytics--reporting">&lt;/span>
+&lt;a href="#analytics--reporting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>HR dashboards&lt;/li>
+&lt;li>Headcount reports&lt;/li>
+&lt;li>Turnover analysis&lt;/li>
+&lt;li>Compensation analysis&lt;/li>
+&lt;li>Diversity metrics&lt;/li>
+&lt;li>Custom reports&lt;/li>
+&lt;/ul>
+&lt;h2>Integration&lt;span class="hx:absolute hx:-mt-20" id="integration">&lt;/span>
+&lt;a href="#integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Financial Accounting for payroll posting&lt;/li>
+&lt;li>Project Management for resource allocation&lt;/li>
+&lt;li>CRM for employee-customer interactions&lt;/li>
+&lt;li>Time tracking systems&lt;/li>
+&lt;li>Benefits providers&lt;/li>
+&lt;/ul>
+&lt;h2>Mobile HR&lt;span class="hx:absolute hx:-mt-20" id="mobile-hr">&lt;/span>
+&lt;a href="#mobile-hr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Employee self-service app&lt;/li>
+&lt;li>Manager approvals&lt;/li>
+&lt;li>Time clock&lt;/li>
+&lt;li>Directory access&lt;/li>
+&lt;li>Leave requests&lt;/li>
+&lt;/ul>
+&lt;h2>Getting Started&lt;span class="hx:absolute hx:-mt-20" id="getting-started">&lt;/span>
+&lt;a href="#getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>Set up organization structure&lt;/li>
+&lt;li>Import employee data&lt;/li>
+&lt;li>Configure payroll rules&lt;/li>
+&lt;li>Define leave policies&lt;/li>
+&lt;li>Train HR team and employees&lt;/li>
+&lt;/ol>
+&lt;p>For detailed documentation, visit our &lt;a href="https://wiki.bigledger.com/docs/hr/" >HR Guide&lt;/a> or contact support.&lt;/p></description></item><item><title>Project Management</title><link>https://wiki.bigledger.com/modules/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/projects/</guid><description>
+&lt;h1>Project Management Module&lt;/h1>&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Project Management module helps organizations plan, execute, and deliver projects on time and within budget. From simple tasks to complex multi-phase projects, manage everything in one integrated platform.&lt;/p>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Project Planning&lt;span class="hx:absolute hx:-mt-20" id="project-planning">&lt;/span>
+&lt;a href="#project-planning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Work Breakdown Structure (WBS)&lt;/li>
+&lt;li>Gantt charts&lt;/li>
+&lt;li>Critical path analysis&lt;/li>
+&lt;li>Milestone tracking&lt;/li>
+&lt;li>Dependencies management&lt;/li>
+&lt;/ul>
+&lt;h3>Resource Management&lt;span class="hx:absolute hx:-mt-20" id="resource-management">&lt;/span>
+&lt;a href="#resource-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Resource allocation&lt;/li>
+&lt;li>Capacity planning&lt;/li>
+&lt;li>Skills matching&lt;/li>
+&lt;li>Resource leveling&lt;/li>
+&lt;li>Utilization tracking&lt;/li>
+&lt;/ul>
+&lt;h3>Time &amp;amp; Expense Tracking&lt;span class="hx:absolute hx:-mt-20" id="time--expense-tracking">&lt;/span>
+&lt;a href="#time--expense-tracking" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Timesheet management&lt;/li>
+&lt;li>Expense reports&lt;/li>
+&lt;li>Billable hours&lt;/li>
+&lt;li>Cost tracking&lt;/li>
+&lt;li>Budget monitoring&lt;/li>
+&lt;/ul>
+&lt;h3>Task Management&lt;span class="hx:absolute hx:-mt-20" id="task-management">&lt;/span>
+&lt;a href="#task-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Task assignment&lt;/li>
+&lt;li>Priority setting&lt;/li>
+&lt;li>Status tracking&lt;/li>
+&lt;li>Subtasks&lt;/li>
+&lt;li>Recurring tasks&lt;/li>
+&lt;/ul>
+&lt;h3>Collaboration&lt;span class="hx:absolute hx:-mt-20" id="collaboration">&lt;/span>
+&lt;a href="#collaboration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Team workspaces&lt;/li>
+&lt;li>Document sharing&lt;/li>
+&lt;li>Discussion boards&lt;/li>
+&lt;li>Activity feeds&lt;/li>
+&lt;li>Notifications&lt;/li>
+&lt;/ul>
+&lt;h3>Project Financials&lt;span class="hx:absolute hx:-mt-20" id="project-financials">&lt;/span>
+&lt;a href="#project-financials" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Budget management&lt;/li>
+&lt;li>Cost tracking&lt;/li>
+&lt;li>Revenue recognition&lt;/li>
+&lt;li>Profitability analysis&lt;/li>
+&lt;li>Invoice generation&lt;/li>
+&lt;/ul>
+&lt;h3>Risk Management&lt;span class="hx:absolute hx:-mt-20" id="risk-management">&lt;/span>
+&lt;a href="#risk-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Risk identification&lt;/li>
+&lt;li>Impact assessment&lt;/li>
+&lt;li>Mitigation planning&lt;/li>
+&lt;li>Issue tracking&lt;/li>
+&lt;li>Change requests&lt;/li>
+&lt;/ul>
+&lt;h2>Project Types Supported&lt;span class="hx:absolute hx:-mt-20" id="project-types-supported">&lt;/span>
+&lt;a href="#project-types-supported" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Fixed Price&lt;/strong>: Projects with defined scope and budget&lt;/li>
+&lt;li>&lt;strong>Time &amp;amp; Materials&lt;/strong>: Hourly billing projects&lt;/li>
+&lt;li>&lt;strong>Retainer&lt;/strong>: Ongoing service agreements&lt;/li>
+&lt;li>&lt;strong>Internal&lt;/strong>: Non-billable internal projects&lt;/li>
+&lt;li>&lt;strong>Agile&lt;/strong>: Sprint-based development projects&lt;/li>
+&lt;/ul>
+&lt;h2>Methodologies&lt;span class="hx:absolute hx:-mt-20" id="methodologies">&lt;/span>
+&lt;a href="#methodologies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Waterfall&lt;/li>
+&lt;li>Agile/Scrum&lt;/li>
+&lt;li>Kanban&lt;/li>
+&lt;li>Hybrid approaches&lt;/li>
+&lt;li>Custom methodologies&lt;/li>
+&lt;/ul>
+&lt;h2>Analytics &amp;amp; Reporting&lt;span class="hx:absolute hx:-mt-20" id="analytics--reporting">&lt;/span>
+&lt;a href="#analytics--reporting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Project dashboards&lt;/li>
+&lt;li>Progress reports&lt;/li>
+&lt;li>Resource reports&lt;/li>
+&lt;li>Financial reports&lt;/li>
+&lt;li>Portfolio analytics&lt;/li>
+&lt;li>Custom reports&lt;/li>
+&lt;/ul>
+&lt;h2>Integration&lt;span class="hx:absolute hx:-mt-20" id="integration">&lt;/span>
+&lt;a href="#integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Financial Accounting for billing and costing&lt;/li>
+&lt;li>HR for resource management&lt;/li>
+&lt;li>CRM for customer projects&lt;/li>
+&lt;li>Document Management&lt;/li>
+&lt;li>Communication tools&lt;/li>
+&lt;/ul>
+&lt;h2>Mobile Project Management&lt;span class="hx:absolute hx:-mt-20" id="mobile-project-management">&lt;/span>
+&lt;a href="#mobile-project-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Project updates&lt;/li>
+&lt;li>Time entry&lt;/li>
+&lt;li>Task management&lt;/li>
+&lt;li>Approvals&lt;/li>
+&lt;li>Document access&lt;/li>
+&lt;/ul>
+&lt;h2>Benefits&lt;span class="hx:absolute hx:-mt-20" id="benefits">&lt;/span>
+&lt;a href="#benefits" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Visibility&lt;/strong>: Real-time project status&lt;/li>
+&lt;li>&lt;strong>Efficiency&lt;/strong>: Optimize resource utilization&lt;/li>
+&lt;li>&lt;strong>Control&lt;/strong>: Stay on budget and schedule&lt;/li>
+&lt;li>&lt;strong>Collaboration&lt;/strong>: Improve team communication&lt;/li>
+&lt;li>&lt;strong>Profitability&lt;/strong>: Maximize project margins&lt;/li>
+&lt;/ul>
+&lt;h2>Getting Started&lt;span class="hx:absolute hx:-mt-20" id="getting-started">&lt;/span>
+&lt;a href="#getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>Define project templates&lt;/li>
+&lt;li>Set up resource pools&lt;/li>
+&lt;li>Configure billing rates&lt;/li>
+&lt;li>Create project workflows&lt;/li>
+&lt;li>Train project teams&lt;/li>
+&lt;/ol>
+&lt;p>For detailed documentation, visit our &lt;a href="https://wiki.bigledger.com/docs/projects/" >Project Management Guide&lt;/a> or contact support.&lt;/p></description></item></channel></rss>
