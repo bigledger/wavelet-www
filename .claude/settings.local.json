@@ -29,7 +29,8 @@
       "Bash(git commit:*)",
       "Bash(aws s3api get-bucket-website:*)",
       "Bash(gh workflow view:*)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(chmod:*)"
     ],
     "deny": [],
     "ask": []
