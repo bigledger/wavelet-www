@@ -30,7 +30,8 @@
       "Bash(aws s3api get-bucket-website:*)",
       "Bash(gh workflow view:*)",
       "WebFetch(domain:github.com)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(aws s3api get-bucket-location:*)"
     ],
     "deny": [],
     "ask": []
