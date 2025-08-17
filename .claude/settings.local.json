@@ -26,7 +26,8 @@
       "Bash(gh api:*)",
       "Bash(aws cloudfront create-invalidation:*)",
       "Bash(git clone:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(aws s3api get-bucket-website:*)"
     ],
     "deny": [],
     "ask": []
