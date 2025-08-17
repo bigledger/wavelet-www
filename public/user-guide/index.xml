@@ -1,204 +1,322 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – User Guide</title><link>https://wiki.bigledger.com/user-guide/</link><description>Recent content in User Guide on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/user-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started</title><link>https://wiki.bigledger.com/user-guide/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/getting-started/</guid><description>
-&lt;p>Welcome to BigLedger! This comprehensive business management platform combines powerful ERP capabilities with modern technology to help your business thrive.&lt;/p>
-&lt;h2>What is BigLedger?&lt;span class="hx:absolute hx:-mt-20" id="what-is-bigledger">&lt;/span>
-&lt;a href="#what-is-bigledger" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger is an integrated Enterprise Resource Planning (ERP) system that provides:&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Business Operations Guide</title><link>https://wiki.bigledger.com/user-guide/</link><description>Recent content in Business Operations Guide on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/user-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Platform Overview</title><link>https://wiki.bigledger.com/user-guide/platform-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/platform-overview/</guid><description>
+&lt;h1>Understanding BigLedger: Your Business Operating System&lt;/h1>&lt;p>BigLedger revolutionizes enterprise management by providing a Business Operating System (BOS) that functions like Android for your business operations. Instead of a monolithic ERP, BigLedger offers a flexible, applet-based architecture that adapts to your unique business needs.&lt;/p>
+&lt;h2>The Business Operating System Concept&lt;span class="hx:absolute hx:-mt-20" id="the-business-operating-system-concept">&lt;/span>
+&lt;a href="#the-business-operating-system-concept" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>What Makes BigLedger Different&lt;span class="hx:absolute hx:-mt-20" id="what-makes-bigledger-different">&lt;/span>
+&lt;a href="#what-makes-bigledger-different" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Unlike traditional ERPs that force you into rigid structures, BigLedger provides:&lt;/p>
+&lt;p>&lt;strong>🏗️ Platform Foundation&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>Financial Management&lt;/strong>: Complete accounting and financial control&lt;/li>
-&lt;li>&lt;strong>Sales &amp;amp; CRM&lt;/strong>: Customer relationship and sales pipeline management&lt;/li>
-&lt;li>&lt;strong>Operations&lt;/strong>: Inventory, procurement, and manufacturing&lt;/li>
-&lt;li>&lt;strong>Human Resources&lt;/strong>: Employee and payroll management&lt;/li>
-&lt;li>&lt;strong>Business Intelligence&lt;/strong>: Real-time analytics and reporting&lt;/li>
+&lt;li>Core operating system that manages data, security, and infrastructure&lt;/li>
+&lt;li>Unified operational data hub connecting all business functions&lt;/li>
+&lt;li>Enterprise-grade performance and scalability&lt;/li>
+&lt;li>Built-in compliance and governance framework&lt;/li>
 &lt;/ul>
-&lt;h2>Prerequisites&lt;span class="hx:absolute hx:-mt-20" id="prerequisites">&lt;/span>
-&lt;a href="#prerequisites" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Before you begin, ensure you have:&lt;/p>
+&lt;p>&lt;strong>📱 Applet Architecture&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>An active BigLedger account&lt;/li>
-&lt;li>Admin or appropriate user permissions&lt;/li>
-&lt;li>Internet connection&lt;/li>
-&lt;li>Modern web browser (Chrome, Firefox, Safari, Edge)&lt;/li>
+&lt;li>Modular business applications you can mix and match&lt;/li>
+&lt;li>Install only what you need, when you need it&lt;/li>
+&lt;li>Seamless integration between all applets&lt;/li>
+&lt;li>Custom applet development capabilities&lt;/li>
 &lt;/ul>
-&lt;h2>First Steps&lt;span class="hx:absolute hx:-mt-20" id="first-steps">&lt;/span>
-&lt;a href="#first-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1. Account Setup&lt;span class="hx:absolute hx:-mt-20" id="1-account-setup">&lt;/span>
-&lt;a href="#1-account-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Create your BigLedger account:&lt;/p>
-&lt;ol>
-&lt;li>Visit &lt;a href="https://bigledger.com" target="_blank" rel="noopener">BigLedger Platform&lt;/a>&lt;/li>
-&lt;li>Click &amp;ldquo;Start Free Trial&amp;rdquo; or &amp;ldquo;Sign Up&amp;rdquo;&lt;/li>
-&lt;li>Choose your deployment option:
+&lt;p>&lt;strong>🏪 Applet Store Ecosystem&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Cloud (recommended for most businesses)&lt;/li>
-&lt;li>On-premise (for specific compliance needs)&lt;/li>
+&lt;li>Browse hundreds of pre-built business applets&lt;/li>
+&lt;li>Industry-specific solutions and templates&lt;/li>
+&lt;li>Third-party integrations and connectors&lt;/li>
+&lt;li>Community-contributed extensions&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>Follow the registration process&lt;/li>
-&lt;li>Verify your email&lt;/li>
-&lt;/ol>
-&lt;h3>2. Initial Configuration&lt;span class="hx:absolute hx:-mt-20" id="2-initial-configuration">&lt;/span>
-&lt;a href="#2-initial-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>After your first login, the setup wizard will guide you through:&lt;/p>
-&lt;h4>Company Information&lt;span class="hx:absolute hx:-mt-20" id="company-information">&lt;/span>
-&lt;a href="#company-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>Company name and legal entity&lt;/li>
-&lt;li>Tax identification numbers&lt;/li>
-&lt;li>Fiscal year settings&lt;/li>
-&lt;li>Base currency&lt;/li>
-&lt;li>Time zone&lt;/li>
-&lt;/ul>
-&lt;h4>Module Selection&lt;span class="hx:absolute hx:-mt-20" id="module-selection">&lt;/span>
-&lt;a href="#module-selection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Choose which modules to activate:&lt;/p>
+&lt;h2>Core Platform Components&lt;span class="hx:absolute hx:-mt-20" id="core-platform-components">&lt;/span>
+&lt;a href="#core-platform-components" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1. Operational Data Hub&lt;span class="hx:absolute hx:-mt-20" id="1-operational-data-hub">&lt;/span>
+&lt;a href="#1-operational-data-hub" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The heart of BigLedger - a unified data platform that:&lt;/p>
 &lt;ul>
-&lt;li>Financial Accounting (recommended to start)&lt;/li>
-&lt;li>Point of Sales&lt;/li>
+&lt;li>&lt;strong>Master Data Management&lt;/strong>: Single source of truth for customers, products, employees&lt;/li>
+&lt;li>&lt;strong>Real-time Synchronization&lt;/strong>: Instant data updates across all applets&lt;/li>
+&lt;li>&lt;strong>Data Intelligence&lt;/strong>: Built-in analytics and machine learning capabilities&lt;/li>
+&lt;li>&lt;strong>API Gateway&lt;/strong>: RESTful APIs for all data operations&lt;/li>
+&lt;/ul>
+&lt;h3>2. Applet Framework&lt;span class="hx:absolute hx:-mt-20" id="2-applet-framework">&lt;/span>
+&lt;a href="#2-applet-framework" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Each applet in BigLedger:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Self-contained&lt;/strong>: Includes its own UI, logic, and data models&lt;/li>
+&lt;li>&lt;strong>Interoperable&lt;/strong>: Communicates seamlessly with other applets&lt;/li>
+&lt;li>&lt;strong>Configurable&lt;/strong>: Extensive customization without coding&lt;/li>
+&lt;li>&lt;strong>Upgradeable&lt;/strong>: Independent version management&lt;/li>
+&lt;/ul>
+&lt;h3>3. Platform Services&lt;span class="hx:absolute hx:-mt-20" id="3-platform-services">&lt;/span>
+&lt;a href="#3-platform-services" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Shared services available to all applets:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Identity &amp;amp; Access Management&lt;/strong>: Single sign-on, role-based permissions&lt;/li>
+&lt;li>&lt;strong>Workflow Engine&lt;/strong>: Visual workflow designer, approval chains&lt;/li>
+&lt;li>&lt;strong>Document Management&lt;/strong>: Centralized file storage and versioning&lt;/li>
+&lt;li>&lt;strong>Notification System&lt;/strong>: Email, SMS, in-app notifications&lt;/li>
+&lt;li>&lt;strong>Audit Trail&lt;/strong>: Complete activity logging and compliance tracking&lt;/li>
+&lt;/ul>
+&lt;h2>Applet Categories&lt;span class="hx:absolute hx:-mt-20" id="applet-categories">&lt;/span>
+&lt;a href="#applet-categories" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Business Applets&lt;span class="hx:absolute hx:-mt-20" id="core-business-applets">&lt;/span>
+&lt;a href="#core-business-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Financial Suite&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>General Ledger&lt;/li>
+&lt;li>Accounts Payable/Receivable&lt;/li>
+&lt;li>Fixed Assets&lt;/li>
+&lt;li>Cash Management&lt;/li>
+&lt;li>Financial Reporting&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Sales &amp;amp; Marketing Suite&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>CRM&lt;/li>
+&lt;li>Sales Orders&lt;/li>
+&lt;li>Quotations&lt;/li>
+&lt;li>Marketing Automation&lt;/li>
+&lt;li>Customer Portal&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Supply Chain Suite&lt;/strong>&lt;/p>
+&lt;ul>
 &lt;li>Inventory Management&lt;/li>
-&lt;li>Customer Relationship Management&lt;/li>
-&lt;li>Human Resources&lt;/li>
+&lt;li>Purchase Orders&lt;/li>
+&lt;li>Warehouse Management&lt;/li>
+&lt;li>Manufacturing&lt;/li>
+&lt;li>Quality Control&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Human Capital Suite&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Employee Database&lt;/li>
+&lt;li>Payroll Processing&lt;/li>
+&lt;li>Time &amp;amp; Attendance&lt;/li>
+&lt;li>Performance Management&lt;/li>
+&lt;li>Learning Management&lt;/li>
+&lt;/ul>
+&lt;h3>Industry-Specific Applets&lt;span class="hx:absolute hx:-mt-20" id="industry-specific-applets">&lt;/span>
+&lt;a href="#industry-specific-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Manufacturing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Production Planning&lt;/li>
+&lt;li>Bill of Materials&lt;/li>
+&lt;li>Shop Floor Control&lt;/li>
+&lt;li>Quality Assurance&lt;/li>
+&lt;li>Maintenance Management&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Retail&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Point of Sale&lt;/li>
+&lt;li>Multi-store Management&lt;/li>
+&lt;li>Loyalty Programs&lt;/li>
+&lt;li>Merchandising&lt;/li>
+&lt;li>E-commerce Integration&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Services&lt;/strong>&lt;/p>
+&lt;ul>
 &lt;li>Project Management&lt;/li>
+&lt;li>Time Tracking&lt;/li>
+&lt;li>Resource Planning&lt;/li>
+&lt;li>Service Contracts&lt;/li>
+&lt;li>Billing &amp;amp; Invoicing&lt;/li>
 &lt;/ul>
-&lt;h4>User Setup&lt;span class="hx:absolute hx:-mt-20" id="user-setup">&lt;/span>
-&lt;a href="#user-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>Create user accounts&lt;/li>
-&lt;li>Assign roles and permissions&lt;/li>
-&lt;li>Set up departments/teams&lt;/li>
-&lt;li>Configure approval hierarchies&lt;/li>
+&lt;p>&lt;strong>Healthcare&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Patient Management&lt;/li>
+&lt;li>Appointment Scheduling&lt;/li>
+&lt;li>Medical Records&lt;/li>
+&lt;li>Billing &amp;amp; Insurance&lt;/li>
+&lt;li>Compliance Tracking&lt;/li>
 &lt;/ul>
-&lt;h3>3. Dashboard Overview&lt;span class="hx:absolute hx:-mt-20" id="3-dashboard-overview">&lt;/span>
-&lt;a href="#3-dashboard-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>After setup, you&amp;rsquo;ll see the main dashboard with:&lt;/p>
-&lt;h4>Key Performance Indicators&lt;span class="hx:absolute hx:-mt-20" id="key-performance-indicators">&lt;/span>
-&lt;a href="#key-performance-indicators" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>Revenue and expenses&lt;/li>
-&lt;li>Cash position&lt;/li>
-&lt;li>Sales pipeline&lt;/li>
-&lt;li>Inventory levels&lt;/li>
-&lt;li>Outstanding receivables/payables&lt;/li>
-&lt;/ul>
-&lt;h4>Quick Actions&lt;span class="hx:absolute hx:-mt-20" id="quick-actions">&lt;/span>
-&lt;a href="#quick-actions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>Create invoice&lt;/li>
-&lt;li>Record payment&lt;/li>
-&lt;li>Add customer&lt;/li>
-&lt;li>Create purchase order&lt;/li>
-&lt;li>View reports&lt;/li>
-&lt;/ul>
-&lt;h4>Activity Feed&lt;span class="hx:absolute hx:-mt-20" id="activity-feed">&lt;/span>
-&lt;a href="#activity-feed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>Recent transactions&lt;/li>
-&lt;li>Pending approvals&lt;/li>
-&lt;li>System notifications&lt;/li>
-&lt;li>Task reminders&lt;/li>
-&lt;/ul>
-&lt;h3>4. Basic Operations&lt;span class="hx:absolute hx:-mt-20" id="4-basic-operations">&lt;/span>
-&lt;a href="#4-basic-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Start with these fundamental operations:&lt;/p>
-&lt;h4>Financial Operations&lt;span class="hx:absolute hx:-mt-20" id="financial-operations">&lt;/span>
-&lt;a href="#financial-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>Setting up Chart of Accounts&lt;/li>
-&lt;li>Recording journal entries&lt;/li>
-&lt;li>Creating invoices&lt;/li>
-&lt;li>Processing payments&lt;/li>
-&lt;li>Bank reconciliation&lt;/li>
-&lt;/ul>
-&lt;h4>Sales Operations&lt;span class="hx:absolute hx:-mt-20" id="sales-operations">&lt;/span>
-&lt;a href="#sales-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>Adding customers&lt;/li>
-&lt;li>Creating quotes&lt;/li>
-&lt;li>Processing orders&lt;/li>
-&lt;li>Managing pipeline&lt;/li>
-&lt;li>Tracking commissions&lt;/li>
-&lt;/ul>
-&lt;h4>Inventory Operations&lt;span class="hx:absolute hx:-mt-20" id="inventory-operations">&lt;/span>
-&lt;a href="#inventory-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>Adding products&lt;/li>
-&lt;li>Managing stock levels&lt;/li>
-&lt;li>Processing transfers&lt;/li>
-&lt;li>Running stock counts&lt;/li>
-&lt;li>Setting reorder points&lt;/li>
-&lt;/ul>
-&lt;h2>Implementation Roadmap&lt;span class="hx:absolute hx:-mt-20" id="implementation-roadmap">&lt;/span>
-&lt;a href="#implementation-roadmap" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Phase 1: Foundation (Week 1-2)&lt;span class="hx:absolute hx:-mt-20" id="phase-1-foundation-week-1-2">&lt;/span>
-&lt;a href="#phase-1-foundation-week-1-2" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>Complete initial setup&lt;/li>
-&lt;li>Import Chart of Accounts&lt;/li>
-&lt;li>Set up tax configuration&lt;/li>
-&lt;li>Add key users&lt;/li>
-&lt;li>Configure basic workflows&lt;/li>
+&lt;h2>How BigLedger Works&lt;span class="hx:absolute hx:-mt-20" id="how-bigledger-works">&lt;/span>
+&lt;a href="#how-bigledger-works" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>The Applet Lifecycle&lt;span class="hx:absolute hx:-mt-20" id="the-applet-lifecycle">&lt;/span>
+&lt;a href="#the-applet-lifecycle" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Discovery&lt;/strong>: Browse the Applet Store for solutions&lt;/li>
+&lt;li>&lt;strong>Evaluation&lt;/strong>: Test applets in sandbox environment&lt;/li>
+&lt;li>&lt;strong>Installation&lt;/strong>: One-click deployment to your platform&lt;/li>
+&lt;li>&lt;strong>Configuration&lt;/strong>: Customize to match your processes&lt;/li>
+&lt;li>&lt;strong>Integration&lt;/strong>: Connect with other applets and systems&lt;/li>
+&lt;li>&lt;strong>Operation&lt;/strong>: Run your business with real-time data&lt;/li>
+&lt;li>&lt;strong>Optimization&lt;/strong>: Continuous improvement with analytics&lt;/li>
 &lt;/ol>
-&lt;h3>Phase 2: Core Modules (Week 3-4)&lt;span class="hx:absolute hx:-mt-20" id="phase-2-core-modules-week-3-4">&lt;/span>
-&lt;a href="#phase-2-core-modules-week-3-4" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>Implement Financial Accounting&lt;/li>
-&lt;li>Set up customer database&lt;/li>
-&lt;li>Configure products/services&lt;/li>
-&lt;li>Test transaction flows&lt;/li>
-&lt;li>Train core team&lt;/li>
-&lt;/ol>
-&lt;h3>Phase 3: Extended Modules (Week 5-8)&lt;span class="hx:absolute hx:-mt-20" id="phase-3-extended-modules-week-5-8">&lt;/span>
-&lt;a href="#phase-3-extended-modules-week-5-8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>Add additional modules as needed&lt;/li>
-&lt;li>Configure advanced features&lt;/li>
-&lt;li>Set up integrations&lt;/li>
-&lt;li>Customize reports&lt;/li>
-&lt;li>Train all users&lt;/li>
-&lt;/ol>
-&lt;h3>Phase 4: Go Live (Week 9+)&lt;span class="hx:absolute hx:-mt-20" id="phase-4-go-live-week-9">&lt;/span>
-&lt;a href="#phase-4-go-live-week-9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>Final data migration&lt;/li>
-&lt;li>User acceptance testing&lt;/li>
-&lt;li>Final training&lt;/li>
-&lt;li>Parallel run (if needed)&lt;/li>
-&lt;li>Full production launch&lt;/li>
-&lt;/ol>
-&lt;h2>Training Resources&lt;span class="hx:absolute hx:-mt-20" id="training-resources">&lt;/span>
-&lt;a href="#training-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Self-Service Learning&lt;span class="hx:absolute hx:-mt-20" id="self-service-learning">&lt;/span>
-&lt;a href="#self-service-learning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/" >Video Tutorials&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/" >Module Documentation&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/docs/best-practices/" >Best Practices Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://forum.bigledger.com" target="_blank" rel="noopener">Community Forum&lt;/a>&lt;/li>
+&lt;h3>Data Flow Architecture&lt;span class="hx:absolute hx:-mt-20" id="data-flow-architecture">&lt;/span>
+&lt;a href="#data-flow-architecture" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;pre>&lt;code>[User Interface Layer]
+↓
+[Applet Layer] → [Integration Bus] → [External Systems]
+↓
+[Platform Services Layer]
+↓
+[Operational Data Hub]
+↓
+[Database Layer]&lt;/code>&lt;/pre>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h2>Key Platform Features&lt;span class="hx:absolute hx:-mt-20" id="key-platform-features">&lt;/span>
+&lt;a href="#key-platform-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Multi-Tenancy &amp;amp; Security&lt;span class="hx:absolute hx:-mt-20" id="multi-tenancy--security">&lt;/span>
+&lt;a href="#multi-tenancy--security" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Data Isolation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Complete data separation between companies&lt;/li>
+&lt;li>Row-level security within companies&lt;/li>
+&lt;li>Field-level encryption for sensitive data&lt;/li>
+&lt;li>GDPR and compliance ready&lt;/li>
 &lt;/ul>
-&lt;h3>Instructor-Led Training&lt;span class="hx:absolute hx:-mt-20" id="instructor-led-training">&lt;/span>
-&lt;a href="#instructor-led-training" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>Webinar series (weekly)&lt;/li>
-&lt;li>On-site training (available)&lt;/li>
-&lt;li>Custom training programs&lt;/li>
-&lt;li>Certification courses&lt;/li>
+&lt;p>&lt;strong>Access Control&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Role-based permissions&lt;/li>
+&lt;li>Attribute-based access control&lt;/li>
+&lt;li>IP whitelisting&lt;/li>
+&lt;li>Two-factor authentication&lt;/li>
+&lt;li>Session management&lt;/li>
 &lt;/ul>
-&lt;h2>Getting Help&lt;span class="hx:absolute hx:-mt-20" id="getting-help">&lt;/span>
-&lt;a href="#getting-help" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Support Channels&lt;span class="hx:absolute hx:-mt-20" id="support-channels">&lt;/span>
-&lt;a href="#support-channels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>In-App Help&lt;/strong>: Click the help icon for contextual assistance&lt;/li>
-&lt;li>&lt;strong>Knowledge Base&lt;/strong>: Searchable documentation&lt;/li>
-&lt;li>&lt;strong>Email Support&lt;/strong>: &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Phone Support&lt;/strong>: Available for premium plans&lt;/li>
-&lt;li>&lt;strong>Community Forum&lt;/strong>: Get help from other users&lt;/li>
+&lt;h3>Integration Capabilities&lt;span class="hx:absolute hx:-mt-20" id="integration-capabilities">&lt;/span>
+&lt;a href="#integration-capabilities" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Native Integrations&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Banking systems&lt;/li>
+&lt;li>Payment gateways&lt;/li>
+&lt;li>Shipping providers&lt;/li>
+&lt;li>Tax services&lt;/li>
+&lt;li>Communication platforms&lt;/li>
 &lt;/ul>
-&lt;h3>Best Practices for New Users&lt;span class="hx:absolute hx:-mt-20" id="best-practices-for-new-users">&lt;/span>
-&lt;a href="#best-practices-for-new-users" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>Start with one module and expand gradually&lt;/li>
-&lt;li>Use the sandbox environment for testing&lt;/li>
-&lt;li>Document your processes&lt;/li>
-&lt;li>Regular backups (automated in cloud)&lt;/li>
-&lt;li>Stay updated with release notes&lt;/li>
-&lt;/ol>
-&lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
-&lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Now that you&amp;rsquo;re familiar with the basics:&lt;/p>
-&lt;ol>
-&lt;li>&lt;strong>Explore Modules&lt;/strong>: Visit our &lt;a href="https://wiki.bigledger.com/modules/" >Modules Overview&lt;/a> to understand capabilities&lt;/li>
-&lt;li>&lt;strong>Review Documentation&lt;/strong>: Check module-specific guides for detailed setup&lt;/li>
-&lt;li>&lt;strong>Join Training&lt;/strong>: Register for upcoming webinars&lt;/li>
-&lt;li>&lt;strong>Connect with Community&lt;/strong>: Join our user forum&lt;/li>
-&lt;li>&lt;strong>Plan Your Implementation&lt;/strong>: Use our implementation templates&lt;/li>
-&lt;/ol>
-&lt;h2>Quick Reference&lt;span class="hx:absolute hx:-mt-20" id="quick-reference">&lt;/span>
-&lt;a href="#quick-reference" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Keyboard Shortcuts&lt;span class="hx:absolute hx:-mt-20" id="keyboard-shortcuts">&lt;/span>
-&lt;a href="#keyboard-shortcuts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;code>Ctrl/Cmd + K&lt;/code>: Quick search&lt;/li>
-&lt;li>&lt;code>Ctrl/Cmd + N&lt;/code>: New transaction&lt;/li>
-&lt;li>&lt;code>Ctrl/Cmd + S&lt;/code>: Save&lt;/li>
-&lt;li>&lt;code>Ctrl/Cmd + P&lt;/code>: Print&lt;/li>
-&lt;li>&lt;code>F1&lt;/code>: Help&lt;/li>
+&lt;p>&lt;strong>Integration Methods&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>REST APIs&lt;/li>
+&lt;li>Webhooks&lt;/li>
+&lt;li>File-based imports/exports&lt;/li>
+&lt;li>Direct database connections&lt;/li>
+&lt;li>Message queuing&lt;/li>
 &lt;/ul>
-&lt;h3>Common Tasks&lt;span class="hx:absolute hx:-mt-20" id="common-tasks">&lt;/span>
-&lt;a href="#common-tasks" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/first-invoice/" >Creating Your First Invoice&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/product-setup/" >Setting Up Products&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/customer-setup/" >Adding Customers&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/basic-reports/" >Running Reports&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/month-end/" >Month-End Procedures&lt;/a>&lt;/li>
+&lt;h3>Scalability &amp;amp; Performance&lt;span class="hx:absolute hx:-mt-20" id="scalability--performance">&lt;/span>
+&lt;a href="#scalability--performance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Infrastructure&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Cloud-native architecture&lt;/li>
+&lt;li>Auto-scaling capabilities&lt;/li>
+&lt;li>Load balancing&lt;/li>
+&lt;li>CDN for global access&lt;/li>
+&lt;li>99.9% uptime SLA&lt;/li>
 &lt;/ul>
-&lt;p>Welcome to BigLedger - Your Complete Business Management Solution!&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Performance Features&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>In-memory caching&lt;/li>
+&lt;li>Asynchronous processing&lt;/li>
+&lt;li>Real-time data streaming&lt;/li>
+&lt;li>Optimized queries&lt;/li>
+&lt;li>Background job processing&lt;/li>
+&lt;/ul>
+&lt;h2>Platform Advantages&lt;span class="hx:absolute hx:-mt-20" id="platform-advantages">&lt;/span>
+&lt;a href="#platform-advantages" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>For Business Users&lt;span class="hx:absolute hx:-mt-20" id="for-business-users">&lt;/span>
+&lt;a href="#for-business-users" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Flexibility&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Choose only the applets you need&lt;/li>
+&lt;li>Scale up or down as required&lt;/li>
+&lt;li>Customize without programming&lt;/li>
+&lt;li>Adapt to changing requirements&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>User Experience&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Consistent interface across applets&lt;/li>
+&lt;li>Mobile-responsive design&lt;/li>
+&lt;li>Personalized dashboards&lt;/li>
+&lt;li>Contextual help and guidance&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Cost Efficiency&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Pay only for what you use&lt;/li>
+&lt;li>No expensive customizations&lt;/li>
+&lt;li>Reduced IT overhead&lt;/li>
+&lt;li>Faster implementation&lt;/li>
+&lt;/ul>
+&lt;h3>For IT Teams&lt;span class="hx:absolute hx:-mt-20" id="for-it-teams">&lt;/span>
+&lt;a href="#for-it-teams" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Simplified Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Centralized administration&lt;/li>
+&lt;li>Automated updates and patches&lt;/li>
+&lt;li>Built-in monitoring and alerts&lt;/li>
+&lt;li>Comprehensive audit logs&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Development Platform&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Low-code/no-code tools&lt;/li>
+&lt;li>API-first architecture&lt;/li>
+&lt;li>Extensive documentation&lt;/li>
+&lt;li>Developer community&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Enterprise Ready&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>High availability&lt;/li>
+&lt;li>Disaster recovery&lt;/li>
+&lt;li>Data backup and archival&lt;/li>
+&lt;li>Compliance certifications&lt;/li>
+&lt;/ul>
+&lt;h2>Deployment Options&lt;span class="hx:absolute hx:-mt-20" id="deployment-options">&lt;/span>
+&lt;a href="#deployment-options" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Cloud Deployment (Recommended)&lt;span class="hx:absolute hx:-mt-20" id="cloud-deployment-recommended">&lt;/span>
+&lt;a href="#cloud-deployment-recommended" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Public Cloud&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Fully managed by BigLedger&lt;/li>
+&lt;li>Automatic updates and maintenance&lt;/li>
+&lt;li>Global availability&lt;/li>
+&lt;li>Shared infrastructure&lt;/li>
+&lt;li>Best for: SMBs, startups&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Private Cloud&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Dedicated infrastructure&lt;/li>
+&lt;li>Enhanced security options&lt;/li>
+&lt;li>Custom SLAs&lt;/li>
+&lt;li>Isolated environment&lt;/li>
+&lt;li>Best for: Enterprises, regulated industries&lt;/li>
+&lt;/ul>
+&lt;h3>On-Premise Deployment&lt;span class="hx:absolute hx:-mt-20" id="on-premise-deployment">&lt;/span>
+&lt;a href="#on-premise-deployment" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Self-Hosted&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Complete control over infrastructure&lt;/li>
+&lt;li>Air-gapped security option&lt;/li>
+&lt;li>Custom integration possibilities&lt;/li>
+&lt;li>Local data residency&lt;/li>
+&lt;li>Best for: High-security requirements&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Hybrid Deployment&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mix of cloud and on-premise&lt;/li>
+&lt;li>Selective data location&lt;/li>
+&lt;li>Gradual cloud migration&lt;/li>
+&lt;li>Compliance flexibility&lt;/li>
+&lt;li>Best for: Transitioning enterprises&lt;/li>
+&lt;/ul>
+&lt;h2>Getting Started Checklist&lt;span class="hx:absolute hx:-mt-20" id="getting-started-checklist">&lt;/span>
+&lt;a href="#getting-started-checklist" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Pre-Implementation&lt;span class="hx:absolute hx:-mt-20" id="pre-implementation">&lt;/span>
+&lt;a href="#pre-implementation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Define business requirements&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Identify key stakeholders&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Select deployment option&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Plan data migration strategy&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Allocate resources and budget&lt;/li>
+&lt;/ul>
+&lt;h3>Platform Setup&lt;span class="hx:absolute hx:-mt-20" id="platform-setup">&lt;/span>
+&lt;a href="#platform-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Create BigLedger account&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Configure organization settings&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Set up user accounts and roles&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Install core applets&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Configure security settings&lt;/li>
+&lt;/ul>
+&lt;h3>Applet Configuration&lt;span class="hx:absolute hx:-mt-20" id="applet-configuration">&lt;/span>
+&lt;a href="#applet-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Select industry-specific applets&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Configure applet settings&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Set up integrations&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Import master data&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Test workflows&lt;/li>
+&lt;/ul>
+&lt;h3>Go-Live Preparation&lt;span class="hx:absolute hx:-mt-20" id="go-live-preparation">&lt;/span>
+&lt;a href="#go-live-preparation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> User training completion&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Data validation&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Process documentation&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Backup procedures&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Support channels setup&lt;/li>
+&lt;/ul>
+&lt;h2>Learn More&lt;span class="hx:absolute hx:-mt-20" id="learn-more">&lt;/span>
+&lt;a href="#learn-more" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/implementation/" >Implementation Guide&lt;/a>&lt;/strong> - Detailed deployment instructions&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/" >Applet Catalog&lt;/a>&lt;/strong> - Browse available business applets&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/api/" >API Documentation&lt;/a>&lt;/strong> - Technical integration details&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Industry recommendations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://academy.bigledger.com" target="_blank" rel="noopener">Training Academy&lt;/a>&lt;/strong> - Comprehensive training programs&lt;/li>
+&lt;/ul></description></item></channel></rss>

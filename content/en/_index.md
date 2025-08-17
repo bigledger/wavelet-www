@@ -4,68 +4,187 @@ toc: false
 ---
 
 {{< hextra/hero-badge >}}
-  <span>Welcome to the Future of Blockchain</span>
+  <span>Business Operating System</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  Build on BigLedger&nbsp;<br class="sm:block hidden" />
-  Next-Generation Blockchain Platform
+  BigLedger Platform&nbsp;<br class="sm:block hidden" />
+  Your Complete Business OS
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Comprehensive documentation for developers and users&nbsp;<br class="sm:block hidden" />
-  Enterprise-grade blockchain infrastructure with lightning-fast transactions
+  Integrated business management platform with modular applets&nbsp;<br class="sm:block hidden" />
+  Deploy, customize, and scale your enterprise operations
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="mb-6">
-{{< hextra/hero-button text="Get Started" link="/user-guide/getting-started" >}}
+{{< hextra/hero-button text="Launch Your Platform" link="/implementation/" >}}
 </div>
 
-## 📚 Documentation Sections
+## 🏢 Platform Overview
 
-### For End Users
-Learn how to use BigLedger effectively with our user-friendly guides.
+BigLedger is a comprehensive Business Operating System that provides an integrated suite of business applets, similar to how Android powers mobile devices. Our platform serves as your operational data hub, connecting all aspects of your enterprise.
 
-- **[User Guide](/user-guide/)** - Complete guide for BigLedger end users
-- **[Getting Started](/user-guide/getting-started/)** - Quick start guide for new users
-- **[Tutorials](/tutorials/)** - Step-by-step tutorials for common use cases
+### Core Platform Components
 
-### For Developers
-Technical documentation, API references, and integration guides.
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
 
-- **[Developer Documentation](/developer-docs/)** - Technical documentation for developers
-- **[Installation Guide](/developer-docs/installation/)** - SDK installation and configuration
-- **[API Reference](/api-reference/)** - Complete API documentation
+**📊 Operational Data Hub**
+- Unified data platform
+- Real-time analytics
+- Cross-applet integration
+- Master data management
 
-## 🚀 Quick Start
+**📱 Applet Ecosystem**
+- Modular business applications
+- Applet Store marketplace
+- Custom applet development
+- Seamless integrations
 
-Get started with BigLedger in minutes:
+**🔧 Platform Services**
+- Workflow automation
+- Security & compliance
+- API gateway
+- Performance monitoring
 
-1. **Create Account** - Sign up at [bigledger.com](https://bigledger.com)
-2. **Install SDK** - Follow our [installation guide](/developer-docs/installation/)
-3. **First Transaction** - Complete your [first transaction tutorial](/tutorials/)
+</div>
 
-## 🔗 Resources
+## 📖 Documentation Hub
 
-- [GitHub Repository](https://github.com/bigledger)
-- [Community Forum](https://forum.bigledger.com)
-- [Support Center](https://support.bigledger.com)
+### By Role
 
-## 📖 Latest Updates
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
 
-Stay informed about the latest features and improvements in BigLedger.
+**Business Users**
+- **[Platform Overview](/platform/)** - Understanding BigLedger as your Business OS
+- **[Core Applets Guide](/applets/)** - Finance, Sales, Inventory, HR, and more
+- **[Daily Operations](/operations/)** - Task-based guides for everyday use
+- **[Reports & Analytics](/analytics/)** - Business intelligence and insights
 
-## 🌐 Languages
+**System Administrators**
+- **[Implementation Guide](/implementation/)** - Deploy and configure BigLedger
+- **[Applet Management](/admin/applets/)** - Install, configure, and manage applets
+- **[Platform Administration](/admin/)** - User management, security, backups
+- **[Integration Hub](/integrations/)** - Connect with external systems
 
-This documentation is available in:
-- English - Current page (Primary language, always up-to-date)
+</div>
+
+### By Business Function
+
+**Financial Management**
+- [General Ledger](/applets/finance/general-ledger/)
+- [Accounts Receivable & Payable](/applets/finance/ar-ap/)
+- [Financial Reporting](/applets/finance/reporting/)
+
+**Sales & Customer Management**
+- [CRM Applet](/applets/sales/crm/)
+- [Order Management](/applets/sales/orders/)
+- [Customer Portal](/applets/sales/portal/)
+
+**Supply Chain & Operations**
+- [Inventory Management](/applets/supply-chain/inventory/)
+- [Procurement](/applets/supply-chain/procurement/)
+- [Manufacturing](/applets/supply-chain/manufacturing/)
+
+**Human Resources**
+- [Employee Management](/applets/hr/employees/)
+- [Payroll Processing](/applets/hr/payroll/)
+- [Performance & Training](/applets/hr/performance/)
+
+## 🚀 Getting Started Paths
+
+Choose your journey based on your role:
+
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
+
+**New Implementation**
+1. [Platform Requirements](/implementation/requirements/)
+2. [Deployment Options](/implementation/deployment/)
+3. [Initial Setup Wizard](/implementation/setup/)
+4. [Applet Selection](/applets/selection-guide/)
+
+**Business User**
+1. [Platform Fundamentals](/platform/fundamentals/)
+2. [Navigation & Interface](/platform/navigation/)
+3. [Your First Transaction](/operations/first-transaction/)
+4. [Daily Tasks](/operations/daily/)
+
+**Developer/Integrator**
+1. [Platform Architecture](/developer/architecture/)
+2. [API Documentation](/api/)
+3. [Applet Development](/developer/applets/)
+4. [Integration Patterns](/developer/integrations/)
+
+</div>
+
+## 🎯 Popular Use Cases
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+
+**Manufacturing Enterprise**
+- Production planning & control
+- Quality management
+- Supply chain optimization
+- Cost accounting
+
+**Service Organization**
+- Project management
+- Resource allocation
+- Time & billing
+- Customer service
+
+**Retail Business**
+- Point of sale integration
+- Multi-channel inventory
+- Customer loyalty
+- Merchandising
+
+**Distribution Company**
+- Warehouse management
+- Order fulfillment
+- Route optimization
+- Vendor management
+
+</div>
+
+## 🔗 Quick Links
+
+**Platform Resources**
+- [Applet Store](https://store.bigledger.com) - Browse and install business applets
+- [Community Forum](https://forum.bigledger.com) - Connect with other users
+- [Support Portal](https://support.bigledger.com) - Get help and submit tickets
+- [Training Academy](https://academy.bigledger.com) - Courses and certifications
+
+**Technical Resources**
+- [GitHub Repository](https://github.com/bigledger) - Source code and contributions
+- [API Explorer](https://api.bigledger.com) - Interactive API documentation
+- [Developer Portal](https://developers.bigledger.com) - SDKs and tools
+- [Status Page](https://status.bigledger.com) - Platform health monitoring
+
+## 📊 Platform Capabilities
+
+BigLedger provides enterprise-grade features across all applets:
+
+- **Multi-company** support with consolidated reporting
+- **Multi-currency** transactions and automatic conversion
+- **Multi-language** interface (30+ languages)
+- **Role-based access** control with fine-grained permissions
+- **Workflow automation** with approval chains
+- **Real-time collaboration** and notifications
+- **Mobile-first** responsive design
+- **Offline capability** with automatic sync
+
+## 🌐 Global Availability
+
+Documentation available in:
+- **English** (Primary - Always current)
 - [中文](/zh/) - Chinese
-- [Bahasa Melayu](/ms/) - Malay
+- [Bahasa Melayu](/ms/) - Malay  
 - [العربية](/ar/) - Arabic
 
-*Note: English is the primary language. Other language versions are updated periodically.*
+*Primary documentation is maintained in English with periodic translations.*

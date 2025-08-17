@@ -15,12 +15,18 @@ toc: false
 
 ## Popular Topics
 
-### For Users
-- [Getting Started](/user-guide/getting-started/)
-- [User Guide](/user-guide/)
-- [Tutorials](/tutorials/)
+### Platform & Operations
+- [Platform Overview](/user-guide/platform-overview/)
+- [Business Operations Guide](/user-guide/)
+- [Implementation Guide](/implementation/)
 
-### For Developers
-- [Installation](/developer-docs/installation/)
-- [API Reference](/api-reference/)
-- [Developer Documentation](/developer-docs/)
+### Business Functions
+- [Financial Management](/applets/finance/)
+- [Sales & CRM](/applets/sales/)
+- [Supply Chain](/applets/supply-chain/)
+- [Human Resources](/applets/hr/)
+
+### Technical Resources
+- [API Documentation](/api/)
+- [Developer Guide](/developer-docs/)
+- [Integration Hub](/integrations/)

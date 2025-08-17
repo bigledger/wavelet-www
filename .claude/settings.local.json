@@ -35,7 +35,11 @@
       "Bash(cp:*)",
       "Bash(convert:*)",
       "Bash(magick:*)",
-      "Bash(./scripts/test-local.sh:*)"
+      "Bash(./scripts/test-local.sh:*)",
+      "Bash(gh run watch:*)",
+      "WebFetch(domain:wiki.bigledger.com)",
+      "WebSearch",
+      "Bash(mv:*)"
     ],
     "deny": [],
     "ask": [],

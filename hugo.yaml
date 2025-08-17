@@ -119,33 +119,30 @@ params:
 # Menu configuration
 menu:
   main:
-    - identifier: docs
-      name: Documentation
+    - identifier: platform
+      name: Platform
       weight: 1
+      pageRef: /platform
       
-    - identifier: user-guide
-      name: User Guide
-      parent: docs
+    - identifier: operations
+      name: Operations
+      weight: 2
       pageRef: /user-guide
-      weight: 10
       
-    - identifier: developer
-      name: Developer Docs
-      parent: docs
+    - identifier: applets
+      name: Applets
+      weight: 3
+      pageRef: /applets
+      
+    - identifier: implementation
+      name: Implementation
+      weight: 4
+      pageRef: /implementation
+      
+    - identifier: developers
+      name: Developers
+      weight: 5
       pageRef: /developer-docs
-      weight: 20
-      
-    - identifier: api
-      name: API Reference
-      parent: docs
-      pageRef: /api-reference
-      weight: 30
-      
-    - identifier: tutorials
-      name: Tutorials
-      parent: docs
-      pageRef: /tutorials
-      weight: 40
     
     - identifier: search
       name: 🔍 Search
