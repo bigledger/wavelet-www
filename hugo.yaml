@@ -134,24 +134,29 @@ menu:
       weight: 3
       pageRef: /e-invoice-peppol
       
+    - identifier: guides
+      name: Guides
+      weight: 4
+      pageRef: /guides
+      
     - identifier: operations
       name: Operations
-      weight: 4
+      weight: 5
       pageRef: /user-guide
+      
+    - identifier: tutorials
+      name: Tutorials
+      weight: 6
+      pageRef: /tutorials
       
     - identifier: ai
       name: AI Intelligence
-      weight: 5
+      weight: 7
       pageRef: /ai-intelligence
-      
-    - identifier: implementation
-      name: Implementation
-      weight: 6
-      pageRef: /implementation
       
     - identifier: developers
       name: Developers
-      weight: 7
+      weight: 8
       pageRef: /developer-docs
     
     - identifier: search

@@ -44,7 +44,9 @@
       "WebFetch(domain:www.businesstoday.com.my)",
       "WebFetch(domain:www.malaysian-business.com)",
       "WebFetch(domain:www.bizvantage360.com)",
-      "WebFetch(domain:docs.google.com)"
+      "WebFetch(domain:docs.google.com)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)"
     ],
     "deny": [],
     "ask": [],
