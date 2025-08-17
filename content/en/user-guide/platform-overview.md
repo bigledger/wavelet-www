@@ -57,6 +57,8 @@ Shared services available to all applets:
 - **Document Management**: Centralized file storage and versioning
 - **Notification System**: Email, SMS, in-app notifications
 - **Audit Trail**: Complete activity logging and compliance tracking
+- **AI Services**: OCR, NLP, computer vision, predictive analytics
+- **AIMatrix Integration**: Access to super agent workspace and LLMs
 
 ## Applet Categories
 
@@ -145,6 +147,60 @@ Shared services available to all applets:
         ↓
 [Database Layer]
 ```
+
+## AI-Powered Automation
+
+### Built-in Narrow AI Capabilities
+
+BigLedger leverages specialized narrow AI to automate structured data processing:
+
+**Document Intelligence**
+- OCR extraction from receipts, invoices, contracts
+- 99.5% accuracy for typed text, 95% for handwriting
+- Automatic categorization and data validation
+- Multi-language support (50+ languages)
+
+**Financial AI**
+- Bank reconciliation with 95% auto-match rate
+- Fraud detection and anomaly alerts
+- Cash flow forecasting and predictions
+- Automated invoice matching
+
+**Customer Intelligence**
+- Sentiment analysis in contact center
+- Intent recognition and smart routing
+- Conversation intelligence and insights
+- Predictive customer churn analysis
+
+**Operational AI**
+- Demand forecasting for inventory
+- Computer vision for quality control
+- Predictive maintenance scheduling
+- Route optimization for logistics
+
+### AIMatrix Integration
+
+BigLedger seamlessly integrates with AIMatrix - a super agent workspace that provides:
+
+**Agent Studio**
+- Visual drag-and-drop agent builder
+- 100+ pre-built agent templates
+- Multi-agent orchestration
+- Custom agent development
+
+**Advanced AI Services**
+- Access to GPT-4, Claude, and other LLMs
+- Computer vision and image analysis
+- Speech recognition and synthesis
+- Advanced predictive analytics
+
+**Business Impact**
+- 40% reduction in manual data entry
+- 60% faster document processing
+- 80% improvement in reconciliation accuracy
+- 50% reduction in response times
+
+[Learn more about AI capabilities](/ai-intelligence/)
 
 ## Key Platform Features
 

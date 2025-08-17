@@ -49,6 +49,8 @@
 &lt;li>&lt;strong>Document Management&lt;/strong>: Centralized file storage and versioning&lt;/li>
 &lt;li>&lt;strong>Notification System&lt;/strong>: Email, SMS, in-app notifications&lt;/li>
 &lt;li>&lt;strong>Audit Trail&lt;/strong>: Complete activity logging and compliance tracking&lt;/li>
+&lt;li>&lt;strong>AI Services&lt;/strong>: OCR, NLP, computer vision, predictive analytics&lt;/li>
+&lt;li>&lt;strong>AIMatrix Integration&lt;/strong>: Access to super agent workspace and LLMs&lt;/li>
 &lt;/ul>
 &lt;h2>Applet Categories&lt;span class="hx:absolute hx:-mt-20" id="applet-categories">&lt;/span>
 &lt;a href="#applet-categories" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Business Applets&lt;span class="hx:absolute hx:-mt-20" id="core-business-applets">&lt;/span>
@@ -148,6 +150,61 @@ title="Copy code"
 &lt;/button>
 &lt;/div>
 &lt;/div>
+&lt;h2>AI-Powered Automation&lt;span class="hx:absolute hx:-mt-20" id="ai-powered-automation">&lt;/span>
+&lt;a href="#ai-powered-automation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Built-in Narrow AI Capabilities&lt;span class="hx:absolute hx:-mt-20" id="built-in-narrow-ai-capabilities">&lt;/span>
+&lt;a href="#built-in-narrow-ai-capabilities" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>BigLedger leverages specialized narrow AI to automate structured data processing:&lt;/p>
+&lt;p>&lt;strong>Document Intelligence&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>OCR extraction from receipts, invoices, contracts&lt;/li>
+&lt;li>99.5% accuracy for typed text, 95% for handwriting&lt;/li>
+&lt;li>Automatic categorization and data validation&lt;/li>
+&lt;li>Multi-language support (50+ languages)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Financial AI&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Bank reconciliation with 95% auto-match rate&lt;/li>
+&lt;li>Fraud detection and anomaly alerts&lt;/li>
+&lt;li>Cash flow forecasting and predictions&lt;/li>
+&lt;li>Automated invoice matching&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Customer Intelligence&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Sentiment analysis in contact center&lt;/li>
+&lt;li>Intent recognition and smart routing&lt;/li>
+&lt;li>Conversation intelligence and insights&lt;/li>
+&lt;li>Predictive customer churn analysis&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Operational AI&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Demand forecasting for inventory&lt;/li>
+&lt;li>Computer vision for quality control&lt;/li>
+&lt;li>Predictive maintenance scheduling&lt;/li>
+&lt;li>Route optimization for logistics&lt;/li>
+&lt;/ul>
+&lt;h3>AIMatrix Integration&lt;span class="hx:absolute hx:-mt-20" id="aimatrix-integration">&lt;/span>
+&lt;a href="#aimatrix-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>BigLedger seamlessly integrates with AIMatrix - a super agent workspace that provides:&lt;/p>
+&lt;p>&lt;strong>Agent Studio&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Visual drag-and-drop agent builder&lt;/li>
+&lt;li>100+ pre-built agent templates&lt;/li>
+&lt;li>Multi-agent orchestration&lt;/li>
+&lt;li>Custom agent development&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Advanced AI Services&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Access to GPT-4, Claude, and other LLMs&lt;/li>
+&lt;li>Computer vision and image analysis&lt;/li>
+&lt;li>Speech recognition and synthesis&lt;/li>
+&lt;li>Advanced predictive analytics&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Business Impact&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>40% reduction in manual data entry&lt;/li>
+&lt;li>60% faster document processing&lt;/li>
+&lt;li>80% improvement in reconciliation accuracy&lt;/li>
+&lt;li>50% reduction in response times&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://wiki.bigledger.com/ai-intelligence/" >Learn more about AI capabilities&lt;/a>&lt;/p>
 &lt;h2>Key Platform Features&lt;span class="hx:absolute hx:-mt-20" id="key-platform-features">&lt;/span>
 &lt;a href="#key-platform-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Multi-Tenancy &amp;amp; Security&lt;span class="hx:absolute hx:-mt-20" id="multi-tenancy--security">&lt;/span>
 &lt;a href="#multi-tenancy--security" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Data Isolation&lt;/strong>&lt;/p>

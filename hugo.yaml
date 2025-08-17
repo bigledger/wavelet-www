@@ -129,19 +129,24 @@ menu:
       weight: 2
       pageRef: /user-guide
       
+    - identifier: ai
+      name: AI Intelligence
+      weight: 3
+      pageRef: /ai-intelligence
+      
     - identifier: applets
       name: Applets
-      weight: 3
+      weight: 4
       pageRef: /applets
       
     - identifier: implementation
       name: Implementation
-      weight: 4
+      weight: 5
       pageRef: /implementation
       
     - identifier: developers
       name: Developers
-      weight: 5
+      weight: 6
       pageRef: /developer-docs
     
     - identifier: search
