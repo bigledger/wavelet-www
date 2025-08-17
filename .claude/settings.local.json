@@ -31,9 +31,16 @@
       "Bash(gh workflow view:*)",
       "WebFetch(domain:github.com)",
       "Bash(chmod:*)",
-      "Bash(aws s3api get-bucket-location:*)"
+      "Bash(aws s3api get-bucket-location:*)",
+      "Bash(cp:*)",
+      "Bash(convert:*)",
+      "Bash(magick:*)",
+      "Bash(./scripts/test-local.sh:*)"
     ],
     "deny": [],
-    "ask": []
+    "ask": [],
+    "additionalDirectories": [
+      "/var/folders/xj/zf6c059n5kv6ymx0hsz36j5w0000gn/T"
+    ]
   }
 }

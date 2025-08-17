@@ -52,17 +52,17 @@ languages:
 params:
   # Theme settings
   theme:
-    default: system
+    default: light
     displayToggle: true
     
   # Navigation
   navbar:
-    displayTitle: true
-    displayLogo: false
+    displayTitle: false
+    displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
-      width: 40
+      path: images/bigledger-logo-cropped.png
+      dark: images/bigledger-logo-cropped.png
+      width: 200
       height: 40
       link: /
     width: wide
