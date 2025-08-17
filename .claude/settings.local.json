@@ -27,7 +27,9 @@
       "Bash(aws cloudfront create-invalidation:*)",
       "Bash(git clone:*)",
       "Bash(git commit:*)",
-      "Bash(aws s3api get-bucket-website:*)"
+      "Bash(aws s3api get-bucket-website:*)",
+      "Bash(gh workflow view:*)",
+      "WebFetch(domain:github.com)"
     ],
     "deny": [],
     "ask": []

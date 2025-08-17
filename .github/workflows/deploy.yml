@@ -18,10 +18,11 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: 'latest'
-          extended: true
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v0.134.2/hugo_extended_0.134.2_linux-amd64.tar.gz
+          tar -xzf hugo_extended_0.134.2_linux-amd64.tar.gz
+          sudo mv hugo /usr/local/bin/
+          hugo version
 
       - name: Build Hugo site
         run: hugo --minify
