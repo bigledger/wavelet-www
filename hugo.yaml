@@ -124,29 +124,34 @@ menu:
       weight: 1
       pageRef: /platform
       
+    - identifier: modules
+      name: Modules
+      weight: 2
+      pageRef: /modules
+      
+    - identifier: einvoice
+      name: E-Invoice
+      weight: 3
+      pageRef: /e-invoice-peppol
+      
     - identifier: operations
       name: Operations
-      weight: 2
+      weight: 4
       pageRef: /user-guide
       
     - identifier: ai
       name: AI Intelligence
-      weight: 3
+      weight: 5
       pageRef: /ai-intelligence
-      
-    - identifier: applets
-      name: Applets
-      weight: 4
-      pageRef: /applets
       
     - identifier: implementation
       name: Implementation
-      weight: 5
+      weight: 6
       pageRef: /implementation
       
     - identifier: developers
       name: Developers
-      weight: 6
+      weight: 7
       pageRef: /developer-docs
     
     - identifier: search

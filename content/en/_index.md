@@ -4,21 +4,21 @@ toc: false
 ---
 
 {{< hextra/hero-badge >}}
-  <span>Business Operating System</span>
+  <span>MDEC Accredited PEPPOL Service Provider</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  BigLedger Platform&nbsp;<br class="sm:block hidden" />
-  Your Complete Business OS
+  BigLedger Data Hub&nbsp;<br class="sm:block hidden" />
+  Centralized Data Management & E-Invoice Platform
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Integrated business management platform with modular applets&nbsp;<br class="sm:block hidden" />
-  Deploy, customize, and scale your enterprise operations
+  Transform data efficiency with our modular ERP and MyInvois-ready platform&nbsp;<br class="sm:block hidden" />
+  Trusted by Malaysian businesses for seamless digital transformation
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -28,31 +28,40 @@ toc: false
 
 ## 🏢 Platform Overview
 
-BigLedger is a comprehensive Business Operating System that provides an integrated suite of business applets, similar to how Android powers mobile devices. Our platform serves as your operational data hub, connecting all aspects of your enterprise.
+BigLedger revolutionizes business operations through **centralized data management** and **seamless ERP integration**, making us the ideal partner for Malaysia's digital transformation journey. As CEO Vincent Lee emphasizes: *"Accessing, analysing and acting on data efficiently is crucial for survival and growth."*
 
 ### Core Platform Components
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
 
-**📊 Operational Data Hub**
-- Unified data platform
-- Real-time analytics
-- Cross-applet integration
-- Master data management
+**📊 Central Data Hub**
+- Unified data exchange platform
+- Consolidates data from multiple sources
+- Real-time data synchronization
+- Advanced analytics & business intelligence
+- Transforms isolated data into actionable assets
 
-**📱 Applet Ecosystem**
-- Modular business applications
-- Applet Store marketplace
-- Custom applet development
-- Seamless integrations
+**📱 Modular ERP System**
+- Flexible business applets
+- Customizable for any business size
+- Seamless integration capabilities
+- Industry-specific solutions
+- Pay-for-what-you-use model
 
-**🔧 Platform Services**
-- Workflow automation
-- Security & compliance
-- API gateway
-- Performance monitoring
+**🔧 E-Invoice & Compliance**
+- MDEC PEPPOL accreditation
+- MyInvois ready platform
+- Automated tax compliance
+- Multi-source data integration
+- Real-time LHDN submission
 
 </div>
+
+### Why BigLedger?
+
+**Strategic Data Centralization**: Transform your business from reactive to proactive with our powerful ecosystem where data and processes actively inform and enhance each other.
+
+**Regulatory Advantage**: Turn MyInvois compliance from a requirement into a strategic opportunity for operational improvement.
 
 ## 📖 Documentation Hub
 

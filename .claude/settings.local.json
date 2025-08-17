@@ -39,7 +39,12 @@
       "Bash(gh run watch:*)",
       "WebFetch(domain:wiki.bigledger.com)",
       "WebSearch",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "WebFetch(domain:www.malaysiakini.com)",
+      "WebFetch(domain:www.businesstoday.com.my)",
+      "WebFetch(domain:www.malaysian-business.com)",
+      "WebFetch(domain:www.bizvantage360.com)",
+      "WebFetch(domain:docs.google.com)"
     ],
     "deny": [],
     "ask": [],
