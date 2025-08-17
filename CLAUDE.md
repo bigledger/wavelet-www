@@ -169,3 +169,7 @@ If deployment fails:
 2. **Always deploy through GitHub Actions, never directly from local machine to S3.**
 3. **Test locally before pushing to ensure the build succeeds.**
 4. **Monitor GitHub Actions to confirm successful deployment.**
+5. **NEVER add the following lines to commit messages:**
+   - `🤖 Generated with [Claude Code](https://claude.ai/code)`
+   - `Co-Authored-By: Claude <noreply@anthropic.com>`
+   - Keep commit messages clean and professional without attribution tags
