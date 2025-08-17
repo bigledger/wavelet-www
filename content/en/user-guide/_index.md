@@ -4,8 +4,6 @@ weight: 10
 bookCollapseSection: true
 ---
 
-# Business Operations Guide
-
 Master your daily business operations with BigLedger's integrated platform.
 
 ## What You'll Learn
