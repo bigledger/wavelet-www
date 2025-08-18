@@ -1,4 +1,9 @@
 ---
+description: BigLedger is Malaysia's MDEC Fully Accredited PEPPOL Service Provider,
+  offering comprehensive e-invoicing solutions designed for the MyInvois initiative
+  and beyond.
+tags:
+- user-guide
 title: E-Invoice & PEPPOL
 weight: 8
 ---

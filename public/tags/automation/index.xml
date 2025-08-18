@@ -1,0 +1,53 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BigLedger Documentation – Automation</title>
+    <link>http://localhost:1313/tags/automation/</link>
+    <description>Recent content in Automation on BigLedger Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Applets and Workflows</title>
+      <link>http://localhost:1313/applets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/applets/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Applets and Workflows&lt;/h1&gt;&lt;p&gt;BigLedger&amp;rsquo;s modular approach centers around applets - specialized mini-applications that handle specific business functions. This section provides comprehensive documentation for all available applets and their workflows.&lt;/p&gt;
+&lt;h2&gt;What are Applets?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-are-applets&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-are-applets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Applets are lightweight, focused applications that can be installed and configured independently. They integrate seamlessly with BigLedger&amp;rsquo;s core platform and other applets to create comprehensive business solutions.&lt;/p&gt;
+&lt;h2&gt;Applet Categories&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;applet-categories&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#applet-categories&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Core Operations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-operations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#core-operations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stock Take Applet&lt;/strong&gt; - Digital inventory counting and management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organization Applet&lt;/strong&gt; - Company, branch, and location management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team Maintenance&lt;/strong&gt; - User and team management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Business Intelligence&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;business-intelligence&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#business-intelligence&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Process Monitoring&lt;/strong&gt; - Track and analyze business processes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Membership Admin Console&lt;/strong&gt; - Customer loyalty and membership programs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Integration &amp;amp; Automation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;integration--automation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#integration--automation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Internal Delivery Order&lt;/strong&gt; - Manage internal transfers and deliveries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Internal Stock Adjustment&lt;/strong&gt; - Handle inventory adjustments and corrections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Installation and Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;installation-and-management&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#installation-and-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Learn how to install, configure, and manage applets through the Applet Store and directory system.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

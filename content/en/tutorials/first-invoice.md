@@ -1,4 +1,7 @@
 ---
+description: Step-by-step guide to create and submit your first e-invoice.
+tags:
+- user-guide
 title: Creating Your First Invoice
 weight: 10
 ---

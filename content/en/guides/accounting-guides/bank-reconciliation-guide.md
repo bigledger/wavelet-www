@@ -1,4 +1,7 @@
 ---
+description: Master the bank reconciliation process with BigLedger's AI-powered matching.
+tags:
+- user-guide
 title: Bank Reconciliation Step-by-Step
 weight: 40
 ---

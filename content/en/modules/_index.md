@@ -1,6 +1,8 @@
 ---
-title: "BigLedger Modules"
-description: "Comprehensive business management modules for modern enterprises"
+description: Comprehensive business management modules for modern enterprises
+tags:
+- user-guide
+title: BigLedger Modules
 weight: 30
 ---
 

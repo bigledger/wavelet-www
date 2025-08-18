@@ -1,6 +1,10 @@
 ---
+description: '{{< hextra/hero-badge >}}'
+tags:
+- user-guide
 title: BigLedger Documentation
 toc: false
+weight: 10
 ---
 
 {{< hextra/hero-badge >}}
@@ -70,40 +74,54 @@ BigLedger revolutionizes business operations through **centralized data manageme
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
 
 **Business Users**
-- **[Platform Overview](/platform/)** - Understanding BigLedger as your Business OS
-- **[Core Applets Guide](/applets/)** - Finance, Sales, Inventory, HR, and more
-- **[Daily Operations](/operations/)** - Task-based guides for everyday use
-- **[Reports & Analytics](/analytics/)** - Business intelligence and insights
+- **[Platform Overview](/user-guide/platform-overview/)** - Understanding BigLedger as your Business OS
+- **[Applets & Workflows](/applets/)** - Complete guide to BigLedger applets and automation
+- **[Business Operations](/business-operations/)** - Day-to-day operations and workflow management
+- **[User Guides](/user-guide/)** - Step-by-step tutorials and how-to guides
 
 **System Administrators**
-- **[Implementation Guide](/implementation/)** - Deploy and configure BigLedger
-- **[Applet Management](/admin/applets/)** - Install, configure, and manage applets
-- **[Platform Administration](/admin/)** - User management, security, backups
-- **[Integration Hub](/integrations/)** - Connect with external systems
+- **[Implementation Guide](/developer-docs/installation/)** - Deploy and configure BigLedger
+- **[Applet Management](/applets/applet-directory/)** - Install, configure, and manage applets
+- **[Platform Administration](/modules/)** - Core modules and system configuration
+- **[E-commerce Integration](/ecommerce/)** - Multi-channel e-commerce with EcomSync
 
 </div>
 
 ### By Business Function
 
 **Financial Management**
-- [General Ledger](/applets/finance/general-ledger/)
-- [Accounts Receivable & Payable](/applets/finance/ar-ap/)
-- [Financial Reporting](/applets/finance/reporting/)
+- [Accounting Operations](/business-operations/accounting/)
+- [Accounts Receivable](/business-operations/account-receivable/)
+- [Financial Reporting](/guides/accounting-guides/)
 
 **Sales & Customer Management**
-- [CRM Applet](/applets/sales/crm/)
-- [Order Management](/applets/sales/orders/)
-- [Customer Portal](/applets/sales/portal/)
+- [CRM Module](/modules/crm/)
+- [Order Management](/business-operations/order/)
+- [Sales Operations](/business-operations/sales-dashboard/)
 
-**Supply Chain & Operations**
-- [Inventory Management](/applets/supply-chain/inventory/)
-- [Procurement](/applets/supply-chain/procurement/)
-- [Manufacturing](/applets/supply-chain/manufacturing/)
+**E-commerce & Multi-channel**
+- [EcomSync Platform](/ecommerce/introduction-to-ecomsync/)
+- [Shopify Integration](/ecommerce/integration-with-shopify/)
+- [B2B Solutions](/ecommerce/b2b/)
 
-**Human Resources**
-- [Employee Management](/applets/hr/employees/)
-- [Payroll Processing](/applets/hr/payroll/)
-- [Performance & Training](/applets/hr/performance/)
+**Inventory & Supply Chain**
+- [Stock Management](/guides/inventory-guides/)
+- [Stock Take Operations](/applets/stock-take-applet/)
+- [Manufacturing](/modules/manufacturing/)
+
+### Industry-Specific Solutions
+
+**Automotive & Workshop**
+- [Automotive Industry Success Story](/industry-solutions/automotive-and-workshop-industry/)
+- [Workshop Management Solutions](/applets/organization-applet/)
+
+**Food & Beverage**
+- [F&B Industry Implementation](/industry-solutions/food-and-beverage-fb-industry/)
+- [Multi-branch Operations](/business-operations/main-dashboard/)
+
+**General Industries**
+- [Industry Solutions Overview](/industry-solutions/industry-guide/)
+- [Custom Implementation Approach](/industry-solutions/)
 
 ## 🚀 Getting Started Paths
 

@@ -1,6 +1,9 @@
 ---
-title: "Inventory Management"
-description: "Real-time inventory tracking, warehouse management, and supply chain optimization"
+description: Real-time inventory tracking, warehouse management, and supply chain
+  optimization
+tags:
+- user-guide
+title: Inventory Management
 weight: 40
 ---
 

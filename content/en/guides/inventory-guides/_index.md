@@ -1,4 +1,7 @@
 ---
+description: Comprehensive guides for inventory management.
+tags:
+- user-guide
 title: Inventory Management
 weight: 32
 ---

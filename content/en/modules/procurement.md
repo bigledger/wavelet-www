@@ -1,6 +1,8 @@
 ---
-title: "Procurement"
-description: "Streamline purchasing processes and vendor management"
+description: Streamline purchasing processes and vendor management
+tags:
+- user-guide
+title: Procurement
 weight: 50
 ---
 

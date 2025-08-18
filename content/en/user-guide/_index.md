@@ -1,7 +1,10 @@
 ---
+bookCollapseSection: true
+description: Master your daily business operations with BigLedger's integrated platform.
+tags:
+- user-guide
 title: Business Operations Guide
 weight: 10
-bookCollapseSection: true
 ---
 
 Master your daily business operations with BigLedger's integrated platform.

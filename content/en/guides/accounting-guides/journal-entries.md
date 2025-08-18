@@ -1,4 +1,7 @@
 ---
+description: Master manual and automated journal entries in BigLedger.
+tags:
+- user-guide
 title: Journal Entries Guide
 weight: 20
 ---

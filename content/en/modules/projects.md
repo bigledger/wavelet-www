@@ -1,6 +1,8 @@
 ---
-title: "Project Management"
-description: "Project planning, tracking, and resource allocation"
+description: Project planning, tracking, and resource allocation
+tags:
+- user-guide
+title: Project Management
 weight: 80
 ---
 

@@ -1,7 +1,10 @@
 ---
+bookCollapseSection: true
+description: Step-by-step tutorials for common BigLedger use cases.
+tags:
+- user-guide
 title: Tutorials
 weight: 40
-bookCollapseSection: true
 ---
 
 # Tutorials

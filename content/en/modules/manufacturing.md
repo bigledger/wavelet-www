@@ -1,6 +1,8 @@
 ---
-title: "Manufacturing"
-description: "Production planning, shop floor control, and quality management"
+description: Production planning, shop floor control, and quality management
+tags:
+- user-guide
+title: Manufacturing
 weight: 60
 ---
 

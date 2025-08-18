@@ -1,4 +1,8 @@
 ---
+description: Experience BigLedger's capabilities through our comprehensive demo videos
+  and presentation materials.
+tags:
+- user-guide
 title: Demos & Resources
 weight: 20
 ---

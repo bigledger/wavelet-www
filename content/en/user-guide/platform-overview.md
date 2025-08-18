@@ -1,4 +1,8 @@
 ---
+description: BigLedger revolutionizes enterprise management by providing a Business
+  Operating System (BOS) that functions like Android for your business operations.
+tags:
+- user-guide
 title: Platform Overview
 weight: 10
 ---

@@ -1,0 +1,20 @@
+# 6.2 Pages Module
+
+**Page ID**: 3187212391
+**Last Updated**: 2024-11-17T11:12:51.786Z
+
+---
+
+This module allows user to create static pages for cp-commerce.
+
+To Create:
+
+Title : Title for the static page
+
+Url Key: The url-link which directs the users to the static page in cp-commerce
+
+Status: Whether the page is active or not
+
+Content Category:
+
+Text area &rarr; Add the html or texts which will be the contents of the static page

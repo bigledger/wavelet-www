@@ -1,4 +1,7 @@
 ---
+description: Manage inventory movements between locations.
+tags:
+- user-guide
 title: Stock Transfer Procedures
 weight: 20
 ---

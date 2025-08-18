@@ -1,4 +1,9 @@
 ---
+description: BigLedger's comprehensive AI capabilities transform your business operations
+  through intelligent automation, predictive analytics, and seamless integration with
+  AIMatrix's super agent workspace.
+tags:
+- user-guide
 title: AI & Intelligence Platform
 weight: 15
 ---

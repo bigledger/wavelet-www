@@ -1,4 +1,7 @@
 ---
+description: Complete month-end procedures in BigLedger.
+tags:
+- user-guide
 title: Month-End Closing Process
 weight: 20
 ---

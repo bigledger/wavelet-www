@@ -1,6 +1,9 @@
 ---
-title: "Customer Relationship Management (CRM)"
-description: "360-degree customer view with complete sales pipeline and relationship management"
+description: 360-degree customer view with complete sales pipeline and relationship
+  management
+tags:
+- user-guide
+title: Customer Relationship Management (CRM)
 weight: 30
 ---
 

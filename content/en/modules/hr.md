@@ -1,6 +1,8 @@
 ---
-title: "Human Resources"
-description: "Complete HR and payroll management solution"
+description: Complete HR and payroll management solution
+tags:
+- user-guide
+title: Human Resources
 weight: 70
 ---
 

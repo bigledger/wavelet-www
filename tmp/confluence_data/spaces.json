@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 4533321762,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/4533321762",
+    "key": "AMX",
+    "alias": "AMX",
+    "name": "aimatrix",
+    "type": "knowledge_base",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/AMX/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=AMX",
+      "permissions": "",
+      "theme": "/rest/api/space/AMX/theme",
+      "homepage": "/rest/api/content/4533322102"
+    },
+    "_links": {
+      "webui": "/spaces/AMX",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/AMX"
+    }
+  },
+  {
+    "id": 213418147,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/213418147",
+    "key": "BH",
+    "alias": "BH",
+    "name": "Akaun & BigLedger Helpdesk",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BH/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BH",
+      "permissions": "",
+      "theme": "/rest/api/space/BH/theme",
+      "homepage": "/rest/api/content/213418205"
+    },
+    "_links": {
+      "webui": "/spaces/BH",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BH"
+    }
+  },
+  {
+    "id": 1437532162,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1437532162",
+    "key": "ALGCORP",
+    "alias": "ALGCORP",
+    "name": "ALGCORP",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/ALGCORP/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=ALGCORP",
+      "permissions": "",
+      "theme": "/rest/api/space/ALGCORP/theme",
+      "homepage": "/rest/api/content/1437532211"
+    },
+    "_links": {
+      "webui": "/spaces/ALGCORP",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/ALGCORP"
+    }
+  },
+  {
+    "id": 1436778505,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1436778505",
+    "key": "ALGDOC",
+    "alias": "ALGDOC",
+    "name": "ALGDOC",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/ALGDOC/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=ALGDOC",
+      "permissions": "",
+      "theme": "/rest/api/space/ALGDOC/theme",
+      "homepage": "/rest/api/content/1436778614"
+    },
+    "_links": {
+      "webui": "/spaces/ALGDOC",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/ALGDOC"
+    }
+  },
+  {
+    "id": 3904700551,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/3904700551",
+    "key": "AJPR",
+    "alias": "AJPR",
+    "name": "Awanjasa Projects (Customers)",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/AJPR/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=AJPR",
+      "permissions": "",
+      "theme": "/rest/api/space/AJPR/theme",
+      "homepage": "/rest/api/content/3904700598"
+    },
+    "_links": {
+      "webui": "/spaces/AJPR",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/AJPR"
+    }
+  },
+  {
+    "id": 1422393413,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1422393413",
+    "key": "BLGMMT",
+    "alias": "BLGMMT",
+    "name": "Bigledger - Momentum",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BLGMMT/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BLGMMT",
+      "permissions": "",
+      "theme": "/rest/api/space/BLGMMT/theme",
+      "homepage": "/rest/api/content/1422393535"
+    },
+    "_links": {
+      "webui": "/spaces/BLGMMT",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BLGMMT"
+    }
+  },
+  {
+    "id": 23986179,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/23986179",
+    "key": "BL",
+    "alias": "blgp",
+    "name": "BigLedger (Private)",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/BL/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BL",
+      "permissions": "",
+      "theme": "/rest/api/space/BL/theme",
+      "homepage": "/rest/api/content/23527836"
+    },
+    "_links": {
+      "webui": "/spaces/blgp",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BL"
+    }
+  },
+  {
+    "id": 1230143501,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1230143501",
+    "key": "BP",
+    "alias": "BP",
+    "name": "BigLedger Product",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BP/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BP",
+      "permissions": "",
+      "theme": "/rest/api/space/BP/theme",
+      "homepage": "/rest/api/content/1230143622"
+    },
+    "_links": {
+      "webui": "/spaces/BP",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BP"
+    }
+  },
+  {
+    "id": 2945286167,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/2945286167",
+    "key": "AKAUN",
+    "alias": "AKAUN",
+    "name": "BigLedger (Public)",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/AKAUN/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=AKAUN",
+      "permissions": "",
+      "theme": "/rest/api/space/AKAUN/theme",
+      "homepage": "/rest/api/content/2945286292"
+    },
+    "_links": {
+      "webui": "/spaces/AKAUN",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/AKAUN"
+    }
+  },
+  {
+    "id": 573014019,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/573014019",
+    "key": "BSM",
+    "alias": "BSM",
+    "name": "Bigledger Sales & Marketing",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BSM/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BSM",
+      "permissions": "",
+      "theme": "/rest/api/space/BSM/theme",
+      "homepage": "/rest/api/content/573014835"
+    },
+    "_links": {
+      "webui": "/spaces/BSM",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BSM"
+    }
+  },
+  {
+    "id": 1617723492,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1617723492",
+    "key": "BBHR",
+    "alias": "BBHR",
+    "name": "Blackbox HR",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BBHR/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BBHR",
+      "permissions": "",
+      "theme": "/rest/api/space/BBHR/theme",
+      "homepage": "/rest/api/content/1617723601"
+    },
+    "_links": {
+      "webui": "/spaces/BBHR",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BBHR"
+    }
+  },
+  {
+    "id": 213352636,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/213352636",
+    "key": "BLGCellLabs",
+    "alias": "BLGCellLabs",
+    "name": "BLG - CELLLABS",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BLGCellLabs/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BLGCellLabs",
+      "permissions": "",
+      "theme": "/rest/api/space/BLGCellLabs/theme",
+      "homepage": "/rest/api/content/213352697"
+    },
+    "_links": {
+      "webui": "/spaces/BLGCellLabs",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BLGCellLabs"
+    }
+  },
+  {
+    "id": 1193869406,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1193869406",
+    "key": "BLGCELMZ",
+    "alias": "BLGCELMZ",
+    "name": "BLG - Celmonze",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BLGCELMZ/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BLGCELMZ",
+      "permissions": "",
+      "theme": "/rest/api/space/BLGCELMZ/theme",
+      "homepage": "/rest/api/content/1193869450"
+    },
+    "_links": {
+      "webui": "/spaces/BLGCELMZ",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BLGCELMZ"
+    }
+  },
+  {
+    "id": 1084130198,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1084130198",
+    "key": "BLGCommonGround",
+    "alias": "BLGCommonGround",
+    "name": "BLG-CommonGround",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BLGCommonGround/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BLGCommonGround",
+      "permissions": "",
+      "theme": "/rest/api/space/BLGCommonGround/theme",
+      "homepage": "/rest/api/content/1084130242"
+    },
+    "_links": {
+      "webui": "/spaces/BLGCommonGround",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BLGCommonGround"
+    }
+  },
+  {
+    "id": 645726436,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/645726436",
+    "key": "BD",
+    "alias": "BD",
+    "name": "BLG - DIGI",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BD/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BD",
+      "permissions": "",
+      "theme": "/rest/api/space/BD/theme",
+      "homepage": "/rest/api/content/645726499"
+    },
+    "_links": {
+      "webui": "/spaces/BD",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BD"
+    }
+  },
+  {
+    "id": 1701938064,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1701938064",
+    "key": "BT",
+    "alias": "BT",
+    "name": "BLG Tonncable",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BT/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BT",
+      "permissions": "",
+      "theme": "/rest/api/space/BT/theme",
+      "homepage": "/rest/api/content/1701938168"
+    },
+    "_links": {
+      "webui": "/spaces/BT",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BT"
+    }
+  },
+  {
+    "id": 2356478140,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/2356478140",
+    "key": "BU",
+    "alias": "BU",
+    "name": "BLG - UniPin",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BU/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BU",
+      "permissions": "",
+      "theme": "/rest/api/space/BU/theme",
+      "homepage": "/rest/api/content/2356478251"
+    },
+    "_links": {
+      "webui": "/spaces/BU",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BU"
+    }
+  },
+  {
+    "id": 2666234358,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/2666234358",
+    "key": "BBDP",
+    "alias": "BBDP",
+    "name": "Business Development",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/BBDP/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BBDP",
+      "permissions": "",
+      "theme": "/rest/api/space/BBDP/theme",
+      "homepage": "/rest/api/content/2666234464"
+    },
+    "_links": {
+      "webui": "/spaces/BBDP",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BBDP"
+    }
+  },
+  {
+    "id": 4526047242,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/4526047242",
+    "key": "CEO",
+    "alias": "CEO",
+    "name": "CEO Office",
+    "type": "collaboration",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/CEO/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=CEO",
+      "permissions": "",
+      "theme": "/rest/api/space/CEO/theme",
+      "homepage": "/rest/api/content/4526047549"
+    },
+    "_links": {
+      "webui": "/spaces/CEO",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/CEO"
+    }
+  },
+  {
+    "id": 38207489,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/38207489",
+    "key": "WM",
+    "alias": "WM",
+    "name": "Group MIS",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/WM/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WM",
+      "permissions": "",
+      "theme": "/rest/api/space/WM/theme",
+      "homepage": "/rest/api/content/37945437"
+    },
+    "_links": {
+      "webui": "/spaces/WM",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WM"
+    }
+  },
+  {
+    "id": 4918837250,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/4918837250",
+    "key": "~5bb42219689921771a8d9e44",
+    "alias": "~5bb42219689921771a8d9e44",
+    "name": "Lina Sherkawi",
+    "type": "personal",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/~5bb42219689921771a8d9e44/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=~5bb42219689921771a8d9e44",
+      "permissions": "",
+      "theme": "/rest/api/space/~5bb42219689921771a8d9e44/theme",
+      "homepage": "/rest/api/content/4918837323"
+    },
+    "_links": {
+      "webui": "/spaces/~5bb42219689921771a8d9e44",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/~5bb42219689921771a8d9e44"
+    }
+  },
+  {
+    "id": 128949041,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/128949041",
+    "key": "MYBMW",
+    "alias": "MYBMW",
+    "name": "MY-BMW",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/MYBMW/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=MYBMW",
+      "permissions": "",
+      "theme": "/rest/api/space/MYBMW/theme",
+      "homepage": "/rest/api/content/128949749"
+    },
+    "_links": {
+      "webui": "/spaces/MYBMW",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/MYBMW"
+    }
+  },
+  {
+    "id": 1146884,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1146884",
+    "key": "PARKSON",
+    "alias": "PARKSON",
+    "name": "MY-DIRECT-PARKSON",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/PARKSON/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=PARKSON",
+      "permissions": "",
+      "theme": "/rest/api/space/PARKSON/theme",
+      "homepage": "/rest/api/content/1015829"
+    },
+    "_links": {
+      "webui": "/spaces/PARKSON",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/PARKSON"
+    }
+  },
+  {
+    "id": 1146886,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1146886",
+    "key": "MYSAMSUNG",
+    "alias": "MYSAMSUNG",
+    "name": "MY-DIRECT-SAMSUNG",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/MYSAMSUNG/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=MYSAMSUNG",
+      "permissions": "",
+      "theme": "/rest/api/space/MYSAMSUNG/theme",
+      "homepage": "/rest/api/content/1015833"
+    },
+    "_links": {
+      "webui": "/spaces/MYSAMSUNG",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/MYSAMSUNG"
+    }
+  },
+  {
+    "id": 5150375949,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/5150375949",
+    "key": "PUB",
+    "alias": "PUB",
+    "name": "Public Space Template",
+    "type": "knowledge_base",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/PUB/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=PUB",
+      "permissions": "",
+      "theme": "/rest/api/space/PUB/theme",
+      "homepage": "/rest/api/content/5150376318"
+    },
+    "_links": {
+      "webui": "/spaces/PUB",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/PUB"
+    }
+  },
+  {
+    "id": 2268693435,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/2268693435",
+    "key": "SWH",
+    "alias": "SWH",
+    "name": "Senwave Helpdesk",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/SWH/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=SWH",
+      "permissions": "",
+      "theme": "/rest/api/space/SWH/theme",
+      "homepage": "/rest/api/content/2268693481"
+    },
+    "_links": {
+      "webui": "/spaces/SWH",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/SWH"
+    }
+  },
+  {
+    "id": 2205287035,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/2205287035",
+    "key": "SH",
+    "alias": "SH",
+    "name": "Senwave HR",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/SH/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=SH",
+      "permissions": "",
+      "theme": "/rest/api/space/SH/theme",
+      "homepage": "/rest/api/content/2205287081"
+    },
+    "_links": {
+      "webui": "/spaces/SH",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/SH"
+    }
+  },
+  {
+    "id": 359235628,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/359235628",
+    "key": "BLGSenHeng",
+    "alias": "BLGSenHeng",
+    "name": "Senwave Retail Solutions",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/BLGSenHeng/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=BLGSenHeng",
+      "permissions": "",
+      "theme": "/rest/api/space/BLGSenHeng/theme",
+      "homepage": "/rest/api/content/359235689"
+    },
+    "_links": {
+      "webui": "/spaces/BLGSenHeng",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/BLGSenHeng"
+    }
+  },
+  {
+    "id": 2731575673,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/2731575673",
+    "key": "SSH",
+    "alias": "SSH",
+    "name": "Senwave Staff Handbook",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/SSH/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=SSH",
+      "permissions": "",
+      "theme": "/rest/api/space/SSH/theme",
+      "homepage": "/rest/api/content/2731575724"
+    },
+    "_links": {
+      "webui": "/spaces/SSH",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/SSH"
+    }
+  },
+  {
+    "id": 2159349727,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/2159349727",
+    "key": "SWDOC",
+    "alias": "SWDOC",
+    "name": "Senwave Technical Documentation",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/SWDOC/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=SWDOC",
+      "permissions": "",
+      "theme": "/rest/api/space/SWDOC/theme",
+      "homepage": "/rest/api/content/2159349840"
+    },
+    "_links": {
+      "webui": "/spaces/SWDOC",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/SWDOC"
+    }
+  },
+  {
+    "id": 5049384964,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/5049384964",
+    "key": "~712020f3735ed7fad14f3798c768dcde9c6a55",
+    "alias": "~712020f3735ed7fad14f3798c768dcde9c6a55",
+    "name": "SL Tan",
+    "type": "personal",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/~712020f3735ed7fad14f3798c768dcde9c6a55/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=~712020f3735ed7fad14f3798c768dcde9c6a55",
+      "permissions": "",
+      "theme": "/rest/api/space/~712020f3735ed7fad14f3798c768dcde9c6a55/theme",
+      "homepage": "/rest/api/content/5049385317"
+    },
+    "_links": {
+      "webui": "/spaces/~712020f3735ed7fad14f3798c768dcde9c6a55",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/~712020f3735ed7fad14f3798c768dcde9c6a55"
+    }
+  },
+  {
+    "id": 4956454914,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/4956454914",
+    "key": "~63fdc91c4d5e4b44e23140df",
+    "alias": "~63fdc91c4d5e4b44e23140df",
+    "name": "Soe Po Po Aung",
+    "type": "personal",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/~63fdc91c4d5e4b44e23140df/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=~63fdc91c4d5e4b44e23140df",
+      "permissions": "",
+      "theme": "/rest/api/space/~63fdc91c4d5e4b44e23140df/theme",
+      "homepage": "/rest/api/content/4956455269"
+    },
+    "_links": {
+      "webui": "/spaces/~63fdc91c4d5e4b44e23140df",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/~63fdc91c4d5e4b44e23140df"
+    }
+  },
+  {
+    "id": 3542581323,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/3542581323",
+    "key": "~642226050",
+    "alias": "~642226050",
+    "name": "Vincent Lee",
+    "type": "personal",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/~642226050/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=~642226050",
+      "permissions": "",
+      "theme": "/rest/api/space/~642226050/theme",
+      "homepage": "/rest/api/content/3542581372"
+    },
+    "_links": {
+      "webui": "/spaces/~642226050",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/~642226050"
+    }
+  },
+  {
+    "id": 118259713,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/118259713",
+    "key": "WAM",
+    "alias": "WAM",
+    "name": "Wavelet Asset Management",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/WAM/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WAM",
+      "permissions": "",
+      "theme": "/rest/api/space/WAM/theme",
+      "homepage": "/rest/api/content/117866548"
+    },
+    "_links": {
+      "webui": "/spaces/WAM",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WAM"
+    }
+  },
+  {
+    "id": 1146882,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1146882",
+    "key": "WSH",
+    "alias": "WSH",
+    "name": "Wavelet & BigLedger Staff Handbook 2024/25",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/WSH/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WSH",
+      "permissions": "",
+      "theme": "/rest/api/space/WSH/theme",
+      "homepage": "/rest/api/content/1015821"
+    },
+    "_links": {
+      "webui": "/spaces/WSH",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WSH"
+    }
+  },
+  {
+    "id": 39747585,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/39747585",
+    "key": "WC",
+    "alias": "WC",
+    "name": "Wavelet College",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/WC/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WC",
+      "permissions": "",
+      "theme": "/rest/api/space/WC/theme",
+      "homepage": "/rest/api/content/39551000"
+    },
+    "_links": {
+      "webui": "/spaces/WC",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WC"
+    }
+  },
+  {
+    "id": 1146893,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1146893",
+    "key": "WLETPROJ",
+    "alias": "WLETPROJ",
+    "name": "Wavelet CRM Space",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/WLETPROJ/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WLETPROJ",
+      "permissions": "",
+      "theme": "/rest/api/space/WLETPROJ/theme",
+      "homepage": "/rest/api/content/1015876"
+    },
+    "_links": {
+      "webui": "/spaces/WLETPROJ",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WLETPROJ"
+    }
+  },
+  {
+    "id": 23986180,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/23986180",
+    "key": "WF",
+    "alias": "WF",
+    "name": "Wavelet Finance",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/WF/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WF",
+      "permissions": "",
+      "theme": "/rest/api/space/WF/theme",
+      "homepage": "/rest/api/content/23527923"
+    },
+    "_links": {
+      "webui": "/spaces/WF",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WF"
+    }
+  },
+  {
+    "id": 39256065,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/39256065",
+    "key": "WHRM",
+    "alias": "WHRM",
+    "name": "Wavelet HR",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/WHRM/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WHRM",
+      "permissions": "",
+      "theme": "/rest/api/space/WHRM/theme",
+      "homepage": "/rest/api/content/38928464"
+    },
+    "_links": {
+      "webui": "/spaces/WHRM",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WHRM"
+    }
+  },
+  {
+    "id": 1146881,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1146881",
+    "key": "WMS",
+    "alias": "WMS",
+    "name": "Wavelet Management Suite",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/WMS/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WMS",
+      "permissions": "",
+      "theme": "/rest/api/space/WMS/theme",
+      "homepage": "/rest/api/content/1015816"
+    },
+    "_links": {
+      "webui": "/spaces/WMS",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WMS"
+    }
+  },
+  {
+    "id": 132258642,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/132258642",
+    "key": "WMST",
+    "alias": "WMST",
+    "name": "Wavelet Movers & Shakers Team",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/WMST/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WMST",
+      "permissions": "",
+      "theme": "/rest/api/space/WMST/theme",
+      "homepage": "/rest/api/content/132259504"
+    },
+    "_links": {
+      "webui": "/spaces/WMST",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WMST"
+    }
+  },
+  {
+    "id": 1068925361,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1068925361",
+    "key": "WPMO",
+    "alias": "WPMO",
+    "name": "Wavelet PMO Structure",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/WPMO/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WPMO",
+      "permissions": "",
+      "theme": "/rest/api/space/WPMO/theme",
+      "homepage": "/rest/api/content/1068925480"
+    },
+    "_links": {
+      "webui": "/spaces/WPMO",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WPMO"
+    }
+  },
+  {
+    "id": 5144578,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/5144578",
+    "key": "WU",
+    "alias": "WU",
+    "name": "Wavelet Technical Documentation",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/WU/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WU",
+      "permissions": "",
+      "theme": "/rest/api/space/WU/theme",
+      "homepage": "/rest/api/content/4915212"
+    },
+    "_links": {
+      "webui": "/spaces/WU",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WU"
+    }
+  },
+  {
+    "id": 1015417407,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/1015417407",
+    "key": "WSCONSULT",
+    "alias": "WSCONSULT",
+    "name": "WS-Consult",
+    "type": "global",
+    "status": "archived",
+    "_expandable": {
+      "settings": "/rest/api/space/WSCONSULT/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=WSCONSULT",
+      "permissions": "",
+      "theme": "/rest/api/space/WSCONSULT/theme",
+      "homepage": "/rest/api/content/1015417511"
+    },
+    "_links": {
+      "webui": "/spaces/WSCONSULT",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/WSCONSULT"
+    }
+  },
+  {
+    "id": 32374785,
+    "ari": "ari:cloud:confluence:22f00532-df50-42c1-a366-b1e2b408765b:space/32374785",
+    "key": "JV",
+    "alias": "JV",
+    "name": "\u9e3f\u98de\u8f6f\u4ef6(JV)",
+    "type": "global",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/JV/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=JV",
+      "permissions": "",
+      "theme": "/rest/api/space/JV/theme",
+      "homepage": "/rest/api/content/32079978"
+    },
+    "_links": {
+      "webui": "/spaces/JV",
+      "self": "https://bigledger.atlassian.net/wiki/rest/api/space/JV"
+    }
+  }
+]

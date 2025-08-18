@@ -1,4 +1,7 @@
 ---
+description: Complete guide for MyInvois implementation with BigLedger.
+tags:
+- user-guide
 title: MyInvois Setup Guide
 weight: 10
 ---

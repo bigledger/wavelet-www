@@ -1,4 +1,9 @@
 ---
+description: BigLedger's modular applet architecture enables businesses to build customized
+  solutions by combining specialized applets that work seamlessly together through
+  our central data hub.
+tags:
+- user-guide
 title: Applets & Workflows
 weight: 9
 ---

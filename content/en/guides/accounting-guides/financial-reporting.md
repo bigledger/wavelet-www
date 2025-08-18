@@ -1,4 +1,7 @@
 ---
+description: Generate accurate financial reports with BigLedger's reporting suite.
+tags:
+- user-guide
 title: Financial Reporting Guide
 weight: 30
 ---

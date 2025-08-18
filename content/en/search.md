@@ -1,7 +1,10 @@
 ---
-title: Search Documentation
 description: Search through BigLedger documentation
+tags:
+- user-guide
+title: Search Documentation
 toc: false
+weight: 10
 ---
 
 {{< search >}}

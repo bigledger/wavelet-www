@@ -1,4 +1,7 @@
 ---
+description: Comprehensive validation rules for MyInvois compliance.
+tags:
+- user-guide
 title: E-Invoice Validation Rules
 weight: 30
 ---

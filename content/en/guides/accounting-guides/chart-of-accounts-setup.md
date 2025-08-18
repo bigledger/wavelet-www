@@ -1,4 +1,7 @@
 ---
+description: Complete guide for setting up your Chart of Accounts in BigLedger.
+tags:
+- user-guide
 title: Chart of Accounts Setup Guide
 weight: 10
 ---

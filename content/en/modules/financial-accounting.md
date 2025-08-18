@@ -1,6 +1,9 @@
 ---
-title: "Financial Accounting"
-description: "Complete financial management and accounting system with multi-currency, multi-entity support"
+description: Complete financial management and accounting system with multi-currency,
+  multi-entity support
+tags:
+- user-guide
+title: Financial Accounting
 weight: 10
 ---
 

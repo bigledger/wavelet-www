@@ -1,4 +1,7 @@
 ---
+description: Comprehensive guides for accounting guides.
+tags:
+- user-guide
 title: Accounting Guides
 weight: 30
 ---

@@ -1,0 +1,2221 @@
+{
+  "timestamp": "2025-08-18T03:39:51.574900",
+  "total_processed": 72,
+  "integration_results": {
+    "applets": [
+      {
+        "source": "Installation_of_Group_Maintenance_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/installation-of-group-maintenance-applet.md",
+        "title": "Installation of Group Maintenance Applet"
+      },
+      {
+        "source": "Introduction_to_Membership_Admin_Console_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/introduction-to-membership-admin-console-applet.md",
+        "title": "Introduction to Membership Admin Console Applet"
+      },
+      {
+        "source": "Related_Applets_-_Internal_Job_Order.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/related-applets-internal-job-order.md",
+        "title": "Related Applets - Internal Job Order"
+      },
+      {
+        "source": "Related_Applets_-_Stock_Balance.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/related-applets-stock-balance.md",
+        "title": "Related Applets - Stock Balance"
+      },
+      {
+        "source": "Company_-_Organization_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/company-organization-applet.md",
+        "title": "Company - Organization Applet,"
+      },
+      {
+        "source": "VSTECS_MS_ESD_Order_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/vstecs-ms-esd-order-applet.md",
+        "title": "VSTECS MS ESD Order Applet"
+      },
+      {
+        "source": "Related_Applets_-_Internal_Stock_Adjustment.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/related-applets-internal-stock-adjustment.md",
+        "title": "Related Applets - Internal Stock Adjustment"
+      },
+      {
+        "source": "Installation_of_Team_Maintenance_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/installation-of-team-maintenance-applet.md",
+        "title": "Installation of Team Maintenance Applet"
+      },
+      {
+        "source": "Group_Maintenance_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/group-maintenance-applet.md",
+        "title": "Group Maintenance Applet"
+      },
+      {
+        "source": "Internal_Delivery_Order_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/internal-delivery-order-applet.md",
+        "title": "Internal Delivery Order Applet"
+      },
+      {
+        "source": "Introduction_to_Team_Maintenance_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/introduction-to-team-maintenance-applet.md",
+        "title": "Introduction to Team Maintenance Applet"
+      },
+      {
+        "source": "Internal_Stock_Adjustment_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/internal-stock-adjustment-applet.md",
+        "title": "Internal Stock Adjustment Applet"
+      },
+      {
+        "source": "Introduction_to_Stock_Take_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/introduction-to-stock-take-applet.md",
+        "title": "Introduction to Stock Take Applet"
+      },
+      {
+        "source": "Stock_Balance_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/stock-balance-applet.md",
+        "title": "Stock Balance Applet"
+      },
+      {
+        "source": "Unified_Contact_Center_UCC_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/unified-contact-center-ucc-applet.md",
+        "title": "Unified Contact Center (UCC) Applet"
+      },
+      {
+        "source": "Applet_Directory.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/applet-directory.md",
+        "title": "Applet Directory"
+      },
+      {
+        "source": "Settings_of_Organization_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/settings-of-organization-applet.md",
+        "title": "Settings of Organization Applet"
+      },
+      {
+        "source": "Location_-_Organization_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/location-organization-applet.md",
+        "title": "Location - Organization Applet"
+      },
+      {
+        "source": "Team_Maintenance_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/team-maintenance-applet.md",
+        "title": "Team Maintenance Applet"
+      },
+      {
+        "source": "Process_Monitoring_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/process-monitoring-applet.md",
+        "title": "Process Monitoring Applet"
+      },
+      {
+        "source": "Branch_-_Organization_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/branch-organization-applet.md",
+        "title": "Branch - Organization Applet"
+      },
+      {
+        "source": "Pricebook_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/pricebook-applet.md",
+        "title": "Pricebook Applet"
+      },
+      {
+        "source": "Stock_Take_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/stock-take-applet.md",
+        "title": "Stock Take Applet"
+      },
+      {
+        "source": "Installation_of_Pricebook_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/installation-of-pricebook-applet.md",
+        "title": "Installation of Pricebook Applet"
+      },
+      {
+        "source": "Membership_Admin_Console_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/membership-admin-console-applet.md",
+        "title": "Membership Admin Console Applet"
+      },
+      {
+        "source": "Related_Applets_-_Process_Monitoring.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/related-applets-process-monitoring.md",
+        "title": "Related Applets - Process Monitoring"
+      },
+      {
+        "source": "90_EcomSync_Related_Applets.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/90-ecomsync-related-applets.md",
+        "title": "9.0 EcomSync Related Applets"
+      },
+      {
+        "source": "Ingram_Micro_MS_ESD_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/ingram-micro-ms-esd-applet.md",
+        "title": "Ingram Micro MS ESD Applet"
+      },
+      {
+        "source": "Applet_Store.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/applet-store.md",
+        "title": "Applet Store"
+      },
+      {
+        "source": "Organization_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/organization-applet.md",
+        "title": "Organization Applet"
+      },
+      {
+        "source": "Membership_Program.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/applets/membership-program.md",
+        "title": "Membership Program"
+      }
+    ],
+    "ecommerce": [
+      {
+        "source": "Marketplace_Tab.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/marketplace-tab.md",
+        "title": "Marketplace Tab"
+      },
+      {
+        "source": "20_Website_Configuration.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/20-website-configuration.md",
+        "title": "2.0 Website Configuration\ufeff"
+      },
+      {
+        "source": "Ecomsync_Features.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/ecomsync-features.md",
+        "title": "Ecomsync Features"
+      },
+      {
+        "source": "Create_Single_Tab.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/create-single-tab.md",
+        "title": "Create Single Tab"
+      },
+      {
+        "source": "Introduction_to_EcomSync.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/introduction-to-ecomsync.md",
+        "title": "Introduction to EcomSync"
+      },
+      {
+        "source": "Update_and_Delete_Item.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/update-and-delete-item.md",
+        "title": "Update and Delete Item"
+      },
+      {
+        "source": "B2B.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/b2b.md",
+        "title": "B2B"
+      },
+      {
+        "source": "Listing.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/listing.md",
+        "title": "Listing"
+      },
+      {
+        "source": "EcomSync_Applet.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/ecomsync-applet.md",
+        "title": "EcomSync Applet"
+      },
+      {
+        "source": "CP-Commerce.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/cp-commerce.md",
+        "title": "CP-Commerce"
+      },
+      {
+        "source": "Integration_with_Shopify.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/ecommerce/integration-with-shopify.md",
+        "title": "Integration with Shopify"
+      }
+    ],
+    "industry_solutions": [
+      {
+        "source": "Automotive_and_Workshop_Industry.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/industry-solutions/automotive-and-workshop-industry.md",
+        "title": "Automotive and Workshop Industry"
+      },
+      {
+        "source": "Food_and_Beverage_FB_Industry.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/industry-solutions/food-and-beverage-fb-industry.md",
+        "title": "Food and Beverage (F&B) Industry"
+      },
+      {
+        "source": "Industry_Guide.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/industry-solutions/industry-guide.md",
+        "title": "Industry Guide"
+      }
+    ],
+    "business_operations": [
+      {
+        "source": "Main_Dashboard.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/main-dashboard.md",
+        "title": "Main Dashboard"
+      },
+      {
+        "source": "Account_Receivable.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/account-receivable.md",
+        "title": "Account Receivable"
+      },
+      {
+        "source": "Dashboard.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/dashboard.md",
+        "title": "Dashboard"
+      },
+      {
+        "source": "Sales_Order_Tab.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/sales-order-tab.md",
+        "title": "Sales Order Tab"
+      },
+      {
+        "source": "Order_Dashboard.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/order-dashboard.md",
+        "title": "Order Dashboard"
+      },
+      {
+        "source": "Order_Details.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/order-details.md",
+        "title": "Order Details"
+      },
+      {
+        "source": "Sales_Dashboard.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/sales-dashboard.md",
+        "title": "Sales Dashboard"
+      },
+      {
+        "source": "Accounting.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/accounting.md",
+        "title": "Accounting"
+      },
+      {
+        "source": "Order_Listing.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/order-listing.md",
+        "title": "Order Listing"
+      },
+      {
+        "source": "Order.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/order.md",
+        "title": "Order"
+      },
+      {
+        "source": "Order_Filtering.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/business-operations/order-filtering.md",
+        "title": "Order Filtering"
+      }
+    ],
+    "user_guides": [
+      {
+        "source": "Document_Item_Maintenance.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/document-item-maintenance.md",
+        "title": "Document Item Maintenance"
+      },
+      {
+        "source": "Member_Listing.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/member-listing.md",
+        "title": "Member Listing"
+      },
+      {
+        "source": "Price_book.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/price-book.md",
+        "title": "Price book"
+      },
+      {
+        "source": "Price_Set.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/price-set.md",
+        "title": "Price Set"
+      },
+      {
+        "source": "Introduction.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/introduction.md",
+        "title": "Introduction"
+      },
+      {
+        "source": "Pricing_Scheme.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/pricing-scheme.md",
+        "title": "Pricing Scheme"
+      },
+      {
+        "source": "Item_Maintenance.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/item-maintenance.md",
+        "title": "Item Maintenance"
+      },
+      {
+        "source": "Document_Item_Types.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/document-item-types.md",
+        "title": "Document Item Types"
+      },
+      {
+        "source": "BigLedger_Documentation.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/bigledger-documentation.md",
+        "title": "BigLedger Documentation"
+      },
+      {
+        "source": "Editing_an_Item.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/editing-an-item.md",
+        "title": "Editing an Item"
+      },
+      {
+        "source": "Team.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/team.md",
+        "title": "Team"
+      },
+      {
+        "source": "Group_Listing.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/group-listing.md",
+        "title": "Group Listing"
+      },
+      {
+        "source": "Creating_an_Item.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/creating-an-item.md",
+        "title": "Creating an Item"
+      },
+      {
+        "source": "Member_Label_List.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/member-label-list.md",
+        "title": "Member Label List"
+      },
+      {
+        "source": "Member_Label.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/member-label.md",
+        "title": "Member Label"
+      },
+      {
+        "source": "Member_Class.md",
+        "target": "/Users/vincent/repo/blg-wiki/content/en/user-guide/member-class.md",
+        "title": "Member Class"
+      }
+    ]
+  },
+  "index_pages_created": [
+    "/Users/vincent/repo/blg-wiki/content/en/business-operations/_index.md",
+    "/Users/vincent/repo/blg-wiki/content/en/industry-solutions/_index.md",
+    "/Users/vincent/repo/blg-wiki/content/en/ecommerce/_index.md",
+    "/Users/vincent/repo/blg-wiki/content/en/applets/_index.md"
+  ],
+  "source_analysis": {
+    "total_files": 100,
+    "categories": {
+      "modules": [
+        {
+          "filename": "Delivery_and_Installation_Module.md",
+          "title": "Delivery and Installation Module",
+          "page_id": "3153985892",
+          "last_updated": "2021-06-05T09:01:51.769Z",
+          "category": "modules",
+          "content_length": 110,
+          "content_preview": "# Delivery and Installation Module  **Page ID**: 3153985892 **Last Updated**: 2021-06-05T09:01:51.769Z  ---   "
+        },
+        {
+          "filename": "Core_Modules.md",
+          "title": "Core Modules",
+          "page_id": "3224109298",
+          "last_updated": "2021-06-26T13:07:15.136Z",
+          "category": "modules",
+          "content_length": 90,
+          "content_preview": "# Core Modules  **Page ID**: 3224109298 **Last Updated**: 2021-06-26T13:07:15.136Z  ---   "
+        },
+        {
+          "filename": "EcomSync_Module.md",
+          "title": "EcomSync Module",
+          "page_id": "3153985899",
+          "last_updated": "2024-11-16T19:16:08.380Z",
+          "category": "modules",
+          "content_length": 849,
+          "content_preview": "# EcomSync Module  **Page ID**: 3153985899 **Last Updated**: 2024-11-16T19:16:08.380Z  ---  The EcomSync Module streamlines multi-channel e-commerce operations by centralizing the management of sales,"
+        },
+        {
+          "filename": "Manage_Image_Tab.md",
+          "title": "Manage Image Tab",
+          "page_id": "3197011130",
+          "last_updated": "2021-07-23T04:25:08.121Z",
+          "category": "modules",
+          "content_length": 877,
+          "content_preview": "# Manage Image Tab  **Page ID**: 3197011130 **Last Updated**: 2021-07-23T04:25:08.121Z  ---  Manage Image Tab is used as a storage to save all the images of the item, so later when syncing the item us"
+        },
+        {
+          "filename": "PTS_to_CCY_Config_Module.md",
+          "title": "PTS to CCY Config Module",
+          "page_id": "3317499520",
+          "last_updated": "2021-07-26T04:51:42.302Z",
+          "category": "modules",
+          "content_length": 1286,
+          "content_preview": "# PTS to CCY Config Module  **Page ID**: 3317499520 **Last Updated**: 2021-07-26T04:51:42.302Z  ---  8.PTS to CCY Config Module: Add New Points to Money Currency Conversion>Compulsory information>Edit"
+        },
+        {
+          "filename": "62_Pages_Module.md",
+          "title": "6.2 Pages Module",
+          "page_id": "3187212391",
+          "last_updated": "2024-11-17T11:12:51.786Z",
+          "category": "modules",
+          "content_length": 433,
+          "content_preview": "# 6.2 Pages Module  **Page ID**: 3187212391 **Last Updated**: 2024-11-17T11:12:51.786Z  ---  This module allows user to create static pages for cp-commerce.  To Create:  Title : Title for the static p"
+        },
+        {
+          "filename": "PTS_to_PTS_Config_Module.md",
+          "title": "PTS to PTS Config Module",
+          "page_id": "3317368412",
+          "last_updated": "2021-07-26T04:45:09.643Z",
+          "category": "modules",
+          "content_length": 1333,
+          "content_preview": "# PTS to PTS Config Module  **Page ID**: 3317368412 **Last Updated**: 2021-07-26T04:45:09.643Z  ---  7.PTS to PTS Config Module: Add New Points to Point Currency Conversion>Compulsory information>Edit"
+        },
+        {
+          "filename": "61_Menu_Module.md",
+          "title": "6.1 Menu Module",
+          "page_id": "3187277881",
+          "last_updated": "2024-11-17T11:12:41.744Z",
+          "category": "modules",
+          "content_length": 1501,
+          "content_preview": "# 6.1 Menu Module  **Page ID**: 3187277881 **Last Updated**: 2024-11-17T11:12:41.744Z  ---  The menu items are configured in this module: You can see what are the menu items you want to display in you"
+        },
+        {
+          "filename": "10_Overview_CP_Commerce_Module.md",
+          "title": "1.0 Overview\ufeff CP Commerce Module",
+          "page_id": "3175548796",
+          "last_updated": "2024-11-17T11:06:06.926Z",
+          "category": "modules",
+          "content_length": 1771,
+          "content_preview": "# 1.0 Overview\ufeff CP Commerce Module  **Page ID**: 3175548796 **Last Updated**: 2024-11-17T11:06:06.926Z  ---  The CP-Commerce module is a central component of the system, serving as the core e-commerce"
+        },
+        {
+          "filename": "Main_Detail_Tab.md",
+          "title": "Main Detail Tab",
+          "page_id": "3196847147",
+          "last_updated": "2021-07-23T04:09:07.463Z",
+          "category": "modules",
+          "content_length": 867,
+          "content_preview": "# Main Detail Tab  **Page ID**: 3196847147 **Last Updated**: 2021-07-23T04:09:07.463Z  ---  Main Detail Tab shows the basic details that were filled in the creation part. users may re-edit and click s"
+        },
+        {
+          "filename": "Time_Attendance_Module.md",
+          "title": "Time Attendance Module",
+          "page_id": "3153985926",
+          "last_updated": "2024-11-20T12:42:26.180Z",
+          "category": "modules",
+          "content_length": 100,
+          "content_preview": "# Time Attendance Module  **Page ID**: 3153985926 **Last Updated**: 2024-11-20T12:42:26.180Z  ---   "
+        },
+        {
+          "filename": "Modules_Guide.md",
+          "title": "Modules Guide",
+          "page_id": "3153985719",
+          "last_updated": "2024-11-17T18:07:57.217Z",
+          "category": "modules",
+          "content_length": 385,
+          "content_preview": "# Modules Guide  **Page ID**: 3153985719 **Last Updated**: 2024-11-17T18:07:57.217Z  ---  The Modules Guide provides a comprehensive overview of the core and supplementary modules within the BigLedger"
+        },
+        {
+          "filename": "Manufacturing_Module.md",
+          "title": "Manufacturing Module\ufeff",
+          "page_id": "3153854880",
+          "last_updated": "2024-11-15T02:55:46.423Z",
+          "category": "modules",
+          "content_length": 1154,
+          "content_preview": "# Manufacturing Module\ufeff  **Page ID**: 3153854880 **Last Updated**: 2024-11-15T02:55:46.423Z  ---  # Implementation Steps\ufeff  ## Scope Management (End Results)\ufeff Begin with the end in mind  This is where "
+        },
+        {
+          "filename": "PTS_CCY_Module.md",
+          "title": "PTS CCY Module",
+          "page_id": "3317499473",
+          "last_updated": "2021-07-26T04:33:23.699Z",
+          "category": "modules",
+          "content_length": 1056,
+          "content_preview": "# PTS CCY Module  **Page ID**: 3317499473 **Last Updated**: 2021-07-26T04:33:23.699Z  ---  6.PTS CCY Module: Create Membership point currency>Compulsory information>Edit  6.1. Please click on &lsquo;P"
+        }
+      ],
+      "business_operations": [
+        {
+          "filename": "Main_Dashboard.md",
+          "title": "Main Dashboard",
+          "page_id": "3196486107",
+          "last_updated": "2021-06-18T02:51:44.242Z",
+          "category": "business_operations",
+          "content_length": 444,
+          "content_preview": "# Main Dashboard  **Page ID**: 3196486107 **Last Updated**: 2021-06-18T02:51:44.242Z  ---  Users able to see their selling performance of marketplace in a graph figures for an example.   Users can fil"
+        },
+        {
+          "filename": "Account_Receivable.md",
+          "title": "Account Receivable",
+          "page_id": "3153822231",
+          "last_updated": "2021-06-05T09:04:43.073Z",
+          "category": "business_operations",
+          "content_length": 96,
+          "content_preview": "# Account Receivable  **Page ID**: 3153822231 **Last Updated**: 2021-06-05T09:04:43.073Z  ---   "
+        },
+        {
+          "filename": "Dashboard.md",
+          "title": "Dashboard",
+          "page_id": "3138977836",
+          "last_updated": "2021-06-18T02:46:09.261Z",
+          "category": "business_operations",
+          "content_length": 407,
+          "content_preview": "# Dashboard  **Page ID**: 3138977836 **Last Updated**: 2021-06-18T02:46:09.261Z  ---  ## Dashboard Tab Dashboard provides at-a-glance views of key performance indicators of your shop. It can unleash y"
+        },
+        {
+          "filename": "Sales_Order_Tab.md",
+          "title": "Sales Order Tab",
+          "page_id": "3196191975",
+          "last_updated": "2021-06-18T06:19:14.245Z",
+          "category": "business_operations",
+          "content_length": 347,
+          "content_preview": "# Sales Order Tab  **Page ID**: 3196191975 **Last Updated**: 2021-06-18T06:19:14.245Z  ---  Sales Order Tab - allows user to configure the sales order either:  Active - all active Sales Order will be "
+        },
+        {
+          "filename": "Order_Dashboard.md",
+          "title": "Order Dashboard",
+          "page_id": "3197010418",
+          "last_updated": "2021-06-18T02:58:45.100Z",
+          "category": "business_operations",
+          "content_length": 462,
+          "content_preview": "# Order Dashboard  **Page ID**: 3197010418 **Last Updated**: 2021-06-18T02:58:45.100Z  ---  Order dashboard also show users on the summary of users performance throughout their business timeline and s"
+        },
+        {
+          "filename": "Order_Details.md",
+          "title": "Order Details",
+          "page_id": "3196486077",
+          "last_updated": "2021-06-18T02:43:04.291Z",
+          "category": "business_operations",
+          "content_length": 543,
+          "content_preview": "# Order Details  **Page ID**: 3196486077 **Last Updated**: 2021-06-18T02:43:04.291Z  ---  When clicking on order, the details of order will be shown in each tab as image below:  Details Tab - allows t"
+        },
+        {
+          "filename": "Sales_Dashboard.md",
+          "title": "Sales Dashboard",
+          "page_id": "3196846465",
+          "last_updated": "2021-06-18T02:56:31.515Z",
+          "category": "business_operations",
+          "content_length": 444,
+          "content_preview": "# Sales Dashboard  **Page ID**: 3196846465 **Last Updated**: 2021-06-18T02:56:31.515Z  ---  Sales dashboard show a summary of users' selling performance and result according to the specific timeline. "
+        },
+        {
+          "filename": "Accounting.md",
+          "title": "Accounting",
+          "page_id": "3153854863",
+          "last_updated": "2024-11-17T18:06:34.270Z",
+          "category": "business_operations",
+          "content_length": 2502,
+          "content_preview": "# Accounting  **Page ID**: 3153854863 **Last Updated**: 2024-11-17T18:06:34.270Z  ---  ##  Set Up Company\ufeff Organization Applet  Create Company &rarr; Create Branch &rarr; Create Location &rarr; Branch"
+        },
+        {
+          "filename": "Order_Listing.md",
+          "title": "Order Listing",
+          "page_id": "3196191098",
+          "last_updated": "2021-06-18T02:13:39.990Z",
+          "category": "business_operations",
+          "content_length": 379,
+          "content_preview": "# Order Listing  **Page ID**: 3196191098 **Last Updated**: 2021-06-18T02:13:39.990Z  ---  The Order Listing shows all your orders that are synced from Marketplace to Ecomsync Applet.  ### Search Users"
+        },
+        {
+          "filename": "Order.md",
+          "title": "Order",
+          "page_id": "3132819258",
+          "last_updated": "2021-06-18T06:29:50.891Z",
+          "category": "business_operations",
+          "content_length": 327,
+          "content_preview": "# Order  **Page ID**: 3132819258 **Last Updated**: 2021-06-18T06:29:50.891Z  ---  For this module, you are able to identify and oversee your orders status journey for both Ecomsync and Marketplace pla"
+        },
+        {
+          "filename": "Order_Filtering.md",
+          "title": "Order Filtering",
+          "page_id": "3197010347",
+          "last_updated": "2021-06-18T02:33:29.613Z",
+          "category": "business_operations",
+          "content_length": 1479,
+          "content_preview": "# Order Filtering  **Page ID**: 3197010347 **Last Updated**: 2021-06-18T02:33:29.613Z  ---  # Filter  Order filtering help users to specify and focus on important detail of an order.   Users also can "
+        }
+      ],
+      "applets": [
+        {
+          "filename": "Installation_of_Group_Maintenance_Applet.md",
+          "title": "Installation of Group Maintenance Applet",
+          "page_id": "3320746785",
+          "last_updated": "2021-07-27T06:59:16.429Z",
+          "category": "applets",
+          "content_length": 574,
+          "content_preview": "# Installation of Group Maintenance Applet  **Page ID**: 3320746785 **Last Updated**: 2021-07-27T06:59:16.429Z  ---  1.Installation (Akaun Cloud): Applet Store > Search > Install > Akaun page > Search"
+        },
+        {
+          "filename": "Introduction_to_Membership_Admin_Console_Applet.md",
+          "title": "Introduction to Membership Admin Console Applet",
+          "page_id": "3314974838",
+          "last_updated": "2021-08-05T02:05:18.124Z",
+          "category": "applets",
+          "content_length": 862,
+          "content_preview": "# Introduction to Membership Admin Console Applet  **Page ID**: 3314974838 **Last Updated**: 2021-08-05T02:05:18.124Z  ---  Introduction  This applet is used to Configure and manage the Membership and"
+        },
+        {
+          "filename": "Related_Applets_-_Internal_Job_Order.md",
+          "title": "Related Applets - Internal Job Order",
+          "page_id": "3325940946",
+          "last_updated": "2021-08-02T08:55:10.844Z",
+          "category": "applets",
+          "content_length": 274,
+          "content_preview": "# Related Applets - Internal Job Order  **Page ID**: 3325940946 **Last Updated**: 2021-08-02T08:55:10.844Z  ---  ### The internal job order applet can import Lines from the following Applets:   ### Th"
+        },
+        {
+          "filename": "Related_Applets_-_Stock_Balance.md",
+          "title": "Related Applets - Stock Balance",
+          "page_id": "3325941210",
+          "last_updated": "2021-10-18T06:35:35.008Z",
+          "category": "applets",
+          "content_length": 1272,
+          "content_preview": "# Related Applets - Stock Balance  **Page ID**: 3325941210 **Last Updated**: 2021-10-18T06:35:35.008Z  ---  ### The stock balance applet can import Lines from the following Applets: Organisation Apple"
+        },
+        {
+          "filename": "Company_-_Organization_Applet.md",
+          "title": "Company - Organization Applet,",
+          "page_id": "3259374409",
+          "last_updated": "2025-05-23T00:35:53.163Z",
+          "category": "applets",
+          "content_length": 6704,
+          "content_preview": "# Company - Organization Applet,  **Page ID**: 3259374409 **Last Updated**: 2025-05-23T00:35:53.163Z  ---  noneWhen logging into the Organization Applet, the first page displayed to the user is the Co"
+        },
+        {
+          "filename": "VSTECS_MS_ESD_Order_Applet.md",
+          "title": "VSTECS MS ESD Order Applet",
+          "page_id": "3176039738",
+          "last_updated": "2021-07-15T07:57:41.735Z",
+          "category": "applets",
+          "content_length": 676,
+          "content_preview": "# VSTECS MS ESD Order Applet  **Page ID**: 3176039738 **Last Updated**: 2021-07-15T07:57:41.735Z  ---  Attached User guide for MS ESD Order and Work Breakdown for implementation.  This Applet required"
+        },
+        {
+          "filename": "Related_Applets_-_Internal_Stock_Adjustment.md",
+          "title": "Related Applets - Internal Stock Adjustment",
+          "page_id": "3325941230",
+          "last_updated": "2021-10-18T06:03:41.108Z",
+          "category": "applets",
+          "content_length": 407,
+          "content_preview": "# Related Applets - Internal Stock Adjustment  **Page ID**: 3325941230 **Last Updated**: 2021-10-18T06:03:41.108Z  ---  ### The Internal Stock Adjustment applet can import Lines from the following App"
+        },
+        {
+          "filename": "Installation_of_Team_Maintenance_Applet.md",
+          "title": "Installation of Team Maintenance Applet",
+          "page_id": "3320324314",
+          "last_updated": "2021-07-27T04:03:13.707Z",
+          "category": "applets",
+          "content_length": 573,
+          "content_preview": "# Installation of Team Maintenance Applet  **Page ID**: 3320324314 **Last Updated**: 2021-07-27T04:03:13.707Z  ---  1.Installation (Akaun Cloud): Applet Store > Search > Install > Akaun page > Search "
+        },
+        {
+          "filename": "Group_Maintenance_Applet.md",
+          "title": "Group Maintenance Applet",
+          "page_id": "3284597324",
+          "last_updated": "2024-11-18T05:14:31.039Z",
+          "category": "applets",
+          "content_length": 290,
+          "content_preview": "# Group Maintenance Applet  **Page ID**: 3284597324 **Last Updated**: 2024-11-18T05:14:31.039Z  ---  Group Maintenance applet is to add users into a Group, and assign permission to the user in Platfor"
+        },
+        {
+          "filename": "Internal_Delivery_Order_Applet.md",
+          "title": "Internal Delivery Order Applet",
+          "page_id": "3325941105",
+          "last_updated": "2024-11-19T14:06:31.723Z",
+          "category": "applets",
+          "content_length": 528,
+          "content_preview": "# Internal Delivery Order Applet  **Page ID**: 3325941105 **Last Updated**: 2024-11-19T14:06:31.723Z  ---  The Internal Delivery Order Applet is a versatile tool designed to streamline the process of "
+        },
+        {
+          "filename": "Introduction_to_Team_Maintenance_Applet.md",
+          "title": "Introduction to Team Maintenance Applet",
+          "page_id": "3320513762",
+          "last_updated": "2021-07-27T06:19:21.679Z",
+          "category": "applets",
+          "content_length": 359,
+          "content_preview": "# Introduction to Team Maintenance Applet  **Page ID**: 3320513762 **Last Updated**: 2021-07-27T06:19:21.679Z  ---  Introduction  Team Maintenance applet is to manage the users and permissions of the "
+        },
+        {
+          "filename": "Internal_Stock_Adjustment_Applet.md",
+          "title": "Internal Stock Adjustment Applet",
+          "page_id": "3325941223",
+          "last_updated": "2024-11-20T10:17:44.792Z",
+          "category": "applets",
+          "content_length": 418,
+          "content_preview": "# Internal Stock Adjustment Applet  **Page ID**: 3325941223 **Last Updated**: 2024-11-20T10:17:44.792Z  ---  The Internal Stock Adjustment Applet simplifies stock management by allowing users to adjus"
+        },
+        {
+          "filename": "Introduction_to_Stock_Take_Applet.md",
+          "title": "Introduction to Stock Take Applet",
+          "page_id": "3312746669",
+          "last_updated": "2025-02-28T09:09:05.479Z",
+          "category": "applets",
+          "content_length": 1307,
+          "content_preview": "# Introduction to Stock Take Applet  **Page ID**: 3312746669 **Last Updated**: 2025-02-28T09:09:05.479Z  ---  The Stock Take Applet offers a one-stop solution for all your inventory management needs, "
+        },
+        {
+          "filename": "Stock_Balance_Applet.md",
+          "title": "Stock Balance Applet",
+          "page_id": "3325941199",
+          "last_updated": "2021-08-02T08:59:25.470Z",
+          "category": "applets",
+          "content_length": 98,
+          "content_preview": "# Stock Balance Applet  **Page ID**: 3325941199 **Last Updated**: 2021-08-02T08:59:25.470Z  ---   "
+        },
+        {
+          "filename": "Unified_Contact_Center_UCC_Applet.md",
+          "title": "Unified Contact Center (UCC) Applet",
+          "page_id": "3153854887",
+          "last_updated": "2021-08-25T03:55:39.645Z",
+          "category": "applets",
+          "content_length": 737,
+          "content_preview": "# Unified Contact Center (UCC) Applet  **Page ID**: 3153854887 **Last Updated**: 2021-08-25T03:55:39.645Z  ---  Introduction  Unified Contact Center (UCC) Applet is now available in the Applet Store. "
+        },
+        {
+          "filename": "Applet_Directory.md",
+          "title": "Applet Directory",
+          "page_id": "2944893173",
+          "last_updated": "2025-07-06T12:35:44.630Z",
+          "category": "applets",
+          "content_length": 641,
+          "content_preview": "# Applet Directory  **Page ID**: 2944893173 **Last Updated**: 2025-07-06T12:35:44.630Z  ---  Applet Store is the marketplace for the distribution of applets that are designed for use with the Akaun pr"
+        },
+        {
+          "filename": "Settings_of_Organization_Applet.md",
+          "title": "Settings of Organization Applet",
+          "page_id": "3259346305",
+          "last_updated": "2025-05-23T00:39:52.631Z",
+          "category": "applets",
+          "content_length": 234,
+          "content_preview": "# Settings of Organization Applet  **Page ID**: 3259346305 **Last Updated**: 2025-05-23T00:39:52.631Z  ---  \ufeffThis section covers all the settings used by Wavelet.  The role permission allows you to se"
+        },
+        {
+          "filename": "Location_-_Organization_Applet.md",
+          "title": "Location - Organization Applet",
+          "page_id": "3259374431",
+          "last_updated": "2025-05-23T00:39:20.134Z",
+          "category": "applets",
+          "content_length": 488,
+          "content_preview": "# Location - Organization Applet  **Page ID**: 3259374431 **Last Updated**: 2025-05-23T00:39:20.134Z  ---  Each branch can have multiple locations  This is the third icon in the sidebar, \"Location.\" T"
+        },
+        {
+          "filename": "Team_Maintenance_Applet.md",
+          "title": "Team Maintenance Applet",
+          "page_id": "3286371018",
+          "last_updated": "2021-07-27T04:56:24.668Z",
+          "category": "applets",
+          "content_length": 102,
+          "content_preview": "# Team Maintenance Applet  **Page ID**: 3286371018 **Last Updated**: 2021-07-27T04:56:24.668Z  ---  1 "
+        },
+        {
+          "filename": "Process_Monitoring_Applet.md",
+          "title": "Process Monitoring Applet",
+          "page_id": "3325940977",
+          "last_updated": "2021-08-02T07:55:26.716Z",
+          "category": "applets",
+          "content_length": 103,
+          "content_preview": "# Process Monitoring Applet  **Page ID**: 3325940977 **Last Updated**: 2021-08-02T07:55:26.716Z  ---   "
+        },
+        {
+          "filename": "Branch_-_Organization_Applet.md",
+          "title": "Branch - Organization Applet",
+          "page_id": "3196191408",
+          "last_updated": "2025-05-23T00:37:54.393Z",
+          "category": "applets",
+          "content_length": 4661,
+          "content_preview": "# Branch - Organization Applet  **Page ID**: 3196191408 **Last Updated**: 2025-05-23T00:37:54.393Z  ---  noneThis section covers the second main tab in the sidebar, Branches, where users can create an"
+        },
+        {
+          "filename": "Pricebook_Applet.md",
+          "title": "Pricebook Applet",
+          "page_id": "3317565050",
+          "last_updated": "2025-01-01T18:13:11.882Z",
+          "category": "applets",
+          "content_length": 446,
+          "content_preview": "# Pricebook Applet  **Page ID**: 3317565050 **Last Updated**: 2025-01-01T18:13:11.882Z  ---  # 1.0 Introduction The Pricebook Applet is used to set up Promotion, Purchase with Purchase (PWP) and campa"
+        },
+        {
+          "filename": "Stock_Take_Applet.md",
+          "title": "Stock Take Applet",
+          "page_id": "3299246220",
+          "last_updated": "2025-02-28T08:44:42.316Z",
+          "category": "applets",
+          "content_length": 856,
+          "content_preview": "# Stock Take Applet  **Page ID**: 3299246220 **Last Updated**: 2025-02-28T08:44:42.316Z  ---  The Stock Take Applet is a cutting-edge digital solution designed to revolutionize inventory management fo"
+        },
+        {
+          "filename": "Installation_of_Pricebook_Applet.md",
+          "title": "Installation of Pricebook Applet",
+          "page_id": "3317538085",
+          "last_updated": "2025-01-01T18:14:29.170Z",
+          "category": "applets",
+          "content_length": 463,
+          "content_preview": "# Installation of Pricebook Applet  **Page ID**: 3317538085 **Last Updated**: 2025-01-01T18:14:29.170Z  ---  # 2.0 Installation of Pricebook Applet Please go to Akaun.cloud and find the Applet store. "
+        },
+        {
+          "filename": "Membership_Admin_Console_Applet.md",
+          "title": "Membership Admin Console Applet",
+          "page_id": "3314483397",
+          "last_updated": "2021-07-26T04:37:55.594Z",
+          "category": "applets",
+          "content_length": 110,
+          "content_preview": "# Membership Admin Console Applet  **Page ID**: 3314483397 **Last Updated**: 2021-07-26T04:37:55.594Z  ---  1 "
+        },
+        {
+          "filename": "Related_Applets_-_Process_Monitoring.md",
+          "title": "Related Applets - Process Monitoring",
+          "page_id": "3325940988",
+          "last_updated": "2021-08-02T08:57:04.570Z",
+          "category": "applets",
+          "content_length": 280,
+          "content_preview": "# Related Applets - Process Monitoring  **Page ID**: 3325940988 **Last Updated**: 2021-08-02T08:57:04.570Z  ---  ### The process monitoring applet can import Lines from the following Applets:         "
+        },
+        {
+          "filename": "90_EcomSync_Related_Applets.md",
+          "title": "9.0 EcomSync Related Applets",
+          "page_id": "2944958608",
+          "last_updated": "2024-11-16T19:11:46.763Z",
+          "category": "applets",
+          "content_length": 860,
+          "content_preview": "# 9.0 EcomSync Related Applets  **Page ID**: 2944958608 **Last Updated**: 2024-11-16T19:11:46.763Z  ---  Ecomsync Organization Applet   Ecomsync - Organisation Applet - Create Company   Ecomsync - Org"
+        },
+        {
+          "filename": "Ingram_Micro_MS_ESD_Applet.md",
+          "title": "Ingram Micro MS ESD Applet",
+          "page_id": "3292921869",
+          "last_updated": "2021-07-15T07:57:58.109Z",
+          "category": "applets",
+          "content_length": 104,
+          "content_preview": "# Ingram Micro MS ESD Applet  **Page ID**: 3292921869 **Last Updated**: 2021-07-15T07:57:58.109Z  ---   "
+        },
+        {
+          "filename": "Applet_Store.md",
+          "title": "Applet Store",
+          "page_id": "3153985735",
+          "last_updated": "2024-11-12T20:56:19.341Z",
+          "category": "applets",
+          "content_length": 24367,
+          "content_preview": "# Applet Store  **Page ID**: 3153985735 **Last Updated**: 2024-11-12T20:56:19.341Z  ---  ## 1.0 Introduction\ufeff Applet Store is the marketplace for the distribution of applets that are designed for use "
+        },
+        {
+          "filename": "Organization_Applet.md",
+          "title": "Organization Applet",
+          "page_id": "3197010229",
+          "last_updated": "2025-05-23T00:34:30.718Z",
+          "category": "applets",
+          "content_length": 1199,
+          "content_preview": "# Organization Applet  **Page ID**: 3197010229 **Last Updated**: 2025-05-23T00:34:30.718Z  ---  The Organization Applet is designed to manage and configure essential details for companies and their br"
+        },
+        {
+          "filename": "Membership_Program.md",
+          "title": "Membership Program",
+          "page_id": "3153822171",
+          "last_updated": "2022-04-18T04:38:40.607Z",
+          "category": "applets",
+          "content_length": 334,
+          "content_preview": "# Membership Program  **Page ID**: 3153822171 **Last Updated**: 2022-04-18T04:38:40.607Z  ---  To use the membership Program  Compulsory applets  Organization applet  Doc Item Maintenance applet  Pric"
+        }
+      ],
+      "user_guides": [
+        {
+          "filename": "Document_Item_Maintenance.md",
+          "title": "Document Item Maintenance",
+          "page_id": "3225452905",
+          "last_updated": "2021-06-26T13:07:52.151Z",
+          "category": "user_guides",
+          "content_length": 103,
+          "content_preview": "# Document Item Maintenance  **Page ID**: 3225452905 **Last Updated**: 2021-06-26T13:07:52.151Z  ---   "
+        },
+        {
+          "filename": "Member_Listing.md",
+          "title": "Member Listing",
+          "page_id": "3317564816",
+          "last_updated": "2021-07-26T04:28:05.761Z",
+          "category": "user_guides",
+          "content_length": 1301,
+          "content_preview": "# Member Listing  **Page ID**: 3317564816 **Last Updated**: 2021-07-26T04:28:05.761Z  ---  2. Member Listing: Create New Member > Membership Edit  2.1. Please click the &lsquo;+&rsquo; button to Creat"
+        },
+        {
+          "filename": "Price_book.md",
+          "title": "Price book",
+          "page_id": "3317434109",
+          "last_updated": "2025-01-01T18:15:27.759Z",
+          "category": "user_guides",
+          "content_length": 619,
+          "content_preview": "# Price book  **Page ID**: 3317434109 **Last Updated**: 2025-01-01T18:15:27.759Z  ---  # 3.0 Pricebook Listing Please click the \"+\"\" button to Create a new Pricebook.  Please fill up the compulsory * "
+        },
+        {
+          "filename": "Price_Set.md",
+          "title": "Price Set",
+          "page_id": "3320710072",
+          "last_updated": "2025-01-01T18:19:51.419Z",
+          "category": "user_guides",
+          "content_length": 2916,
+          "content_preview": "# Price Set  **Page ID**: 3320710072 **Last Updated**: 2025-01-01T18:19:51.419Z  ---  # 4.0 Create Price Set Please click on \"Price set\" from the module list and click \"+\" button to create a new price"
+        },
+        {
+          "filename": "Introduction.md",
+          "title": "Introduction",
+          "page_id": "3153854635",
+          "last_updated": "2024-11-08T12:29:44.536Z",
+          "category": "user_guides",
+          "content_length": 1076,
+          "content_preview": "# Introduction  **Page ID**: 3153854635 **Last Updated**: 2024-11-08T12:29:44.536Z  ---  Your gateway to streamlined operations and valuable insights with Bigledger  #DEEBFFBigledger centralizes your "
+        },
+        {
+          "filename": "Pricing_Scheme.md",
+          "title": "Pricing Scheme",
+          "page_id": "3313139757",
+          "last_updated": "2024-11-12T21:27:30.118Z",
+          "category": "user_guides",
+          "content_length": 2026,
+          "content_preview": "# Pricing Scheme  **Page ID**: 3313139757 **Last Updated**: 2024-11-12T21:27:30.118Z  ---  Once a user clicks on the pricing scheme module it will land on the pricing scheme listing page. The module i"
+        },
+        {
+          "filename": "Item_Maintenance.md",
+          "title": "Item Maintenance",
+          "page_id": "3132753410",
+          "last_updated": "2021-07-23T05:12:14.093Z",
+          "category": "user_guides",
+          "content_length": 380,
+          "content_preview": "# Item Maintenance  **Page ID**: 3132753410 **Last Updated**: 2021-07-23T05:12:14.093Z  ---  ## Table of Content Listings  Creating an Item  Editing an Item  Main Details Tab  Item Categories Tab  Dim"
+        },
+        {
+          "filename": "Document_Item_Types.md",
+          "title": "Document Item Types",
+          "page_id": "3225452915",
+          "last_updated": "2021-07-12T09:07:01.033Z",
+          "category": "user_guides",
+          "content_length": 1496,
+          "content_preview": "# Document Item Types  **Page ID**: 3225452915 **Last Updated**: 2021-07-12T09:07:01.033Z  ---  Basic Item refers to an FI-item, an individual item having a one-to-one mapping with an INV Item;  Kit ,"
+        },
+        {
+          "filename": "BigLedger_Documentation.md",
+          "title": "BigLedger Documentation",
+          "page_id": "2945286292",
+          "last_updated": "2024-11-07T05:11:28.664Z",
+          "category": "user_guides",
+          "content_length": 1446,
+          "content_preview": "# BigLedger Documentation  **Page ID**: 2945286292 **Last Updated**: 2024-11-07T05:11:28.664Z  ---  # How can we help you? largepage excerptSearch keywords (e.g. Team, Sales Order, etc)      Welcome t"
+        },
+        {
+          "filename": "Editing_an_Item.md",
+          "title": "Editing an Item",
+          "page_id": "3196191049",
+          "last_updated": "2021-07-23T04:10:59.216Z",
+          "category": "user_guides",
+          "content_length": 530,
+          "content_preview": "# Editing an Item  **Page ID**: 3196191049 **Last Updated**: 2021-07-23T04:10:59.216Z  ---  Edit section allows users to see detailed information on their item. Users are allowed to manage stock and p"
+        },
+        {
+          "filename": "Team.md",
+          "title": "Team",
+          "page_id": "3321069573",
+          "last_updated": "2021-07-27T06:18:28.861Z",
+          "category": "user_guides",
+          "content_length": 1964,
+          "content_preview": "# Team  **Page ID**: 3321069573 **Last Updated**: 2021-07-27T06:18:28.861Z  ---  2. Team: Create Team > Compulsory Information> Edit (General info, Members,Import Users, Permission)  2.1 Please click "
+        },
+        {
+          "filename": "Group_Listing.md",
+          "title": "Group Listing",
+          "page_id": "3320747164",
+          "last_updated": "2024-11-18T05:15:51.558Z",
+          "category": "user_guides",
+          "content_length": 1324,
+          "content_preview": "# Group Listing  **Page ID**: 3320747164 **Last Updated**: 2024-11-18T05:15:51.558Z  ---  Please click the \"+\" button to add a new group.  Please fill up the compulsory * information for creating the "
+        },
+        {
+          "filename": "Creating_an_Item.md",
+          "title": "Creating an Item",
+          "page_id": "3196846326",
+          "last_updated": "2021-07-23T04:01:29.004Z",
+          "category": "user_guides",
+          "content_length": 1063,
+          "content_preview": "# Creating an Item  **Page ID**: 3196846326 **Last Updated**: 2021-07-23T04:01:29.004Z  ---  In creating an Item, users need to click on the  button to open the Create tab.  Users must fill up compuls"
+        },
+        {
+          "filename": "Member_Label_List.md",
+          "title": "Member Label List",
+          "page_id": "3317499439",
+          "last_updated": "2021-07-26T04:25:30.383Z",
+          "category": "user_guides",
+          "content_length": 1290,
+          "content_preview": "# Member Label List  **Page ID**: 3317499439 **Last Updated**: 2021-07-26T04:25:30.383Z  ---  5.Member label list: Create Member Label list>Compulsory information>Edit  5.1. Please click on &lsquo;Mem"
+        },
+        {
+          "filename": "Member_Label.md",
+          "title": "Member Label",
+          "page_id": "3319005232",
+          "last_updated": "2021-07-26T04:18:59.615Z",
+          "category": "user_guides",
+          "content_length": 1215,
+          "content_preview": "# Member Label  **Page ID**: 3319005232 **Last Updated**: 2021-07-26T04:18:59.615Z  ---  4.Member Label:Create Member Label >Compulsory information>Edit  4.1. Please click on &lsquo;Member Label&rsquo"
+        },
+        {
+          "filename": "Member_Class.md",
+          "title": "Member Class",
+          "page_id": "3317433944",
+          "last_updated": "2021-07-26T04:09:12.999Z",
+          "category": "user_guides",
+          "content_length": 863,
+          "content_preview": "# Member Class  **Page ID**: 3317433944 **Last Updated**: 2021-07-26T04:09:12.999Z  ---  3.Member Class: Create Member Class >Compulsory information>Edit  3.1. Please click on &lsquo;Member Class&rsqu"
+        }
+      ],
+      "system_admin": [
+        {
+          "filename": "Settings.md",
+          "title": "Settings",
+          "page_id": "3259346323",
+          "last_updated": "2021-07-07T03:26:16.023Z",
+          "category": "system_admin",
+          "content_length": 874,
+          "content_preview": "# Settings  **Page ID**: 3259346323 **Last Updated**: 2021-07-07T03:26:16.023Z  ---  Creating Branch :  In creating a branch, there are three main tabs that users need to fill up as per below:  2.1 Ma"
+        },
+        {
+          "filename": "50_Stock_Take_Settings.md",
+          "title": "5.0 Stock Take Settings",
+          "page_id": "3316809818",
+          "last_updated": "2024-11-12T13:30:59.946Z",
+          "category": "system_admin",
+          "content_length": 174,
+          "content_preview": "# 5.0 Stock Take Settings  **Page ID**: 3316809818 **Last Updated**: 2024-11-12T13:30:59.946Z  ---  User may set its settings to its preference by clicking the settings tab. "
+        },
+        {
+          "filename": "Installation.md",
+          "title": "Installation",
+          "page_id": "3314386407",
+          "last_updated": "2021-07-26T03:52:40.443Z",
+          "category": "system_admin",
+          "content_length": 546,
+          "content_preview": "# Installation  **Page ID**: 3314386407 **Last Updated**: 2021-07-26T03:52:40.443Z  ---  1.Installation (Akaun Cloud): Applet Store > Search > Install > Akaun page > Search  1.1. Please go to Akaun.cl"
+        }
+      ],
+      "inventory_management": [
+        {
+          "filename": "Dimension_Details_Tab.md",
+          "title": "Dimension Details Tab",
+          "page_id": "3196847164",
+          "last_updated": "2021-07-23T04:22:32.751Z",
+          "category": "inventory_management",
+          "content_length": 447,
+          "content_preview": "# Dimension Details Tab  **Page ID**: 3196847164 **Last Updated**: 2021-07-23T04:22:32.751Z  ---  Dimension Details Tab is where the user can key in all the dimensional detail of an item.     Once it "
+        },
+        {
+          "filename": "Item_Categories_Tab.md",
+          "title": "Item Categories Tab",
+          "page_id": "3316089795",
+          "last_updated": "2021-07-23T04:16:58.652Z",
+          "category": "inventory_management",
+          "content_length": 669,
+          "content_preview": "# Item Categories Tab  **Page ID**: 3316089795 **Last Updated**: 2021-07-23T04:16:58.652Z  ---  Item Categories Tab allows the user to add the Items Category and Select the categories that the items f"
+        },
+        {
+          "filename": "Category_Groups.md",
+          "title": "Category Groups",
+          "page_id": "3296329933",
+          "last_updated": "2024-11-12T20:48:53.915Z",
+          "category": "inventory_management",
+          "content_length": 1654,
+          "content_preview": "# Category Groups  **Page ID**: 3296329933 **Last Updated**: 2024-11-12T20:48:53.915Z  ---  Under category group, user can create and edit the categories and specify the category group's category. Whe"
+        },
+        {
+          "filename": "Items.md",
+          "title": "Items",
+          "page_id": "3297148959",
+          "last_updated": "2024-11-12T20:47:42.210Z",
+          "category": "inventory_management",
+          "content_length": 17880,
+          "content_preview": "# Items  **Page ID**: 3297148959 **Last Updated**: 2024-11-12T20:47:42.210Z  ---  ## 1.1 Item Listing\ufeff Under items, Create and Edit the items, or Click the item listing to see the item information.  #"
+        },
+        {
+          "filename": "Stock_Balance_Tab.md",
+          "title": "Stock Balance Tab",
+          "page_id": "3196191964",
+          "last_updated": "2021-06-18T06:18:26.812Z",
+          "category": "inventory_management",
+          "content_length": 392,
+          "content_preview": "# Stock Balance Tab  **Page ID**: 3196191964 **Last Updated**: 2021-06-18T06:18:26.812Z  ---  Stock Balance Tab - user can select whether they want to configure the stock manually or auto:  Auto - if "
+        },
+        {
+          "filename": "Inventory_Management.md",
+          "title": "Inventory Management",
+          "page_id": "3153822188",
+          "last_updated": "2021-06-05T09:01:30.093Z",
+          "category": "inventory_management",
+          "content_length": 98,
+          "content_preview": "# Inventory Management  **Page ID**: 3153822188 **Last Updated**: 2021-06-05T09:01:30.093Z  ---   "
+        },
+        {
+          "filename": "Create_Group_Item.md",
+          "title": "Create Group Item",
+          "page_id": "3196487103",
+          "last_updated": "2021-06-18T06:12:59.130Z",
+          "category": "inventory_management",
+          "content_length": 419,
+          "content_preview": "# Create Group Item  **Page ID**: 3196487103 **Last Updated**: 2021-06-18T06:12:59.130Z  ---  Create Group is used to create group items that have variants such as color or size (depends on the item c"
+        },
+        {
+          "filename": "Stock_Availability_Tab.md",
+          "title": "Stock Availability Tab",
+          "page_id": "3197011137",
+          "last_updated": "2021-06-18T06:17:56.494Z",
+          "category": "inventory_management",
+          "content_length": 388,
+          "content_preview": "# Stock Availability Tab  **Page ID**: 3197011137 **Last Updated**: 2021-06-18T06:17:56.494Z  ---  Stock Availability Tab - is used to set the stock balance for chosen items. This section shows you a "
+        }
+      ],
+      "ecommerce": [
+        {
+          "filename": "Marketplace_Tab.md",
+          "title": "Marketplace Tab",
+          "page_id": "3196191832",
+          "last_updated": "2021-07-23T05:24:07.943Z",
+          "category": "ecommerce",
+          "content_length": 404,
+          "content_preview": "# Marketplace Tab  **Page ID**: 3196191832 **Last Updated**: 2021-07-23T05:24:07.943Z  ---  Marketplace Tab is used for the Users to Create, Edit, Update and Delete the Items to be sync into the marke"
+        },
+        {
+          "filename": "20_Website_Configuration.md",
+          "title": "2.0 Website Configuration\ufeff",
+          "page_id": "3187343370",
+          "last_updated": "2024-11-17T11:07:01.283Z",
+          "category": "ecommerce",
+          "content_length": 537,
+          "content_preview": "# 2.0 Website Configuration\ufeff  **Page ID**: 3187343370 **Last Updated**: 2024-11-17T11:07:01.283Z  ---  ## 2.1 Setting Up Your Website\ufeff CP-Commerce offers a user-friendly interface for configuring your"
+        },
+        {
+          "filename": "Ecomsync_Features.md",
+          "title": "Ecomsync Features",
+          "page_id": "3299247174",
+          "last_updated": "2021-07-19T02:40:30.908Z",
+          "category": "ecommerce",
+          "content_length": 3533,
+          "content_preview": "# Ecomsync Features  **Page ID**: 3299247174 **Last Updated**: 2021-07-19T02:40:30.908Z  ---  Readiness Status: 5 - Best possibleGreen 4 - optimalYellow 3 - averageBlue 2 - sub  optimalPurple 1 - wors"
+        },
+        {
+          "filename": "Create_Single_Tab.md",
+          "title": "Create Single Tab",
+          "page_id": "3196191946",
+          "last_updated": "2021-06-18T06:09:58.079Z",
+          "category": "ecommerce",
+          "content_length": 925,
+          "content_preview": "# Create Single Tab  **Page ID**: 3196191946 **Last Updated**: 2021-06-18T06:09:58.079Z  ---  Create - used for syncing the chosen item into a marketplace store.  Create consist of 2 types :  Create S"
+        },
+        {
+          "filename": "Introduction_to_EcomSync.md",
+          "title": "Introduction to EcomSync",
+          "page_id": "3196485958",
+          "last_updated": "2021-06-18T01:46:53.953Z",
+          "category": "ecommerce",
+          "content_length": 939,
+          "content_preview": "# Introduction to EcomSync  **Page ID**: 3196485958 **Last Updated**: 2021-06-18T01:46:53.953Z  ---  Introduction   Ecomsync Applet is an applet whereby users can organize and manage their items/produ"
+        },
+        {
+          "filename": "Update_and_Delete_Item.md",
+          "title": "Update and Delete Item",
+          "page_id": "3196191957",
+          "last_updated": "2021-06-18T06:15:40.294Z",
+          "category": "ecommerce",
+          "content_length": 321,
+          "content_preview": "# Update and Delete Item  **Page ID**: 3196191957 **Last Updated**: 2021-06-18T06:15:40.294Z  ---  Update/Delete Item - when user want to update or delete the item that was sync to the marketplace the"
+        },
+        {
+          "filename": "B2B.md",
+          "title": "B2B",
+          "page_id": "3153822181",
+          "last_updated": "2021-06-05T09:01:05.690Z",
+          "category": "ecommerce",
+          "content_length": 81,
+          "content_preview": "# B2B  **Page ID**: 3153822181 **Last Updated**: 2021-06-05T09:01:05.690Z  ---   "
+        },
+        {
+          "filename": "Listing.md",
+          "title": "Listing",
+          "page_id": "3196846319",
+          "last_updated": "2021-06-18T02:06:35.534Z",
+          "category": "ecommerce",
+          "content_length": 478,
+          "content_preview": "# Listing  **Page ID**: 3196846319 **Last Updated**: 2021-06-18T02:06:35.534Z  ---  Listing shows all your Items that are synced from EMP and Marketplace. Inside the listing the item can be 2 levels, "
+        },
+        {
+          "filename": "EcomSync_Applet.md",
+          "title": "EcomSync Applet",
+          "page_id": "3259346357",
+          "last_updated": "2021-07-23T05:51:22.732Z",
+          "category": "ecommerce",
+          "content_length": 321,
+          "content_preview": "# EcomSync Applet  **Page ID**: 3259346357 **Last Updated**: 2021-07-23T05:51:22.732Z  ---  Table of Content Introduction to Ecomsync  Ecomsync Features  Item Maintenance  Order  Order Listing  Order "
+        },
+        {
+          "filename": "CP-Commerce.md",
+          "title": "CP-Commerce",
+          "page_id": "3153887626",
+          "last_updated": "2024-11-17T11:04:53.671Z",
+          "category": "ecommerce",
+          "content_length": 547,
+          "content_preview": "# CP-Commerce  **Page ID**: 3153887626 **Last Updated**: 2024-11-17T11:04:53.671Z  ---  The CP-Commerce Module is a powerful solution designed to help businesses offer products and services online. It"
+        },
+        {
+          "filename": "Integration_with_Shopify.md",
+          "title": "Integration with Shopify",
+          "page_id": "3292758065",
+          "last_updated": "2021-07-15T07:56:28.266Z",
+          "category": "ecommerce",
+          "content_length": 110,
+          "content_preview": "# Integration with Shopify  **Page ID**: 3292758065 **Last Updated**: 2021-07-15T07:56:28.266Z  ---  steps,.. "
+        }
+      ],
+      "troubleshooting": [
+        {
+          "filename": "100_Troubleshooting_and_FAQs.md",
+          "title": "10.0 Troubleshooting and FAQs\ufeff",
+          "page_id": "3313074200",
+          "last_updated": "2024-11-16T19:04:38.309Z",
+          "category": "troubleshooting",
+          "content_length": 1231,
+          "content_preview": "# 10.0 Troubleshooting and FAQs\ufeff  **Page ID**: 3313074200 **Last Updated**: 2024-11-16T19:04:38.309Z  ---  ## 10.1 Frequently Asked Questions\ufeff How many marketplaces Ecomsync system support?  Right now"
+        }
+      ],
+      "industry_solutions": [
+        {
+          "filename": "Automotive_and_Workshop_Industry.md",
+          "title": "Automotive and Workshop Industry",
+          "page_id": "3153985855",
+          "last_updated": "2024-11-15T01:57:55.733Z",
+          "category": "industry_solutions",
+          "content_length": 2666,
+          "content_preview": "# Automotive and Workshop Industry  **Page ID**: 3153985855 **Last Updated**: 2024-11-15T01:57:55.733Z  ---  ## Success Story 3 : Automotive and Workshop Industry\ufeff Wavelet is an entrusted solution pro"
+        },
+        {
+          "filename": "Food_and_Beverage_FB_Industry.md",
+          "title": "Food and Beverage (F&B) Industry",
+          "page_id": "3153854852",
+          "last_updated": "2024-11-15T01:58:35.705Z",
+          "category": "industry_solutions",
+          "content_length": 1594,
+          "content_preview": "# Food and Beverage (F&B) Industry  **Page ID**: 3153854852 **Last Updated**: 2024-11-15T01:58:35.705Z  ---  ## Success Story 2 : Food and Beverage (F&B) Industry\ufeff With years of extensive experience i"
+        },
+        {
+          "filename": "Industry_Guide.md",
+          "title": "Industry Guide",
+          "page_id": "3153822073",
+          "last_updated": "2024-11-15T01:56:59.787Z",
+          "category": "industry_solutions",
+          "content_length": 6001,
+          "content_preview": "# Industry Guide  **Page ID**: 3153822073 **Last Updated**: 2024-11-15T01:56:59.787Z  ---  The consequences of the COVID pandemic have had an unprecedented impact on the businesses worldwide. To survi"
+        }
+      ],
+      "miscellaneous": [
+        {
+          "filename": "Employee_Claims.md",
+          "title": "Employee Claims",
+          "page_id": "3153854902",
+          "last_updated": "2021-06-05T09:03:17.668Z",
+          "category": "miscellaneous",
+          "content_length": 93,
+          "content_preview": "# Employee Claims  **Page ID**: 3153854902 **Last Updated**: 2021-06-05T09:03:17.668Z  ---   "
+        },
+        {
+          "filename": "POS_-_General.md",
+          "title": "POS - General",
+          "page_id": "3153854873",
+          "last_updated": "2021-06-05T08:59:25.054Z",
+          "category": "miscellaneous",
+          "content_length": 91,
+          "content_preview": "# POS - General  **Page ID**: 3153854873 **Last Updated**: 2021-06-05T08:59:25.054Z  ---   "
+        }
+      ]
+    },
+    "category_counts": {
+      "modules": 14,
+      "business_operations": 11,
+      "applets": 31,
+      "user_guides": 16,
+      "system_admin": 3,
+      "inventory_management": 8,
+      "ecommerce": 11,
+      "troubleshooting": 1,
+      "industry_solutions": 3,
+      "miscellaneous": 2
+    },
+    "all_files": [
+      {
+        "filename": "Delivery_and_Installation_Module.md",
+        "title": "Delivery and Installation Module",
+        "page_id": "3153985892",
+        "last_updated": "2021-06-05T09:01:51.769Z",
+        "category": "modules",
+        "content_length": 110,
+        "content_preview": "# Delivery and Installation Module  **Page ID**: 3153985892 **Last Updated**: 2021-06-05T09:01:51.769Z  ---   "
+      },
+      {
+        "filename": "Main_Dashboard.md",
+        "title": "Main Dashboard",
+        "page_id": "3196486107",
+        "last_updated": "2021-06-18T02:51:44.242Z",
+        "category": "business_operations",
+        "content_length": 444,
+        "content_preview": "# Main Dashboard  **Page ID**: 3196486107 **Last Updated**: 2021-06-18T02:51:44.242Z  ---  Users able to see their selling performance of marketplace in a graph figures for an example.   Users can fil"
+      },
+      {
+        "filename": "Installation_of_Group_Maintenance_Applet.md",
+        "title": "Installation of Group Maintenance Applet",
+        "page_id": "3320746785",
+        "last_updated": "2021-07-27T06:59:16.429Z",
+        "category": "applets",
+        "content_length": 574,
+        "content_preview": "# Installation of Group Maintenance Applet  **Page ID**: 3320746785 **Last Updated**: 2021-07-27T06:59:16.429Z  ---  1.Installation (Akaun Cloud): Applet Store > Search > Install > Akaun page > Search"
+      },
+      {
+        "filename": "Introduction_to_Membership_Admin_Console_Applet.md",
+        "title": "Introduction to Membership Admin Console Applet",
+        "page_id": "3314974838",
+        "last_updated": "2021-08-05T02:05:18.124Z",
+        "category": "applets",
+        "content_length": 862,
+        "content_preview": "# Introduction to Membership Admin Console Applet  **Page ID**: 3314974838 **Last Updated**: 2021-08-05T02:05:18.124Z  ---  Introduction  This applet is used to Configure and manage the Membership and"
+      },
+      {
+        "filename": "Account_Receivable.md",
+        "title": "Account Receivable",
+        "page_id": "3153822231",
+        "last_updated": "2021-06-05T09:04:43.073Z",
+        "category": "business_operations",
+        "content_length": 96,
+        "content_preview": "# Account Receivable  **Page ID**: 3153822231 **Last Updated**: 2021-06-05T09:04:43.073Z  ---   "
+      },
+      {
+        "filename": "Related_Applets_-_Internal_Job_Order.md",
+        "title": "Related Applets - Internal Job Order",
+        "page_id": "3325940946",
+        "last_updated": "2021-08-02T08:55:10.844Z",
+        "category": "applets",
+        "content_length": 274,
+        "content_preview": "# Related Applets - Internal Job Order  **Page ID**: 3325940946 **Last Updated**: 2021-08-02T08:55:10.844Z  ---  ### The internal job order applet can import Lines from the following Applets:   ### Th"
+      },
+      {
+        "filename": "Related_Applets_-_Stock_Balance.md",
+        "title": "Related Applets - Stock Balance",
+        "page_id": "3325941210",
+        "last_updated": "2021-10-18T06:35:35.008Z",
+        "category": "applets",
+        "content_length": 1272,
+        "content_preview": "# Related Applets - Stock Balance  **Page ID**: 3325941210 **Last Updated**: 2021-10-18T06:35:35.008Z  ---  ### The stock balance applet can import Lines from the following Applets: Organisation Apple"
+      },
+      {
+        "filename": "Company_-_Organization_Applet.md",
+        "title": "Company - Organization Applet,",
+        "page_id": "3259374409",
+        "last_updated": "2025-05-23T00:35:53.163Z",
+        "category": "applets",
+        "content_length": 6704,
+        "content_preview": "# Company - Organization Applet,  **Page ID**: 3259374409 **Last Updated**: 2025-05-23T00:35:53.163Z  ---  noneWhen logging into the Organization Applet, the first page displayed to the user is the Co"
+      },
+      {
+        "filename": "Document_Item_Maintenance.md",
+        "title": "Document Item Maintenance",
+        "page_id": "3225452905",
+        "last_updated": "2021-06-26T13:07:52.151Z",
+        "category": "user_guides",
+        "content_length": 103,
+        "content_preview": "# Document Item Maintenance  **Page ID**: 3225452905 **Last Updated**: 2021-06-26T13:07:52.151Z  ---   "
+      },
+      {
+        "filename": "VSTECS_MS_ESD_Order_Applet.md",
+        "title": "VSTECS MS ESD Order Applet",
+        "page_id": "3176039738",
+        "last_updated": "2021-07-15T07:57:41.735Z",
+        "category": "applets",
+        "content_length": 676,
+        "content_preview": "# VSTECS MS ESD Order Applet  **Page ID**: 3176039738 **Last Updated**: 2021-07-15T07:57:41.735Z  ---  Attached User guide for MS ESD Order and Work Breakdown for implementation.  This Applet required"
+      },
+      {
+        "filename": "Core_Modules.md",
+        "title": "Core Modules",
+        "page_id": "3224109298",
+        "last_updated": "2021-06-26T13:07:15.136Z",
+        "category": "modules",
+        "content_length": 90,
+        "content_preview": "# Core Modules  **Page ID**: 3224109298 **Last Updated**: 2021-06-26T13:07:15.136Z  ---   "
+      },
+      {
+        "filename": "Member_Listing.md",
+        "title": "Member Listing",
+        "page_id": "3317564816",
+        "last_updated": "2021-07-26T04:28:05.761Z",
+        "category": "user_guides",
+        "content_length": 1301,
+        "content_preview": "# Member Listing  **Page ID**: 3317564816 **Last Updated**: 2021-07-26T04:28:05.761Z  ---  2. Member Listing: Create New Member > Membership Edit  2.1. Please click the &lsquo;+&rsquo; button to Creat"
+      },
+      {
+        "filename": "Settings.md",
+        "title": "Settings",
+        "page_id": "3259346323",
+        "last_updated": "2021-07-07T03:26:16.023Z",
+        "category": "system_admin",
+        "content_length": 874,
+        "content_preview": "# Settings  **Page ID**: 3259346323 **Last Updated**: 2021-07-07T03:26:16.023Z  ---  Creating Branch :  In creating a branch, there are three main tabs that users need to fill up as per below:  2.1 Ma"
+      },
+      {
+        "filename": "Dimension_Details_Tab.md",
+        "title": "Dimension Details Tab",
+        "page_id": "3196847164",
+        "last_updated": "2021-07-23T04:22:32.751Z",
+        "category": "inventory_management",
+        "content_length": 447,
+        "content_preview": "# Dimension Details Tab  **Page ID**: 3196847164 **Last Updated**: 2021-07-23T04:22:32.751Z  ---  Dimension Details Tab is where the user can key in all the dimensional detail of an item.     Once it "
+      },
+      {
+        "filename": "Related_Applets_-_Internal_Stock_Adjustment.md",
+        "title": "Related Applets - Internal Stock Adjustment",
+        "page_id": "3325941230",
+        "last_updated": "2021-10-18T06:03:41.108Z",
+        "category": "applets",
+        "content_length": 407,
+        "content_preview": "# Related Applets - Internal Stock Adjustment  **Page ID**: 3325941230 **Last Updated**: 2021-10-18T06:03:41.108Z  ---  ### The Internal Stock Adjustment applet can import Lines from the following App"
+      },
+      {
+        "filename": "Marketplace_Tab.md",
+        "title": "Marketplace Tab",
+        "page_id": "3196191832",
+        "last_updated": "2021-07-23T05:24:07.943Z",
+        "category": "ecommerce",
+        "content_length": 404,
+        "content_preview": "# Marketplace Tab  **Page ID**: 3196191832 **Last Updated**: 2021-07-23T05:24:07.943Z  ---  Marketplace Tab is used for the Users to Create, Edit, Update and Delete the Items to be sync into the marke"
+      },
+      {
+        "filename": "EcomSync_Module.md",
+        "title": "EcomSync Module",
+        "page_id": "3153985899",
+        "last_updated": "2024-11-16T19:16:08.380Z",
+        "category": "modules",
+        "content_length": 849,
+        "content_preview": "# EcomSync Module  **Page ID**: 3153985899 **Last Updated**: 2024-11-16T19:16:08.380Z  ---  The EcomSync Module streamlines multi-channel e-commerce operations by centralizing the management of sales,"
+      },
+      {
+        "filename": "Installation_of_Team_Maintenance_Applet.md",
+        "title": "Installation of Team Maintenance Applet",
+        "page_id": "3320324314",
+        "last_updated": "2021-07-27T04:03:13.707Z",
+        "category": "applets",
+        "content_length": 573,
+        "content_preview": "# Installation of Team Maintenance Applet  **Page ID**: 3320324314 **Last Updated**: 2021-07-27T04:03:13.707Z  ---  1.Installation (Akaun Cloud): Applet Store > Search > Install > Akaun page > Search "
+      },
+      {
+        "filename": "Item_Categories_Tab.md",
+        "title": "Item Categories Tab",
+        "page_id": "3316089795",
+        "last_updated": "2021-07-23T04:16:58.652Z",
+        "category": "inventory_management",
+        "content_length": 669,
+        "content_preview": "# Item Categories Tab  **Page ID**: 3316089795 **Last Updated**: 2021-07-23T04:16:58.652Z  ---  Item Categories Tab allows the user to add the Items Category and Select the categories that the items f"
+      },
+      {
+        "filename": "Dashboard.md",
+        "title": "Dashboard",
+        "page_id": "3138977836",
+        "last_updated": "2021-06-18T02:46:09.261Z",
+        "category": "business_operations",
+        "content_length": 407,
+        "content_preview": "# Dashboard  **Page ID**: 3138977836 **Last Updated**: 2021-06-18T02:46:09.261Z  ---  ## Dashboard Tab Dashboard provides at-a-glance views of key performance indicators of your shop. It can unleash y"
+      },
+      {
+        "filename": "Group_Maintenance_Applet.md",
+        "title": "Group Maintenance Applet",
+        "page_id": "3284597324",
+        "last_updated": "2024-11-18T05:14:31.039Z",
+        "category": "applets",
+        "content_length": 290,
+        "content_preview": "# Group Maintenance Applet  **Page ID**: 3284597324 **Last Updated**: 2024-11-18T05:14:31.039Z  ---  Group Maintenance applet is to add users into a Group, and assign permission to the user in Platfor"
+      },
+      {
+        "filename": "Internal_Delivery_Order_Applet.md",
+        "title": "Internal Delivery Order Applet",
+        "page_id": "3325941105",
+        "last_updated": "2024-11-19T14:06:31.723Z",
+        "category": "applets",
+        "content_length": 528,
+        "content_preview": "# Internal Delivery Order Applet  **Page ID**: 3325941105 **Last Updated**: 2024-11-19T14:06:31.723Z  ---  The Internal Delivery Order Applet is a versatile tool designed to streamline the process of "
+      },
+      {
+        "filename": "Sales_Order_Tab.md",
+        "title": "Sales Order Tab",
+        "page_id": "3196191975",
+        "last_updated": "2021-06-18T06:19:14.245Z",
+        "category": "business_operations",
+        "content_length": 347,
+        "content_preview": "# Sales Order Tab  **Page ID**: 3196191975 **Last Updated**: 2021-06-18T06:19:14.245Z  ---  Sales Order Tab - allows user to configure the sales order either:  Active - all active Sales Order will be "
+      },
+      {
+        "filename": "Manage_Image_Tab.md",
+        "title": "Manage Image Tab",
+        "page_id": "3197011130",
+        "last_updated": "2021-07-23T04:25:08.121Z",
+        "category": "modules",
+        "content_length": 877,
+        "content_preview": "# Manage Image Tab  **Page ID**: 3197011130 **Last Updated**: 2021-07-23T04:25:08.121Z  ---  Manage Image Tab is used as a storage to save all the images of the item, so later when syncing the item us"
+      },
+      {
+        "filename": "Price_book.md",
+        "title": "Price book",
+        "page_id": "3317434109",
+        "last_updated": "2025-01-01T18:15:27.759Z",
+        "category": "user_guides",
+        "content_length": 619,
+        "content_preview": "# Price book  **Page ID**: 3317434109 **Last Updated**: 2025-01-01T18:15:27.759Z  ---  # 3.0 Pricebook Listing Please click the \"+\"\" button to Create a new Pricebook.  Please fill up the compulsory * "
+      },
+      {
+        "filename": "Order_Dashboard.md",
+        "title": "Order Dashboard",
+        "page_id": "3197010418",
+        "last_updated": "2021-06-18T02:58:45.100Z",
+        "category": "business_operations",
+        "content_length": 462,
+        "content_preview": "# Order Dashboard  **Page ID**: 3197010418 **Last Updated**: 2021-06-18T02:58:45.100Z  ---  Order dashboard also show users on the summary of users performance throughout their business timeline and s"
+      },
+      {
+        "filename": "Introduction_to_Team_Maintenance_Applet.md",
+        "title": "Introduction to Team Maintenance Applet",
+        "page_id": "3320513762",
+        "last_updated": "2021-07-27T06:19:21.679Z",
+        "category": "applets",
+        "content_length": 359,
+        "content_preview": "# Introduction to Team Maintenance Applet  **Page ID**: 3320513762 **Last Updated**: 2021-07-27T06:19:21.679Z  ---  Introduction  Team Maintenance applet is to manage the users and permissions of the "
+      },
+      {
+        "filename": "Category_Groups.md",
+        "title": "Category Groups",
+        "page_id": "3296329933",
+        "last_updated": "2024-11-12T20:48:53.915Z",
+        "category": "inventory_management",
+        "content_length": 1654,
+        "content_preview": "# Category Groups  **Page ID**: 3296329933 **Last Updated**: 2024-11-12T20:48:53.915Z  ---  Under category group, user can create and edit the categories and specify the category group's category. Whe"
+      },
+      {
+        "filename": "20_Website_Configuration.md",
+        "title": "2.0 Website Configuration\ufeff",
+        "page_id": "3187343370",
+        "last_updated": "2024-11-17T11:07:01.283Z",
+        "category": "ecommerce",
+        "content_length": 537,
+        "content_preview": "# 2.0 Website Configuration\ufeff  **Page ID**: 3187343370 **Last Updated**: 2024-11-17T11:07:01.283Z  ---  ## 2.1 Setting Up Your Website\ufeff CP-Commerce offers a user-friendly interface for configuring your"
+      },
+      {
+        "filename": "PTS_to_CCY_Config_Module.md",
+        "title": "PTS to CCY Config Module",
+        "page_id": "3317499520",
+        "last_updated": "2021-07-26T04:51:42.302Z",
+        "category": "modules",
+        "content_length": 1286,
+        "content_preview": "# PTS to CCY Config Module  **Page ID**: 3317499520 **Last Updated**: 2021-07-26T04:51:42.302Z  ---  8.PTS to CCY Config Module: Add New Points to Money Currency Conversion>Compulsory information>Edit"
+      },
+      {
+        "filename": "62_Pages_Module.md",
+        "title": "6.2 Pages Module",
+        "page_id": "3187212391",
+        "last_updated": "2024-11-17T11:12:51.786Z",
+        "category": "modules",
+        "content_length": 433,
+        "content_preview": "# 6.2 Pages Module  **Page ID**: 3187212391 **Last Updated**: 2024-11-17T11:12:51.786Z  ---  This module allows user to create static pages for cp-commerce.  To Create:  Title : Title for the static p"
+      },
+      {
+        "filename": "PTS_to_PTS_Config_Module.md",
+        "title": "PTS to PTS Config Module",
+        "page_id": "3317368412",
+        "last_updated": "2021-07-26T04:45:09.643Z",
+        "category": "modules",
+        "content_length": 1333,
+        "content_preview": "# PTS to PTS Config Module  **Page ID**: 3317368412 **Last Updated**: 2021-07-26T04:45:09.643Z  ---  7.PTS to PTS Config Module: Add New Points to Point Currency Conversion>Compulsory information>Edit"
+      },
+      {
+        "filename": "Items.md",
+        "title": "Items",
+        "page_id": "3297148959",
+        "last_updated": "2024-11-12T20:47:42.210Z",
+        "category": "inventory_management",
+        "content_length": 17880,
+        "content_preview": "# Items  **Page ID**: 3297148959 **Last Updated**: 2024-11-12T20:47:42.210Z  ---  ## 1.1 Item Listing\ufeff Under items, Create and Edit the items, or Click the item listing to see the item information.  #"
+      },
+      {
+        "filename": "Internal_Stock_Adjustment_Applet.md",
+        "title": "Internal Stock Adjustment Applet",
+        "page_id": "3325941223",
+        "last_updated": "2024-11-20T10:17:44.792Z",
+        "category": "applets",
+        "content_length": 418,
+        "content_preview": "# Internal Stock Adjustment Applet  **Page ID**: 3325941223 **Last Updated**: 2024-11-20T10:17:44.792Z  ---  The Internal Stock Adjustment Applet simplifies stock management by allowing users to adjus"
+      },
+      {
+        "filename": "Introduction_to_Stock_Take_Applet.md",
+        "title": "Introduction to Stock Take Applet",
+        "page_id": "3312746669",
+        "last_updated": "2025-02-28T09:09:05.479Z",
+        "category": "applets",
+        "content_length": 1307,
+        "content_preview": "# Introduction to Stock Take Applet  **Page ID**: 3312746669 **Last Updated**: 2025-02-28T09:09:05.479Z  ---  The Stock Take Applet offers a one-stop solution for all your inventory management needs, "
+      },
+      {
+        "filename": "Stock_Balance_Applet.md",
+        "title": "Stock Balance Applet",
+        "page_id": "3325941199",
+        "last_updated": "2021-08-02T08:59:25.470Z",
+        "category": "applets",
+        "content_length": 98,
+        "content_preview": "# Stock Balance Applet  **Page ID**: 3325941199 **Last Updated**: 2021-08-02T08:59:25.470Z  ---   "
+      },
+      {
+        "filename": "Price_Set.md",
+        "title": "Price Set",
+        "page_id": "3320710072",
+        "last_updated": "2025-01-01T18:19:51.419Z",
+        "category": "user_guides",
+        "content_length": 2916,
+        "content_preview": "# Price Set  **Page ID**: 3320710072 **Last Updated**: 2025-01-01T18:19:51.419Z  ---  # 4.0 Create Price Set Please click on \"Price set\" from the module list and click \"+\" button to create a new price"
+      },
+      {
+        "filename": "Unified_Contact_Center_UCC_Applet.md",
+        "title": "Unified Contact Center (UCC) Applet",
+        "page_id": "3153854887",
+        "last_updated": "2021-08-25T03:55:39.645Z",
+        "category": "applets",
+        "content_length": 737,
+        "content_preview": "# Unified Contact Center (UCC) Applet  **Page ID**: 3153854887 **Last Updated**: 2021-08-25T03:55:39.645Z  ---  Introduction  Unified Contact Center (UCC) Applet is now available in the Applet Store. "
+      },
+      {
+        "filename": "61_Menu_Module.md",
+        "title": "6.1 Menu Module",
+        "page_id": "3187277881",
+        "last_updated": "2024-11-17T11:12:41.744Z",
+        "category": "modules",
+        "content_length": 1501,
+        "content_preview": "# 6.1 Menu Module  **Page ID**: 3187277881 **Last Updated**: 2024-11-17T11:12:41.744Z  ---  The menu items are configured in this module: You can see what are the menu items you want to display in you"
+      },
+      {
+        "filename": "Stock_Balance_Tab.md",
+        "title": "Stock Balance Tab",
+        "page_id": "3196191964",
+        "last_updated": "2021-06-18T06:18:26.812Z",
+        "category": "inventory_management",
+        "content_length": 392,
+        "content_preview": "# Stock Balance Tab  **Page ID**: 3196191964 **Last Updated**: 2021-06-18T06:18:26.812Z  ---  Stock Balance Tab - user can select whether they want to configure the stock manually or auto:  Auto - if "
+      },
+      {
+        "filename": "Applet_Directory.md",
+        "title": "Applet Directory",
+        "page_id": "2944893173",
+        "last_updated": "2025-07-06T12:35:44.630Z",
+        "category": "applets",
+        "content_length": 641,
+        "content_preview": "# Applet Directory  **Page ID**: 2944893173 **Last Updated**: 2025-07-06T12:35:44.630Z  ---  Applet Store is the marketplace for the distribution of applets that are designed for use with the Akaun pr"
+      },
+      {
+        "filename": "Order_Details.md",
+        "title": "Order Details",
+        "page_id": "3196486077",
+        "last_updated": "2021-06-18T02:43:04.291Z",
+        "category": "business_operations",
+        "content_length": 543,
+        "content_preview": "# Order Details  **Page ID**: 3196486077 **Last Updated**: 2021-06-18T02:43:04.291Z  ---  When clicking on order, the details of order will be shown in each tab as image below:  Details Tab - allows t"
+      },
+      {
+        "filename": "Settings_of_Organization_Applet.md",
+        "title": "Settings of Organization Applet",
+        "page_id": "3259346305",
+        "last_updated": "2025-05-23T00:39:52.631Z",
+        "category": "applets",
+        "content_length": 234,
+        "content_preview": "# Settings of Organization Applet  **Page ID**: 3259346305 **Last Updated**: 2025-05-23T00:39:52.631Z  ---  \ufeffThis section covers all the settings used by Wavelet.  The role permission allows you to se"
+      },
+      {
+        "filename": "Location_-_Organization_Applet.md",
+        "title": "Location - Organization Applet",
+        "page_id": "3259374431",
+        "last_updated": "2025-05-23T00:39:20.134Z",
+        "category": "applets",
+        "content_length": 488,
+        "content_preview": "# Location - Organization Applet  **Page ID**: 3259374431 **Last Updated**: 2025-05-23T00:39:20.134Z  ---  Each branch can have multiple locations  This is the third icon in the sidebar, \"Location.\" T"
+      },
+      {
+        "filename": "Team_Maintenance_Applet.md",
+        "title": "Team Maintenance Applet",
+        "page_id": "3286371018",
+        "last_updated": "2021-07-27T04:56:24.668Z",
+        "category": "applets",
+        "content_length": 102,
+        "content_preview": "# Team Maintenance Applet  **Page ID**: 3286371018 **Last Updated**: 2021-07-27T04:56:24.668Z  ---  1 "
+      },
+      {
+        "filename": "Introduction.md",
+        "title": "Introduction",
+        "page_id": "3153854635",
+        "last_updated": "2024-11-08T12:29:44.536Z",
+        "category": "user_guides",
+        "content_length": 1076,
+        "content_preview": "# Introduction  **Page ID**: 3153854635 **Last Updated**: 2024-11-08T12:29:44.536Z  ---  Your gateway to streamlined operations and valuable insights with Bigledger  #DEEBFFBigledger centralizes your "
+      },
+      {
+        "filename": "Process_Monitoring_Applet.md",
+        "title": "Process Monitoring Applet",
+        "page_id": "3325940977",
+        "last_updated": "2021-08-02T07:55:26.716Z",
+        "category": "applets",
+        "content_length": 103,
+        "content_preview": "# Process Monitoring Applet  **Page ID**: 3325940977 **Last Updated**: 2021-08-02T07:55:26.716Z  ---   "
+      },
+      {
+        "filename": "Branch_-_Organization_Applet.md",
+        "title": "Branch - Organization Applet",
+        "page_id": "3196191408",
+        "last_updated": "2025-05-23T00:37:54.393Z",
+        "category": "applets",
+        "content_length": 4661,
+        "content_preview": "# Branch - Organization Applet  **Page ID**: 3196191408 **Last Updated**: 2025-05-23T00:37:54.393Z  ---  noneThis section covers the second main tab in the sidebar, Branches, where users can create an"
+      },
+      {
+        "filename": "10_Overview_CP_Commerce_Module.md",
+        "title": "1.0 Overview\ufeff CP Commerce Module",
+        "page_id": "3175548796",
+        "last_updated": "2024-11-17T11:06:06.926Z",
+        "category": "modules",
+        "content_length": 1771,
+        "content_preview": "# 1.0 Overview\ufeff CP Commerce Module  **Page ID**: 3175548796 **Last Updated**: 2024-11-17T11:06:06.926Z  ---  The CP-Commerce module is a central component of the system, serving as the core e-commerce"
+      },
+      {
+        "filename": "Pricing_Scheme.md",
+        "title": "Pricing Scheme",
+        "page_id": "3313139757",
+        "last_updated": "2024-11-12T21:27:30.118Z",
+        "category": "user_guides",
+        "content_length": 2026,
+        "content_preview": "# Pricing Scheme  **Page ID**: 3313139757 **Last Updated**: 2024-11-12T21:27:30.118Z  ---  Once a user clicks on the pricing scheme module it will land on the pricing scheme listing page. The module i"
+      },
+      {
+        "filename": "Main_Detail_Tab.md",
+        "title": "Main Detail Tab",
+        "page_id": "3196847147",
+        "last_updated": "2021-07-23T04:09:07.463Z",
+        "category": "modules",
+        "content_length": 867,
+        "content_preview": "# Main Detail Tab  **Page ID**: 3196847147 **Last Updated**: 2021-07-23T04:09:07.463Z  ---  Main Detail Tab shows the basic details that were filled in the creation part. users may re-edit and click s"
+      },
+      {
+        "filename": "100_Troubleshooting_and_FAQs.md",
+        "title": "10.0 Troubleshooting and FAQs\ufeff",
+        "page_id": "3313074200",
+        "last_updated": "2024-11-16T19:04:38.309Z",
+        "category": "troubleshooting",
+        "content_length": 1231,
+        "content_preview": "# 10.0 Troubleshooting and FAQs\ufeff  **Page ID**: 3313074200 **Last Updated**: 2024-11-16T19:04:38.309Z  ---  ## 10.1 Frequently Asked Questions\ufeff How many marketplaces Ecomsync system support?  Right now"
+      },
+      {
+        "filename": "Automotive_and_Workshop_Industry.md",
+        "title": "Automotive and Workshop Industry",
+        "page_id": "3153985855",
+        "last_updated": "2024-11-15T01:57:55.733Z",
+        "category": "industry_solutions",
+        "content_length": 2666,
+        "content_preview": "# Automotive and Workshop Industry  **Page ID**: 3153985855 **Last Updated**: 2024-11-15T01:57:55.733Z  ---  ## Success Story 3 : Automotive and Workshop Industry\ufeff Wavelet is an entrusted solution pro"
+      },
+      {
+        "filename": "Pricebook_Applet.md",
+        "title": "Pricebook Applet",
+        "page_id": "3317565050",
+        "last_updated": "2025-01-01T18:13:11.882Z",
+        "category": "applets",
+        "content_length": 446,
+        "content_preview": "# Pricebook Applet  **Page ID**: 3317565050 **Last Updated**: 2025-01-01T18:13:11.882Z  ---  # 1.0 Introduction The Pricebook Applet is used to set up Promotion, Purchase with Purchase (PWP) and campa"
+      },
+      {
+        "filename": "Time_Attendance_Module.md",
+        "title": "Time Attendance Module",
+        "page_id": "3153985926",
+        "last_updated": "2024-11-20T12:42:26.180Z",
+        "category": "modules",
+        "content_length": 100,
+        "content_preview": "# Time Attendance Module  **Page ID**: 3153985926 **Last Updated**: 2024-11-20T12:42:26.180Z  ---   "
+      },
+      {
+        "filename": "Sales_Dashboard.md",
+        "title": "Sales Dashboard",
+        "page_id": "3196846465",
+        "last_updated": "2021-06-18T02:56:31.515Z",
+        "category": "business_operations",
+        "content_length": 444,
+        "content_preview": "# Sales Dashboard  **Page ID**: 3196846465 **Last Updated**: 2021-06-18T02:56:31.515Z  ---  Sales dashboard show a summary of users' selling performance and result according to the specific timeline. "
+      },
+      {
+        "filename": "Ecomsync_Features.md",
+        "title": "Ecomsync Features",
+        "page_id": "3299247174",
+        "last_updated": "2021-07-19T02:40:30.908Z",
+        "category": "ecommerce",
+        "content_length": 3533,
+        "content_preview": "# Ecomsync Features  **Page ID**: 3299247174 **Last Updated**: 2021-07-19T02:40:30.908Z  ---  Readiness Status: 5 - Best possibleGreen 4 - optimalYellow 3 - averageBlue 2 - sub  optimalPurple 1 - wors"
+      },
+      {
+        "filename": "Stock_Take_Applet.md",
+        "title": "Stock Take Applet",
+        "page_id": "3299246220",
+        "last_updated": "2025-02-28T08:44:42.316Z",
+        "category": "applets",
+        "content_length": 856,
+        "content_preview": "# Stock Take Applet  **Page ID**: 3299246220 **Last Updated**: 2025-02-28T08:44:42.316Z  ---  The Stock Take Applet is a cutting-edge digital solution designed to revolutionize inventory management fo"
+      },
+      {
+        "filename": "Accounting.md",
+        "title": "Accounting",
+        "page_id": "3153854863",
+        "last_updated": "2024-11-17T18:06:34.270Z",
+        "category": "business_operations",
+        "content_length": 2502,
+        "content_preview": "# Accounting  **Page ID**: 3153854863 **Last Updated**: 2024-11-17T18:06:34.270Z  ---  ##  Set Up Company\ufeff Organization Applet  Create Company &rarr; Create Branch &rarr; Create Location &rarr; Branch"
+      },
+      {
+        "filename": "Item_Maintenance.md",
+        "title": "Item Maintenance",
+        "page_id": "3132753410",
+        "last_updated": "2021-07-23T05:12:14.093Z",
+        "category": "user_guides",
+        "content_length": 380,
+        "content_preview": "# Item Maintenance  **Page ID**: 3132753410 **Last Updated**: 2021-07-23T05:12:14.093Z  ---  ## Table of Content Listings  Creating an Item  Editing an Item  Main Details Tab  Item Categories Tab  Dim"
+      },
+      {
+        "filename": "Installation_of_Pricebook_Applet.md",
+        "title": "Installation of Pricebook Applet",
+        "page_id": "3317538085",
+        "last_updated": "2025-01-01T18:14:29.170Z",
+        "category": "applets",
+        "content_length": 463,
+        "content_preview": "# Installation of Pricebook Applet  **Page ID**: 3317538085 **Last Updated**: 2025-01-01T18:14:29.170Z  ---  # 2.0 Installation of Pricebook Applet Please go to Akaun.cloud and find the Applet store. "
+      },
+      {
+        "filename": "Modules_Guide.md",
+        "title": "Modules Guide",
+        "page_id": "3153985719",
+        "last_updated": "2024-11-17T18:07:57.217Z",
+        "category": "modules",
+        "content_length": 385,
+        "content_preview": "# Modules Guide  **Page ID**: 3153985719 **Last Updated**: 2024-11-17T18:07:57.217Z  ---  The Modules Guide provides a comprehensive overview of the core and supplementary modules within the BigLedger"
+      },
+      {
+        "filename": "Employee_Claims.md",
+        "title": "Employee Claims",
+        "page_id": "3153854902",
+        "last_updated": "2021-06-05T09:03:17.668Z",
+        "category": "miscellaneous",
+        "content_length": 93,
+        "content_preview": "# Employee Claims  **Page ID**: 3153854902 **Last Updated**: 2021-06-05T09:03:17.668Z  ---   "
+      },
+      {
+        "filename": "Order_Listing.md",
+        "title": "Order Listing",
+        "page_id": "3196191098",
+        "last_updated": "2021-06-18T02:13:39.990Z",
+        "category": "business_operations",
+        "content_length": 379,
+        "content_preview": "# Order Listing  **Page ID**: 3196191098 **Last Updated**: 2021-06-18T02:13:39.990Z  ---  The Order Listing shows all your orders that are synced from Marketplace to Ecomsync Applet.  ### Search Users"
+      },
+      {
+        "filename": "Document_Item_Types.md",
+        "title": "Document Item Types",
+        "page_id": "3225452915",
+        "last_updated": "2021-07-12T09:07:01.033Z",
+        "category": "user_guides",
+        "content_length": 1496,
+        "content_preview": "# Document Item Types  **Page ID**: 3225452915 **Last Updated**: 2021-07-12T09:07:01.033Z  ---  Basic Item refers to an FI-item, an individual item having a one-to-one mapping with an INV Item;  Kit ,"
+      },
+      {
+        "filename": "Create_Single_Tab.md",
+        "title": "Create Single Tab",
+        "page_id": "3196191946",
+        "last_updated": "2021-06-18T06:09:58.079Z",
+        "category": "ecommerce",
+        "content_length": 925,
+        "content_preview": "# Create Single Tab  **Page ID**: 3196191946 **Last Updated**: 2021-06-18T06:09:58.079Z  ---  Create - used for syncing the chosen item into a marketplace store.  Create consist of 2 types :  Create S"
+      },
+      {
+        "filename": "Introduction_to_EcomSync.md",
+        "title": "Introduction to EcomSync",
+        "page_id": "3196485958",
+        "last_updated": "2021-06-18T01:46:53.953Z",
+        "category": "ecommerce",
+        "content_length": 939,
+        "content_preview": "# Introduction to EcomSync  **Page ID**: 3196485958 **Last Updated**: 2021-06-18T01:46:53.953Z  ---  Introduction   Ecomsync Applet is an applet whereby users can organize and manage their items/produ"
+      },
+      {
+        "filename": "Update_and_Delete_Item.md",
+        "title": "Update and Delete Item",
+        "page_id": "3196191957",
+        "last_updated": "2021-06-18T06:15:40.294Z",
+        "category": "ecommerce",
+        "content_length": 321,
+        "content_preview": "# Update and Delete Item  **Page ID**: 3196191957 **Last Updated**: 2021-06-18T06:15:40.294Z  ---  Update/Delete Item - when user want to update or delete the item that was sync to the marketplace the"
+      },
+      {
+        "filename": "B2B.md",
+        "title": "B2B",
+        "page_id": "3153822181",
+        "last_updated": "2021-06-05T09:01:05.690Z",
+        "category": "ecommerce",
+        "content_length": 81,
+        "content_preview": "# B2B  **Page ID**: 3153822181 **Last Updated**: 2021-06-05T09:01:05.690Z  ---   "
+      },
+      {
+        "filename": "50_Stock_Take_Settings.md",
+        "title": "5.0 Stock Take Settings",
+        "page_id": "3316809818",
+        "last_updated": "2024-11-12T13:30:59.946Z",
+        "category": "system_admin",
+        "content_length": 174,
+        "content_preview": "# 5.0 Stock Take Settings  **Page ID**: 3316809818 **Last Updated**: 2024-11-12T13:30:59.946Z  ---  User may set its settings to its preference by clicking the settings tab. "
+      },
+      {
+        "filename": "Manufacturing_Module.md",
+        "title": "Manufacturing Module\ufeff",
+        "page_id": "3153854880",
+        "last_updated": "2024-11-15T02:55:46.423Z",
+        "category": "modules",
+        "content_length": 1154,
+        "content_preview": "# Manufacturing Module\ufeff  **Page ID**: 3153854880 **Last Updated**: 2024-11-15T02:55:46.423Z  ---  # Implementation Steps\ufeff  ## Scope Management (End Results)\ufeff Begin with the end in mind  This is where "
+      },
+      {
+        "filename": "POS_-_General.md",
+        "title": "POS - General",
+        "page_id": "3153854873",
+        "last_updated": "2021-06-05T08:59:25.054Z",
+        "category": "miscellaneous",
+        "content_length": 91,
+        "content_preview": "# POS - General  **Page ID**: 3153854873 **Last Updated**: 2021-06-05T08:59:25.054Z  ---   "
+      },
+      {
+        "filename": "Listing.md",
+        "title": "Listing",
+        "page_id": "3196846319",
+        "last_updated": "2021-06-18T02:06:35.534Z",
+        "category": "ecommerce",
+        "content_length": 478,
+        "content_preview": "# Listing  **Page ID**: 3196846319 **Last Updated**: 2021-06-18T02:06:35.534Z  ---  Listing shows all your Items that are synced from EMP and Marketplace. Inside the listing the item can be 2 levels, "
+      },
+      {
+        "filename": "EcomSync_Applet.md",
+        "title": "EcomSync Applet",
+        "page_id": "3259346357",
+        "last_updated": "2021-07-23T05:51:22.732Z",
+        "category": "ecommerce",
+        "content_length": 321,
+        "content_preview": "# EcomSync Applet  **Page ID**: 3259346357 **Last Updated**: 2021-07-23T05:51:22.732Z  ---  Table of Content Introduction to Ecomsync  Ecomsync Features  Item Maintenance  Order  Order Listing  Order "
+      },
+      {
+        "filename": "Membership_Admin_Console_Applet.md",
+        "title": "Membership Admin Console Applet",
+        "page_id": "3314483397",
+        "last_updated": "2021-07-26T04:37:55.594Z",
+        "category": "applets",
+        "content_length": 110,
+        "content_preview": "# Membership Admin Console Applet  **Page ID**: 3314483397 **Last Updated**: 2021-07-26T04:37:55.594Z  ---  1 "
+      },
+      {
+        "filename": "PTS_CCY_Module.md",
+        "title": "PTS CCY Module",
+        "page_id": "3317499473",
+        "last_updated": "2021-07-26T04:33:23.699Z",
+        "category": "modules",
+        "content_length": 1056,
+        "content_preview": "# PTS CCY Module  **Page ID**: 3317499473 **Last Updated**: 2021-07-26T04:33:23.699Z  ---  6.PTS CCY Module: Create Membership point currency>Compulsory information>Edit  6.1. Please click on &lsquo;P"
+      },
+      {
+        "filename": "Inventory_Management.md",
+        "title": "Inventory Management",
+        "page_id": "3153822188",
+        "last_updated": "2021-06-05T09:01:30.093Z",
+        "category": "inventory_management",
+        "content_length": 98,
+        "content_preview": "# Inventory Management  **Page ID**: 3153822188 **Last Updated**: 2021-06-05T09:01:30.093Z  ---   "
+      },
+      {
+        "filename": "BigLedger_Documentation.md",
+        "title": "BigLedger Documentation",
+        "page_id": "2945286292",
+        "last_updated": "2024-11-07T05:11:28.664Z",
+        "category": "user_guides",
+        "content_length": 1446,
+        "content_preview": "# BigLedger Documentation  **Page ID**: 2945286292 **Last Updated**: 2024-11-07T05:11:28.664Z  ---  # How can we help you? largepage excerptSearch keywords (e.g. Team, Sales Order, etc)      Welcome t"
+      },
+      {
+        "filename": "Related_Applets_-_Process_Monitoring.md",
+        "title": "Related Applets - Process Monitoring",
+        "page_id": "3325940988",
+        "last_updated": "2021-08-02T08:57:04.570Z",
+        "category": "applets",
+        "content_length": 280,
+        "content_preview": "# Related Applets - Process Monitoring  **Page ID**: 3325940988 **Last Updated**: 2021-08-02T08:57:04.570Z  ---  ### The process monitoring applet can import Lines from the following Applets:         "
+      },
+      {
+        "filename": "Food_and_Beverage_FB_Industry.md",
+        "title": "Food and Beverage (F&B) Industry",
+        "page_id": "3153854852",
+        "last_updated": "2024-11-15T01:58:35.705Z",
+        "category": "industry_solutions",
+        "content_length": 1594,
+        "content_preview": "# Food and Beverage (F&B) Industry  **Page ID**: 3153854852 **Last Updated**: 2024-11-15T01:58:35.705Z  ---  ## Success Story 2 : Food and Beverage (F&B) Industry\ufeff With years of extensive experience i"
+      },
+      {
+        "filename": "Editing_an_Item.md",
+        "title": "Editing an Item",
+        "page_id": "3196191049",
+        "last_updated": "2021-07-23T04:10:59.216Z",
+        "category": "user_guides",
+        "content_length": 530,
+        "content_preview": "# Editing an Item  **Page ID**: 3196191049 **Last Updated**: 2021-07-23T04:10:59.216Z  ---  Edit section allows users to see detailed information on their item. Users are allowed to manage stock and p"
+      },
+      {
+        "filename": "Create_Group_Item.md",
+        "title": "Create Group Item",
+        "page_id": "3196487103",
+        "last_updated": "2021-06-18T06:12:59.130Z",
+        "category": "inventory_management",
+        "content_length": 419,
+        "content_preview": "# Create Group Item  **Page ID**: 3196487103 **Last Updated**: 2021-06-18T06:12:59.130Z  ---  Create Group is used to create group items that have variants such as color or size (depends on the item c"
+      },
+      {
+        "filename": "90_EcomSync_Related_Applets.md",
+        "title": "9.0 EcomSync Related Applets",
+        "page_id": "2944958608",
+        "last_updated": "2024-11-16T19:11:46.763Z",
+        "category": "applets",
+        "content_length": 860,
+        "content_preview": "# 9.0 EcomSync Related Applets  **Page ID**: 2944958608 **Last Updated**: 2024-11-16T19:11:46.763Z  ---  Ecomsync Organization Applet   Ecomsync - Organisation Applet - Create Company   Ecomsync - Org"
+      },
+      {
+        "filename": "Team.md",
+        "title": "Team",
+        "page_id": "3321069573",
+        "last_updated": "2021-07-27T06:18:28.861Z",
+        "category": "user_guides",
+        "content_length": 1964,
+        "content_preview": "# Team  **Page ID**: 3321069573 **Last Updated**: 2021-07-27T06:18:28.861Z  ---  2. Team: Create Team > Compulsory Information> Edit (General info, Members,Import Users, Permission)  2.1 Please click "
+      },
+      {
+        "filename": "Industry_Guide.md",
+        "title": "Industry Guide",
+        "page_id": "3153822073",
+        "last_updated": "2024-11-15T01:56:59.787Z",
+        "category": "industry_solutions",
+        "content_length": 6001,
+        "content_preview": "# Industry Guide  **Page ID**: 3153822073 **Last Updated**: 2024-11-15T01:56:59.787Z  ---  The consequences of the COVID pandemic have had an unprecedented impact on the businesses worldwide. To survi"
+      },
+      {
+        "filename": "Group_Listing.md",
+        "title": "Group Listing",
+        "page_id": "3320747164",
+        "last_updated": "2024-11-18T05:15:51.558Z",
+        "category": "user_guides",
+        "content_length": 1324,
+        "content_preview": "# Group Listing  **Page ID**: 3320747164 **Last Updated**: 2024-11-18T05:15:51.558Z  ---  Please click the \"+\" button to add a new group.  Please fill up the compulsory * information for creating the "
+      },
+      {
+        "filename": "Creating_an_Item.md",
+        "title": "Creating an Item",
+        "page_id": "3196846326",
+        "last_updated": "2021-07-23T04:01:29.004Z",
+        "category": "user_guides",
+        "content_length": 1063,
+        "content_preview": "# Creating an Item  **Page ID**: 3196846326 **Last Updated**: 2021-07-23T04:01:29.004Z  ---  In creating an Item, users need to click on the  button to open the Create tab.  Users must fill up compuls"
+      },
+      {
+        "filename": "Ingram_Micro_MS_ESD_Applet.md",
+        "title": "Ingram Micro MS ESD Applet",
+        "page_id": "3292921869",
+        "last_updated": "2021-07-15T07:57:58.109Z",
+        "category": "applets",
+        "content_length": 104,
+        "content_preview": "# Ingram Micro MS ESD Applet  **Page ID**: 3292921869 **Last Updated**: 2021-07-15T07:57:58.109Z  ---   "
+      },
+      {
+        "filename": "Applet_Store.md",
+        "title": "Applet Store",
+        "page_id": "3153985735",
+        "last_updated": "2024-11-12T20:56:19.341Z",
+        "category": "applets",
+        "content_length": 24367,
+        "content_preview": "# Applet Store  **Page ID**: 3153985735 **Last Updated**: 2024-11-12T20:56:19.341Z  ---  ## 1.0 Introduction\ufeff Applet Store is the marketplace for the distribution of applets that are designed for use "
+      },
+      {
+        "filename": "CP-Commerce.md",
+        "title": "CP-Commerce",
+        "page_id": "3153887626",
+        "last_updated": "2024-11-17T11:04:53.671Z",
+        "category": "ecommerce",
+        "content_length": 547,
+        "content_preview": "# CP-Commerce  **Page ID**: 3153887626 **Last Updated**: 2024-11-17T11:04:53.671Z  ---  The CP-Commerce Module is a powerful solution designed to help businesses offer products and services online. It"
+      },
+      {
+        "filename": "Organization_Applet.md",
+        "title": "Organization Applet",
+        "page_id": "3197010229",
+        "last_updated": "2025-05-23T00:34:30.718Z",
+        "category": "applets",
+        "content_length": 1199,
+        "content_preview": "# Organization Applet  **Page ID**: 3197010229 **Last Updated**: 2025-05-23T00:34:30.718Z  ---  The Organization Applet is designed to manage and configure essential details for companies and their br"
+      },
+      {
+        "filename": "Member_Label_List.md",
+        "title": "Member Label List",
+        "page_id": "3317499439",
+        "last_updated": "2021-07-26T04:25:30.383Z",
+        "category": "user_guides",
+        "content_length": 1290,
+        "content_preview": "# Member Label List  **Page ID**: 3317499439 **Last Updated**: 2021-07-26T04:25:30.383Z  ---  5.Member label list: Create Member Label list>Compulsory information>Edit  5.1. Please click on &lsquo;Mem"
+      },
+      {
+        "filename": "Installation.md",
+        "title": "Installation",
+        "page_id": "3314386407",
+        "last_updated": "2021-07-26T03:52:40.443Z",
+        "category": "system_admin",
+        "content_length": 546,
+        "content_preview": "# Installation  **Page ID**: 3314386407 **Last Updated**: 2021-07-26T03:52:40.443Z  ---  1.Installation (Akaun Cloud): Applet Store > Search > Install > Akaun page > Search  1.1. Please go to Akaun.cl"
+      },
+      {
+        "filename": "Integration_with_Shopify.md",
+        "title": "Integration with Shopify",
+        "page_id": "3292758065",
+        "last_updated": "2021-07-15T07:56:28.266Z",
+        "category": "ecommerce",
+        "content_length": 110,
+        "content_preview": "# Integration with Shopify  **Page ID**: 3292758065 **Last Updated**: 2021-07-15T07:56:28.266Z  ---  steps,.. "
+      },
+      {
+        "filename": "Stock_Availability_Tab.md",
+        "title": "Stock Availability Tab",
+        "page_id": "3197011137",
+        "last_updated": "2021-06-18T06:17:56.494Z",
+        "category": "inventory_management",
+        "content_length": 388,
+        "content_preview": "# Stock Availability Tab  **Page ID**: 3197011137 **Last Updated**: 2021-06-18T06:17:56.494Z  ---  Stock Availability Tab - is used to set the stock balance for chosen items. This section shows you a "
+      },
+      {
+        "filename": "Member_Label.md",
+        "title": "Member Label",
+        "page_id": "3319005232",
+        "last_updated": "2021-07-26T04:18:59.615Z",
+        "category": "user_guides",
+        "content_length": 1215,
+        "content_preview": "# Member Label  **Page ID**: 3319005232 **Last Updated**: 2021-07-26T04:18:59.615Z  ---  4.Member Label:Create Member Label >Compulsory information>Edit  4.1. Please click on &lsquo;Member Label&rsquo"
+      },
+      {
+        "filename": "Member_Class.md",
+        "title": "Member Class",
+        "page_id": "3317433944",
+        "last_updated": "2021-07-26T04:09:12.999Z",
+        "category": "user_guides",
+        "content_length": 863,
+        "content_preview": "# Member Class  **Page ID**: 3317433944 **Last Updated**: 2021-07-26T04:09:12.999Z  ---  3.Member Class: Create Member Class >Compulsory information>Edit  3.1. Please click on &lsquo;Member Class&rsqu"
+      },
+      {
+        "filename": "Order.md",
+        "title": "Order",
+        "page_id": "3132819258",
+        "last_updated": "2021-06-18T06:29:50.891Z",
+        "category": "business_operations",
+        "content_length": 327,
+        "content_preview": "# Order  **Page ID**: 3132819258 **Last Updated**: 2021-06-18T06:29:50.891Z  ---  For this module, you are able to identify and oversee your orders status journey for both Ecomsync and Marketplace pla"
+      },
+      {
+        "filename": "Order_Filtering.md",
+        "title": "Order Filtering",
+        "page_id": "3197010347",
+        "last_updated": "2021-06-18T02:33:29.613Z",
+        "category": "business_operations",
+        "content_length": 1479,
+        "content_preview": "# Order Filtering  **Page ID**: 3197010347 **Last Updated**: 2021-06-18T02:33:29.613Z  ---  # Filter  Order filtering help users to specify and focus on important detail of an order.   Users also can "
+      },
+      {
+        "filename": "Membership_Program.md",
+        "title": "Membership Program",
+        "page_id": "3153822171",
+        "last_updated": "2022-04-18T04:38:40.607Z",
+        "category": "applets",
+        "content_length": 334,
+        "content_preview": "# Membership Program  **Page ID**: 3153822171 **Last Updated**: 2022-04-18T04:38:40.607Z  ---  To use the membership Program  Compulsory applets  Organization applet  Doc Item Maintenance applet  Pric"
+      }
+    ]
+  }
+}

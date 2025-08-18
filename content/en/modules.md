@@ -1,4 +1,8 @@
 ---
+description: Our comprehensive suite of business modules provides end-to-end coverage
+  for your enterprise operations.
+tags:
+- user-guide
 title: Modules Overview
 weight: 7
 ---

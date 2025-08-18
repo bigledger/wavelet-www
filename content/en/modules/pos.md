@@ -1,6 +1,8 @@
 ---
-title: "Point of Sales (POS)"
-description: "Complete point of sales solution for retail and hospitality businesses"
+description: Complete point of sales solution for retail and hospitality businesses
+tags:
+- user-guide
+title: Point of Sales (POS)
 weight: 20
 ---
 

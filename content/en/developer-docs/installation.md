@@ -1,4 +1,7 @@
 ---
+description: Guide for installing and configuring BigLedger SDK.
+tags:
+- user-guide
 title: Installation
 weight: 10
 ---

@@ -1,0 +1,448 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BigLedger Documentation – Tutorial</title>
+    <link>http://localhost:1313/tags/tutorial/</link>
+    <description>Recent content in Tutorial on BigLedger Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>BigLedger Documentation</title>
+      <link>http://localhost:1313/user-guide/bigledger-documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/bigledger-documentation/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;BigLedger Documentation&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 2945286292
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-07T05:11:28.664Z&lt;/p&gt;
+&lt;h1&gt;How can we help you?&lt;/h1&gt;&lt;p&gt;largepage excerptSearch keywords (e.g. Team, Sales Order, etc)
+Welcome to BigLedger Knowledge Center! Here, you&amp;rsquo;ll find comprehensive documentation to help you navigate BigLedger&amp;rsquo;s products and services, including user guides, and technical resources. Whether you&amp;rsquo;re setting up your system, exploring advanced features, or integrating our solutions, this knowledge center is here to guide you.
+New Here? Start with the Introduction page in the left menu to get an overview of the documentation.
+Need Help Finding Something? Use the search bar above to find topics by keywords like &amp;ldquo;Team&amp;rdquo; or &amp;ldquo;Sales Order&amp;rsquo; etc.
+noteNote: We are currently migrating our documentation from our previous system. During this transition, some pages may still be under construction. We appreciate your patience as we work to bring you a fully comprehensive knowledge base.
+Note: We are currently migrating our documentation from our previous system. During this transition, some pages may still be under construction. We appreciate your patience as we work to bring you a fully comprehensive knowledge base.&lt;/p&gt;
+&lt;h1&gt;|Basics&lt;/h1&gt;&lt;h2&gt;Getting Started&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#getting-started&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Overview of the Akaun Platform
+Quick Start Guide
+End User Guide
+Administrator Guide&lt;/p&gt;
+&lt;h2&gt;Need more help?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;need-more-help&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#need-more-help&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;BigLedger helpdesk
+Telegram Support (Linking to @bigledgerbot)
+Youtube Channel&lt;/p&gt;
+&lt;h1&gt;|&lt;/h1&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Creating an Item</title>
+      <link>http://localhost:1313/user-guide/creating-an-item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/creating-an-item/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Creating an Item&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196846326
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-23T04:01:29.004Z
+In creating an Item, users need to click on the
+button to open the Create tab.
+Users must fill up compulsory information such as:
+Item Code
+ItemName
+Type (Dropdown list)
+Select according to your item functions and usage type
+Base UOM (eg: Unit, Kilogram, Meter, and etc)
+Base UOM is the smallest unit of measurement that will be used
+Item Description (Optional)
+Ecomsync (Will automatically tick when synching to EMP)
+Users must tick &amp;ldquo;EcomSync checkbox&amp;rdquo; so that the item is synced into the EcomSync Applet instead of just the Doc Item Applet.
+Once the user fills in all the details they may click save the item. A success message will pop up to indicate that the item has been saved.
+Users will be redirected to the EDIT page once they click on the Create Item button or when they click on the new created item.
+Click Create Item and it will direct you to this page and will indicate that the item is successfully registered and updated.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Document Item Maintenance</title>
+      <link>http://localhost:1313/user-guide/document-item-maintenance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/document-item-maintenance/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Document Item Maintenance&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3225452905
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-26T13:07:52.151Z&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Document Item Types</title>
+      <link>http://localhost:1313/user-guide/document-item-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/document-item-types/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Document Item Types&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3225452915
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-12T09:07:01.033Z
+Basic Item refers to an FI-item, an individual item having a one-to-one mapping with an INV Item;
+Kit , where  a basic item has 1 to 1 mapping with INV item, however this has child components. The kitting process/reverse kitting process will apply. 1 Kit (Kit-A) may have A1, A2, A3, A4 child items, which will be deducted from the stock balance, while a Kit-A quantity will also increase by 1 (this constitutes one of the main differences between Kit and a Grouped item).
+Grouped item is applicable for those cases when an item has dimensions (e.g. size, colour etc). This refers to the grouping of the basic items. For example, T-shirt - Yellow/Blue/Red - size 3/4/5 : When the customer selects a T-shirt, he/she is presented with options (e.g. colours &amp;amp; sizes).  (Ratio = 1, i.e. only to choose one from the list). A grouping of basic FI-items and it has a ratio of 1, meaning from this grouping, you only select 1 basic FI-item.
+Package : Implies one-to-many relationship : This FI-item is mapped to many INV items. It has a one to many relationship with INV items. The stock quantity of the individual INV items is not deducted until the package is sold.
+Being the most complicated among all, Bundle can contain individual components as either basic items, Kit, grouped items or package. Therefore having multiple GenDocLines unlike the previous 4. The bundle currently supports 2 levels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Editing an Item</title>
+      <link>http://localhost:1313/user-guide/editing-an-item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/editing-an-item/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Editing an Item&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191049
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-23T04:10:59.216Z
+Edit section allows users to see detailed information on their item. Users are allowed to manage stock and place where you are able to sync marketplace and view marketplace listings.
+To edit the Item, click on the Item from the listings.
+In the editing section, users will be able to cover and understand the following :
+Main Details Tab
+Item Categories
+Dimension Details Tab
+Manage Image Tab
+Marketplace Tab
+Stock Allocation Tab&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Group Listing</title>
+      <link>http://localhost:1313/user-guide/group-listing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/group-listing/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Group Listing&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3320747164
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-18T05:15:51.558Z
+Please click the &amp;ldquo;+&amp;rdquo; button to add a new group.
+Please fill up the compulsory * information for creating the group.
+Compulsory Information:
+Group Name
+Group Code
+Group Email
+Please Select the Group Visibility from the list.
+Please Select the Group Joining from the list
+After filling up all Compulsory * information, Please click &amp;ldquo;Create Group&amp;rdquo; to add a new group.
+After adding the group, it will be listed in the main page. Please click on the group to edit it.
+Please edit the Group general information from the &amp;ldquo;Edit general info&amp;rdquo; tab.
+Only the following fields can be edited:
+Group Name
+Group Visibility
+Group Joining
+Group Status
+Please add or edit members of the group from the &amp;ldquo;Edit Members&amp;rdquo; tab.
+Please search user email- once the users sign-up in the, their email will be listed in &amp;lsquo;Select Email&amp;rsquo;.
+Please select the rank-Please &amp;ldquo;Select Rank&amp;rdquo; to differentiate the role of the member.
+Please select the status.
+After adding the members to the group, you can Edit or Delete them from the &amp;ldquo;Members List&amp;rdquo;.
+Please add or edit permission from the &amp;ldquo;Edit Permission&amp;rdquo; tab.
+You can &amp;ldquo;Select permission&amp;rdquo; from the list to Add permission.
+After adding the permission, you can Edit or Delete it from the &amp;ldquo;Permission&amp;rdquo;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/user-guide/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/introduction/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Introduction&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153854635
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-08T12:29:44.536Z
+Your gateway to streamlined operations and valuable insights with Bigledger
+#DEEBFFBigledger centralizes your data for real-time insights and streamlined management. Explore our resources to maximize your experience.
+:note:atlassian-note#EAE6FFUser Registrations and Permissions  (First-time &amp;amp; Existing Users)
+:note:atlassian-note#FFEBE6Applet Directory  (User-guide on Akaun Applets)
+:note:atlassian-note#FFFAE6Industry Guide  (Industries we work in)
+:note:atlassian-note#E3FCEFModule Guide  (User-guide on Bigledger Modules )
+:note:atlassian-note#E6FCFFMobile App Use Guide  (User guide on Mobile Applications)
+#B3D4FF&lt;/p&gt;
+&lt;h1&gt;New To BigLedger?&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://youtu.be/WrFz_4JTC1s?si=gNb1FT-BAxKO_7xl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/WrFz_4JTC1s?si=gNb1FT-BAxKO_7xl&lt;/a&gt;
+BLG Users Guide Registration
+Existing EMP User﻿﻿Server Side Permissions&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;&lt;p&gt;#4C9AFF&lt;/p&gt;
+&lt;h1&gt;Need Our Help?&lt;/h1&gt;&lt;h2&gt;Contact Us&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contact-us&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contact-us&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Email: &lt;a href=&#34;mailto:sales@bigledger.com&#34; &gt;sales@bigledger.com&lt;/a&gt;&lt;br&gt;
+Phone: 016-2991588
+Website: &lt;a href=&#34;http://www.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bigledger.com&lt;/a&gt;
+#DEEBFF&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Item Maintenance</title>
+      <link>http://localhost:1313/user-guide/item-maintenance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/item-maintenance/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Item Maintenance&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3132753410
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-23T05:12:14.093Z&lt;/p&gt;
+&lt;h2&gt;Table of Content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;table-of-content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Listings
+Creating an Item
+Editing an Item
+Main Details Tab
+Item Categories Tab
+Dimension Details Tab
+Manage Image Tab
+Marketplace Tab
+Create Single Tab
+Create Group Item Tab
+Update and Delete Item
+Stock Availability Tab
+Stock Balance Tab
+Sales Order Tab&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Member Class</title>
+      <link>http://localhost:1313/user-guide/member-class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/member-class/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Member Class&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3317433944
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-26T04:09:12.999Z
+3.Member Class: Create Member Class &amp;gt;Compulsory information&amp;gt;Edit
+3.1. Please click on ‘Member Class&amp;rsquo; from the module list and click ‘+&amp;rsquo; button to create a new member class.
+3.2. Please fill up the compulsory (&lt;em&gt;) information for creating the member class. After filled up all Compulsory (&lt;/em&gt;) information, Please click ‘Create&amp;rsquo; to add a new Member class. Compulsory information:
+Membership Class Code
+Membership Class name
+3.3. After adding the member class, it will be listed in the main page. Please click on the member to edit it.
+Only member class name and status can be edited. After changing the details of the field, please click ‘save&amp;rsquo;.
+Please click ‘delete&amp;rsquo; to remove the member class from the list.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Member Label</title>
+      <link>http://localhost:1313/user-guide/member-label/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/member-label/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Member Label&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3319005232
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-26T04:18:59.615Z
+4.Member Label:Create Member Label &amp;gt;Compulsory information&amp;gt;Edit
+4.1. Please click on ‘Member Label&amp;rsquo; from the module list and click the ‘+&amp;rsquo; button to create a new member label.
+4.2. Please fill up the compulsory (&lt;em&gt;) information for creating the member label. After filled up all Compulsory (&lt;/em&gt;) information, Please click ‘Create&amp;rsquo; to add a new Member label. Compulsory information:
+Label list: Please create a new label list from the member label list.
+Label name
+Label code
+4.3.After adding the member Label, it will be listed in the main page. Please click on the label to edit it.
+You can edit the details and members of the member label.
+4.3.1. In details tab, the following information can be edited:
+Label list
+Label name
+Status
+After changing the details of the field, please click ‘save&amp;rsquo;.
+Please click ‘delete&amp;rsquo; to remove the member label from the list.
+4.3.2. In the Members tab, you can add members to the label.
+Please click &amp;lsquo;+&amp;rsquo; button to add members.
+Please select the listed members or follow the Member listing module to add new members.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Member Label List</title>
+      <link>http://localhost:1313/user-guide/member-label-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/member-label-list/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Member Label List&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3317499439
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-26T04:25:30.383Z
+5.Member label list: Create Member Label list&amp;gt;Compulsory information&amp;gt;Edit
+5.1. Please click on ‘Member label list&amp;rsquo; from the module list and click ‘+&amp;rsquo; button to create a new member label list.
+5.2. Please fill up the compulsory (&lt;em&gt;) information for creating the member label list. After filled up all Compulsory (&lt;/em&gt;) information, Please click ‘Create&amp;rsquo; to add a new Member label list. Compulsory information:
+Label list Code
+Label list name
+5.3. After adding the member label list, it will be listed in the main page. Please click on the member to edit it.
+You can edit the details and labels of the member label list.
+5.3.1. In details tab, the following information can be edited:
+Label list name
+Status
+After changing the details of the field, please click ‘save&amp;rsquo;.
+Please click ‘delete&amp;rsquo; to remove the member label list from the list.
+5.3.2. In the labels tab, you can add labels to the label list.
+Please click &amp;lsquo;+&amp;rsquo; button to add labels.
+Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Member Listing</title>
+      <link>http://localhost:1313/user-guide/member-listing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/member-listing/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Member Listing&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3317564816
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-26T04:28:05.761Z
+2. Member Listing: Create New Member &amp;gt; Membership Edit
+2.1. Please click the ‘+&amp;rsquo; button to Create a new Member.
+Please fill up the compulsory (&lt;em&gt;) information for creating the Member. After filled up all Compulsory (&lt;/em&gt;) information, Please click ‘Save&amp;rsquo; to add a new Member. Compulsory information:
+Member Name
+Email
+Country Code
+Mobile No.
+Membership End Date
+2.2. After adding the member, it will be listed in the main page. Please click on the member to edit it.
+You can edit the details, labels and point transactions of the member.
+2.2.1. In details tab, the following information can be edited:
+Member name
+Gender
+Date of birth
+Country code
+Mobile No.
+Passport
+Email address
+Member class-Can be added or edited from Member class module
+Member status
+Membership End date
+You can click the ‘delete&amp;rsquo; button to remove the member from the member listing.
+2.2.2. In the Labels tab, you can add labels to the member. Please follow the Member label module.
+2.2.3. In the point transaction tab, you can add point adjustment.
+Please click &amp;lsquo;+&amp;rsquo; button to add point adjustment.
+The following fields are compulsory:
+Branch
+Point Currency
+Item code &amp;amp; name&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pricing Scheme</title>
+      <link>http://localhost:1313/user-guide/pricing-scheme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/pricing-scheme/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Pricing Scheme&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3313139757
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-12T21:27:30.118Z
+Once a user clicks on the pricing scheme module it will land on the pricing scheme listing page. The module is used to create the template for pricing that can be also used in transactional applets such as POS, GRN, etc. In this module you can only create the template/scheme, the price can be added later for each specific item in the &amp;ldquo;Item Maintenance&amp;rdquo; module
+For example, in the POS applet, users can go to the settings and choose which Pricing Scheme they want to use for a minimum price, maximum price or the retail price as shown in the interface below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/screenshots/placeholder-pricing-scheme.svg&#34; alt=&#34;Pricing Scheme Configuration&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;em&gt;Figure 1: Pricing Scheme Configuration in POS Settings - showing Malaysian tax-compliant pricing options&lt;/em&gt;
+Users also may search pricing schemes in the listing itself using fuzzy search in the AG-Grid listing. Pricing schemes can be searched in general search or advanced search:&lt;/p&gt;
+&lt;h2&gt;4.1 Pricing Scheme Create﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;41-pricing-scheme-create&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#41-pricing-scheme-create&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To create a Pricing Scheme, the user should click on the &amp;ldquo;+&amp;rdquo; button, once clicked it will open a second container where the user can fill up general details on the pricing scheme such as:
+Pricing scheme Code - code is created by the system.
+Pricing Scheme Name - compulsory to fill up
+Description - not compulsory&lt;/p&gt;
+&lt;h2&gt;4.2 Pricing Scheme Edit﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;42-pricing-scheme-edit&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#42-pricing-scheme-edit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If the user wishes to edit the Pricing Scheme they can click on a specific pricing scheme in the listing, once clicked it will redirect to the second container where the user can edit the remaining information.
+There are three tabs included In the Pricing Scheme Edit&lt;/p&gt;
+&lt;h3&gt;4.2.1 Main Tab﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;421-main-tab&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#421-main-tab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Pricing Code - cannot be edited
+Pricing name - The user able to edit the name
+Description - The user can edit the description. the description is not compulsory
+Status - The user can specify whether the pricing scheme is active or inactive
+In addition, users may delete the pricing scheme if they wish to. Users may click on the &amp;ldquo;Remove&amp;rdquo; button at the bottom.&lt;/p&gt;
+&lt;h3&gt;4.2.2 Copy Tab﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;422-copy-tab&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#422-copy-tab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The user selects one item from the Pricing list in the dropdown list and makes some amendments to the pricing.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://localhost:1313/user-guide/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/user-guide/team/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Team&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3321069573
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-27T06:18:28.861Z
+2. Team: Create Team &amp;gt; Compulsory Information&amp;gt; Edit (General info, Members,Import Users, Permission)
+2.1 Please click the ‘+&amp;rsquo; button to add a new team.
+2.2 Please fill up the compulsory (&lt;em&gt;) information for creating the team.Compulsory information:
+Team Name
+Team Code
+Team Email
+Please select the Team Visibility from the list.
+Please select the Team Joining from the list
+After filled up all Compulsory (&lt;/em&gt;) information, Please click ‘Create&amp;rsquo; to add a new team.
+2.3 After adding the team, it will be listed in the main page. Please click on the team to edit it.
+2.4 Please edit the Team general information from the ‘Edit general info&amp;rsquo; tab.
+Only the following fields can be edited:
+Team Name
+Team Description
+Team Visibility
+Team Joining
+Team Status
+2.5 Please add or edit members of the team from the ‘Edit Members&amp;rsquo; tab.
+2.5.1.Please click the ‘+&amp;rsquo; button to add users to the team.
+Please search user email-Once the users sign-up in the &lt;a href=&#34;http://akaun.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://akaun.com&lt;/a&gt; , their email will be listed in &amp;lsquo;Select Email&amp;rsquo;.
+Please select the rank-Please ‘Select Rank&amp;rsquo; to differentiate the role of the member.
+Please select the status
+Please click the ‘Add&amp;rsquo; button to add the user to the team.
+2.5.2. After adding the members in the team,  Please click the Member from the list to edit or Delete it.
+2.6 Please import Users to the Team from the ‘Import Users&amp;rsquo; tab.
+Please follow the instructions or download the ‘simple format&amp;rsquo; for uploading the correct file.
+Please click ‘Upload file&amp;rsquo; to import the users in the team
+2.7 Please add or edit permission from the ‘Edit Permission&amp;rsquo; tab.
+You can ‘Select permission&amp;rsquo; from the list to Add permission.
+After adding the permission, you can Edit or Delete it from the ‘Permission.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

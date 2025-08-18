@@ -1,4 +1,7 @@
 ---
+description: Complete inventory management with BigLedger.
+tags:
+- user-guide
 title: Stock Management Guide
 weight: 10
 ---

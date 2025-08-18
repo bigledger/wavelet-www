@@ -1,7 +1,10 @@
 ---
+bookCollapseSection: true
+description: Technical documentation for developers integrating with BigLedger.
+tags:
+- user-guide
 title: Developer Documentation
 weight: 20
-bookCollapseSection: true
 ---
 
 # Developer Documentation

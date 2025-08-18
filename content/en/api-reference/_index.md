@@ -1,7 +1,10 @@
 ---
+bookCollapseSection: true
+description: Complete API reference for BigLedger services.
+tags:
+- user-guide
 title: API Reference
 weight: 30
-bookCollapseSection: true
 ---
 
 # API Reference

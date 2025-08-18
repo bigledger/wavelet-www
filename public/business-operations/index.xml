@@ -1,0 +1,313 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BigLedger Documentation – Business Operations</title>
+    <link>http://localhost:1313/business-operations/</link>
+    <description>Recent content in Business Operations on BigLedger Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/business-operations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Account Receivable</title>
+      <link>http://localhost:1313/business-operations/account-receivable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/account-receivable/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Account Receivable&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153822231
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-05T09:04:43.073Z&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Accounting</title>
+      <link>http://localhost:1313/business-operations/accounting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/accounting/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Accounting&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153854863
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-17T18:06:34.270Z&lt;/p&gt;
+&lt;h2&gt;Set Up Company﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;set-up-company&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#set-up-company&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Organization Applet
+Create Company → Create Branch → Create Location → Branch cannot be created without creating a company beforehand → Branches within a company cannot be linked with another company → Each location can be linked to different branches within a company
+Chart of Account Applet
+Company Listing in Chart of Account applet are the companies that are created in Organization Applet
+Users would not be able to create a company in Chart of Account Applet
+Chart of Account Applet is used for accounting related purposes: Ledgers, Fiscal Year etc.
+Changes in Organization Applet will automatically be shown in Chart of Account Applet as well&lt;/p&gt;
+&lt;h2&gt;Cashbook Configuration﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cashbook-configuration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#cashbook-configuration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Cashbook Applet
+Create a cashbook → Cashbook can be created for different branches → Selected member can be added into a certain cashbook to keep the details confidential by going to Member tab → Insert the member&amp;rsquo;s emails →Trigger and Limit : Alert users when the amount of money is running low or is too high
+Bank Reconciliation Applet
+Upload bank statement
+Run auto-matching&lt;/p&gt;
+&lt;h2&gt;Creating users and passwords﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;creating-users-and-passwords&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#creating-users-and-passwords&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Sales Order Applet - go to Settings
+Go to Permission Wizard, Permission Set, User Permission, Team Permission, Role Permission - assign respective tasks to each employee
+Employee Applet
+Add virtual employees&lt;/p&gt;
+&lt;h2&gt;Adding Chart of Account﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;adding-chart-of-account&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#adding-chart-of-account&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Go to Organization Applet
+Select Chart of Account for selected company
+One Chart of Account can be linked to multiple companies → Chart of Account will display by companies if one Chart of Account is used for multiple companies&lt;/p&gt;
+&lt;h2&gt;Setting Up Financial Year and Financial Period﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;setting-up-financial-year-and-financial-period&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#setting-up-financial-year-and-financial-period&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Go to Chart of Account Applet
+Go to Fiscal Year → Choose Company and Name → Select the Start Date and End Date
+Fiscal Period will automatically appear after creating Fiscal Year&lt;/p&gt;
+&lt;h2&gt;Configure Permissions﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;configure-permissions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#configure-permissions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Every Applet has different permissions settings&lt;/p&gt;
+&lt;h2&gt;Set of Books﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;set-of-books&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#set-of-books&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Every company has a primary ledger
+Secondary ledger is optional
+Each branch is considered as primary ledger
+two branches are combined to create a consolidated ledger, it is a secondary ledger
+Set of Book 1 = Branch 1 only (Primary Ledger)
+Set of Book 2 = Branch 2 only (Primary Ledger)
+Set of Book 3 = Branch 1 and Branch 2 (Branch 1 Primary Ledger, Branch 2 Primary Ledger, and Branch 1 and 2 Consolidated/ Secondary Ledger)&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>http://localhost:1313/business-operations/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/dashboard/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Dashboard&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3138977836
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:46:09.261Z&lt;/p&gt;
+&lt;h2&gt;Dashboard Tab&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;dashboard-tab&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#dashboard-tab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Dashboard provides at-a-glance views of key performance indicators of your shop. It can unleash your deep business strategies and insights that allows you to understand the analytics that matter to your business. The module is divided into three parts :
+Main Dashboard
+Sales Dashboard
+Order Dashboard&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Main Dashboard</title>
+      <link>http://localhost:1313/business-operations/main-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/main-dashboard/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Main Dashboard&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196486107
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:51:44.242Z
+Users able to see their selling performance of marketplace in a graph figures for an example.
+Users can filter by Custom Date , 7 Days and 30 Days.
+2. This Dashboard  &amp;gt; Main page shows a summary of:
+Total sales by Store
+Daily Sales
+Total Sales
+Total Orders
+Total canceled Orders
+Top Selling Products
+Top Selling Categories
+Top Selling Branch&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Order</title>
+      <link>http://localhost:1313/business-operations/order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/order/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Order&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3132819258
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T06:29:50.891Z
+For this module, you are able to identify and oversee your orders status journey for both Ecomsync and Marketplace platform. Various status of orders can be monitored and updated from your side in this applet that can ease your selling process.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Order Dashboard</title>
+      <link>http://localhost:1313/business-operations/order-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/order-dashboard/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Order Dashboard&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3197010418
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:58:45.100Z
+Order dashboard also show users on the summary of users performance throughout their business timeline and specifically focuses on orders via users&amp;rsquo; marketplace.
+For the Order page, Users can also filter by Custom Date , 7 Days and 30 Days.
+2. This Dashboard  &amp;gt; Order page shows a summary of:
+Total Orders Tab (In-depth Report)
+Canceled Orders Tab (In-depth Report)&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Order Details</title>
+      <link>http://localhost:1313/business-operations/order-details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/order-details/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Order Details&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196486077
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:43:04.291Z
+When clicking on order, the details of order will be shown in each tab as shown in the interface below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/screenshots/placeholder-order-details.svg&#34; alt=&#34;Order Details Interface&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;em&gt;Figure 1: Order Details Interface showing the tabbed layout for comprehensive order information&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Order Information Tabs&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;order-information-tabs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#order-information-tabs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Details Tab&lt;/strong&gt; - allows to view full information about the Order and the price&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Order number and date&lt;/li&gt;
+&lt;li&gt;Customer information&lt;/li&gt;
+&lt;li&gt;Total amount and payment status&lt;/li&gt;
+&lt;li&gt;Delivery information&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Item Tab&lt;/strong&gt; - allows to view how many items in one specific order&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Product details and quantities&lt;/li&gt;
+&lt;li&gt;Individual item prices&lt;/li&gt;
+&lt;li&gt;SKU information&lt;/li&gt;
+&lt;li&gt;Item-specific notes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Shipping Carrier&lt;/strong&gt; - general information on the shipping carrier&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shipping method and carrier&lt;/li&gt;
+&lt;li&gt;Tracking information&lt;/li&gt;
+&lt;li&gt;Delivery estimates&lt;/li&gt;
+&lt;li&gt;Shipping costs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Customer Details&lt;/strong&gt; - allows to view full detail of the customer&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Customer contact information&lt;/li&gt;
+&lt;li&gt;Billing and shipping addresses&lt;/li&gt;
+&lt;li&gt;Customer history&lt;/li&gt;
+&lt;li&gt;Special instructions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Processing Flow&lt;/strong&gt; - allows you to view the history of action that was taken for specific order&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Order status timeline&lt;/li&gt;
+&lt;li&gt;Action history&lt;/li&gt;
+&lt;li&gt;User who performed each action&lt;/li&gt;
+&lt;li&gt;Timestamps for each status change&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Order Filtering</title>
+      <link>http://localhost:1313/business-operations/order-filtering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/order-filtering/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Order Filtering&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3197010347
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:33:29.613Z&lt;/p&gt;
+&lt;h1&gt;Filter&lt;/h1&gt;&lt;p&gt;Order filtering help users to specify and focus on important detail of an order.
+Users also can click on the &amp;ldquo;Filter&amp;rdquo; button under the search bar and view orders that are  chosen according to the user&amp;rsquo;s choice:
+All orders
+New Orders
+Ready to ship
+Shipped
+Delivered
+Canceled
+All orders - allows user to view all Sales Orders
+New Orders - Allows the user to view new orders that has been placed recently
+Ready to fulfilled  - orders that is ready to be shipped
+Not ready to fulfill - the system shows what the user needs to perform in order to change the status of the order to &amp;ldquo;ready to ship&amp;rdquo;.
+Ready to ship - this section allows the user to print all the consignment notes that are related to the order. In addition it allows them to generate invoices for those stores that do not provide invoices such as Shopee.
+Shipped - section is where status or order has been received and shipped by courier and has tracking movement and details.
+The Delivered - section reminds users of the delivery status of the order whether it has been successfully delivered or not.
+Canceled - section is a section for users if their orders are in status of cancelled.&lt;/p&gt;
+&lt;h1&gt;Action&lt;/h1&gt;&lt;p&gt;Action feature is used for:
+Moving new orders that are &amp;ldquo;ready to fulfill&amp;rdquo; to &amp;ldquo;Ready to Ship&amp;rdquo;
+Allows to print consignment note for selected items&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Order Listing</title>
+      <link>http://localhost:1313/business-operations/order-listing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/order-listing/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Order Listing&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191098
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:13:39.990Z
+The Order Listing shows all your orders that are synced from Marketplace to Ecomsync Applet.&lt;/p&gt;
+&lt;h3&gt;Search&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;search&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#search&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Users can click on the &amp;ldquo;Search&amp;rdquo; bar and use filters such as &amp;ldquo;Order ID&amp;rdquo; and click the &amp;ldquo;Search&amp;rdquo; button at the bottom of the filter to get the result.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sales Dashboard</title>
+      <link>http://localhost:1313/business-operations/sales-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/sales-dashboard/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Sales Dashboard&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196846465
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:56:31.515Z
+Sales dashboard show a summary of users&amp;rsquo; selling performance and result according to the specific timeline.
+For the Sales page, Users can also filter by Custom Date , 7 Days and 30 Days.
+This Dashboard  &amp;gt; Sales page shows a summary of:
+Total Sales Tab (In-depth Report)
+Daily Sales Tab (In-depth Report)
+Total Sales by Store Tab (In-depth Report)&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sales Order Tab</title>
+      <link>http://localhost:1313/business-operations/sales-order-tab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/business-operations/sales-order-tab/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Sales Order Tab&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191975
+&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T06:19:14.245Z
+Sales Order Tab - allows user to configure the sales order either:
+Active - all active Sales Order will be configured
+Inactive - none of the Sales Order will be configured
+Selective Active - if user wants to select Sales Order from specific branches&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
