@@ -5,364 +5,432 @@ toc: false
 layout: hextra-home
 ---
 
+<style>
+.hero-section {
+  text-align: center;
+  padding: 3rem 0;
+}
+.feature-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 12px;
+  padding: 1.5rem;
+  color: white;
+  transition: transform 0.3s ease;
+}
+.feature-card:hover {
+  transform: translateY(-4px);
+}
+.metric-card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+}
+.clean-card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+.clean-card:hover {
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  border-color: #6366f1;
+}
+</style>
+
 {{< hextra/hero-badge >}}
-  <span>🇲🇾 Malaysia's #1 Cloud ERP • MDEC PEPPOL Accredited</span>
+  <div style="background: linear-gradient(90deg, #6366f1 0%, #8b5cf6 100%); color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.875rem;">
+    MDEC PEPPOL Accredited Provider
+  </div>
 {{< /hextra/hero-badge >}}
 
-<div class="mt-6 mb-6">
-{{< hextra/hero-headline >}}
-  BigLedger ERP Platform
-{{< /hextra/hero-headline >}}
-</div>
-
-<div class="mb-12">
-{{< hextra/hero-subtitle >}}
-  Complete Business Management System • 100+ Modules • E-Invoice Ready • AI-Powered<br />
-  Trusted by 10,000+ businesses • 500+ Partners • 15+ Industries
-{{< /hextra/hero-subtitle >}}
-</div>
-
-## 🎯 Choose Your Path
-
-{{< tabs items="🏢 Business User,🤝 Partner/Reseller,👩‍💻 Developer" >}}
-
-{{< tab >}}
-### **Run Your Business Better**
-
-Start with our comprehensive ERP modules designed for every aspect of your business operations.
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
-
-**Quick Start**
-- [📚 Getting Started Guide](/user-guide/introduction/)
-- [🎯 First Steps Tutorial](/user-guide/creating-an-item/)
-- [🧭 Navigation Guide](/user-guide/navigation/)
-- [🎬 Video Tutorials](/demos-resources/)
-
-**Core Modules**
-- [💰 Finance & Accounting](/modules/financial-accounting/)
-- [📦 Inventory Management](/modules/inventory/)
-- [👥 Sales & CRM](/modules/crm/)
-- [🏭 Manufacturing](/modules/manufacturing/)
-
-</div>
-
-[**Explore All Modules →**](/modules/)
-{{< /tab >}}
-
-{{< tab >}}
-### **Grow Your Business with BigLedger**
-
-Join our partner ecosystem and help businesses transform digitally.
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
-
-**Partner Benefits**
-- 💵 Attractive revenue sharing
-- 🎓 Comprehensive training program
-- 🛠️ Implementation support
-- 📈 Marketing resources
-
-**Getting Started**
-- [Partner Program Overview](/partners/)
-- [Implementation Methodology](/implementation/)
-- [Training & Certification](/partners/training/)
-- [Support Resources](/partners/support/)
-
-</div>
-
-[**Become a Partner →**](https://bigledger.com/partners)
-{{< /tab >}}
-
-{{< tab >}}
-### **Build & Integrate**
-
-Comprehensive technical documentation for developers and system integrators.
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
-
-**API Documentation**
-- [🔌 REST API Reference](/developers/api-reference/)
-- [🔐 Authentication Guide](/developers/authentication/)
-- [🔔 Webhook Events](/developers/webhooks/)
-- [⚡ Quick Start](/developers/getting-started/)
-
-**Development Tools**
-- [💻 SDK Libraries](/developers/sdks/)
-- [🧪 Sandbox Environment](/developers/getting-started/)
-- [📝 Code Examples](https://github.com/bigledger)
-- [🧩 Applet Development](/applets/)
-
-</div>
-
-[**Developer Hub →**](/developers/)
-{{< /tab >}}
-
-{{< /tabs >}}
-
-## 🏢 **Core ERP Applications**
-
-Our comprehensive suite of business applications covers every aspect of your operations.
-
-{{< cards >}}
-{{< card link="/modules/financial-accounting" title="💰 Finance & Accounting" subtitle="GL, AP/AR, Banking, Financial Reports" >}}
-{{< card link="/modules/inventory" title="📦 Inventory & Warehouse" subtitle="Multi-location, Serial/Batch, Barcode" >}}
-{{< card link="/modules/crm" title="👥 Sales & CRM" subtitle="Customers, Quotes, Orders, Invoicing" >}}
-{{< card link="/modules/procurement" title="🛒 Purchasing" subtitle="Vendors, POs, Approvals, 3-way match" >}}
-{{< card link="/modules/manufacturing" title="🏭 Manufacturing" subtitle="BOM, Work Orders, MRP, Quality" >}}
-{{< card link="/modules/pos" title="💳 Point of Sale" subtitle="Retail POS, Restaurant, Multi-store" >}}
-{{< card link="/modules/hr" title="👔 Human Resources" subtitle="Employees, Payroll, Leave, Claims" >}}
-{{< card link="/modules/projects" title="📊 Project Management" subtitle="Tasks, Time, Resources, Billing" >}}
-{{< /cards >}}
-
-## ⚡ **Platform Capabilities**
-
-Extend your ERP with powerful platform features and integrations.
-
-{{< cards >}}
-{{< card link="/e-invoice-peppol" title="🧾 E-Invoice & PEPPOL" subtitle="MDEC accredited, LHDN MyInvois ready" >}}
-{{< card link="/applets" title="🧩 100+ Applets" subtitle="Extend with ready-made business apps" >}}
-{{< card link="/ai-intelligence" title="🤖 AI Intelligence" subtitle="OCR, NLP, Predictions, Automation" >}}
-{{< card link="/ecommerce" title="🛍️ E-Commerce" subtitle="Shopify, Lazada, Shopee integration" >}}
-{{< card link="/business-operations/dashboard" title="📊 Analytics" subtitle="Real-time dashboards and insights" >}}
-{{< card link="/industry-solutions" title="🏢 Industries" subtitle="Tailored solutions by industry" >}}
-{{< /cards >}}
-
-## 🔍 **Find Information By**
-
-Multiple ways to discover the content you need:
-
-### By Your Role
-
-<div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-6">
-
-**Operations**
-- [Accountant](/roles/accountant/)
-- [Sales Rep](/roles/sales/)
-- [Warehouse](/roles/warehouse/)
-- [Cashier](/roles/cashier/)
-
-**Management**
-- [CEO/Owner](/roles/executive/)
-- [CFO](/roles/finance/)
-- [Sales Manager](/roles/sales-manager/)
-- [IT Manager](/roles/it/)
-
-**Partners**
-- [Implementer](/partners/implementation/)
-- [Consultant](/partners/consulting/)
-- [Trainer](/partners/training/)
-- [Support](/partners/support/)
-
-**Technical**
-- [Developer](/developers/)
-- [Integrator](/developers/integration/)
-- [Admin](/admin/)
-- [DevOps](/technical/)
-
-</div>
-
-### By Business Process
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
-
-**Financial Processes**
-- [Order to Cash](/processes/order-to-cash/)
-- [Procure to Pay](/processes/procure-to-pay/)
-- [Record to Report](/processes/record-to-report/)
-- [Month-end Closing](/processes/month-end/)
-
-**Operational Processes**
-- [Inventory Management](/processes/inventory/)
-- [Production Planning](/processes/production/)
-- [Quality Control](/processes/quality/)
-- [Fulfillment](/processes/fulfillment/)
-
-**Customer Processes**
-- [Lead to Customer](/processes/lead-to-customer/)
-- [Quote to Order](/processes/quote-to-order/)
-- [Service & Support](/processes/service/)
-- [Returns & Refunds](/processes/returns/)
-
-</div>
-
-### By Industry
-
-{{< cards >}}
-{{< card link="/industry-solutions/retail" title="🛍️ Retail & F&B" subtitle="POS, inventory, loyalty, multi-store" >}}
-{{< card link="/industry-solutions/wholesale" title="📦 Wholesale" subtitle="B2B, route sales, van sales" >}}
-{{< card link="/industry-solutions/manufacturing" title="🏭 Manufacturing" subtitle="Discrete, process, job shop" >}}
-{{< card link="/industry-solutions/automotive" title="🚗 Automotive" subtitle="Dealership, workshop, parts" >}}
-{{< card link="/industry-solutions/services" title="💼 Services" subtitle="Professional, field service" >}}
-{{< card link="/industry-solutions/healthcare" title="🏥 Healthcare" subtitle="Clinic, pharmacy, medical" >}}
-{{< /cards >}}
-
-## 🚀 **Quick Actions**
-
-<div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
-
-[**🎓 Start Tutorial**](/user-guide/introduction/)
-Learn basics in 30 mins
-
-[**🎬 Watch Demo**](/demos-resources/)
-See BigLedger in action
-
-[**📖 Browse Docs**](/modules/)
-Explore all features
-
-[**💬 Get Support**](/support/)
-Help when you need it
-
-[**🔧 Setup Guide**](/implementation/)
-Implementation steps
-
-[**🔌 API Docs**](/developers/api-reference/)
-Technical reference
-
-[**📢 What's New**](/release-notes/)
-Latest updates
-
-[**📞 Contact Sales**](https://bigledger.com/contact)
-Get a quote
-
-</div>
-
-## 📚 **Popular Topics**
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
-
-**Getting Started**
-- [System Requirements](/implementation/requirements/)
-- [Initial Setup](/user-guide/introduction/)
-- [Company Configuration](/applets/organization-applet/)
-- [User Management](/user-guide/member-listing/)
-- [Basic Navigation](/user-guide/navigation/)
-
-**Daily Operations**
-- [Creating Sales Orders](/business-operations/order/)
-- [Processing Invoices](/business-operations/accounting/)
-- [Managing Inventory](/modules/inventory/)
-- [Bank Reconciliation](/business-operations/accounting/)
-- [Generating Reports](/business-operations/dashboard/)
-
-**E-Invoice & Compliance**
-- [MyInvois Setup](/e-invoice-peppol/)
-- [PEPPOL Configuration](/e-invoice-peppol/)
-- [GST/SST Reports](/modules/financial-accounting/)
-- [Audit Trail](/business-operations/accounting/)
-
-**Integration & Development**
-- [API Authentication](/developers/authentication/)
-- [Webhook Setup](/developers/webhooks/)
-- [Data Import/Export](/developers/api-reference/)
-- [Custom Applets](/applets/)
-
-</div>
-
-## 🌟 **Why BigLedger?**
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-
-**🎯 Complete Solution**
-- All-in-one platform
-- 100+ business modules
-- Industry-specific features
-- Scalable architecture
-
-**🚀 Fast Implementation**
-- Pre-configured templates
-- Guided setup wizard
-- Data migration tools
-- Expert support
-
-**💰 Best Value**
-- Transparent pricing
-- No hidden costs
-- Pay for what you use
-- Immediate ROI
-
-**🔒 Enterprise Security**
-- Bank-level encryption
-- Role-based access
-- Audit trails
-- GDPR compliant
-
-**☁️ Cloud Native**
-- 99.9% uptime SLA
-- Automatic backups
-- Global CDN
-- Mobile ready
-
-**🤝 Local Support**
-- Malaysian company
-- Local phone support
-- On-site training
-- Partner network
-
-</div>
-
-## 🗺️ **Implementation Roadmap**
-
-<div class="grid grid-cols-1 md:grid-cols-4 gap-4 mt-8">
-
-**Week 1-2: Foundation**
-- Requirements gathering
-- System setup
-- Master data import
-- User creation
-
-**Week 3-4: Configuration**
-- Module activation
-- Workflow setup
-- Integration config
-- Testing
-
-**Week 5-6: Training**
-- User training
-- Admin training
-- Documentation
-- Practice runs
-
-**Week 7-8: Go-Live**
-- Data migration
-- Final testing
-- Cutover
-- Support
-
-</div>
-
-## 📞 **Get Help**
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-
-**📚 Documentation**
-- [User Guides](/user-guide/)
-- [Video Tutorials](/demos-resources/)
-- [FAQs](/support/faq/)
-- [Best Practices](/guides/)
-
-**🤝 Community**
-- [Forum](https://forum.bigledger.com)
-- [Blog](https://blog.bigledger.com)
-- [Events](/events/)
-- [User Groups](/community/)
-
-**🆘 Support**
-- [Submit Ticket](https://support.bigledger.com)
-- [Phone: 1-300-88-2534](tel:1300882534)
-- [Email Support](mailto:support@bigledger.com)
-- [Partner Portal](/partners/)
-
+<div class="hero-section">
+  <h1 style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1rem;">
+    BigLedger ERP Platform
+  </h1>
+  
+  <p style="font-size: 1.25rem; color: #64748b; max-width: 600px; margin: 0 auto 2rem;">
+    Complete business management system with intelligent automation and seamless integration
+  </p>
+  
+  <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-bottom: 3rem;">
+    <div class="metric-card" style="min-width: 150px;">
+      <div style="font-size: 2rem; font-weight: bold; color: #6366f1;">1M+</div>
+      <div style="font-size: 0.875rem; color: #64748b;">Active Users</div>
+    </div>
+    <div class="metric-card" style="min-width: 150px;">
+      <div style="font-size: 2rem; font-weight: bold; color: #8b5cf6;">100+</div>
+      <div style="font-size: 0.875rem; color: #64748b;">Business Modules</div>
+    </div>
+    <div class="metric-card" style="min-width: 150px;">
+      <div style="font-size: 2rem; font-weight: bold; color: #ec4899;">15+</div>
+      <div style="font-size: 0.875rem; color: #64748b;">Industries Served</div>
+    </div>
+    <div class="metric-card" style="min-width: 150px;">
+      <div style="font-size: 2rem; font-weight: bold; color: #10b981;">99.9%</div>
+      <div style="font-size: 0.875rem; color: #64748b;">Uptime SLA</div>
+    </div>
+  </div>
 </div>
 
 ---
 
-<div class="text-center mt-12">
-  <p class="text-sm text-gray-500">
-    BigLedger® is a registered trademark of BigLedger Sdn Bhd<br>
-    © 2024 BigLedger. All rights reserved. | 
-    <a href="/privacy">Privacy</a> | 
-    <a href="/terms">Terms</a> | 
-    <a href="/security">Security</a>
+## Select Your Journey
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+  
+  <div class="clean-card">
+    <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+      <div style="background: #eff6ff; padding: 0.5rem; border-radius: 8px; margin-right: 1rem;">
+        <svg style="width: 24px; height: 24px; color: #3b82f6;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+        </svg>
+      </div>
+      <h3 style="margin: 0; font-size: 1.25rem; font-weight: 600;">Business Users</h3>
+    </div>
+    <p style="color: #64748b; margin-bottom: 1rem;">
+      Run your entire business on one integrated platform
+    </p>
+    <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+      <a href="/user-guide/introduction/" style="color: #3b82f6; text-decoration: none; font-size: 0.95rem;">→ Getting Started Guide</a>
+      <a href="/modules/" style="color: #3b82f6; text-decoration: none; font-size: 0.95rem;">→ Explore Modules</a>
+      <a href="/business-operations/" style="color: #3b82f6; text-decoration: none; font-size: 0.95rem;">→ Daily Operations</a>
+    </div>
+  </div>
+  
+  <div class="clean-card">
+    <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+      <div style="background: #fef3c7; padding: 0.5rem; border-radius: 8px; margin-right: 1rem;">
+        <svg style="width: 24px; height: 24px; color: #f59e0b;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path>
+        </svg>
+      </div>
+      <h3 style="margin: 0; font-size: 1.25rem; font-weight: 600;">Partners & Resellers</h3>
+    </div>
+    <p style="color: #64748b; margin-bottom: 1rem;">
+      Grow your business with our partner ecosystem
+    </p>
+    <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+      <a href="/partners/" style="color: #f59e0b; text-decoration: none; font-size: 0.95rem;">→ Partner Program</a>
+      <a href="/implementation/" style="color: #f59e0b; text-decoration: none; font-size: 0.95rem;">→ Implementation Guide</a>
+      <a href="/partners/training/" style="color: #f59e0b; text-decoration: none; font-size: 0.95rem;">→ Certification</a>
+    </div>
+  </div>
+  
+  <div class="clean-card">
+    <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+      <div style="background: #f3e8ff; padding: 0.5rem; border-radius: 8px; margin-right: 1rem;">
+        <svg style="width: 24px; height: 24px; color: #9333ea;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path>
+        </svg>
+      </div>
+      <h3 style="margin: 0; font-size: 1.25rem; font-weight: 600;">Developers</h3>
+    </div>
+    <p style="color: #64748b; margin-bottom: 1rem;">
+      Build powerful integrations with our APIs
+    </p>
+    <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+      <a href="/developers/api-reference/" style="color: #9333ea; text-decoration: none; font-size: 0.95rem;">→ API Documentation</a>
+      <a href="/developers/getting-started/" style="color: #9333ea; text-decoration: none; font-size: 0.95rem;">→ Quick Start</a>
+      <a href="/developers/sdks/" style="color: #9333ea; text-decoration: none; font-size: 0.95rem;">→ SDKs & Tools</a>
+    </div>
+  </div>
+  
+</div>
+
+---
+
+## Core ERP Applications
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
+  
+  {{< card link="/modules/financial-accounting" title="Finance & Accounting" icon="currency-dollar" subtitle="General ledger, AP/AR, banking, financial reporting" >}}
+  
+  {{< card link="/modules/inventory" title="Inventory Management" icon="archive" subtitle="Multi-warehouse, serial tracking, barcode scanning" >}}
+  
+  {{< card link="/modules/crm" title="Sales & CRM" icon="users" subtitle="Customer management, quotations, orders, invoicing" >}}
+  
+  {{< card link="/modules/procurement" title="Purchasing" icon="shopping-cart" subtitle="Vendor management, purchase orders, approvals" >}}
+  
+  {{< card link="/modules/manufacturing" title="Manufacturing" icon="cog" subtitle="BOM, work orders, MRP, quality control" >}}
+  
+  {{< card link="/modules/pos" title="Point of Sale" icon="credit-card" subtitle="Retail POS, restaurant, multi-store management" >}}
+  
+  {{< card link="/modules/hr" title="Human Resources" icon="user-group" subtitle="Employee records, payroll, leave, claims" >}}
+  
+  {{< card link="/modules/projects" title="Project Management" icon="clipboard-list" subtitle="Tasks, milestones, resources, time tracking" >}}
+  
+</div>
+
+---
+
+## Platform Capabilities
+
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; padding: 2rem; margin: 2rem 0;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem;">
+    
+    <div style="text-align: center;">
+      <div style="background: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <span style="font-size: 1.5rem;">🧾</span>
+      </div>
+      <h4 style="margin: 0 0 0.5rem; font-weight: 600;">E-Invoice Ready</h4>
+      <p style="margin: 0; color: #64748b; font-size: 0.875rem;">MDEC PEPPOL accredited<br>LHDN MyInvois integrated</p>
+      <a href="/e-invoice-peppol/" style="color: #6366f1; text-decoration: none; font-size: 0.875rem; display: inline-block; margin-top: 0.5rem;">Learn more →</a>
+    </div>
+    
+    <div style="text-align: center;">
+      <div style="background: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <span style="font-size: 1.5rem;">🧩</span>
+      </div>
+      <h4 style="margin: 0 0 0.5rem; font-weight: 600;">100+ Applets</h4>
+      <p style="margin: 0; color: #64748b; font-size: 0.875rem;">Extend functionality<br>Industry-specific solutions</p>
+      <a href="/applets/" style="color: #6366f1; text-decoration: none; font-size: 0.875rem; display: inline-block; margin-top: 0.5rem;">Browse applets →</a>
+    </div>
+    
+    <div style="text-align: center;">
+      <div style="background: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <span style="font-size: 1.5rem;">🤖</span>
+      </div>
+      <h4 style="margin: 0 0 0.5rem; font-weight: 600;">AI-Powered</h4>
+      <p style="margin: 0; color: #64748b; font-size: 0.875rem;">Smart automation<br>Predictive analytics</p>
+      <a href="/ai-intelligence/" style="color: #6366f1; text-decoration: none; font-size: 0.875rem; display: inline-block; margin-top: 0.5rem;">Explore AI →</a>
+    </div>
+    
+    <div style="text-align: center;">
+      <div style="background: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <span style="font-size: 1.5rem;">🛍️</span>
+      </div>
+      <h4 style="margin: 0 0 0.5rem; font-weight: 600;">E-Commerce</h4>
+      <p style="margin: 0; color: #64748b; font-size: 0.875rem;">Shopify, Lazada, Shopee<br>Multi-channel sync</p>
+      <a href="/ecommerce/" style="color: #6366f1; text-decoration: none; font-size: 0.875rem; display: inline-block; margin-top: 0.5rem;">Connect stores →</a>
+    </div>
+    
+    <div style="text-align: center;">
+      <div style="background: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <span style="font-size: 1.5rem;">📊</span>
+      </div>
+      <h4 style="margin: 0 0 0.5rem; font-weight: 600;">Analytics</h4>
+      <p style="margin: 0; color: #64748b; font-size: 0.875rem;">Real-time dashboards<br>Business intelligence</p>
+      <a href="/business-operations/dashboard/" style="color: #6366f1; text-decoration: none; font-size: 0.875rem; display: inline-block; margin-top: 0.5rem;">View insights →</a>
+    </div>
+    
+    <div style="text-align: center;">
+      <div style="background: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <span style="font-size: 1.5rem;">🏭</span>
+      </div>
+      <h4 style="margin: 0 0 0.5rem; font-weight: 600;">Industries</h4>
+      <p style="margin: 0; color: #64748b; font-size: 0.875rem;">Tailored solutions<br>Best practices included</p>
+      <a href="/industry-solutions/" style="color: #6366f1; text-decoration: none; font-size: 0.875rem; display: inline-block; margin-top: 0.5rem;">Find yours →</a>
+    </div>
+    
+  </div>
+</div>
+
+---
+
+## Quick Start Resources
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin: 2rem 0;">
+  
+  <a href="/user-guide/introduction/" style="text-decoration: none;">
+    <div style="background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem; height: 100%; transition: all 0.3s ease; cursor: pointer;">
+      <div style="display: flex; align-items: center; margin-bottom: 0.75rem;">
+        <span style="font-size: 1.5rem; margin-right: 0.75rem;">📖</span>
+        <h4 style="margin: 0; color: #1f2937;">Getting Started</h4>
+      </div>
+      <p style="margin: 0; color: #6b7280; font-size: 0.875rem;">Learn the basics in 30 minutes</p>
+    </div>
+  </a>
+  
+  <a href="/demos-resources/" style="text-decoration: none;">
+    <div style="background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem; height: 100%; transition: all 0.3s ease; cursor: pointer;">
+      <div style="display: flex; align-items: center; margin-bottom: 0.75rem;">
+        <span style="font-size: 1.5rem; margin-right: 0.75rem;">🎥</span>
+        <h4 style="margin: 0; color: #1f2937;">Video Tutorials</h4>
+      </div>
+      <p style="margin: 0; color: #6b7280; font-size: 0.875rem;">Watch and learn step-by-step</p>
+    </div>
+  </a>
+  
+  <a href="/implementation/" style="text-decoration: none;">
+    <div style="background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem; height: 100%; transition: all 0.3s ease; cursor: pointer;">
+      <div style="display: flex; align-items: center; margin-bottom: 0.75rem;">
+        <span style="font-size: 1.5rem; margin-right: 0.75rem;">🚀</span>
+        <h4 style="margin: 0; color: #1f2937;">Implementation</h4>
+      </div>
+      <p style="margin: 0; color: #6b7280; font-size: 0.875rem;">Setup and configuration guide</p>
+    </div>
+  </a>
+  
+  <a href="/developers/api-reference/" style="text-decoration: none;">
+    <div style="background: white; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem; height: 100%; transition: all 0.3s ease; cursor: pointer;">
+      <div style="display: flex; align-items: center; margin-bottom: 0.75rem;">
+        <span style="font-size: 1.5rem; margin-right: 0.75rem;">🔌</span>
+        <h4 style="margin: 0; color: #1f2937;">API Reference</h4>
+      </div>
+      <p style="margin: 0; color: #6b7280; font-size: 0.875rem;">Complete technical documentation</p>
+    </div>
+  </a>
+  
+</div>
+
+---
+
+## Industry Solutions
+
+<div style="background: white; border-radius: 12px; padding: 2rem; margin: 2rem 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+  <h3 style="text-align: center; margin-bottom: 2rem; color: #1f2937;">Tailored for Your Industry</h3>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem;">
+    
+    <a href="/industry-solutions/retail" style="text-decoration: none;">
+      <div style="text-align: center; padding: 1rem; border-radius: 8px; transition: background 0.3s ease;">
+        <div style="font-size: 2rem; margin-bottom: 0.5rem;">🛍️</div>
+        <div style="color: #1f2937; font-weight: 500;">Retail & F&B</div>
+      </div>
+    </a>
+    
+    <a href="/industry-solutions/wholesale" style="text-decoration: none;">
+      <div style="text-align: center; padding: 1rem; border-radius: 8px; transition: background 0.3s ease;">
+        <div style="font-size: 2rem; margin-bottom: 0.5rem;">📦</div>
+        <div style="color: #1f2937; font-weight: 500;">Wholesale</div>
+      </div>
+    </a>
+    
+    <a href="/industry-solutions/manufacturing" style="text-decoration: none;">
+      <div style="text-align: center; padding: 1rem; border-radius: 8px; transition: background 0.3s ease;">
+        <div style="font-size: 2rem; margin-bottom: 0.5rem;">🏭</div>
+        <div style="color: #1f2937; font-weight: 500;">Manufacturing</div>
+      </div>
+    </a>
+    
+    <a href="/industry-solutions/automotive" style="text-decoration: none;">
+      <div style="text-align: center; padding: 1rem; border-radius: 8px; transition: background 0.3s ease;">
+        <div style="font-size: 2rem; margin-bottom: 0.5rem;">🚗</div>
+        <div style="color: #1f2937; font-weight: 500;">Automotive</div>
+      </div>
+    </a>
+    
+    <a href="/industry-solutions/services" style="text-decoration: none;">
+      <div style="text-align: center; padding: 1rem; border-radius: 8px; transition: background 0.3s ease;">
+        <div style="font-size: 2rem; margin-bottom: 0.5rem;">💼</div>
+        <div style="color: #1f2937; font-weight: 500;">Services</div>
+      </div>
+    </a>
+    
+    <a href="/industry-solutions/healthcare" style="text-decoration: none;">
+      <div style="text-align: center; padding: 1rem; border-radius: 8px; transition: background 0.3s ease;">
+        <div style="font-size: 2rem; margin-bottom: 0.5rem;">🏥</div>
+        <div style="color: #1f2937; font-weight: 500;">Healthcare</div>
+      </div>
+    </a>
+    
+  </div>
+</div>
+
+---
+
+## Why Choose BigLedger?
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+  
+  <div>
+    <h4 style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+      <span style="color: #10b981; margin-right: 0.5rem;">✓</span>
+      Complete Solution
+    </h4>
+    <p style="color: #6b7280; margin-left: 1.5rem; font-size: 0.95rem;">
+      All-in-one platform with 100+ integrated business modules
+    </p>
+  </div>
+  
+  <div>
+    <h4 style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+      <span style="color: #10b981; margin-right: 0.5rem;">✓</span>
+      Fast Implementation
+    </h4>
+    <p style="color: #6b7280; margin-left: 1.5rem; font-size: 0.95rem;">
+      Go live in weeks, not months, with pre-configured templates
+    </p>
+  </div>
+  
+  <div>
+    <h4 style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+      <span style="color: #10b981; margin-right: 0.5rem;">✓</span>
+      Malaysian Compliance
+    </h4>
+    <p style="color: #6b7280; margin-left: 1.5rem; font-size: 0.95rem;">
+      LHDN MyInvois ready, SST compliant, MDEC accredited
+    </p>
+  </div>
+  
+  <div>
+    <h4 style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+      <span style="color: #10b981; margin-right: 0.5rem;">✓</span>
+      Enterprise Security
+    </h4>
+    <p style="color: #6b7280; margin-left: 1.5rem; font-size: 0.95rem;">
+      Bank-level encryption with comprehensive audit trails
+    </p>
+  </div>
+  
+  <div>
+    <h4 style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+      <span style="color: #10b981; margin-right: 0.5rem;">✓</span>
+      Cloud Native
+    </h4>
+    <p style="color: #6b7280; margin-left: 1.5rem; font-size: 0.95rem;">
+      99.9% uptime SLA with automatic backups and updates
+    </p>
+  </div>
+  
+  <div>
+    <h4 style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+      <span style="color: #10b981; margin-right: 0.5rem;">✓</span>
+      Local Support
+    </h4>
+    <p style="color: #6b7280; margin-left: 1.5rem; font-size: 0.95rem;">
+      Malaysian team with on-site training and phone support
+    </p>
+  </div>
+  
+</div>
+
+---
+
+## Need Help?
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 2rem; color: white; text-align: center; margin: 2rem 0;">
+  <h3 style="margin-bottom: 1rem;">Ready to Transform Your Business?</h3>
+  <p style="margin-bottom: 1.5rem; opacity: 0.95;">
+    Our team is here to help you succeed with BigLedger ERP
   </p>
+  <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+    <a href="https://bigledger.com/contact" style="background: white; color: #6366f1; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 500; transition: transform 0.3s ease;">
+      Contact Sales
+    </a>
+    <a href="/support/" style="background: rgba(255,255,255,0.2); color: white; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 500; border: 1px solid rgba(255,255,255,0.3); transition: background 0.3s ease;">
+      Get Support
+    </a>
+    <a href="/partners/" style="background: rgba(255,255,255,0.2); color: white; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 500; border: 1px solid rgba(255,255,255,0.3); transition: background 0.3s ease;">
+      Become a Partner
+    </a>
+  </div>
+</div>
+
+---
+
+<div style="text-align: center; padding: 2rem 0; color: #6b7280; font-size: 0.875rem;">
+  <p>
+    <strong>BigLedger®</strong> is a registered trademark of BigLedger Sdn Bhd<br>
+    © 2024 BigLedger. All rights reserved.
+  </p>
+  <div style="margin-top: 1rem;">
+    <a href="/privacy" style="color: #6b7280; text-decoration: none; margin: 0 1rem;">Privacy Policy</a>
+    <a href="/terms" style="color: #6b7280; text-decoration: none; margin: 0 1rem;">Terms of Service</a>
+    <a href="/security" style="color: #6b7280; text-decoration: none; margin: 0 1rem;">Security</a>
+    <a href="https://status.bigledger.com" style="color: #6b7280; text-decoration: none; margin: 0 1rem;">System Status</a>
+  </div>
 </div>
