@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Developer Documentation</title>
-    <link>http://localhost:50702/developer-docs/</link>
+    <link>http://localhost:62446/developer-docs/</link>
     <description>Recent content in Developer Documentation on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:50702/developer-docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:62446/developer-docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Installation</title>
-      <link>http://localhost:50702/developer-docs/installation/</link>
+      <link>http://localhost:62446/developer-docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/developer-docs/installation/</guid>
+      <guid>http://localhost:62446/developer-docs/installation/</guid>
       <description>
         
         

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dokumentasi BigLedger – Dokumentasi BigLedger</title>
-    <link>http://localhost:50702/ms/</link>
+    <link>http://localhost:62446/ms/</link>
     <description>Recent content on Dokumentasi BigLedger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ms</language>
     
-	  <atom:link href="http://localhost:50702/ms/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:62446/ms/index.xml" rel="self" type="application/rss+xml" />
     
     
       

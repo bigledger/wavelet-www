@@ -73,8 +73,8 @@ params:
     
   # Footer
   footer:
-    displayCopyright: true
-    displayPoweredBy: true
+    displayCopyright: false  # We handle copyright in custom footer
+    displayPoweredBy: false  # Remove Hextra branding
     width: wide
     
   # Edit this page

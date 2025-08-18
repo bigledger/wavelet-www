@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – E-Invoice Implementation</title>
-    <link>http://localhost:50702/guides/einvoice-guides/</link>
+    <link>http://localhost:62446/guides/einvoice-guides/</link>
     <description>Recent content in E-Invoice Implementation on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:50702/guides/einvoice-guides/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:62446/guides/einvoice-guides/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>MyInvois Setup Guide</title>
-      <link>http://localhost:50702/guides/einvoice-guides/myinvois-setup/</link>
+      <link>http://localhost:62446/guides/einvoice-guides/myinvois-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/guides/einvoice-guides/myinvois-setup/</guid>
+      <guid>http://localhost:62446/guides/einvoice-guides/myinvois-setup/</guid>
       <description>
         
         
@@ -114,10 +114,10 @@
     
     <item>
       <title>PEPPOL Configuration Guide</title>
-      <link>http://localhost:50702/guides/einvoice-guides/peppol-configuration/</link>
+      <link>http://localhost:62446/guides/einvoice-guides/peppol-configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/guides/einvoice-guides/peppol-configuration/</guid>
+      <guid>http://localhost:62446/guides/einvoice-guides/peppol-configuration/</guid>
       <description>
         
         
@@ -196,10 +196,10 @@
     
     <item>
       <title>E-Invoice Validation Rules</title>
-      <link>http://localhost:50702/guides/einvoice-guides/einvoice-validation/</link>
+      <link>http://localhost:62446/guides/einvoice-guides/einvoice-validation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/guides/einvoice-guides/einvoice-validation/</guid>
+      <guid>http://localhost:62446/guides/einvoice-guides/einvoice-validation/</guid>
       <description>
         
         

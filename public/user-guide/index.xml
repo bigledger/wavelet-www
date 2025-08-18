@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Business Operations Guide</title>
-    <link>http://localhost:50702/user-guide/</link>
+    <link>http://localhost:62446/user-guide/</link>
     <description>Recent content in Business Operations Guide on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:50702/user-guide/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:62446/user-guide/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Navigation &amp; Interface Guide</title>
-      <link>http://localhost:50702/user-guide/navigation/</link>
+      <link>http://localhost:62446/user-guide/navigation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/navigation/</guid>
+      <guid>http://localhost:62446/user-guide/navigation/</guid>
       <description>
         
         
@@ -96,9 +96,9 @@
 &lt;/ul&gt;
 &lt;h2&gt;Related Topics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;related-topics&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#related-topics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/member-listing/&#34; &gt;User Roles &amp;amp; Permissions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/dashboard/&#34; &gt;Dashboard Configuration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/introduction/&#34; &gt;Getting Started Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/user-guide/member-listing/&#34; &gt;User Roles &amp;amp; Permissions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/business-operations/dashboard/&#34; &gt;Dashboard Configuration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/user-guide/introduction/&#34; &gt;Getting Started Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -106,10 +106,10 @@
     
     <item>
       <title>BigLedger Documentation</title>
-      <link>http://localhost:50702/user-guide/bigledger-documentation/</link>
+      <link>http://localhost:62446/user-guide/bigledger-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/bigledger-documentation/</guid>
+      <guid>http://localhost:62446/user-guide/bigledger-documentation/</guid>
       <description>
         
         
@@ -136,10 +136,10 @@ Youtube Channel&lt;/p&gt;
     
     <item>
       <title>Creating an Item</title>
-      <link>http://localhost:50702/user-guide/creating-an-item/</link>
+      <link>http://localhost:62446/user-guide/creating-an-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/creating-an-item/</guid>
+      <guid>http://localhost:62446/user-guide/creating-an-item/</guid>
       <description>
         
         
@@ -166,10 +166,10 @@ Click Create Item and it will direct you to this page and will indicate that the
     
     <item>
       <title>Document Item Maintenance</title>
-      <link>http://localhost:50702/user-guide/document-item-maintenance/</link>
+      <link>http://localhost:62446/user-guide/document-item-maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/document-item-maintenance/</guid>
+      <guid>http://localhost:62446/user-guide/document-item-maintenance/</guid>
       <description>
         
         
@@ -181,10 +181,10 @@ Click Create Item and it will direct you to this page and will indicate that the
     
     <item>
       <title>Document Item Types</title>
-      <link>http://localhost:50702/user-guide/document-item-types/</link>
+      <link>http://localhost:62446/user-guide/document-item-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/document-item-types/</guid>
+      <guid>http://localhost:62446/user-guide/document-item-types/</guid>
       <description>
         
         
@@ -201,10 +201,10 @@ Being the most complicated among all, Bundle can contain individual components a
     
     <item>
       <title>Editing an Item</title>
-      <link>http://localhost:50702/user-guide/editing-an-item/</link>
+      <link>http://localhost:62446/user-guide/editing-an-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/editing-an-item/</guid>
+      <guid>http://localhost:62446/user-guide/editing-an-item/</guid>
       <description>
         
         
@@ -225,10 +225,10 @@ Stock Allocation Tab&lt;/p&gt;
     
     <item>
       <title>Group Listing</title>
-      <link>http://localhost:50702/user-guide/group-listing/</link>
+      <link>http://localhost:62446/user-guide/group-listing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/group-listing/</guid>
+      <guid>http://localhost:62446/user-guide/group-listing/</guid>
       <description>
         
         
@@ -264,10 +264,10 @@ After adding the permission, you can Edit or Delete it from the &amp;ldquo;Permi
     
     <item>
       <title>Introduction</title>
-      <link>http://localhost:50702/user-guide/introduction/</link>
+      <link>http://localhost:62446/user-guide/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/introduction/</guid>
+      <guid>http://localhost:62446/user-guide/introduction/</guid>
       <description>
         
         
@@ -296,10 +296,10 @@ Website: &lt;a href=&#34;http://www.bigledger.com&#34; target=&#34;_blank&#34; r
     
     <item>
       <title>Item Maintenance</title>
-      <link>http://localhost:50702/user-guide/item-maintenance/</link>
+      <link>http://localhost:62446/user-guide/item-maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/item-maintenance/</guid>
+      <guid>http://localhost:62446/user-guide/item-maintenance/</guid>
       <description>
         
         
@@ -326,10 +326,10 @@ Sales Order Tab&lt;/p&gt;
     
     <item>
       <title>Member Class</title>
-      <link>http://localhost:50702/user-guide/member-class/</link>
+      <link>http://localhost:62446/user-guide/member-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/member-class/</guid>
+      <guid>http://localhost:62446/user-guide/member-class/</guid>
       <description>
         
         
@@ -349,10 +349,10 @@ Please click ‘delete&amp;rsquo; to remove the member class from the list.&lt;/
     
     <item>
       <title>Member Label</title>
-      <link>http://localhost:50702/user-guide/member-label/</link>
+      <link>http://localhost:62446/user-guide/member-label/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/member-label/</guid>
+      <guid>http://localhost:62446/user-guide/member-label/</guid>
       <description>
         
         
@@ -381,10 +381,10 @@ Please select the listed members or follow the Member listing module to add new 
     
     <item>
       <title>Member Label List</title>
-      <link>http://localhost:50702/user-guide/member-label-list/</link>
+      <link>http://localhost:62446/user-guide/member-label-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/member-label-list/</guid>
+      <guid>http://localhost:62446/user-guide/member-label-list/</guid>
       <description>
         
         
@@ -411,10 +411,10 @@ Please fill up the compulsory information to add a new label. Please take note t
     
     <item>
       <title>Member Listing</title>
-      <link>http://localhost:50702/user-guide/member-listing/</link>
+      <link>http://localhost:62446/user-guide/member-listing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/member-listing/</guid>
+      <guid>http://localhost:62446/user-guide/member-listing/</guid>
       <description>
         
         
@@ -454,392 +454,461 @@ Item code &amp;amp; name&lt;/p&gt;
     </item>
     
     <item>
-      <title>Platform Overview</title>
-      <link>http://localhost:50702/user-guide/platform-overview/</link>
+      <title>Platform Overview - BigLedger Business Operating System</title>
+      <link>http://localhost:62446/user-guide/platform-overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/platform-overview/</guid>
+      <guid>http://localhost:62446/user-guide/platform-overview/</guid>
       <description>
         
         
-        &lt;h1&gt;Understanding BigLedger: Your Business Operating System&lt;/h1&gt;&lt;p&gt;BigLedger revolutionizes enterprise management by providing a Business Operating System (BOS) that functions like Android for your business operations. Instead of a monolithic ERP, BigLedger offers a flexible, applet-based architecture that adapts to your unique business needs.&lt;/p&gt;
+        &lt;h1&gt;Platform Overview: Your Business Operating System&lt;/h1&gt;&lt;h2&gt;🎯 TLDR (Too Long; Didn&amp;rsquo;t Read)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-tldr-too-long-didnt-read&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-tldr-too-long-didnt-read&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;BigLedger is a Business Operating System (BOS)&lt;/strong&gt; - Think Android for your business operations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Applet-based architecture&lt;/strong&gt; - Install only what you need, when you need it&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI-powered automation&lt;/strong&gt; - 40% reduction in manual data entry with built-in AI&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Malaysian-ready&lt;/strong&gt; - Built-in SST, e-Invoice, and LHDN compliance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible deployment&lt;/strong&gt; - Cloud, on-premise, or hybrid options available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;📖 Overview&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-overview&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-overview&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;BigLedger revolutionizes enterprise management by providing a Business Operating System (BOS) that functions like Android for your business operations. Instead of forcing you into rigid structures like traditional ERPs, BigLedger offers a flexible, applet-based architecture that adapts to your unique business needs.&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;🇲🇾 Malaysian Context&lt;/strong&gt;: BigLedger is specifically designed for Malaysian businesses, with built-in compliance for SST, e-Invoice (MyInvois), PEPPOL, and LHDN requirements. Over 5,000 Malaysian SMEs trust BigLedger for their operations.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;👥 Target Audience&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-target-audience&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-target-audience&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This guide is intended for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Business Owners &amp;amp; Executives&lt;/strong&gt;: Understanding how BigLedger transforms your operations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IT Managers&lt;/strong&gt;: Learning about deployment and integration capabilities&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Department Heads&lt;/strong&gt;: Discovering relevant applets for your function&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;System Administrators&lt;/strong&gt;: Getting familiar with platform architecture&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developers&lt;/strong&gt;: Understanding the applet ecosystem and APIs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;📋 Prerequisites&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-prerequisites&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-prerequisites&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Before exploring BigLedger, you should understand:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic ERP/business software concepts&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Your current business processes and pain points&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Your compliance and regulatory requirements&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Your integration needs with existing systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🔍 What You&amp;rsquo;ll Learn&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-what-youll-learn&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-what-youll-learn&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;By the end of this guide, you will understand:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How BigLedger&amp;rsquo;s applet architecture differs from traditional ERPs&lt;/li&gt;
+&lt;li&gt;The core platform components and services&lt;/li&gt;
+&lt;li&gt;Available applet categories and their capabilities&lt;/li&gt;
+&lt;li&gt;AI-powered automation features&lt;/li&gt;
+&lt;li&gt;Deployment options and getting started steps&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
 &lt;h2&gt;The Business Operating System Concept&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-business-operating-system-concept&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-business-operating-system-concept&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;What Makes BigLedger Different&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-makes-bigledger-different&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#what-makes-bigledger-different&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Unlike traditional ERPs that force you into rigid structures, BigLedger provides:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🏗️ Platform Foundation&lt;/strong&gt;&lt;/p&gt;
+    &lt;a href=&#34;#what-makes-bigledger-different&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Unlike traditional monolithic ERPs that force you into rigid structures, BigLedger provides a revolutionary approach:&lt;/p&gt;
+&lt;h4&gt;🏗️ Platform Foundation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-platform-foundation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-platform-foundation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Think of BigLedger as the operating system for your business:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Core operating system that manages data, security, and infrastructure&lt;/li&gt;
-&lt;li&gt;Unified operational data hub connecting all business functions&lt;/li&gt;
-&lt;li&gt;Enterprise-grade performance and scalability&lt;/li&gt;
-&lt;li&gt;Built-in compliance and governance framework&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Core OS&lt;/strong&gt;: Manages data, security, and infrastructure like Windows manages your computer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unified Data Hub&lt;/strong&gt;: All business data in one place, accessible by all applets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enterprise Performance&lt;/strong&gt;: Handles millions of transactions with 99.9% uptime&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compliance Framework&lt;/strong&gt;: Built-in Malaysian regulatory compliance&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;📱 Applet Architecture&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;📱 Applet Architecture&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-applet-architecture&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-applet-architecture&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Like apps on your smartphone:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Modular business applications you can mix and match&lt;/li&gt;
-&lt;li&gt;Install only what you need, when you need it&lt;/li&gt;
-&lt;li&gt;Seamless integration between all applets&lt;/li&gt;
-&lt;li&gt;Custom applet development capabilities&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modular Applications&lt;/strong&gt;: Install accounting today, add inventory tomorrow&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pay-as-you-grow&lt;/strong&gt;: Start with 2 applets, scale to 200 as needed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seamless Integration&lt;/strong&gt;: All applets work together automatically&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom Development&lt;/strong&gt;: Build your own applets for unique needs&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;🏪 Applet Store Ecosystem&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;🏪 Applet Store Ecosystem&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-applet-store-ecosystem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-applet-store-ecosystem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Your business app marketplace:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Browse hundreds of pre-built business applets&lt;/li&gt;
-&lt;li&gt;Industry-specific solutions and templates&lt;/li&gt;
-&lt;li&gt;Third-party integrations and connectors&lt;/li&gt;
-&lt;li&gt;Community-contributed extensions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;500+ Pre-built Applets&lt;/strong&gt;: Solutions for every business function&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Templates&lt;/strong&gt;: Pre-configured for automotive, F&amp;amp;B, retail, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Third-party Integrations&lt;/strong&gt;: Connect to banks, e-commerce, logistics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community Extensions&lt;/strong&gt;: Solutions built by other businesses&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;💡 Pro Tip&lt;/strong&gt;: Start with core applets (Accounting, Sales, Inventory) and gradually add specialized ones as your business grows. Most SMEs see ROI within 3 months with just 5-7 applets.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2&gt;Core Platform Components&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-platform-components&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#core-platform-components&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1. Operational Data Hub&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-operational-data-hub&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-operational-data-hub&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The heart of BigLedger - a unified data platform that:&lt;/p&gt;
+    &lt;a href=&#34;#1-operational-data-hub&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The heart of BigLedger - your business&amp;rsquo;s central nervous system:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Master Data Management&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Master Data Management&lt;/strong&gt;: Single source of truth for customers, products, employees&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Real-time Synchronization&lt;/strong&gt;: Instant data updates across all applets&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data Intelligence&lt;/strong&gt;: Built-in analytics and machine learning capabilities&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;API Gateway&lt;/strong&gt;: RESTful APIs for all data operations&lt;/li&gt;
+&lt;li&gt;Single source of truth for all business entities&lt;/li&gt;
+&lt;li&gt;Real-time synchronization across all applets&lt;/li&gt;
+&lt;li&gt;Version control and audit trail for all changes&lt;/li&gt;
+&lt;li&gt;Data validation and quality assurance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Intelligence Layer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built-in analytics dashboard&lt;/li&gt;
+&lt;li&gt;Machine learning for predictions&lt;/li&gt;
+&lt;li&gt;Custom report builder&lt;/li&gt;
+&lt;li&gt;Real-time KPI monitoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;API Gateway&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RESTful APIs for all operations&lt;/li&gt;
+&lt;li&gt;GraphQL for flexible queries&lt;/li&gt;
+&lt;li&gt;Webhook support for real-time events&lt;/li&gt;
+&lt;li&gt;Rate limiting and security&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;2. Applet Framework&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-applet-framework&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-applet-framework&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Each applet in BigLedger:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Self-contained&lt;/strong&gt;: Includes its own UI, logic, and data models&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Interoperable&lt;/strong&gt;: Communicates seamlessly with other applets&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Configurable&lt;/strong&gt;: Extensive customization without coding&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upgradeable&lt;/strong&gt;: Independent version management&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;a href=&#34;#2-applet-framework&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Each applet is a complete business application:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Component&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+          &lt;th&gt;Example&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;UI Layer&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;User interface and experience&lt;/td&gt;
+          &lt;td&gt;Modern, responsive design&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Business Logic&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Rules and workflows&lt;/td&gt;
+          &lt;td&gt;Approval chains, calculations&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Data Model&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Information structure&lt;/td&gt;
+          &lt;td&gt;Customer records, transactions&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Integration&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Connections to other applets&lt;/td&gt;
+          &lt;td&gt;Invoice → Accounting → Inventory&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h3&gt;3. Platform Services&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-platform-services&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-platform-services&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Shared services available to all applets:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Security &amp;amp; Identity&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Identity &amp;amp; Access Management&lt;/strong&gt;: Single sign-on, role-based permissions&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Workflow Engine&lt;/strong&gt;: Visual workflow designer, approval chains&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Document Management&lt;/strong&gt;: Centralized file storage and versioning&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Notification System&lt;/strong&gt;: Email, SMS, in-app notifications&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Audit Trail&lt;/strong&gt;: Complete activity logging and compliance tracking&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI Services&lt;/strong&gt;: OCR, NLP, computer vision, predictive analytics&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AIMatrix Integration&lt;/strong&gt;: Access to super agent workspace and LLMs&lt;/li&gt;
+&lt;li&gt;Single Sign-On (SSO) across all applets&lt;/li&gt;
+&lt;li&gt;Role-based access control (RBAC)&lt;/li&gt;
+&lt;li&gt;Two-factor authentication (2FA)&lt;/li&gt;
+&lt;li&gt;IP whitelisting and session management&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Workflow Engine&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Visual drag-and-drop designer&lt;/li&gt;
+&lt;li&gt;Multi-level approval chains&lt;/li&gt;
+&lt;li&gt;Conditional routing&lt;/li&gt;
+&lt;li&gt;Email/SMS notifications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Document Management&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Centralized file storage&lt;/li&gt;
+&lt;li&gt;Version control&lt;/li&gt;
+&lt;li&gt;Digital signatures&lt;/li&gt;
+&lt;li&gt;OCR for data extraction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;✅ Success Story&lt;/strong&gt;: Syarikat Maju Jaya reduced document processing time by 75% using the Document Management service with OCR, processing 1,000+ invoices daily with 99% accuracy.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2&gt;Applet Categories&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;applet-categories&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#applet-categories&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Core Business Applets&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-business-applets&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#core-business-applets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Financial Suite&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;General Ledger&lt;/li&gt;
-&lt;li&gt;Accounts Payable/Receivable&lt;/li&gt;
-&lt;li&gt;Fixed Assets&lt;/li&gt;
-&lt;li&gt;Cash Management&lt;/li&gt;
-&lt;li&gt;Financial Reporting&lt;/li&gt;
+    &lt;a href=&#34;#core-business-applets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Essential applets for daily operations:&lt;/p&gt;
+&lt;h4&gt;Financial Suite&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;financial-suite&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#financial-suite&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;General Ledger&lt;/strong&gt;: Complete double-entry accounting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accounts Payable/Receivable&lt;/strong&gt;: Manage cash flow&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Malaysian Tax Compliance&lt;/strong&gt;: SST, e-Invoice ready&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financial Reporting&lt;/strong&gt;: P&amp;amp;L, Balance Sheet, Cash Flow&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bank Reconciliation&lt;/strong&gt;: Auto-match with Malaysian banks&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sales &amp;amp; Marketing Suite&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CRM&lt;/li&gt;
-&lt;li&gt;Sales Orders&lt;/li&gt;
-&lt;li&gt;Quotations&lt;/li&gt;
-&lt;li&gt;Marketing Automation&lt;/li&gt;
-&lt;li&gt;Customer Portal&lt;/li&gt;
+&lt;h4&gt;Sales &amp;amp; Marketing Suite&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sales--marketing-suite&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sales--marketing-suite&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CRM&lt;/strong&gt;: 360° customer view&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sales Orders&lt;/strong&gt;: Quote-to-cash workflow&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marketing Automation&lt;/strong&gt;: Email, SMS campaigns&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customer Portal&lt;/strong&gt;: Self-service for customers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commission Management&lt;/strong&gt;: Complex commission structures&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Supply Chain Suite&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Inventory Management&lt;/li&gt;
-&lt;li&gt;Purchase Orders&lt;/li&gt;
-&lt;li&gt;Warehouse Management&lt;/li&gt;
-&lt;li&gt;Manufacturing&lt;/li&gt;
-&lt;li&gt;Quality Control&lt;/li&gt;
+&lt;h4&gt;Supply Chain Suite&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;supply-chain-suite&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#supply-chain-suite&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Inventory Management&lt;/strong&gt;: Multi-location, batch tracking&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Purchase Orders&lt;/strong&gt;: Supplier management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Warehouse Management&lt;/strong&gt;: Pick, pack, ship&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manufacturing&lt;/strong&gt;: BOM, production planning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quality Control&lt;/strong&gt;: Inspection, testing, certification&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Human Capital Suite&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Employee Database&lt;/li&gt;
-&lt;li&gt;Payroll Processing&lt;/li&gt;
-&lt;li&gt;Time &amp;amp; Attendance&lt;/li&gt;
-&lt;li&gt;Performance Management&lt;/li&gt;
-&lt;li&gt;Learning Management&lt;/li&gt;
+&lt;h4&gt;Human Capital Suite&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;human-capital-suite&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#human-capital-suite&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Employee Database&lt;/strong&gt;: Complete HR records&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Payroll Processing&lt;/strong&gt;: EPF, SOCSO, EIS, PCB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time &amp;amp; Attendance&lt;/strong&gt;: Biometric integration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leave Management&lt;/strong&gt;: Malaysian labor law compliant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Performance Management&lt;/strong&gt;: KPIs, reviews, 360 feedback&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Industry-Specific Applets&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;industry-specific-applets&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#industry-specific-applets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Manufacturing&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Production Planning&lt;/li&gt;
-&lt;li&gt;Bill of Materials&lt;/li&gt;
-&lt;li&gt;Shop Floor Control&lt;/li&gt;
-&lt;li&gt;Quality Assurance&lt;/li&gt;
-&lt;li&gt;Maintenance Management&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Retail&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Point of Sale&lt;/li&gt;
-&lt;li&gt;Multi-store Management&lt;/li&gt;
-&lt;li&gt;Loyalty Programs&lt;/li&gt;
-&lt;li&gt;Merchandising&lt;/li&gt;
-&lt;li&gt;E-commerce Integration&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Services&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;li&gt;Time Tracking&lt;/li&gt;
-&lt;li&gt;Resource Planning&lt;/li&gt;
-&lt;li&gt;Service Contracts&lt;/li&gt;
-&lt;li&gt;Billing &amp;amp; Invoicing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Healthcare&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Patient Management&lt;/li&gt;
-&lt;li&gt;Appointment Scheduling&lt;/li&gt;
-&lt;li&gt;Medical Records&lt;/li&gt;
-&lt;li&gt;Billing &amp;amp; Insurance&lt;/li&gt;
-&lt;li&gt;Compliance Tracking&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;How BigLedger Works&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-bigledger-works&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#how-bigledger-works&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;The Applet Lifecycle&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-applet-lifecycle&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-applet-lifecycle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Discovery&lt;/strong&gt;: Browse the Applet Store for solutions&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Evaluation&lt;/strong&gt;: Test applets in sandbox environment&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Installation&lt;/strong&gt;: One-click deployment to your platform&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Configuration&lt;/strong&gt;: Customize to match your processes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integration&lt;/strong&gt;: Connect with other applets and systems&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Operation&lt;/strong&gt;: Run your business with real-time data&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Optimization&lt;/strong&gt;: Continuous improvement with analytics&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Data Flow Architecture&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-flow-architecture&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#data-flow-architecture&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+    &lt;a href=&#34;#industry-specific-applets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tailored solutions for different industries:&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
 
-&lt;div&gt;&lt;pre&gt;&lt;code&gt;[User Interface Layer]
-        ↓
-[Applet Layer] → [Integration Bus] → [External Systems]
-        ↓
-[Platform Services Layer]
-        ↓
-[Operational Data Hub]
-        ↓
-[Database Layer]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Copy code&#34;
-  &gt;
-    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;📊 Industry Adoption&lt;/strong&gt;: Manufacturing (35%), Retail (28%), Services (22%), Healthcare (15%) of BigLedger&amp;rsquo;s 5,000+ Malaysian customers.&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
+
+&lt;h4&gt;Manufacturing Vertical&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;manufacturing-vertical&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#manufacturing-vertical&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Production Planning &amp;amp; Scheduling&lt;/li&gt;
+&lt;li&gt;Bill of Materials (Multi-level BOM)&lt;/li&gt;
+&lt;li&gt;Shop Floor Control with IoT&lt;/li&gt;
+&lt;li&gt;Quality Assurance (ISO compliant)&lt;/li&gt;
+&lt;li&gt;Predictive Maintenance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Retail Vertical&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;retail-vertical&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#retail-vertical&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Point of Sale (Offline capable)&lt;/li&gt;
+&lt;li&gt;Multi-store Management&lt;/li&gt;
+&lt;li&gt;Loyalty Programs (Points, tiers, rewards)&lt;/li&gt;
+&lt;li&gt;Merchandising &amp;amp; Planograms&lt;/li&gt;
+&lt;li&gt;E-commerce Integration (Shopee, Lazada)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Services Vertical&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;services-vertical&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#services-vertical&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Project Management (Gantt, resources)&lt;/li&gt;
+&lt;li&gt;Time &amp;amp; Expense Tracking&lt;/li&gt;
+&lt;li&gt;Service Contracts &amp;amp; SLAs&lt;/li&gt;
+&lt;li&gt;Professional Services Automation&lt;/li&gt;
+&lt;li&gt;Recurring Billing&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;AI-Powered Automation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ai-powered-automation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#ai-powered-automation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Built-in Narrow AI Capabilities&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;built-in-narrow-ai-capabilities&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#built-in-narrow-ai-capabilities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;BigLedger leverages specialized narrow AI to automate structured data processing:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Document Intelligence&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;OCR extraction from receipts, invoices, contracts&lt;/li&gt;
-&lt;li&gt;99.5% accuracy for typed text, 95% for handwriting&lt;/li&gt;
-&lt;li&gt;Automatic categorization and data validation&lt;/li&gt;
-&lt;li&gt;Multi-language support (50+ languages)&lt;/li&gt;
+    &lt;a href=&#34;#built-in-narrow-ai-capabilities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;BigLedger leverages specialized AI for specific tasks:&lt;/p&gt;
+&lt;h4&gt;Document Intelligence&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;document-intelligence&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#document-intelligence&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OCR Accuracy&lt;/strong&gt;: 99.5% for typed, 95% for handwritten&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supported Documents&lt;/strong&gt;: Invoices, receipts, POs, delivery orders&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Auto-categorization&lt;/strong&gt;: Expense types, tax codes, accounts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt;: English, Malay, Chinese, Tamil&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Financial AI&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bank reconciliation with 95% auto-match rate&lt;/li&gt;
-&lt;li&gt;Fraud detection and anomaly alerts&lt;/li&gt;
-&lt;li&gt;Cash flow forecasting and predictions&lt;/li&gt;
-&lt;li&gt;Automated invoice matching&lt;/li&gt;
+&lt;h4&gt;Financial AI&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;financial-ai&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#financial-ai&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bank Reconciliation&lt;/strong&gt;: 95% auto-match rate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fraud Detection&lt;/strong&gt;: Real-time anomaly alerts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cash Flow Forecasting&lt;/strong&gt;: 30, 60, 90-day predictions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Credit Risk Assessment&lt;/strong&gt;: Customer payment behavior analysis&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Customer Intelligence&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sentiment analysis in contact center&lt;/li&gt;
-&lt;li&gt;Intent recognition and smart routing&lt;/li&gt;
-&lt;li&gt;Conversation intelligence and insights&lt;/li&gt;
-&lt;li&gt;Predictive customer churn analysis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Operational AI&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Demand forecasting for inventory&lt;/li&gt;
-&lt;li&gt;Computer vision for quality control&lt;/li&gt;
-&lt;li&gt;Predictive maintenance scheduling&lt;/li&gt;
-&lt;li&gt;Route optimization for logistics&lt;/li&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;⚠️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;⚠️ Important&lt;/strong&gt;: AI predictions are recommendations. Always review critical financial decisions with your accountant or financial advisor.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;Operational AI&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;operational-ai&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#operational-ai&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Demand Forecasting&lt;/strong&gt;: Inventory optimization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Route Optimization&lt;/strong&gt;: Delivery planning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Predictive Maintenance&lt;/strong&gt;: Equipment failure prevention&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quality Prediction&lt;/strong&gt;: Defect detection&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;AIMatrix Integration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;aimatrix-integration&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#aimatrix-integration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;BigLedger seamlessly integrates with AIMatrix - a super agent workspace that provides:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Agent Studio&lt;/strong&gt;&lt;/p&gt;
+    &lt;a href=&#34;#aimatrix-integration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Advanced AI capabilities through AIMatrix partnership:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Available Services&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Visual drag-and-drop agent builder&lt;/li&gt;
-&lt;li&gt;100+ pre-built agent templates&lt;/li&gt;
-&lt;li&gt;Multi-agent orchestration&lt;/li&gt;
-&lt;li&gt;Custom agent development&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Advanced AI Services&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Access to GPT-4, Claude, and other LLMs&lt;/li&gt;
-&lt;li&gt;Computer vision and image analysis&lt;/li&gt;
-&lt;li&gt;Speech recognition and synthesis&lt;/li&gt;
+&lt;li&gt;GPT-4 and Claude for natural language processing&lt;/li&gt;
+&lt;li&gt;Computer vision for quality control&lt;/li&gt;
+&lt;li&gt;Voice assistants for hands-free operation&lt;/li&gt;
 &lt;li&gt;Advanced predictive analytics&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Business Impact&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;40% reduction in manual data entry&lt;/li&gt;
-&lt;li&gt;60% faster document processing&lt;/li&gt;
-&lt;li&gt;80% improvement in reconciliation accuracy&lt;/li&gt;
-&lt;li&gt;50% reduction in response times&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:50702/ai-intelligence/&#34; &gt;Learn more about AI capabilities&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Key Platform Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-platform-features&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-platform-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Multi-Tenancy &amp;amp; Security&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;multi-tenancy--security&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#multi-tenancy--security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Data Isolation&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Complete data separation between companies&lt;/li&gt;
-&lt;li&gt;Row-level security within companies&lt;/li&gt;
-&lt;li&gt;Field-level encryption for sensitive data&lt;/li&gt;
-&lt;li&gt;GDPR and compliance ready&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Access Control&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Role-based permissions&lt;/li&gt;
-&lt;li&gt;Attribute-based access control&lt;/li&gt;
-&lt;li&gt;IP whitelisting&lt;/li&gt;
-&lt;li&gt;Two-factor authentication&lt;/li&gt;
-&lt;li&gt;Session management&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Integration Capabilities&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;integration-capabilities&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#integration-capabilities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Native Integrations&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Banking systems&lt;/li&gt;
-&lt;li&gt;Payment gateways&lt;/li&gt;
-&lt;li&gt;Shipping providers&lt;/li&gt;
-&lt;li&gt;Tax services&lt;/li&gt;
-&lt;li&gt;Communication platforms&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Integration Methods&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;REST APIs&lt;/li&gt;
-&lt;li&gt;Webhooks&lt;/li&gt;
-&lt;li&gt;File-based imports/exports&lt;/li&gt;
-&lt;li&gt;Direct database connections&lt;/li&gt;
-&lt;li&gt;Message queuing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Scalability &amp;amp; Performance&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;scalability--performance&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#scalability--performance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cloud-native architecture&lt;/li&gt;
-&lt;li&gt;Auto-scaling capabilities&lt;/li&gt;
-&lt;li&gt;Load balancing&lt;/li&gt;
-&lt;li&gt;CDN for global access&lt;/li&gt;
-&lt;li&gt;99.9% uptime SLA&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Performance Features&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;In-memory caching&lt;/li&gt;
-&lt;li&gt;Asynchronous processing&lt;/li&gt;
-&lt;li&gt;Real-time data streaming&lt;/li&gt;
-&lt;li&gt;Optimized queries&lt;/li&gt;
-&lt;li&gt;Background job processing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Platform Advantages&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;platform-advantages&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#platform-advantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;For Business Users&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;for-business-users&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#for-business-users&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Choose only the applets you need&lt;/li&gt;
-&lt;li&gt;Scale up or down as required&lt;/li&gt;
-&lt;li&gt;Customize without programming&lt;/li&gt;
-&lt;li&gt;Adapt to changing requirements&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;User Experience&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Consistent interface across applets&lt;/li&gt;
-&lt;li&gt;Mobile-responsive design&lt;/li&gt;
-&lt;li&gt;Personalized dashboards&lt;/li&gt;
-&lt;li&gt;Contextual help and guidance&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Cost Efficiency&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Pay only for what you use&lt;/li&gt;
-&lt;li&gt;No expensive customizations&lt;/li&gt;
-&lt;li&gt;Reduced IT overhead&lt;/li&gt;
-&lt;li&gt;Faster implementation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;For IT Teams&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;for-it-teams&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#for-it-teams&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Simplified Management&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Centralized administration&lt;/li&gt;
-&lt;li&gt;Automated updates and patches&lt;/li&gt;
-&lt;li&gt;Built-in monitoring and alerts&lt;/li&gt;
-&lt;li&gt;Comprehensive audit logs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Development Platform&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Low-code/no-code tools&lt;/li&gt;
-&lt;li&gt;API-first architecture&lt;/li&gt;
-&lt;li&gt;Extensive documentation&lt;/li&gt;
-&lt;li&gt;Developer community&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Enterprise Ready&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;High availability&lt;/li&gt;
-&lt;li&gt;Disaster recovery&lt;/li&gt;
-&lt;li&gt;Data backup and archival&lt;/li&gt;
-&lt;li&gt;Compliance certifications&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Business Impact Metrics&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Metric&lt;/th&gt;
+          &lt;th&gt;Improvement&lt;/th&gt;
+          &lt;th&gt;Time to Value&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Manual Data Entry&lt;/td&gt;
+          &lt;td&gt;-40%&lt;/td&gt;
+          &lt;td&gt;1 week&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Document Processing&lt;/td&gt;
+          &lt;td&gt;-60%&lt;/td&gt;
+          &lt;td&gt;2 weeks&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Reconciliation Accuracy&lt;/td&gt;
+          &lt;td&gt;+80%&lt;/td&gt;
+          &lt;td&gt;1 month&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Response Times&lt;/td&gt;
+          &lt;td&gt;-50%&lt;/td&gt;
+          &lt;td&gt;Immediate&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2&gt;Deployment Options&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;deployment-options&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#deployment-options&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Cloud Deployment (Recommended)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cloud-deployment-recommended&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#cloud-deployment-recommended&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Public Cloud&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fully managed by BigLedger&lt;/li&gt;
-&lt;li&gt;Automatic updates and maintenance&lt;/li&gt;
-&lt;li&gt;Global availability&lt;/li&gt;
-&lt;li&gt;Shared infrastructure&lt;/li&gt;
-&lt;li&gt;Best for: SMBs, startups&lt;/li&gt;
+    &lt;a href=&#34;#cloud-deployment-recommended&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Public Cloud&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;public-cloud&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#public-cloud&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Managed by BigLedger&lt;/strong&gt;: Zero IT overhead&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automatic Updates&lt;/strong&gt;: Always latest features&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Global CDN&lt;/strong&gt;: Fast access anywhere&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pricing&lt;/strong&gt;: From RM299/month&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best for&lt;/strong&gt;: SMBs, startups, growing businesses&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Private Cloud&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dedicated infrastructure&lt;/li&gt;
-&lt;li&gt;Enhanced security options&lt;/li&gt;
-&lt;li&gt;Custom SLAs&lt;/li&gt;
-&lt;li&gt;Isolated environment&lt;/li&gt;
-&lt;li&gt;Best for: Enterprises, regulated industries&lt;/li&gt;
+&lt;h4&gt;Private Cloud&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;private-cloud&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#private-cloud&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dedicated Resources&lt;/strong&gt;: Your own servers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Security&lt;/strong&gt;: Isolated environment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom SLAs&lt;/strong&gt;: Guaranteed performance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pricing&lt;/strong&gt;: From RM2,999/month&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best for&lt;/strong&gt;: Enterprises, banks, government&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;On-Premise Deployment&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;on-premise-deployment&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#on-premise-deployment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Self-Hosted&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Complete control over infrastructure&lt;/li&gt;
-&lt;li&gt;Air-gapped security option&lt;/li&gt;
-&lt;li&gt;Custom integration possibilities&lt;/li&gt;
-&lt;li&gt;Local data residency&lt;/li&gt;
-&lt;li&gt;Best for: High-security requirements&lt;/li&gt;
+    &lt;a href=&#34;#on-premise-deployment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Self-Hosted&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;self-hosted&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#self-hosted&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Complete Control&lt;/strong&gt;: Your infrastructure&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Air-gapped Option&lt;/strong&gt;: No internet required&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customization&lt;/strong&gt;: Unlimited modifications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pricing&lt;/strong&gt;: One-time license + maintenance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best for&lt;/strong&gt;: High-security, military, offshore&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Hybrid Deployment&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mix of cloud and on-premise&lt;/li&gt;
-&lt;li&gt;Selective data location&lt;/li&gt;
-&lt;li&gt;Gradual cloud migration&lt;/li&gt;
-&lt;li&gt;Compliance flexibility&lt;/li&gt;
-&lt;li&gt;Best for: Transitioning enterprises&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;💡 Recommendation&lt;/strong&gt;: Start with Public Cloud for fastest deployment (2 days), then migrate to Private Cloud or On-Premise as needed. 80% of customers stay on Public Cloud.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2&gt;Getting Started Checklist&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started-checklist&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#getting-started-checklist&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Pre-Implementation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;pre-implementation&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pre-implementation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Define business requirements&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Identify key stakeholders&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Select deployment option&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Plan data migration strategy&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Allocate resources and budget&lt;/li&gt;
+    &lt;a href=&#34;#getting-started-checklist&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Week 1: Planning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;week-1-planning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#week-1-planning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Identify business requirements and pain points&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Select deployment option (Cloud recommended)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Choose initial applets (start with 5-7)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Assign project team and champions&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Schedule implementation kickoff&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Platform Setup&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;platform-setup&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#platform-setup&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Week 2: Setup&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;week-2-setup&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#week-2-setup&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create BigLedger account&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Configure organization settings&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Set up user accounts and roles&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Install core applets&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Configure organization structure&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Set up user accounts and permissions&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Install selected applets&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Configure security settings&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Applet Configuration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;applet-configuration&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#applet-configuration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Select industry-specific applets&lt;/li&gt;
+&lt;h3&gt;Week 3: Configuration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;week-3-configuration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#week-3-configuration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Import master data (customers, products, suppliers)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Configure applet settings&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Set up integrations&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Import master data&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Test workflows&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Set up workflows and approvals&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Integrate with banks and services&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Test critical processes&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Go-Live Preparation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;go-live-preparation&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#go-live-preparation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; User training completion&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Data validation&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Process documentation&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Backup procedures&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Support channels setup&lt;/li&gt;
+&lt;h3&gt;Week 4: Go-Live&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;week-4-go-live&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#week-4-go-live&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Complete user training&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Run parallel testing&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Perform data validation&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Document procedures&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Launch with pilot group&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Learn More&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;learn-more&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#learn-more&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Implementation Guide&lt;/a&gt;&lt;/strong&gt; - Detailed deployment instructions&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Applet Catalog&lt;/a&gt;&lt;/strong&gt; - Browse available business applets&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt;&lt;/strong&gt; - Technical integration details&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Best Practices&lt;/a&gt;&lt;/strong&gt; - Industry recommendations&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://academy.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Training Academy&lt;/a&gt;&lt;/strong&gt; - Comprehensive training programs&lt;/li&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;✅ Success Tip&lt;/strong&gt;: Most successful implementations follow the 20-80 rule: Get 20% of features (core functions) working perfectly before adding the remaining 80% (advanced features).&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;💡 Key Takeaways&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-key-takeaways&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-key-takeaways&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Business Operating System&lt;/strong&gt;: BigLedger is not just software, it&amp;rsquo;s a complete platform for running your business&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Applet Flexibility&lt;/strong&gt;: Start small, grow unlimited - pay only for what you use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI-Powered&lt;/strong&gt;: Built-in AI reduces manual work by 40-60%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Malaysian-Ready&lt;/strong&gt;: Compliance with local regulations built-in&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast Implementation&lt;/strong&gt;: Most SMEs go live in 2-4 weeks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🔗 See Also&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-see-also&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-see-also&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Getting Started&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#getting-started&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/user-guide/implementation&#34; &gt;Implementation Guide&lt;/a&gt; - Step-by-step deployment guide&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/applets/applet-store/&#34; &gt;Applet Store Overview&lt;/a&gt; - Browse available applets&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/tutorials/quick-start&#34; &gt;Quick Start Tutorial&lt;/a&gt; - Get running in 30 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Core Modules&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-modules&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#core-modules&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/modules/financial-accounting/&#34; &gt;Financial Accounting&lt;/a&gt; - Complete accounting solution&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/modules/crm/&#34; &gt;CRM &amp;amp; Sales&lt;/a&gt; - Customer relationship management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/modules/inventory/&#34; &gt;Inventory Management&lt;/a&gt; - Stock and warehouse control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Advanced Topics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advanced-topics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#advanced-topics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt; - Integration guide&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/developers/applet-sdk&#34; &gt;Custom Applet Development&lt;/a&gt; - Build your own&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:62446/ai-intelligence/&#34; &gt;AI &amp;amp; Automation&lt;/a&gt; - Leverage AI capabilities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;❓ Frequently Asked Questions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-frequently-asked-questions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-frequently-asked-questions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;details&gt;
+&lt;summary&gt;How is BigLedger different from SAP or Oracle?&lt;/summary&gt;
+&lt;p&gt;BigLedger&amp;rsquo;s applet-based architecture means you only pay for what you use, deploy in days not months, and can customize without expensive consultants. SAP/Oracle require large upfront investments and lengthy implementations.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Can BigLedger handle multi-company operations?&lt;/summary&gt;
+&lt;p&gt;Yes, BigLedger supports unlimited companies, branches, and currencies in a single platform. Inter-company transactions and consolidated reporting are built-in.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Is my data secure in the cloud?&lt;/summary&gt;
+&lt;p&gt;BigLedger uses bank-level encryption (AES-256), ISO 27001 certified data centers, and complies with PDPA. Your data is backed up hourly with 99.9% uptime SLA.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Can I integrate with my existing systems?&lt;/summary&gt;
+&lt;p&gt;Yes, BigLedger provides REST APIs, webhooks, and pre-built connectors for popular systems. Our integration team can help with custom integrations.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;What if I need a feature that doesn&#39;t exist?&lt;/summary&gt;
+&lt;p&gt;You can either request it (we release updates monthly), build a custom applet, or hire our professional services team to build it for you.&lt;/p&gt;
+&lt;/details&gt;
+&lt;h2&gt;📚 Further Reading&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-further-reading&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-further-reading&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bigledger.com/whitepaper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigLedger vs Traditional ERP Whitepaper&lt;/a&gt; - Detailed comparison&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bigledger.com/case-studies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Customer Success Stories&lt;/a&gt; - Real implementations&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bigledger.com/roi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROI Calculator&lt;/a&gt; - Calculate your savings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🤝 Need Help?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-need-help&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-need-help&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sales Consultation&lt;/strong&gt;: &lt;a href=&#34;mailto:sales@bigledger.com&#34; &gt;sales@bigledger.com&lt;/a&gt; - Get a demo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Support Portal&lt;/strong&gt;: &lt;a href=&#34;https://support.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;support.bigledger.com&lt;/a&gt; - 24/7 help&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training Academy&lt;/strong&gt;: &lt;a href=&#34;https://academy.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;academy.bigledger.com&lt;/a&gt; - Free courses&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community Forum&lt;/strong&gt;: &lt;a href=&#34;https://forum.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;forum.bigledger.com&lt;/a&gt; - User community&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WhatsApp Support&lt;/strong&gt;: +60 12-345 6789 - Quick questions&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -847,10 +916,10 @@ Item code &amp;amp; name&lt;/p&gt;
     
     <item>
       <title>Price book</title>
-      <link>http://localhost:50702/user-guide/price-book/</link>
+      <link>http://localhost:62446/user-guide/price-book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/price-book/</guid>
+      <guid>http://localhost:62446/user-guide/price-book/</guid>
       <description>
         
         
@@ -873,10 +942,10 @@ Description&lt;/p&gt;
     
     <item>
       <title>Price Set</title>
-      <link>http://localhost:50702/user-guide/price-set/</link>
+      <link>http://localhost:62446/user-guide/price-set/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/price-set/</guid>
+      <guid>http://localhost:62446/user-guide/price-set/</guid>
       <description>
         
         
@@ -919,10 +988,10 @@ Please tick the relevant Treatment and select the Price source, Operator and the
     
     <item>
       <title>Pricing Scheme</title>
-      <link>http://localhost:50702/user-guide/pricing-scheme/</link>
+      <link>http://localhost:62446/user-guide/pricing-scheme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/pricing-scheme/</guid>
+      <guid>http://localhost:62446/user-guide/pricing-scheme/</guid>
       <description>
         
         
@@ -930,7 +999,7 @@ Please tick the relevant Treatment and select the Price source, Operator and the
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-12T21:27:30.118Z
 Once a user clicks on the pricing scheme module it will land on the pricing scheme listing page. The module is used to create the template for pricing that can be also used in transactional applets such as POS, GRN, etc. In this module you can only create the template/scheme, the price can be added later for each specific item in the &amp;ldquo;Item Maintenance&amp;rdquo; module
 For example, in the POS applet, users can go to the settings and choose which Pricing Scheme they want to use for a minimum price, maximum price or the retail price as shown in the interface below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:50702/screenshots/placeholder-pricing-scheme.svg&#34; alt=&#34;Pricing Scheme Configuration&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:62446/screenshots/placeholder-pricing-scheme.svg&#34; alt=&#34;Pricing Scheme Configuration&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;Figure 1: Pricing Scheme Configuration in POS Settings - showing Malaysian tax-compliant pricing options&lt;/em&gt;
 Users also may search pricing schemes in the listing itself using fuzzy search in the AG-Grid listing. Pricing schemes can be searched in general search or advanced search:&lt;/p&gt;
 &lt;h2&gt;4.1 Pricing Scheme Create﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;41-pricing-scheme-create&#34;&gt;&lt;/span&gt;
@@ -955,10 +1024,10 @@ In addition, users may delete the pricing scheme if they wish to. Users may clic
     
     <item>
       <title>Team</title>
-      <link>http://localhost:50702/user-guide/team/</link>
+      <link>http://localhost:62446/user-guide/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50702/user-guide/team/</guid>
+      <guid>http://localhost:62446/user-guide/team/</guid>
       <description>
         
         
