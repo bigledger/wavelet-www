@@ -56,7 +56,7 @@ BigLedger's RESTful APIs are organized into logical modules that mirror our Angu
 
 {{< card link="./api-reference/pos" title="POS APIs" icon="shopping-cart" subtitle="Point-of-sale transactions, session management, and retail operations." >}}
 
-{{< card link="./api-reference/reports" title="Reporting APIs" icon="chart-line" subtitle="Generate financial reports, analytics, and business intelligence data." >}}
+{{< card link="./api-reference/reports" title="Reporting APIs" icon="chart-bar" subtitle="Generate financial reports, analytics, and business intelligence data." >}}
 {{< /cards >}}
 
 ## Developer Resources
