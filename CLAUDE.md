@@ -29,6 +29,48 @@ When creating or updating documentation:
 4. **Use clear, simple English that is easy to translate**
 5. **Avoid idioms and culturally-specific references**
 
+### IMPORTANT: Hextra Theme Limitations
+
+⚠️ **The Hextra theme has strict limitations on HTML/CSS usage:**
+
+1. **DO NOT use complex inline HTML with styles** - The theme doesn't properly render complex HTML/CSS
+2. **DO NOT use `<div>` tags with inline styles** - They will display as raw HTML
+3. **DO NOT use CSS grid or flexbox in markdown** - It won't work correctly
+
+✅ **INSTEAD, use Hextra's built-in components:**
+
+```markdown
+# Good - Using Hextra cards component
+{{< cards >}}
+  {{< card link="/path" title="Title" subtitle="Description" >}}
+{{< /cards >}}
+
+# Bad - Using HTML divs
+<div style="display: grid;">...</div>
+```
+
+✅ **Use these Hextra components:**
+- `{{< cards >}}` - For card grids
+- `{{< card >}}` - Individual cards with title, subtitle, link
+- `{{< hextra/hero-badge >}}` - Hero badges
+- `{{< hextra/hero-headline >}}` - Hero headlines
+- `{{< hextra/hero-subtitle >}}` - Hero subtitles
+- `{{< hextra/hero-button >}}` - Call-to-action buttons
+- `{{< tabs >}}` - Tabbed content
+- `{{< tab >}}` - Individual tab content
+
+✅ **For styling, use:**
+- Standard Markdown formatting
+- Hextra's built-in classes only
+- Emoji for visual elements (sparingly)
+- Simple tables for structured data
+
+❌ **Avoid:**
+- Inline `style` attributes
+- Complex HTML structures
+- Custom CSS classes
+- JavaScript in content files
+
 ### File Structure Example
 ```
 content/
