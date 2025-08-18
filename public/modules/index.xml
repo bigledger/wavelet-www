@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – BigLedger Modules</title>
-    <link>http://localhost:61953/modules/</link>
+    <link>http://localhost:50702/modules/</link>
     <description>Recent content in BigLedger Modules on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:61953/modules/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50702/modules/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Financial Accounting</title>
-      <link>http://localhost:61953/modules/financial-accounting/</link>
+      <link>http://localhost:50702/modules/financial-accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/financial-accounting/</guid>
+      <guid>http://localhost:50702/modules/financial-accounting/</guid>
       <description>
         
         
@@ -658,9 +658,9 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;/ul&gt;
 &lt;h2&gt;Support &amp;amp; Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support--resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support--resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/modules/financial-accounting/&#34; &gt;Accounting Best Practices Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/modules/financial-accounting/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/modules/financial-accounting/&#34; &gt;Report Templates Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/modules/financial-accounting/&#34; &gt;Accounting Best Practices Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/modules/financial-accounting/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/modules/financial-accounting/&#34; &gt;Report Templates Library&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🤝 &lt;a href=&#34;https://forum.bigledger.com/finance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:finance@bigledger.com&#34; &gt;Expert Support&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -670,10 +670,10 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
     
     <item>
       <title>Point of Sales (POS)</title>
-      <link>http://localhost:61953/modules/pos/</link>
+      <link>http://localhost:50702/modules/pos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/pos/</guid>
+      <guid>http://localhost:50702/modules/pos/</guid>
       <description>
         
         
@@ -1289,7 +1289,7 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;/ul&gt;
 &lt;h2&gt;Support Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support-resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📖 &lt;a href=&#34;http://localhost:61953/modules/pos/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📖 &lt;a href=&#34;http://localhost:50702/modules/pos/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/pos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:pos-support@bigledger.com&#34; &gt;Email Support&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📞 24/7 Support: +1-800-POS-HELP&lt;/li&gt;
@@ -1300,10 +1300,10 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
     
     <item>
       <title>Customer Relationship Management (CRM)</title>
-      <link>http://localhost:61953/modules/crm/</link>
+      <link>http://localhost:50702/modules/crm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/crm/</guid>
+      <guid>http://localhost:50702/modules/crm/</guid>
       <description>
         
         
@@ -1581,9 +1581,9 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;/ul&gt;
 &lt;h2&gt;Support &amp;amp; Training&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support--training&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support--training&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/modules/crm/&#34; &gt;CRM Best Practices Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/modules/crm/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/modules/crm/&#34; &gt;Report Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/modules/crm/&#34; &gt;CRM Best Practices Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/modules/crm/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/modules/crm/&#34; &gt;Report Templates&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/crm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:crm-support@bigledger.com&#34; &gt;Support&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1593,10 +1593,10 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
     
     <item>
       <title>Inventory Management</title>
-      <link>http://localhost:61953/modules/inventory/</link>
+      <link>http://localhost:50702/modules/inventory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/inventory/</guid>
+      <guid>http://localhost:50702/modules/inventory/</guid>
       <description>
         
         
@@ -2059,9 +2059,9 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;/table&gt;
 &lt;h2&gt;Support &amp;amp; Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support--resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support--resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/modules/inventory/&#34; &gt;Inventory Best Practices&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/modules/inventory/&#34; &gt;Training Videos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/modules/inventory/&#34; &gt;Report Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/modules/inventory/&#34; &gt;Inventory Best Practices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/modules/inventory/&#34; &gt;Training Videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/modules/inventory/&#34; &gt;Report Templates&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/inventory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:inventory-support@bigledger.com&#34; &gt;Support&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -2071,10 +2071,10 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
     
     <item>
       <title>Procurement</title>
-      <link>http://localhost:61953/modules/procurement/</link>
+      <link>http://localhost:50702/modules/procurement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/procurement/</guid>
+      <guid>http://localhost:50702/modules/procurement/</guid>
       <description>
         
         
@@ -2144,17 +2144,17 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;li&gt;Create product catalogs&lt;/li&gt;
 &lt;li&gt;Train procurement team&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;For detailed documentation, visit our &lt;a href=&#34;http://localhost:61953/modules/procurement/&#34; &gt;Procurement Guide&lt;/a&gt; or contact support.&lt;/p&gt;
+&lt;p&gt;For detailed documentation, visit our &lt;a href=&#34;http://localhost:50702/modules/procurement/&#34; &gt;Procurement Guide&lt;/a&gt; or contact support.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Manufacturing</title>
-      <link>http://localhost:61953/modules/manufacturing/</link>
+      <link>http://localhost:50702/modules/manufacturing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/manufacturing/</guid>
+      <guid>http://localhost:50702/modules/manufacturing/</guid>
       <description>
         
         
@@ -2241,17 +2241,17 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;li&gt;Establish costing methods&lt;/li&gt;
 &lt;li&gt;Train production staff&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;For detailed documentation, visit our &lt;a href=&#34;http://localhost:61953/modules/manufacturing/&#34; &gt;Manufacturing Guide&lt;/a&gt; or contact support.&lt;/p&gt;
+&lt;p&gt;For detailed documentation, visit our &lt;a href=&#34;http://localhost:50702/modules/manufacturing/&#34; &gt;Manufacturing Guide&lt;/a&gt; or contact support.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Human Resources</title>
-      <link>http://localhost:61953/modules/hr/</link>
+      <link>http://localhost:50702/modules/hr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/hr/</guid>
+      <guid>http://localhost:50702/modules/hr/</guid>
       <description>
         
         
@@ -2364,17 +2364,17 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;li&gt;Define leave policies&lt;/li&gt;
 &lt;li&gt;Train HR team and employees&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;For detailed documentation, visit our &lt;a href=&#34;http://localhost:61953/modules/hr/&#34; &gt;HR Guide&lt;/a&gt; or contact support.&lt;/p&gt;
+&lt;p&gt;For detailed documentation, visit our &lt;a href=&#34;http://localhost:50702/modules/hr/&#34; &gt;HR Guide&lt;/a&gt; or contact support.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Project Management</title>
-      <link>http://localhost:61953/modules/projects/</link>
+      <link>http://localhost:50702/modules/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/projects/</guid>
+      <guid>http://localhost:50702/modules/projects/</guid>
       <description>
         
         
@@ -2494,7 +2494,7 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;li&gt;Create project workflows&lt;/li&gt;
 &lt;li&gt;Train project teams&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;For detailed documentation, visit our &lt;a href=&#34;http://localhost:61953/modules/projects/&#34; &gt;Project Management Guide&lt;/a&gt; or contact support.&lt;/p&gt;
+&lt;p&gt;For detailed documentation, visit our &lt;a href=&#34;http://localhost:50702/modules/projects/&#34; &gt;Project Management Guide&lt;/a&gt; or contact support.&lt;/p&gt;
 
       </description>
     </item>

@@ -1,0 +1,918 @@
+[
+  {
+    "confluence_title": "Industry Guide",
+    "target_section": "industry-solutions",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Messy Integration Diagram.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Data Lake Diagram.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "applet_store.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Unified Contact Center (UCC) Applet",
+    "target_section": "applets",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20210816-090646.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20210816-090405.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Applet Store",
+    "target_section": "applets",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20241110-192150.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-192239.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-192321.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-192431.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-192920.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-193055.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-193148.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-193437.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-193742.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194005.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194026.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194045.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194139.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194200.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194216.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194553.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194612.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194627.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194646.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194705.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194722.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194756.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194815.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-194836.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195035.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195050.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195116.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195144.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195201.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195225.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195241.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195354.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195428.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195446.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195513.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195605.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195629.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195650.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195708.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195723.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195739.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241110-195843.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "6.2 Pages Module",
+    "target_section": "modules",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20210615-073707.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20210615-073854.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "6.1 Menu Module",
+    "target_section": "modules",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20210615-063830.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20210615-071203.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Editing an Item",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot (440).png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Order Listing",
+    "target_section": "business-operations",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "xoA8hiB6LqdtviBg-5H1DoR3g5-_sJxzX9W4EO7c9vm2Hiw-MHeIR6R8YO4W962TGv0zWUdxV3ok_17VFuia91BCHHbVxQm_No3AZTJNB0Zo5L0fMcIv6puVmqwDa6Y6VSviLkrx"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Marketplace Tab",
+    "target_section": "ecommerce",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot (492).png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Create Single Tab",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "uAY67OkAYyG_NB7kFfb_XmZonPYhpa4Wfr3IjZbS4GdAej6BcAn8gJC_O8jMsNH0uPuTkOVkKDQnKkfX0yJWNnzYLrPj0i1mbEqbssOxgvytTctgVzAzwG24EF9FznrBgJ9tkh19"
+      },
+      {
+        "type": "attachment",
+        "filename": "oUgjRC1AKdF3j3YGzo-CNKxnlM1rNYRnQaj0tr8UR7VcbK9aWBx8J4BvE_s9bKrVpm4ypVki9wgjuEHpJ9jIvmv4mhej__GaoDvDpmwuJhjpZnEAM5NsfuF-nquVMuqA1JemzgNT"
+      },
+      {
+        "type": "attachment",
+        "filename": "AqSYzrU57x0_VM4n1zYsdoGJquc7zqcEvH36THAU5fsoQJP-bcvvGHXnasK2UxxwxjdGKTPbAv2xlXmnrgyXc_kVvSMJvWcQiTjBvvBLD_EZy7gEKCsthsVqIQ827nNSr9pImVpE"
+      },
+      {
+        "type": "attachment",
+        "filename": "v3JsJOPDlXdbqMbo_aCdEwk5af22_fWg3Nlu-jswDMwvEbKjDZkKzh1BtBWGW1kHRm_tTvrmA131RaW70l_C1kINhUn6oo6wwLKxFJ7DQATyiMGwvHFJTS7pg57anOJeKf80V0s5"
+      },
+      {
+        "type": "attachment",
+        "filename": "6UiKXmewwMLZZSdzwN3C891_dFkAm9zEiEyXFce9puQMbVG2RtfvuxYiByuzXFtL7jpKwNtvWAxOTjtRA4gTwJrXsgy7JPbp8xvgcjIFd0SEVUPd8FO_OwzhiwlJ83xCzrPUDbti"
+      },
+      {
+        "type": "attachment",
+        "filename": "B_J-purBeom2U2CYgDbE_5pKJEmx2J1qALtJU-oZPSitvgrBB7nl2kpiGjHAiMuTGUmAIZCg00YMESu0w0WvQilCt1J6IgWvj7zjaXMM6yYWM9i8SpJvbAKWtZcxXd56XSjpiumj"
+      },
+      {
+        "type": "attachment",
+        "filename": "Y9fbiId-0L7lY5IuCNQnS-NvtAQ3ISeCbqlOo-SeEzl4mfFLDvbNCS77lWqam64pMtzxzMyepIQ-eVkin35OX9BqA5L03Rbm2tB-dHKm_5If6c2cnHllXOH4SYwx8dmYw1VjP-Jr"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Update and Delete Item",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "-U3f_hi05yrKGuTCVkRq0hvf56poTIMi5KXDRLdbdcwlCWPYARtO7OEcYKwvN7i8E03jFCVvGu2zpVRLFN0kVTwcuNeCXB9DGZiSJwirLxpG62kQ2D9Nt5P4b9PxbkCprJhcnWaV"
+      },
+      {
+        "type": "attachment",
+        "filename": "iTb--SunBkdZLLsdjopwx5p9ga2Ux4Ro_vBsy7kUIpbOHAbfCcE0huTcJIuj6YZRR01lmuEsi21ZlS8cpoNi5axnuEtmkBBXAO52oa3MfIG09DrnhQl7u70VPGC8-Bf2lqtzkAVv"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Introduction to EcomSync",
+    "target_section": "ecommerce",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "ecomsync applet logo.PNG"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Order Details",
+    "target_section": "business-operations",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20210521-060435.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20210521-060510.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Main Dashboard",
+    "target_section": "business-operations",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "JqanTEPcChVi4JKz0QNwlYwi7pBB3mX3T3w3B-7QdjpZMel7IA8pSzASAuLlGrg9vkX7lbR-U_evykApY8-sok-mgMIenP0XNunl-P5izOYP9HPgrjyQE-Cve1SWeubCzKT90t3_"
+      },
+      {
+        "type": "attachment",
+        "filename": "NJFEatWIiH8lJD3NP__yCoy_PD5qrPGTQD5D8dHwJBIE7HgM8pdC1l2g7051dl2-LQOb79OXjgDG1vOLt2x04el5kUj71AnycA58Wl_qb_17Usmk1G0Ubue-mgKh_prEBPLORpTM"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Create Group Item",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "gMf-CAMAeLKymoY55NVFh60VcTZV73m-HEBeCjiqsP0Ff8m3pTD1Gi4cCoCjCngLPCob4MdUJGpMnntAXleIo4T6NapmS-rCVedZgAlRu4zx1SMPONI8eA45eDbwrNTBadGq4WrC"
+      },
+      {
+        "type": "attachment",
+        "filename": "aYurFxyGnfOoVfkfHWlMs-o0sl5eJc7WU-4HOb-cE9qK05BD0nn1JePpakdLm-lgb_YU_4WuN1utMle2Ebhse1J5tn5-sYwwGiJgH_0hm2QQihrYPai8mNGUoj8hkvsap33Z9rIh"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Listing",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "example listing.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "filter listing.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Creating an Item",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot (333).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (435).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (434).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (436).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "EQa2doRvjAk1MTm5tDww1_QGVl2ufrbKsLXlGkTJKPIcvxlIJNvFORfyNlgWDQOVrcjliGi_3D2Sd08i5UPjpVm4Pga2d3LqO-Y-bsmP1rG-sZGOGYhco0AFiRsL8F0ff5ezBYX8"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (437).png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Sales Dashboard",
+    "target_section": "business-operations",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "lYpsUG1e1UOZgsn42k2QSiPHRWOdsR7suwzsDRafmrNcIDsNJTPQ3U9o_O8OIHALWJAVr-FNoc0ehGCBjiOB2mFo4KbrmBhAnCY9NXcAiBzMCGlXD0GUkdhKLYgkrofyrVG3yqRU"
+      },
+      {
+        "type": "attachment",
+        "filename": "q_zsnvct--j2WBtE4yFLO4RTuedpiZrt1AWxqjQliddWMJXkuCDDNu_AJJDsFr9dGoeo9SmYFbt5LH5TYDEiGZpC-JRpJyyRY3n0UATvkXa-OUsGp5vD6o5mWK7ui3ZpOuTGCTVa"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Main Detail Tab",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "zo-oB_fEDFJOw1eVfuMqtcbiSRi3APE8_id9QLJY_ONtzsEPaDgQovqjKRFEr12iGIDRYhlE3gAAogGzcPqLihwlH1L08vIx7QZNbd48NhpuahTIrf0A2N4yUffoN5LgfTsghfmi"
+      },
+      {
+        "type": "attachment",
+        "filename": "3FiJzFNF3huUAg8j9guFQXAfGH8aRdKxiViMVstWt-pw8AiPI2TcZfMpqimR5Uf3iscuGXTTY7P_YAKApUZga8d18cH_qBq9CD0T10MyzVQtA76G0E3yAQU5XcfBjnQCPxr3pDEB"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (441).png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Dimension Details Tab",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "dimension tab.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Organization Applet",
+    "target_section": "applets",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20241204-190142.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Order Filtering",
+    "target_section": "business-operations",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "TLfmpAAkhPAldj4Mwk0joaTJIC1Xx-yn0lFIWBFFJRgr8phxCLCliOeznvm4QXYiJDel37nLwQyhmmwANAYUetRXW5AZhjsFdt-Y-WAXy2YxOFu9obTxDb_gfLFdRXs9_ZTNmkuw"
+      },
+      {
+        "type": "attachment",
+        "filename": "action button.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Order Dashboard",
+    "target_section": "business-operations",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "kihfYsNGVt2odIOoXN7YER-If3SyAF7FaJmBkSKkXZcT5TEtsO34Ahr2YspK1yDvse3v1dqw_JUQdu4PTBPN-Ug1ziTOo4S2mYV8FKv3fXv3C7yebN0mrx-Zut8CL6_5saLrGZnG"
+      },
+      {
+        "type": "attachment",
+        "filename": "FcbDd7VnU4hsaUil6KfAWY1dhsnCkCu0SaIdP2TPSOH0rfCOaxxqiM4cNrATBsmJwDTM2MJaTN-jJvqhl63hkplfH6r8HbK-b7Ntyax0Tdik51FQKVcaqw2MGI3UJClawKIME2O8"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Manage Image Tab",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "manage image .png"
+      },
+      {
+        "type": "attachment",
+        "filename": "manage image 2.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Stock Availability Tab",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "BqXk5yob-yNz1Y6PQhHsKEbjgyih7atQ8xTO39Axzh9b4F5vAAHHO_urlCFEY7uotQqFHp11hqlb9-eGPD40WZE-hhU6lUzyPAzIQmBjzKPGAkEp1Brm3kj9x4gPpsdm6NGdhWkg"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Settings",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "eb_DhMlx5CdhMsVbs0tM4EGCK5mOw_-CyJ2cqE-s1Sl36R_XbadohZl-Cna7SZSX1GCF9AgTGp8-GEMYuMQpdXgMTEJELv0ZCdtSiB9ye0hZ4NwzF4zVmCZTJyIKJ-LAxZEivA7g"
+      },
+      {
+        "type": "attachment",
+        "filename": "7D6ZWiDLVp2iigLD1tDlmxiKuIXfqS6nO-305m37fYyszd61iousUrbzSMsiRbbkv9_uOpIriC7_m9SOauWIza5MkVTC06CAzyCNDfzog8jC795-a04mfyb2hkRPoQGvopFV-3za"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Category Groups",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20241112-202722.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-202743.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-203055.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-203138.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-203205.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-203314.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-203404.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Items",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20241112-201505.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-201513.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-201528.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "image-20241112-201541.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Introduction to Stock Take Applet",
+    "target_section": "applets",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20250228-090403.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Installation",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-23 at 5.54.22 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-23 at 5.55.32 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.50.48 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.50.57 AM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Introduction to Membership Admin Console Applet",
+    "target_section": "applets",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "098B-Ri7EBl3hahPQ_JA9LJcewg74hc9BbDS3NaZu4BmfkA-mNWgINN0wlGI8d7Y2r8f8V83srbYbvO2OGK-ReDZpkzz77G6apPaH1DA3Z5npXboxu0Sn4HbUjYtnHiynWxEo6H9"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Item Categories Tab",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot (446).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (333).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (447).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (454).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (455).png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot (456).png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "5.0 Stock Take Settings",
+    "target_section": "general",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Cor 9.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "PTS to PTS Config Module",
+    "target_section": "modules",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.57.15 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.42.53 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.44.40 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Member Class",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.57.15 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.08.19 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.08.56 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Member Label List",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.57.15 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.22.45 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.23.23 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.24.58 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "PTS CCY Module",
+    "target_section": "modules",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.57.15 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.31.57 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.32.35 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "PTS to CCY Config Module",
+    "target_section": "modules",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.57.15 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.48.55 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.49.25 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Member Listing",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.57.15 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.59.04 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.59.51 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.00.27 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.05.22 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Member Label",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 11.57.15 AM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.11.38 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.12.51 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-26 at 12.14.11 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Installation of Team Maintenance Applet",
+    "target_section": "applets",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-23 at 5.54.22 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 12.00.51 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 12.01.44 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 12.02.13 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Introduction to Team Maintenance Applet",
+    "target_section": "applets",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "7Ex3q6bXkKuD7LOA9U7k0p2cF-ZbrJ3c1jxdP_7qzuYR-MfS8m4E_RVVA97R0HzWB1IacBs3U_jI2psxvBB8VncV-Gh8JoDXls0DsvKDpa0cVmVjXdsEuXaVv85NsXHmjLTvAOws"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Price Set",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "image-20250101-181917.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Installation of Group Maintenance Applet",
+    "target_section": "applets",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-23 at 5.54.22 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.57.01 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.57.48 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.58.15 PM.png"
+      }
+    ]
+  },
+  {
+    "confluence_title": "Team",
+    "target_section": "user-guide",
+    "images": [
+      {
+        "type": "attachment",
+        "filename": "4VAOmOvNO78wnvXfElQ37CRi1CZ4vkXsxPdePNzxnVgsYZLC1z_L0ZRzFtzJUPsYQTHtbfgd1YaPicrR86f60i6qrSO6qXrAtfUgC-43tk-SmjygCphXJC2NYhyiyKt05kj1P6-w"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.09.03 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.10.00 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.10.28 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.11.06 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.12.47 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.13.56 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.15.32 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.16.51 PM.png"
+      },
+      {
+        "type": "attachment",
+        "filename": "Screenshot 2021-07-27 at 2.17.41 PM.png"
+      }
+    ]
+  }
+]

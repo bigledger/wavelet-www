@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>وثائق BigLedger – وحدات بيج ليدجر</title>
-    <link>http://localhost:61953/ar/modules/</link>
+    <link>http://localhost:50702/ar/modules/</link>
     <description>Recent content in وحدات بيج ليدجر on وثائق BigLedger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     
-	  <atom:link href="http://localhost:61953/ar/modules/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50702/ar/modules/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>المحاسبة المالية</title>
-      <link>http://localhost:61953/ar/modules/financial-accounting/</link>
+      <link>http://localhost:50702/ar/modules/financial-accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ar/modules/financial-accounting/</guid>
+      <guid>http://localhost:50702/ar/modules/financial-accounting/</guid>
       <description>
         
         
@@ -224,9 +224,9 @@
 &lt;/ul&gt;
 &lt;h2&gt;الدعم والموارد&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;الدعم-والموارد&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d8%a7%d9%84%d8%af%d8%b9%d9%85-%d9%88%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/docs/best-practices/accounting/&#34; &gt;دليل أفضل ممارسات المحاسبة&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/tutorials/financial-accounting/&#34; &gt;دروس الفيديو التعليمية&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/templates/financial/&#34; &gt;مكتبة قوالب التقارير&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/docs/best-practices/accounting/&#34; &gt;دليل أفضل ممارسات المحاسبة&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/tutorials/financial-accounting/&#34; &gt;دروس الفيديو التعليمية&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/templates/financial/&#34; &gt;مكتبة قوالب التقارير&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/finance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;منتدى المجتمع&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:finance@bigledger.com&#34; &gt;الدعم المتخصص&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -236,10 +236,10 @@
     
     <item>
       <title>نقاط البيع</title>
-      <link>http://localhost:61953/ar/modules/pos/</link>
+      <link>http://localhost:50702/ar/modules/pos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ar/modules/pos/</guid>
+      <guid>http://localhost:50702/ar/modules/pos/</guid>
       <description>
         
         
@@ -487,7 +487,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;موارد الدعم&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;موارد-الدعم&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d9%85%d9%88%d8%a7%d8%b1%d8%af-%d8%a7%d9%84%d8%af%d8%b9%d9%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📖 &lt;a href=&#34;http://localhost:61953/tutorials/pos/&#34; &gt;دروس الفيديو التعليمية&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📖 &lt;a href=&#34;http://localhost:50702/tutorials/pos/&#34; &gt;دروس الفيديو التعليمية&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/pos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;منتدى المجتمع&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:pos-support@bigledger.com&#34; &gt;دعم البريد الإلكتروني&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📞 الدعم على مدار الساعة: +1-800-POS-HELP&lt;/li&gt;
@@ -498,10 +498,10 @@
     
     <item>
       <title>إدارة علاقات العملاء</title>
-      <link>http://localhost:61953/ar/modules/crm/</link>
+      <link>http://localhost:50702/ar/modules/crm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ar/modules/crm/</guid>
+      <guid>http://localhost:50702/ar/modules/crm/</guid>
       <description>
         
         
@@ -747,9 +747,9 @@
 &lt;/ul&gt;
 &lt;h2&gt;الدعم والتدريب&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;الدعم-والتدريب&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d8%a7%d9%84%d8%af%d8%b9%d9%85-%d9%88%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/docs/best-practices/crm/&#34; &gt;دليل أفضل ممارسات إدارة علاقات العملاء&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/tutorials/crm/&#34; &gt;دروس الفيديو التعليمية&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/templates/crm/&#34; &gt;قوالب التقارير&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/docs/best-practices/crm/&#34; &gt;دليل أفضل ممارسات إدارة علاقات العملاء&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/tutorials/crm/&#34; &gt;دروس الفيديو التعليمية&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/templates/crm/&#34; &gt;قوالب التقارير&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/crm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;منتدى المجتمع&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:crm-support@bigledger.com&#34; &gt;الدعم&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -759,10 +759,10 @@
     
     <item>
       <title>إدارة المخزون</title>
-      <link>http://localhost:61953/ar/modules/inventory/</link>
+      <link>http://localhost:50702/ar/modules/inventory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ar/modules/inventory/</guid>
+      <guid>http://localhost:50702/ar/modules/inventory/</guid>
       <description>
         
         
@@ -1127,9 +1127,9 @@
 &lt;/table&gt;
 &lt;h2&gt;موارد الدعم&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;موارد-الدعم&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d9%85%d9%88%d8%a7%d8%b1%d8%af-%d8%a7%d9%84%d8%af%d8%b9%d9%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/docs/best-practices/inventory/&#34; &gt;أفضل ممارسات المخزون&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/tutorials/inventory/&#34; &gt;فيديوهات التدريب&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/templates/inventory/&#34; &gt;قوالب التقارير&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/docs/best-practices/inventory/&#34; &gt;أفضل ممارسات المخزون&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/tutorials/inventory/&#34; &gt;فيديوهات التدريب&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/templates/inventory/&#34; &gt;قوالب التقارير&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/inventory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;منتدى المجتمع&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:inventory-support@bigledger.com&#34; &gt;الدعم&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

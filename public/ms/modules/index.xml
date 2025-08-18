@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dokumentasi BigLedger – Modul BigLedger</title>
-    <link>http://localhost:61953/ms/modules/</link>
+    <link>http://localhost:50702/ms/modules/</link>
     <description>Recent content in Modul BigLedger on Dokumentasi BigLedger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ms</language>
     
-	  <atom:link href="http://localhost:61953/ms/modules/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50702/ms/modules/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Perakaunan Kewangan</title>
-      <link>http://localhost:61953/ms/modules/financial-accounting/</link>
+      <link>http://localhost:50702/ms/modules/financial-accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ms/modules/financial-accounting/</guid>
+      <guid>http://localhost:50702/ms/modules/financial-accounting/</guid>
       <description>
         
         
@@ -302,9 +302,9 @@
 &lt;/ol&gt;
 &lt;h2&gt;Sokongan &amp;amp; Sumber&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sokongan--sumber&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sokongan--sumber&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/docs/best-practices/accounting/&#34; &gt;Panduan Amalan Terbaik Perakaunan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/tutorials/financial-accounting/&#34; &gt;Tutorial Video&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/templates/financial/&#34; &gt;Perpustakaan Templat Laporan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/docs/best-practices/accounting/&#34; &gt;Panduan Amalan Terbaik Perakaunan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/tutorials/financial-accounting/&#34; &gt;Tutorial Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/templates/financial/&#34; &gt;Perpustakaan Templat Laporan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🤝 &lt;a href=&#34;https://forum.bigledger.com/finance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forum Komuniti&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:finance@bigledger.com&#34; &gt;Sokongan Pakar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -314,10 +314,10 @@
     
     <item>
       <title>Tempat Jualan (POS)</title>
-      <link>http://localhost:61953/ms/modules/pos/</link>
+      <link>http://localhost:50702/ms/modules/pos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ms/modules/pos/</guid>
+      <guid>http://localhost:50702/ms/modules/pos/</guid>
       <description>
         
         
@@ -648,7 +648,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Sokongan &amp;amp; Sumber&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sokongan--sumber&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sokongan--sumber&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📖 &lt;a href=&#34;http://localhost:61953/tutorials/pos/&#34; &gt;Tutorial Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📖 &lt;a href=&#34;http://localhost:50702/tutorials/pos/&#34; &gt;Tutorial Video&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/pos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forum Komuniti&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:pos-support@bigledger.com&#34; &gt;Sokongan E-mel&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📞 Sokongan 24/7: +60-3-POS-HELP&lt;/li&gt;
@@ -659,10 +659,10 @@
     
     <item>
       <title>Pengurusan Hubungan Pelanggan (CRM)</title>
-      <link>http://localhost:61953/ms/modules/crm/</link>
+      <link>http://localhost:50702/ms/modules/crm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ms/modules/crm/</guid>
+      <guid>http://localhost:50702/ms/modules/crm/</guid>
       <description>
         
         
@@ -940,9 +940,9 @@
 &lt;/ul&gt;
 &lt;h2&gt;Sokongan &amp;amp; Latihan&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sokongan--latihan&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sokongan--latihan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/docs/best-practices/crm/&#34; &gt;Panduan Amalan Terbaik CRM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/tutorials/crm/&#34; &gt;Tutorial Video&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/templates/crm/&#34; &gt;Templat Laporan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/docs/best-practices/crm/&#34; &gt;Panduan Amalan Terbaik CRM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/tutorials/crm/&#34; &gt;Tutorial Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/templates/crm/&#34; &gt;Templat Laporan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/crm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forum Komuniti&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:crm-support@bigledger.com&#34; &gt;Sokongan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -952,10 +952,10 @@
     
     <item>
       <title>Pengurusan Inventori</title>
-      <link>http://localhost:61953/ms/modules/inventory/</link>
+      <link>http://localhost:50702/ms/modules/inventory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ms/modules/inventory/</guid>
+      <guid>http://localhost:50702/ms/modules/inventory/</guid>
       <description>
         
         
@@ -1418,9 +1418,9 @@
 &lt;/table&gt;
 &lt;h2&gt;Sokongan &amp;amp; Sumber&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sokongan--sumber&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sokongan--sumber&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/docs/best-practices/inventory/&#34; &gt;Amalan Terbaik Inventori&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/tutorials/inventory/&#34; &gt;Video Latihan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/templates/inventory/&#34; &gt;Templat Laporan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/docs/best-practices/inventory/&#34; &gt;Amalan Terbaik Inventori&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/tutorials/inventory/&#34; &gt;Video Latihan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/templates/inventory/&#34; &gt;Templat Laporan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/inventory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forum Komuniti&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:inventory-support@bigledger.com&#34; &gt;Sokongan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

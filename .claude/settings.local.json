@@ -51,7 +51,8 @@
       "Bash(pip install:*)",
       "Bash(python:*)",
       "Bash(echo:*)",
-      "Bash(aws cloudfront get-invalidation:*)"
+      "Bash(aws cloudfront get-invalidation:*)",
+      "Bash(grep:*)"
     ],
     "deny": [],
     "ask": [],

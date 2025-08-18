@@ -108,10 +108,23 @@ document.addEventListener('DOMContentLoaded', function() {
   let searchIndex = [];
 
   // Load search index
-  fetch('/search-index.json')
+  fetch('/en.search-data.json')
     .then(response => response.json())
     .then(data => {
-      searchIndex = data;
+      // Convert search data format to array
+      searchIndex = [];
+      for (const [url, doc] of Object.entries(data)) {
+        if (doc.data) {
+          searchIndex.push({
+            url: url,
+            title: doc.title || url.split('/').filter(x => x).pop() || 'Page',
+            content: Object.values(doc.data).join(' '),
+            description: doc.description || '',
+            section: url.split('/')[1] || 'Documentation'
+          });
+        }
+      }
+      console.log('Search index loaded:', searchIndex.length, 'pages');
     })
     .catch(error => console.error('Error loading search index:', error));
 

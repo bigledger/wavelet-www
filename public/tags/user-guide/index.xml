@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – User-Guide</title>
-    <link>http://localhost:61953/tags/user-guide/</link>
+    <link>http://localhost:50702/tags/user-guide/</link>
     <description>Recent content in User-Guide on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:61953/tags/user-guide/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50702/tags/user-guide/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:61953/developers/getting-started/</link>
+      <link>http://localhost:50702/developers/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developers/getting-started/</guid>
+      <guid>http://localhost:50702/developers/getting-started/</guid>
       <description>
         
         
@@ -1081,10 +1081,10 @@ Company ID: company_abc123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#3
     
     <item>
       <title>E-Invoice &amp; PEPPOL</title>
-      <link>http://localhost:61953/e-invoice-peppol/</link>
+      <link>http://localhost:50702/e-invoice-peppol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/e-invoice-peppol/</guid>
+      <guid>http://localhost:50702/e-invoice-peppol/</guid>
       <description>
         
         
@@ -1393,10 +1393,10 @@ Company ID: company_abc123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#3
 &lt;h3&gt;Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/api-reference/einvoice/&#34; &gt;API Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/e-invoice-peppol/&#34; &gt;Integration Guides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/e-invoice-peppol/&#34; &gt;Best Practices&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/e-invoice-peppol/&#34; &gt;FAQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/api-reference/einvoice/&#34; &gt;API Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/e-invoice-peppol/&#34; &gt;Integration Guides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/e-invoice-peppol/&#34; &gt;Best Practices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/e-invoice-peppol/&#34; &gt;FAQ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Support&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1420,7 +1420,7 @@ Company ID: company_abc123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#3
 &lt;li&gt;&lt;strong&gt;Implementation Support&lt;/strong&gt;: Expert guidance&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Training&lt;/strong&gt;: Comprehensive user training&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:61953/e-invoice-peppol/&#34; &gt;Request Demo&lt;/a&gt; | &lt;a href=&#34;mailto:einvoice@bigledger.com&#34; &gt;Contact Sales&lt;/a&gt; | &lt;a href=&#34;http://localhost:61953/e-invoice-peppol/&#34; &gt;Download Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:50702/e-invoice-peppol/&#34; &gt;Request Demo&lt;/a&gt; | &lt;a href=&#34;mailto:einvoice@bigledger.com&#34; &gt;Contact Sales&lt;/a&gt; | &lt;a href=&#34;http://localhost:50702/e-invoice-peppol/&#34; &gt;Download Guide&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Compliance &amp;amp; Certifications&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;compliance--certifications&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#compliance--certifications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;MDEC PEPPOL Accreditation&lt;/li&gt;
@@ -1437,10 +1437,10 @@ Company ID: company_abc123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#3
     
     <item>
       <title>Applets &amp; Workflows</title>
-      <link>http://localhost:61953/applets-workflows/</link>
+      <link>http://localhost:50702/applets-workflows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/applets-workflows/</guid>
+      <guid>http://localhost:50702/applets-workflows/</guid>
       <description>
         
         
@@ -2116,7 +2116,7 @@ Company ID: company_abc123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#3
 &lt;li&gt;Plan implementation&lt;/li&gt;
 &lt;li&gt;Calculate ROI&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:61953/demos-resources/&#34; &gt;Schedule Consultation&lt;/a&gt; | &lt;a href=&#34;http://localhost:61953/applets/applet-store/&#34; &gt;Browse Applets&lt;/a&gt; | &lt;a href=&#34;http://localhost:61953/applets/&#34; &gt;Download Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:50702/demos-resources/&#34; &gt;Schedule Consultation&lt;/a&gt; | &lt;a href=&#34;http://localhost:50702/applets/applet-store/&#34; &gt;Browse Applets&lt;/a&gt; | &lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Download Guide&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;BigLedger - Modular Business Solutions Through Intelligent Applets&lt;/em&gt;&lt;/p&gt;
 
@@ -2125,10 +2125,10 @@ Company ID: company_abc123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#3
     
     <item>
       <title>Accounting APIs</title>
-      <link>http://localhost:61953/developers/api-reference/accounting/</link>
+      <link>http://localhost:50702/developers/api-reference/accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developers/api-reference/accounting/</guid>
+      <guid>http://localhost:50702/developers/api-reference/accounting/</guid>
       <description>
         
         
@@ -3412,10 +3412,10 @@ Company ID: company_abc123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#3
     
     <item>
       <title>Authentication &amp; Authorization</title>
-      <link>http://localhost:61953/developers/authentication/</link>
+      <link>http://localhost:50702/developers/authentication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developers/authentication/</guid>
+      <guid>http://localhost:50702/developers/authentication/</guid>
       <description>
         
         
@@ -4139,10 +4139,10 @@ Company ID: company_abc123&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#3
     
     <item>
       <title>BigLedger Documentation</title>
-      <link>http://localhost:61953/</link>
+      <link>http://localhost:50702/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/</guid>
+      <guid>http://localhost:50702/</guid>
       <description>
         
         
@@ -4177,7 +4177,7 @@ Trusted by Malaysian businesses for seamless digital transformation
 &lt;/div&gt;
 &lt;div class=&#34;mb-6&#34;&gt;
 &lt;a
-  href=&#34;http://localhost:61953/implementation/&#34;
+  href=&#34;http://localhost:50702/implementation/&#34;
   class=&#34;not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200&#34;
   
   &gt;Launch Your Platform&lt;/a&gt;
@@ -4220,83 +4220,83 @@ Trusted by Malaysian businesses for seamless digital transformation
     &lt;a href=&#34;#by-role&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;grid grid-cols-1 md:grid-cols-2 gap-6 mt-8&#34;&gt;
 &lt;p&gt;&lt;strong&gt;Business Users&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/user-guide/introduction/&#34; &gt;Platform Overview&lt;/a&gt;&lt;/strong&gt; - Understanding BigLedger as your Business OS&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/applets/&#34; &gt;Applets &amp;amp; Workflows&lt;/a&gt;&lt;/strong&gt; - Complete guide to BigLedger applets and automation&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/business-operations/&#34; &gt;Business Operations&lt;/a&gt;&lt;/strong&gt; - Day-to-day operations and workflow management&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;User Guides&lt;/a&gt;&lt;/strong&gt; - Step-by-step tutorials and how-to guides&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/user-guide/introduction/&#34; &gt;Platform Overview&lt;/a&gt;&lt;/strong&gt; - Understanding BigLedger as your Business OS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Applets &amp;amp; Workflows&lt;/a&gt;&lt;/strong&gt; - Complete guide to BigLedger applets and automation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/business-operations/&#34; &gt;Business Operations&lt;/a&gt;&lt;/strong&gt; - Day-to-day operations and workflow management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;User Guides&lt;/a&gt;&lt;/strong&gt; - Step-by-step tutorials and how-to guides&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;System Administrators&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/developers/getting-started/&#34; &gt;Implementation Guide&lt;/a&gt;&lt;/strong&gt; - Deploy and configure BigLedger&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/applets/applet-directory/&#34; &gt;Applet Management&lt;/a&gt;&lt;/strong&gt; - Install, configure, and manage applets&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/modules/&#34; &gt;Platform Administration&lt;/a&gt;&lt;/strong&gt; - Core modules and system configuration&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/&#34; &gt;E-commerce Integration&lt;/a&gt;&lt;/strong&gt; - Multi-channel e-commerce with EcomSync&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/developers/getting-started/&#34; &gt;Implementation Guide&lt;/a&gt;&lt;/strong&gt; - Deploy and configure BigLedger&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/applets/applet-directory/&#34; &gt;Applet Management&lt;/a&gt;&lt;/strong&gt; - Install, configure, and manage applets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/modules/&#34; &gt;Platform Administration&lt;/a&gt;&lt;/strong&gt; - Core modules and system configuration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/&#34; &gt;E-commerce Integration&lt;/a&gt;&lt;/strong&gt; - Multi-channel e-commerce with EcomSync&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h3&gt;By Business Function&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;by-business-function&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#by-business-function&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Financial Management&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/accounting/&#34; &gt;Accounting Operations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/account-receivable/&#34; &gt;Accounts Receivable&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/accounting-guides/&#34; &gt;Financial Reporting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/accounting/&#34; &gt;Accounting Operations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/account-receivable/&#34; &gt;Accounts Receivable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/accounting-guides/&#34; &gt;Financial Reporting&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sales &amp;amp; Customer Management&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/crm/&#34; &gt;CRM Module&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/order/&#34; &gt;Order Management&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/sales-dashboard/&#34; &gt;Sales Operations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/crm/&#34; &gt;CRM Module&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/order/&#34; &gt;Order Management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/sales-dashboard/&#34; &gt;Sales Operations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;E-commerce &amp;amp; Multi-channel&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/introduction-to-ecomsync/&#34; &gt;EcomSync Platform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/integration-with-shopify/&#34; &gt;Shopify Integration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/b2b/&#34; &gt;B2B Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/introduction-to-ecomsync/&#34; &gt;EcomSync Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/integration-with-shopify/&#34; &gt;Shopify Integration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/b2b/&#34; &gt;B2B Solutions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Inventory &amp;amp; Supply Chain&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/inventory-guides/&#34; &gt;Stock Management&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/applets/stock-take-applet/&#34; &gt;Stock Take Operations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/manufacturing/&#34; &gt;Manufacturing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/inventory-guides/&#34; &gt;Stock Management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/applets/stock-take-applet/&#34; &gt;Stock Take Operations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/manufacturing/&#34; &gt;Manufacturing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Industry-Specific Solutions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;industry-specific-solutions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#industry-specific-solutions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Automotive &amp;amp; Workshop&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/industry-solutions/automotive-and-workshop-industry/&#34; &gt;Automotive Industry Success Story&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/applets/organization-applet/&#34; &gt;Workshop Management Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/industry-solutions/automotive-and-workshop-industry/&#34; &gt;Automotive Industry Success Story&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/applets/organization-applet/&#34; &gt;Workshop Management Solutions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Food &amp;amp; Beverage&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/industry-solutions/food-and-beverage-fb-industry/&#34; &gt;F&amp;amp;B Industry Implementation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/dashboard/&#34; &gt;Multi-branch Operations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/industry-solutions/food-and-beverage-fb-industry/&#34; &gt;F&amp;amp;B Industry Implementation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/dashboard/&#34; &gt;Multi-branch Operations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;General Industries&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/industry-solutions/industry-guide/&#34; &gt;Industry Solutions Overview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/industry-solutions/&#34; &gt;Custom Implementation Approach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/industry-solutions/industry-guide/&#34; &gt;Industry Solutions Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/industry-solutions/&#34; &gt;Custom Implementation Approach&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;🚀 Getting Started Paths&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-getting-started-paths&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-getting-started-paths&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Choose your journey based on your role:&lt;/p&gt;
 &lt;div class=&#34;grid grid-cols-1 md:grid-cols-3 gap-4 mt-6&#34;&gt;
 &lt;p&gt;&lt;strong&gt;New Implementation&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Platform Requirements&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Deployment Options&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Initial Setup Wizard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/applets/&#34; &gt;Applet Selection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Platform Requirements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Deployment Options&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Initial Setup Wizard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Applet Selection&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Business User&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Platform Fundamentals&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/navigation/&#34; &gt;Navigation &amp;amp; Interface&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/&#34; &gt;Your First Transaction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/&#34; &gt;Daily Tasks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Platform Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/navigation/&#34; &gt;Navigation &amp;amp; Interface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/&#34; &gt;Your First Transaction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/&#34; &gt;Daily Tasks&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Developer/Integrator&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Platform Architecture&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Applet Development&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Integration Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Platform Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Applet Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Integration Patterns&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;h2&gt;🎯 Popular Use Cases&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-popular-use-cases&#34;&gt;&lt;/span&gt;
@@ -4539,9 +4539,9 @@ Trusted by Malaysian businesses for seamless digital transformation
     &lt;a href=&#34;#-global-availability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Documentation available in:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;English&lt;/strong&gt; (Primary - Always current)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/&#34; &gt;中文&lt;/a&gt; - Chinese&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/&#34; &gt;Bahasa Melayu&lt;/a&gt; - Malay&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/&#34; &gt;العربية&lt;/a&gt; - Arabic&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/&#34; &gt;中文&lt;/a&gt; - Chinese&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/&#34; &gt;Bahasa Melayu&lt;/a&gt; - Malay&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/&#34; &gt;العربية&lt;/a&gt; - Arabic&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Primary documentation is maintained in English with periodic translations.&lt;/em&gt;&lt;/p&gt;
 
@@ -4550,10 +4550,10 @@ Trusted by Malaysian businesses for seamless digital transformation
     
     <item>
       <title>BigLedger Documentation</title>
-      <link>http://localhost:61953/user-guide/bigledger-documentation/</link>
+      <link>http://localhost:50702/user-guide/bigledger-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/bigledger-documentation/</guid>
+      <guid>http://localhost:50702/user-guide/bigledger-documentation/</guid>
       <description>
         
         
@@ -4580,10 +4580,10 @@ Youtube Channel&lt;/p&gt;
     
     <item>
       <title>Business Operations Guide</title>
-      <link>http://localhost:61953/user-guide/</link>
+      <link>http://localhost:50702/user-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/</guid>
+      <guid>http://localhost:50702/user-guide/</guid>
       <description>
         
         
@@ -4593,72 +4593,72 @@ Youtube Channel&lt;/p&gt;
 &lt;h2&gt;Quick Start Guides&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;quick-start-guides&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#quick-start-guides&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Getting Started&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#getting-started&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/introduction/&#34; &gt;Introduction to BigLedger&lt;/a&gt; - Platform overview and key concepts&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/creating-an-item/&#34; &gt;Creating Your First Item&lt;/a&gt; - Step-by-step item creation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/item-maintenance/&#34; &gt;Item Maintenance&lt;/a&gt; - Managing your product catalog&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/editing-an-item/&#34; &gt;Editing Items&lt;/a&gt; - Modifying existing products&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/introduction/&#34; &gt;Introduction to BigLedger&lt;/a&gt; - Platform overview and key concepts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/creating-an-item/&#34; &gt;Creating Your First Item&lt;/a&gt; - Step-by-step item creation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/item-maintenance/&#34; &gt;Item Maintenance&lt;/a&gt; - Managing your product catalog&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/editing-an-item/&#34; &gt;Editing Items&lt;/a&gt; - Modifying existing products&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Pricing &amp;amp; Inventory&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;pricing--inventory&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#pricing--inventory&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/pricing-scheme/&#34; &gt;Pricing Schemes&lt;/a&gt; - Setting up pricing strategies&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/price-book/&#34; &gt;Price Book Management&lt;/a&gt; - Managing price lists&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/document-item-types/&#34; &gt;Document Item Types&lt;/a&gt; - Understanding item classifications&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/pricing-scheme/&#34; &gt;Pricing Schemes&lt;/a&gt; - Setting up pricing strategies&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/price-book/&#34; &gt;Price Book Management&lt;/a&gt; - Managing price lists&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/document-item-types/&#34; &gt;Document Item Types&lt;/a&gt; - Understanding item classifications&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Team &amp;amp; Organization&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;team--organization&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#team--organization&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/member-listing/&#34; &gt;Member Management&lt;/a&gt; - User administration&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/team/&#34; &gt;Team Configuration&lt;/a&gt; - Department and team setup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/member-listing/&#34; &gt;Member Management&lt;/a&gt; - User administration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/team/&#34; &gt;Team Configuration&lt;/a&gt; - Department and team setup&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Core Modules&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-modules&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#core-modules&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Financial Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;financial-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#financial-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/financial-accounting/&#34; &gt;Financial Accounting&lt;/a&gt; - General ledger, journals, reports&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/account-receivable/&#34; &gt;Accounts Receivable&lt;/a&gt; - Customer invoicing and collections&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/accounting/&#34; &gt;Accounting Operations&lt;/a&gt; - Daily accounting tasks&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/financial-accounting/&#34; &gt;Financial Accounting&lt;/a&gt; - General ledger, journals, reports&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/account-receivable/&#34; &gt;Accounts Receivable&lt;/a&gt; - Customer invoicing and collections&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/accounting/&#34; &gt;Accounting Operations&lt;/a&gt; - Daily accounting tasks&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Sales &amp;amp; Customer Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sales--customer-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sales--customer-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/crm/&#34; &gt;CRM Module&lt;/a&gt; - Customer relationship management&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/sales-dashboard/&#34; &gt;Sales Dashboard&lt;/a&gt; - Sales analytics and insights&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/order/&#34; &gt;Order Management&lt;/a&gt; - Order processing and fulfillment&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/crm/&#34; &gt;CRM Module&lt;/a&gt; - Customer relationship management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/sales-dashboard/&#34; &gt;Sales Dashboard&lt;/a&gt; - Sales analytics and insights&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/order/&#34; &gt;Order Management&lt;/a&gt; - Order processing and fulfillment&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Inventory &amp;amp; Supply Chain&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;inventory--supply-chain&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#inventory--supply-chain&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/inventory/&#34; &gt;Inventory Management&lt;/a&gt; - Stock control and tracking&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/procurement/&#34; &gt;Procurement&lt;/a&gt; - Purchase orders and vendor management&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/manufacturing/&#34; &gt;Manufacturing&lt;/a&gt; - Production planning and control&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/inventory/&#34; &gt;Inventory Management&lt;/a&gt; - Stock control and tracking&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/procurement/&#34; &gt;Procurement&lt;/a&gt; - Purchase orders and vendor management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/manufacturing/&#34; &gt;Manufacturing&lt;/a&gt; - Production planning and control&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Point of Sale &amp;amp; Retail&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;point-of-sale--retail&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#point-of-sale--retail&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/pos/&#34; &gt;POS System&lt;/a&gt; - Retail operations and checkout&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/business-operations/dashboard/&#34; &gt;Dashboard Analytics&lt;/a&gt; - Business intelligence&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/pos/&#34; &gt;POS System&lt;/a&gt; - Retail operations and checkout&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/business-operations/dashboard/&#34; &gt;Dashboard Analytics&lt;/a&gt; - Business intelligence&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Human Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;human-resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#human-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/hr/&#34; &gt;HR Management&lt;/a&gt; - Employee records and administration&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/projects/&#34; &gt;Projects&lt;/a&gt; - Project tracking and management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/hr/&#34; &gt;HR Management&lt;/a&gt; - Employee records and administration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/projects/&#34; &gt;Projects&lt;/a&gt; - Project tracking and management&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;E-Commerce Integration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;e-commerce-integration&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#e-commerce-integration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/&#34; &gt;E-Commerce Overview&lt;/a&gt; - Multi-channel selling&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/introduction-to-ecomsync/&#34; &gt;EcomSync Introduction&lt;/a&gt; - Synchronization platform&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/integration-with-shopify/&#34; &gt;Shopify Integration&lt;/a&gt; - Connect your Shopify store&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/b2b/&#34; &gt;B2B Commerce&lt;/a&gt; - Business-to-business portal&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/cp-commerce/&#34; &gt;CP-Commerce&lt;/a&gt; - Consumer packaged goods&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ecommerce/marketplace-tab/&#34; &gt;Marketplace Integration&lt;/a&gt; - Multi-marketplace management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/&#34; &gt;E-Commerce Overview&lt;/a&gt; - Multi-channel selling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/introduction-to-ecomsync/&#34; &gt;EcomSync Introduction&lt;/a&gt; - Synchronization platform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/integration-with-shopify/&#34; &gt;Shopify Integration&lt;/a&gt; - Connect your Shopify store&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/b2b/&#34; &gt;B2B Commerce&lt;/a&gt; - Business-to-business portal&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/cp-commerce/&#34; &gt;CP-Commerce&lt;/a&gt; - Consumer packaged goods&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ecommerce/marketplace-tab/&#34; &gt;Marketplace Integration&lt;/a&gt; - Multi-marketplace management&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Industry Solutions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;industry-solutions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#industry-solutions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/industry-solutions/industry-guide/&#34; &gt;Industry Guide&lt;/a&gt; - Sector-specific features&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/industry-solutions/automotive-and-workshop-industry/&#34; &gt;Automotive &amp;amp; Workshop&lt;/a&gt; - Vehicle service management&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/industry-solutions/food-and-beverage-fb-industry/&#34; &gt;Food &amp;amp; Beverage&lt;/a&gt; - Restaurant and F&amp;amp;B operations&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/industry-solutions/industry-guide/&#34; &gt;Industry Guide&lt;/a&gt; - Sector-specific features&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/industry-solutions/automotive-and-workshop-industry/&#34; &gt;Automotive &amp;amp; Workshop&lt;/a&gt; - Vehicle service management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/industry-solutions/food-and-beverage-fb-industry/&#34; &gt;Food &amp;amp; Beverage&lt;/a&gt; - Restaurant and F&amp;amp;B operations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Advanced Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advanced-features&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advanced-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/ai-intelligence/&#34; &gt;AI Intelligence&lt;/a&gt; - AI-powered insights and automation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/e-invoice-peppol/&#34; &gt;E-Invoice &amp;amp; PEPPOL&lt;/a&gt; - Electronic invoicing compliance&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/applets-workflows/&#34; &gt;Applets &amp;amp; Workflows&lt;/a&gt; - Extensible functionality&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Developer Resources&lt;/a&gt; - API documentation and SDKs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/ai-intelligence/&#34; &gt;AI Intelligence&lt;/a&gt; - AI-powered insights and automation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/e-invoice-peppol/&#34; &gt;E-Invoice &amp;amp; PEPPOL&lt;/a&gt; - Electronic invoicing compliance&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/applets-workflows/&#34; &gt;Applets &amp;amp; Workflows&lt;/a&gt; - Extensible functionality&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Developer Resources&lt;/a&gt; - API documentation and SDKs&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -4666,10 +4666,10 @@ Youtube Channel&lt;/p&gt;
     
     <item>
       <title>Chart of Accounts Setup Guide</title>
-      <link>http://localhost:61953/guides/accounting-guides/chart-of-accounts-setup/</link>
+      <link>http://localhost:50702/guides/accounting-guides/chart-of-accounts-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/accounting-guides/chart-of-accounts-setup/</guid>
+      <guid>http://localhost:50702/guides/accounting-guides/chart-of-accounts-setup/</guid>
       <description>
         
         
@@ -4859,10 +4859,10 @@ Youtube Channel&lt;/p&gt;
     
     <item>
       <title>Creating an Item</title>
-      <link>http://localhost:61953/user-guide/creating-an-item/</link>
+      <link>http://localhost:50702/user-guide/creating-an-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/creating-an-item/</guid>
+      <guid>http://localhost:50702/user-guide/creating-an-item/</guid>
       <description>
         
         
@@ -4889,10 +4889,10 @@ Click Create Item and it will direct you to this page and will indicate that the
     
     <item>
       <title>Creating Your First Invoice</title>
-      <link>http://localhost:61953/tutorials/first-invoice/</link>
+      <link>http://localhost:50702/tutorials/first-invoice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/tutorials/first-invoice/</guid>
+      <guid>http://localhost:50702/tutorials/first-invoice/</guid>
       <description>
         
         
@@ -4929,10 +4929,10 @@ Click Create Item and it will direct you to this page and will indicate that the
     
     <item>
       <title>Document Item Maintenance</title>
-      <link>http://localhost:61953/user-guide/document-item-maintenance/</link>
+      <link>http://localhost:50702/user-guide/document-item-maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/document-item-maintenance/</guid>
+      <guid>http://localhost:50702/user-guide/document-item-maintenance/</guid>
       <description>
         
         
@@ -4944,10 +4944,10 @@ Click Create Item and it will direct you to this page and will indicate that the
     
     <item>
       <title>Document Item Types</title>
-      <link>http://localhost:61953/user-guide/document-item-types/</link>
+      <link>http://localhost:50702/user-guide/document-item-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/document-item-types/</guid>
+      <guid>http://localhost:50702/user-guide/document-item-types/</guid>
       <description>
         
         
@@ -4964,10 +4964,10 @@ Being the most complicated among all, Bundle can contain individual components a
     
     <item>
       <title>Editing an Item</title>
-      <link>http://localhost:61953/user-guide/editing-an-item/</link>
+      <link>http://localhost:50702/user-guide/editing-an-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/editing-an-item/</guid>
+      <guid>http://localhost:50702/user-guide/editing-an-item/</guid>
       <description>
         
         
@@ -4988,10 +4988,10 @@ Stock Allocation Tab&lt;/p&gt;
     
     <item>
       <title>Financial Accounting</title>
-      <link>http://localhost:61953/modules/financial-accounting/</link>
+      <link>http://localhost:50702/modules/financial-accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/financial-accounting/</guid>
+      <guid>http://localhost:50702/modules/financial-accounting/</guid>
       <description>
         
         
@@ -5630,9 +5630,9 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
 &lt;/ul&gt;
 &lt;h2&gt;Support &amp;amp; Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support--resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support--resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/modules/financial-accounting/&#34; &gt;Accounting Best Practices Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/modules/financial-accounting/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/modules/financial-accounting/&#34; &gt;Report Templates Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/modules/financial-accounting/&#34; &gt;Accounting Best Practices Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/modules/financial-accounting/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/modules/financial-accounting/&#34; &gt;Report Templates Library&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🤝 &lt;a href=&#34;https://forum.bigledger.com/finance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:finance@bigledger.com&#34; &gt;Expert Support&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -5642,10 +5642,10 @@ Credit: Sales Revenue $1,000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&
     
     <item>
       <title>Group Listing</title>
-      <link>http://localhost:61953/user-guide/group-listing/</link>
+      <link>http://localhost:50702/user-guide/group-listing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/group-listing/</guid>
+      <guid>http://localhost:50702/user-guide/group-listing/</guid>
       <description>
         
         
@@ -5681,10 +5681,10 @@ After adding the permission, you can Edit or Delete it from the &amp;ldquo;Permi
     
     <item>
       <title>Installation</title>
-      <link>http://localhost:61953/developer-docs/installation/</link>
+      <link>http://localhost:50702/developer-docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developer-docs/installation/</guid>
+      <guid>http://localhost:50702/developer-docs/installation/</guid>
       <description>
         
         
@@ -5787,10 +5787,10 @@ After adding the permission, you can Edit or Delete it from the &amp;ldquo;Permi
     
     <item>
       <title>Introduction</title>
-      <link>http://localhost:61953/user-guide/introduction/</link>
+      <link>http://localhost:50702/user-guide/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/introduction/</guid>
+      <guid>http://localhost:50702/user-guide/introduction/</guid>
       <description>
         
         
@@ -5819,10 +5819,10 @@ Website: &lt;a href=&#34;http://www.bigledger.com&#34; target=&#34;_blank&#34; r
     
     <item>
       <title>Item Maintenance</title>
-      <link>http://localhost:61953/user-guide/item-maintenance/</link>
+      <link>http://localhost:50702/user-guide/item-maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/item-maintenance/</guid>
+      <guid>http://localhost:50702/user-guide/item-maintenance/</guid>
       <description>
         
         
@@ -5849,10 +5849,10 @@ Sales Order Tab&lt;/p&gt;
     
     <item>
       <title>Member Class</title>
-      <link>http://localhost:61953/user-guide/member-class/</link>
+      <link>http://localhost:50702/user-guide/member-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/member-class/</guid>
+      <guid>http://localhost:50702/user-guide/member-class/</guid>
       <description>
         
         
@@ -5872,10 +5872,10 @@ Please click ‘delete&amp;rsquo; to remove the member class from the list.&lt;/
     
     <item>
       <title>Member Label</title>
-      <link>http://localhost:61953/user-guide/member-label/</link>
+      <link>http://localhost:50702/user-guide/member-label/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/member-label/</guid>
+      <guid>http://localhost:50702/user-guide/member-label/</guid>
       <description>
         
         
@@ -5904,10 +5904,10 @@ Please select the listed members or follow the Member listing module to add new 
     
     <item>
       <title>Member Label List</title>
-      <link>http://localhost:61953/user-guide/member-label-list/</link>
+      <link>http://localhost:50702/user-guide/member-label-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/member-label-list/</guid>
+      <guid>http://localhost:50702/user-guide/member-label-list/</guid>
       <description>
         
         
@@ -5934,10 +5934,10 @@ Please fill up the compulsory information to add a new label. Please take note t
     
     <item>
       <title>Member Listing</title>
-      <link>http://localhost:61953/user-guide/member-listing/</link>
+      <link>http://localhost:50702/user-guide/member-listing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/member-listing/</guid>
+      <guid>http://localhost:50702/user-guide/member-listing/</guid>
       <description>
         
         
@@ -5978,10 +5978,10 @@ Item code &amp;amp; name&lt;/p&gt;
     
     <item>
       <title>MyInvois Setup Guide</title>
-      <link>http://localhost:61953/guides/einvoice-guides/myinvois-setup/</link>
+      <link>http://localhost:50702/guides/einvoice-guides/myinvois-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/einvoice-guides/myinvois-setup/</guid>
+      <guid>http://localhost:50702/guides/einvoice-guides/myinvois-setup/</guid>
       <description>
         
         
@@ -6076,10 +6076,10 @@ Item code &amp;amp; name&lt;/p&gt;
     
     <item>
       <title>Platform Overview</title>
-      <link>http://localhost:61953/user-guide/platform-overview/</link>
+      <link>http://localhost:50702/user-guide/platform-overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/platform-overview/</guid>
+      <guid>http://localhost:50702/user-guide/platform-overview/</guid>
       <description>
         
         
@@ -6289,7 +6289,7 @@ Item code &amp;amp; name&lt;/p&gt;
 &lt;li&gt;80% improvement in reconciliation accuracy&lt;/li&gt;
 &lt;li&gt;50% reduction in response times&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:61953/ai-intelligence/&#34; &gt;Learn more about AI capabilities&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:50702/ai-intelligence/&#34; &gt;Learn more about AI capabilities&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Key Platform Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-platform-features&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#key-platform-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Multi-Tenancy &amp;amp; Security&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;multi-tenancy--security&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#multi-tenancy--security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Data Isolation&lt;/strong&gt;&lt;/p&gt;
@@ -6456,10 +6456,10 @@ Item code &amp;amp; name&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Learn More&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;learn-more&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#learn-more&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Implementation Guide&lt;/a&gt;&lt;/strong&gt; - Detailed deployment instructions&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/applets/&#34; &gt;Applet Catalog&lt;/a&gt;&lt;/strong&gt; - Browse available business applets&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt;&lt;/strong&gt; - Technical integration details&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Best Practices&lt;/a&gt;&lt;/strong&gt; - Industry recommendations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Implementation Guide&lt;/a&gt;&lt;/strong&gt; - Detailed deployment instructions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Applet Catalog&lt;/a&gt;&lt;/strong&gt; - Browse available business applets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt;&lt;/strong&gt; - Technical integration details&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Best Practices&lt;/a&gt;&lt;/strong&gt; - Industry recommendations&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://academy.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Training Academy&lt;/a&gt;&lt;/strong&gt; - Comprehensive training programs&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -6468,10 +6468,10 @@ Item code &amp;amp; name&lt;/p&gt;
     
     <item>
       <title>Price book</title>
-      <link>http://localhost:61953/user-guide/price-book/</link>
+      <link>http://localhost:50702/user-guide/price-book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/price-book/</guid>
+      <guid>http://localhost:50702/user-guide/price-book/</guid>
       <description>
         
         
@@ -6494,10 +6494,10 @@ Description&lt;/p&gt;
     
     <item>
       <title>Price Set</title>
-      <link>http://localhost:61953/user-guide/price-set/</link>
+      <link>http://localhost:50702/user-guide/price-set/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/price-set/</guid>
+      <guid>http://localhost:50702/user-guide/price-set/</guid>
       <description>
         
         
@@ -6540,10 +6540,10 @@ Please tick the relevant Treatment and select the Price source, Operator and the
     
     <item>
       <title>Pricing Scheme</title>
-      <link>http://localhost:61953/user-guide/pricing-scheme/</link>
+      <link>http://localhost:50702/user-guide/pricing-scheme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/pricing-scheme/</guid>
+      <guid>http://localhost:50702/user-guide/pricing-scheme/</guid>
       <description>
         
         
@@ -6551,7 +6551,7 @@ Please tick the relevant Treatment and select the Price source, Operator and the
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-12T21:27:30.118Z
 Once a user clicks on the pricing scheme module it will land on the pricing scheme listing page. The module is used to create the template for pricing that can be also used in transactional applets such as POS, GRN, etc. In this module you can only create the template/scheme, the price can be added later for each specific item in the &amp;ldquo;Item Maintenance&amp;rdquo; module
 For example, in the POS applet, users can go to the settings and choose which Pricing Scheme they want to use for a minimum price, maximum price or the retail price as shown in the interface below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:61953/screenshots/placeholder-pricing-scheme.svg&#34; alt=&#34;Pricing Scheme Configuration&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:50702/screenshots/placeholder-pricing-scheme.svg&#34; alt=&#34;Pricing Scheme Configuration&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;Figure 1: Pricing Scheme Configuration in POS Settings - showing Malaysian tax-compliant pricing options&lt;/em&gt;
 Users also may search pricing schemes in the listing itself using fuzzy search in the AG-Grid listing. Pricing schemes can be searched in general search or advanced search:&lt;/p&gt;
 &lt;h2&gt;4.1 Pricing Scheme Create﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;41-pricing-scheme-create&#34;&gt;&lt;/span&gt;
@@ -6576,10 +6576,10 @@ In addition, users may delete the pricing scheme if they wish to. Users may clic
     
     <item>
       <title>Search Documentation</title>
-      <link>http://localhost:61953/search/</link>
+      <link>http://localhost:50702/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/search/</guid>
+      <guid>http://localhost:50702/search/</guid>
       <description>
         
         
@@ -6803,22 +6803,22 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;h2&gt;Popular Topics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;popular-topics&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#popular-topics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Platform &amp;amp; Operations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;platform--operations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#platform--operations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/introduction/&#34; &gt;Platform Overview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Business Operations Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Implementation Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/introduction/&#34; &gt;Platform Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Business Operations Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Implementation Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Business Functions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;business-functions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#business-functions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/applets/&#34; &gt;Financial Management&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/applets/&#34; &gt;Sales &amp;amp; CRM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/applets/&#34; &gt;Supply Chain&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/applets/&#34; &gt;Human Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Financial Management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Sales &amp;amp; CRM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Supply Chain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/applets/&#34; &gt;Human Resources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Technical Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;technical-resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#technical-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Developer Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Integration Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Developer Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Integration Hub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -6826,10 +6826,10 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     
     <item>
       <title>Stock Management Guide</title>
-      <link>http://localhost:61953/guides/inventory-guides/stock-management/</link>
+      <link>http://localhost:50702/guides/inventory-guides/stock-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/inventory-guides/stock-management/</guid>
+      <guid>http://localhost:50702/guides/inventory-guides/stock-management/</guid>
       <description>
         
         
@@ -6895,10 +6895,10 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     
     <item>
       <title>Team</title>
-      <link>http://localhost:61953/user-guide/team/</link>
+      <link>http://localhost:50702/user-guide/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/user-guide/team/</guid>
+      <guid>http://localhost:50702/user-guide/team/</guid>
       <description>
         
         
@@ -6940,10 +6940,10 @@ After adding the permission, you can Edit or Delete it from the ‘Permission.&l
     
     <item>
       <title>AI &amp; Intelligence Platform</title>
-      <link>http://localhost:61953/ai-intelligence/</link>
+      <link>http://localhost:50702/ai-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/ai-intelligence/</guid>
+      <guid>http://localhost:50702/ai-intelligence/</guid>
       <description>
         
         
@@ -7431,17 +7431,17 @@ After adding the permission, you can Edit or Delete it from the ‘Permission.&l
 &lt;li&gt;&lt;strong&gt;Training&lt;/strong&gt;: Comprehensive AI literacy programs&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Support&lt;/strong&gt;: 24/7 AI helpdesk&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:61953/ai-intelligence/&#34; &gt;Launch AI Journey&lt;/a&gt; | &lt;a href=&#34;mailto:ai@bigledger.com&#34; &gt;Contact AI Team&lt;/a&gt; | &lt;a href=&#34;http://localhost:61953/ai-intelligence/&#34; &gt;View Pricing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:50702/ai-intelligence/&#34; &gt;Launch AI Journey&lt;/a&gt; | &lt;a href=&#34;mailto:ai@bigledger.com&#34; &gt;Contact AI Team&lt;/a&gt; | &lt;a href=&#34;http://localhost:50702/ai-intelligence/&#34; &gt;View Pricing&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>API Reference</title>
-      <link>http://localhost:61953/developers/api-reference/</link>
+      <link>http://localhost:50702/developers/api-reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developers/api-reference/</guid>
+      <guid>http://localhost:50702/developers/api-reference/</guid>
       <description>
         
         
@@ -7843,10 +7843,10 @@ After adding the permission, you can Edit or Delete it from the ‘Permission.&l
     
     <item>
       <title>Demos &amp; Resources</title>
-      <link>http://localhost:61953/demos-resources/</link>
+      <link>http://localhost:50702/demos-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/demos-resources/</guid>
+      <guid>http://localhost:50702/demos-resources/</guid>
       <description>
         
         
@@ -8014,17 +8014,17 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
     &lt;a href=&#34;#additional-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📚 Documentation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-documentation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-documentation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Getting Started Guides&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Platform Setup Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/&#34; &gt;Module Configuration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Integration Manual&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/&#34; &gt;Best Practices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Platform Setup Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/&#34; &gt;Module Configuration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Integration Manual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/&#34; &gt;Best Practices&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Technical Documentation&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/api-reference/&#34; &gt;API Reference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Data Dictionary&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Security Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/&#34; &gt;Performance Tuning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/api-reference/&#34; &gt;API Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Data Dictionary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Security Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/&#34; &gt;Performance Tuning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;🎓 Training Materials&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-training-materials&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-training-materials&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Video Tutorials&lt;/strong&gt;&lt;/p&gt;
@@ -8099,7 +8099,7 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
 &lt;li&gt;Key requirements&lt;/li&gt;
 &lt;li&gt;Preferred date/time&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:61953/demos-resources/&#34; &gt;Schedule Demo Now&lt;/a&gt; | &lt;a href=&#34;mailto:sales@bigledger.com&#34; &gt;Contact Sales&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:50702/demos-resources/&#34; &gt;Schedule Demo Now&lt;/a&gt; | &lt;a href=&#34;mailto:sales@bigledger.com&#34; &gt;Contact Sales&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Customer Success Stories&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;customer-success-stories&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#customer-success-stories&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;🏪 Retail Chain&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-retail-chain&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-retail-chain&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Challenge:&lt;/strong&gt; Manual processes across 500 outlets
@@ -8160,7 +8160,7 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
 &lt;li&gt;Industry insights&lt;/li&gt;
 &lt;li&gt;Regulatory updates&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:61953/demos-resources/&#34; &gt;Subscribe Now&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:50702/demos-resources/&#34; &gt;Subscribe Now&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;BigLedger - Empowering Malaysian Businesses with Data-Driven Excellence&lt;/em&gt;&lt;/p&gt;
 
@@ -8169,10 +8169,10 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
     
     <item>
       <title>Developer Documentation</title>
-      <link>http://localhost:61953/developer-docs/</link>
+      <link>http://localhost:50702/developer-docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developer-docs/</guid>
+      <guid>http://localhost:50702/developer-docs/</guid>
       <description>
         
         
@@ -8194,10 +8194,10 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
     
     <item>
       <title>E-Invoice APIs</title>
-      <link>http://localhost:61953/developers/api-reference/einvoice/</link>
+      <link>http://localhost:50702/developers/api-reference/einvoice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developers/api-reference/einvoice/</guid>
+      <guid>http://localhost:50702/developers/api-reference/einvoice/</guid>
       <description>
         
         
@@ -9389,10 +9389,10 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
     
     <item>
       <title>Journal Entries Guide</title>
-      <link>http://localhost:61953/guides/accounting-guides/journal-entries/</link>
+      <link>http://localhost:50702/guides/accounting-guides/journal-entries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/accounting-guides/journal-entries/</guid>
+      <guid>http://localhost:50702/guides/accounting-guides/journal-entries/</guid>
       <description>
         
         
@@ -9636,17 +9636,17 @@ Dr. Input Tax              30
 &lt;li&gt;Verify module integration&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Need help? Visit our &lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Support Center&lt;/a&gt; or contact &lt;a href=&#34;mailto:support@bigledger.com&#34; &gt;support@bigledger.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Need help? Visit our &lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Support Center&lt;/a&gt; or contact &lt;a href=&#34;mailto:support@bigledger.com&#34; &gt;support@bigledger.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Month-End Closing Process</title>
-      <link>http://localhost:61953/tutorials/month-end-closing/</link>
+      <link>http://localhost:50702/tutorials/month-end-closing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/tutorials/month-end-closing/</guid>
+      <guid>http://localhost:50702/tutorials/month-end-closing/</guid>
       <description>
         
         
@@ -9701,10 +9701,10 @@ Dr. Input Tax              30
     
     <item>
       <title>PEPPOL Configuration Guide</title>
-      <link>http://localhost:61953/guides/einvoice-guides/peppol-configuration/</link>
+      <link>http://localhost:50702/guides/einvoice-guides/peppol-configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/einvoice-guides/peppol-configuration/</guid>
+      <guid>http://localhost:50702/guides/einvoice-guides/peppol-configuration/</guid>
       <description>
         
         
@@ -9783,10 +9783,10 @@ Dr. Input Tax              30
     
     <item>
       <title>Point of Sales (POS)</title>
-      <link>http://localhost:61953/modules/pos/</link>
+      <link>http://localhost:50702/modules/pos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/pos/</guid>
+      <guid>http://localhost:50702/modules/pos/</guid>
       <description>
         
         
@@ -10402,7 +10402,7 @@ Dr. Input Tax              30
 &lt;/ul&gt;
 &lt;h2&gt;Support Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support-resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📖 &lt;a href=&#34;http://localhost:61953/modules/pos/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📖 &lt;a href=&#34;http://localhost:50702/modules/pos/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/pos&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:pos-support@bigledger.com&#34; &gt;Email Support&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📞 24/7 Support: +1-800-POS-HELP&lt;/li&gt;
@@ -10413,10 +10413,10 @@ Dr. Input Tax              30
     
     <item>
       <title>Stock Transfer Procedures</title>
-      <link>http://localhost:61953/guides/inventory-guides/stock-transfer/</link>
+      <link>http://localhost:50702/guides/inventory-guides/stock-transfer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/inventory-guides/stock-transfer/</guid>
+      <guid>http://localhost:50702/guides/inventory-guides/stock-transfer/</guid>
       <description>
         
         
@@ -10486,10 +10486,10 @@ Dr. Input Tax              30
     
     <item>
       <title>Developer Platform</title>
-      <link>http://localhost:61953/developers/</link>
+      <link>http://localhost:50702/developers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developers/</guid>
+      <guid>http://localhost:50702/developers/</guid>
       <description>
         
         
@@ -10712,16 +10712,16 @@ Use our SDKs and code examples to build production-ready integrations.
     
     <item>
       <title>Implementation Guides</title>
-      <link>http://localhost:61953/guides/</link>
+      <link>http://localhost:50702/guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/</guid>
+      <guid>http://localhost:50702/guides/</guid>
       <description>
         
         
         &lt;h1&gt;BigLedger Implementation Guides&lt;/h1&gt;&lt;p&gt;Comprehensive step-by-step guides for implementing and using BigLedger&amp;rsquo;s features.&lt;/p&gt;
 &lt;h2&gt;Guide Categories&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;guide-categories&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#guide-categories&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📊 &lt;a href=&#34;http://localhost:61953/guides/accounting-guides/&#34; &gt;Accounting Guides&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-accounting-guides&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#guide-categories&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📊 &lt;a href=&#34;http://localhost:50702/guides/accounting-guides/&#34; &gt;Accounting Guides&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-accounting-guides&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-accounting-guides&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Master financial management with BigLedger:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Chart of Accounts Setup&lt;/li&gt;
@@ -10729,7 +10729,7 @@ Use our SDKs and code examples to build production-ready integrations.
 &lt;li&gt;Financial Reporting&lt;/li&gt;
 &lt;li&gt;Bank Reconciliation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;📄 &lt;a href=&#34;http://localhost:61953/guides/einvoice-guides/&#34; &gt;E-Invoice Implementation&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-e-invoice-implementation&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;📄 &lt;a href=&#34;http://localhost:50702/guides/einvoice-guides/&#34; &gt;E-Invoice Implementation&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-e-invoice-implementation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-e-invoice-implementation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Complete e-invoice and PEPPOL setup:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;MyInvois Configuration&lt;/li&gt;
@@ -10737,7 +10737,7 @@ Use our SDKs and code examples to build production-ready integrations.
 &lt;li&gt;Validation Rules&lt;/li&gt;
 &lt;li&gt;Compliance Requirements&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;📦 &lt;a href=&#34;http://localhost:61953/guides/inventory-guides/&#34; &gt;Inventory Management&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-inventory-management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;📦 &lt;a href=&#34;http://localhost:50702/guides/inventory-guides/&#34; &gt;Inventory Management&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-inventory-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-inventory-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Optimize stock and warehouse operations:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Stock Management&lt;/li&gt;
@@ -10748,22 +10748,22 @@ Use our SDKs and code examples to build production-ready integrations.
 &lt;h2&gt;Quick Links&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;quick-links&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#quick-links&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Most Popular Guides&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;most-popular-guides&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#most-popular-guides&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/accounting-guides/chart-of-accounts-setup/&#34; &gt;Chart of Accounts Setup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/einvoice-guides/myinvois-setup/&#34; &gt;MyInvois Setup Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/accounting-guides/bank-reconciliation-guide/&#34; &gt;Bank Reconciliation Step-by-Step&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/inventory-guides/stock-management/&#34; &gt;Stock Management Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/accounting-guides/chart-of-accounts-setup/&#34; &gt;Chart of Accounts Setup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/einvoice-guides/myinvois-setup/&#34; &gt;MyInvois Setup Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/accounting-guides/bank-reconciliation-guide/&#34; &gt;Bank Reconciliation Step-by-Step&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/inventory-guides/stock-management/&#34; &gt;Stock Management Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;New User Guides&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-user-guides&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#new-user-guides&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/introduction/&#34; &gt;Platform Overview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/modules/financial-accounting/&#34; &gt;Creating Your First Invoice&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/navigation/&#34; &gt;Basic Navigation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/introduction/&#34; &gt;Platform Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/modules/financial-accounting/&#34; &gt;Creating Your First Invoice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/navigation/&#34; &gt;Basic Navigation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Advanced Topics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advanced-topics&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advanced-topics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/accounting-guides/financial-reporting/&#34; &gt;Financial Reporting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/einvoice-guides/einvoice-validation/&#34; &gt;E-Invoice Validation Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/inventory-guides/stock-transfer/&#34; &gt;Stock Transfer Procedures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/accounting-guides/financial-reporting/&#34; &gt;Financial Reporting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/einvoice-guides/einvoice-validation/&#34; &gt;E-Invoice Validation Rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/inventory-guides/stock-transfer/&#34; &gt;Stock Transfer Procedures&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;By Business Process&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;by-business-process&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#by-business-process&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Order-to-Cash&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;order-to-cash&#34;&gt;&lt;/span&gt;
@@ -10824,9 +10824,9 @@ Use our SDKs and code examples to build production-ready integrations.
 &lt;h2&gt;Support Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support-resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Documentation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;documentation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#documentation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;User Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/developers/api-reference/&#34; &gt;API Reference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Troubleshooting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;User Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/developers/api-reference/&#34; &gt;API Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Troubleshooting&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Training&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;training&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#training&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
@@ -10850,20 +10850,20 @@ Use our SDKs and code examples to build production-ready integrations.
     
     <item>
       <title>Accounting Guides</title>
-      <link>http://localhost:61953/guides/accounting-guides/</link>
+      <link>http://localhost:50702/guides/accounting-guides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/accounting-guides/</guid>
+      <guid>http://localhost:50702/guides/accounting-guides/</guid>
       <description>
         
         
         &lt;h1&gt;Accounting Guides&lt;/h1&gt;&lt;p&gt;Comprehensive guides for accounting guides.&lt;/p&gt;
 &lt;h2&gt;Available Guides&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;available-guides&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#available-guides&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/accounting-guides/chart-of-accounts-setup/&#34; &gt;Chart of Accounts Setup Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/accounting-guides/journal-entries/&#34; &gt;Journal Entries Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/accounting-guides/financial-reporting/&#34; &gt;Financial Reporting Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:61953/guides/accounting-guides/bank-reconciliation-guide/&#34; &gt;Bank Reconciliation Step-by-Step&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/accounting-guides/chart-of-accounts-setup/&#34; &gt;Chart of Accounts Setup Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/accounting-guides/journal-entries/&#34; &gt;Journal Entries Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/accounting-guides/financial-reporting/&#34; &gt;Financial Reporting Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:50702/guides/accounting-guides/bank-reconciliation-guide/&#34; &gt;Bank Reconciliation Step-by-Step&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -10871,10 +10871,10 @@ Use our SDKs and code examples to build production-ready integrations.
     
     <item>
       <title>API Reference</title>
-      <link>http://localhost:61953/api-reference/</link>
+      <link>http://localhost:50702/api-reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/api-reference/</guid>
+      <guid>http://localhost:50702/api-reference/</guid>
       <description>
         
         
@@ -10898,10 +10898,10 @@ Use our SDKs and code examples to build production-ready integrations.
     
     <item>
       <title>BigLedger Modules</title>
-      <link>http://localhost:61953/modules/</link>
+      <link>http://localhost:50702/modules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/</guid>
+      <guid>http://localhost:50702/modules/</guid>
       <description>
         
         
@@ -10979,8 +10979,8 @@ Use our SDKs and code examples to build production-ready integrations.
     &lt;a href=&#34;#support&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Need help choosing the right modules for your business? Our team is here to help:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:sales@bigledger.com&#34; &gt;Contact Sales&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/modules/&#34; &gt;Module Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/modules/&#34; &gt;Module Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/user-guide/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Forum&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -10989,10 +10989,10 @@ Use our SDKs and code examples to build production-ready integrations.
     
     <item>
       <title>Customer Relationship Management (CRM)</title>
-      <link>http://localhost:61953/modules/crm/</link>
+      <link>http://localhost:50702/modules/crm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/modules/crm/</guid>
+      <guid>http://localhost:50702/modules/crm/</guid>
       <description>
         
         
@@ -11270,9 +11270,9 @@ Use our SDKs and code examples to build production-ready integrations.
 &lt;/ul&gt;
 &lt;h2&gt;Support &amp;amp; Training&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support--training&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support--training&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📚 &lt;a href=&#34;http://localhost:61953/modules/crm/&#34; &gt;CRM Best Practices Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:61953/modules/crm/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:61953/modules/crm/&#34; &gt;Report Templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;http://localhost:50702/modules/crm/&#34; &gt;CRM Best Practices Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;a href=&#34;http://localhost:50702/modules/crm/&#34; &gt;Video Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📊 &lt;a href=&#34;http://localhost:50702/modules/crm/&#34; &gt;Report Templates&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💬 &lt;a href=&#34;https://forum.bigledger.com/crm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Forum&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:crm-support@bigledger.com&#34; &gt;Support&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -11282,10 +11282,10 @@ Use our SDKs and code examples to build production-ready integrations.
     
     <item>
       <title>E-Invoice Validation Rules</title>
-      <link>http://localhost:61953/guides/einvoice-guides/einvoice-validation/</link>
+      <link>http://localhost:50702/guides/einvoice-guides/einvoice-validation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/einvoice-guides/einvoice-validation/</guid>
+      <guid>http://localhost:50702/guides/einvoice-guides/einvoice-validation/</guid>
       <description>
         
         
@@ -11361,10 +11361,10 @@ Use our SDKs and code examples to build production-ready integrations.
     
     <item>
       <title>Financial Reporting Guide</title>
-      <link>http://localhost:61953/guides/accounting-guides/financial-reporting/</link>
+      <link>http://localhost:50702/guides/accounting-guides/financial-reporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/guides/accounting-guides/financial-reporting/</guid>
+      <guid>http://localhost:50702/guides/accounting-guides/financial-reporting/</guid>
       <description>
         
         
@@ -11565,10 +11565,10 @@ Current Ratio = Current Assets / Current Liabilities&lt;/code&gt;&lt;/pre&gt;&lt
     
     <item>
       <title>Sales &amp; CRM APIs</title>
-      <link>http://localhost:61953/developers/api-reference/sales/</link>
+      <link>http://localhost:50702/developers/api-reference/sales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/developers/api-reference/sales/</guid>
+      <guid>http://localhost:50702/developers/api-reference/sales/</guid>
       <description>
         
         

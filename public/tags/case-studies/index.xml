@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Case-Studies</title>
-    <link>http://localhost:61953/tags/case-studies/</link>
+    <link>http://localhost:50702/tags/case-studies/</link>
     <description>Recent content in Case-Studies on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:61953/tags/case-studies/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50702/tags/case-studies/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Industry Solutions</title>
-      <link>http://localhost:61953/industry-solutions/</link>
+      <link>http://localhost:50702/industry-solutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/industry-solutions/</guid>
+      <guid>http://localhost:50702/industry-solutions/</guid>
       <description>
         
         

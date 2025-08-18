@@ -91,11 +91,17 @@ params:
   sidebar:
     enable: true
     fold: false
+    showPages: true      # Show all pages in sidebar
+    showCategories: true # Show category organization
+    showTags: false     # Hide tags in sidebar
     
   # Table of contents
   toc:
     enable: true
     headingLevel: 3
+    startLevel: 2       # Start from H2 headings
+    endLevel: 4         # Show up to H4 headings
+    ordered: false      # Use bullets instead of numbers
     
   # Comments
   comments:
@@ -119,44 +125,105 @@ params:
 # Menu configuration
 menu:
   main:
-    - identifier: modules
-      name: Modules
+    # Main ERP dropdown
+    - identifier: erp
+      name: "🏢 BigLedger ERP"
       weight: 1
       pageRef: /modules
       
-    - identifier: applets
-      name: Applets
+    - identifier: getting-started
+      name: "🚀 Getting Started"
       weight: 2
-      pageRef: /applets
-      
-    - identifier: einvoice
-      name: E-Invoice & PEPPOL
-      weight: 3
-      pageRef: /e-invoice-peppol
-      
-    - identifier: operations
-      name: Business Operations
-      weight: 4
-      pageRef: /business-operations
-      
-    - identifier: user-guide
-      name: User Guide
-      weight: 5
       pageRef: /user-guide
       
-    - identifier: ecommerce
-      name: E-Commerce
-      weight: 6
-      pageRef: /ecommerce
+    # Applications (Core ERP Modules)
+    - identifier: applications
+      name: "📦 Applications"
+      weight: 3
+      hasChildren: true
       
-    - identifier: ai
+    - identifier: finance
+      name: Finance & Accounting
+      parent: applications
+      pageRef: /modules/financial-accounting
+      weight: 10
+      
+    - identifier: sales
+      name: Sales & CRM
+      parent: applications
+      pageRef: /modules/crm
+      weight: 20
+      
+    - identifier: inventory
+      name: Inventory & Warehouse
+      parent: applications
+      pageRef: /modules/inventory
+      weight: 30
+      
+    - identifier: purchasing
+      name: Purchasing
+      parent: applications
+      pageRef: /modules/procurement
+      weight: 40
+      
+    - identifier: manufacturing
+      name: Manufacturing
+      parent: applications
+      pageRef: /modules/manufacturing
+      weight: 50
+      
+    - identifier: pos
+      name: Point of Sale
+      parent: applications
+      pageRef: /modules/pos
+      weight: 60
+      
+    - identifier: hr
+      name: Human Resources
+      parent: applications
+      pageRef: /modules/hr
+      weight: 70
+      
+    # Platform Features
+    - identifier: platform
+      name: "⚙️ Platform"
+      weight: 4
+      hasChildren: true
+      
+    - identifier: applets-menu
+      name: Applet Ecosystem
+      parent: platform
+      pageRef: /applets
+      weight: 10
+      
+    - identifier: einvoice-menu
+      name: E-Invoice & PEPPOL
+      parent: platform
+      pageRef: /e-invoice-peppol
+      weight: 20
+      
+    - identifier: ai-menu
       name: AI Intelligence
-      weight: 7
+      parent: platform
       pageRef: /ai-intelligence
+      weight: 30
       
+    - identifier: ecommerce-menu
+      name: E-Commerce Integration
+      parent: platform
+      pageRef: /ecommerce
+      weight: 40
+      
+    # Industries
+    - identifier: industries
+      name: "🏭 Industries"
+      weight: 5
+      pageRef: /industry-solutions
+      
+    # Developers
     - identifier: developers
-      name: Developers
-      weight: 8
+      name: "👩‍💻 Developers"
+      weight: 6
       pageRef: /developers
     
     - identifier: search
@@ -175,7 +242,7 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON
+    - llms  # For search functionality
 
 deployment:
   targets:

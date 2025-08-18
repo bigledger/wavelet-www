@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dokumentasi BigLedger – Tags</title>
-    <link>http://localhost:61953/ms/tags/</link>
+    <link>http://localhost:50702/ms/tags/</link>
     <description>Recent content in Tags on Dokumentasi BigLedger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ms</language>
     
-	  <atom:link href="http://localhost:61953/ms/tags/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50702/ms/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       

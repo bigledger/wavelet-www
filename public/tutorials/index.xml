@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Tutorials</title>
-    <link>http://localhost:61953/tutorials/</link>
+    <link>http://localhost:50702/tutorials/</link>
     <description>Recent content in Tutorials on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:61953/tutorials/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50702/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Creating Your First Invoice</title>
-      <link>http://localhost:61953/tutorials/first-invoice/</link>
+      <link>http://localhost:50702/tutorials/first-invoice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/tutorials/first-invoice/</guid>
+      <guid>http://localhost:50702/tutorials/first-invoice/</guid>
       <description>
         
         
@@ -56,10 +56,10 @@
     
     <item>
       <title>Month-End Closing Process</title>
-      <link>http://localhost:61953/tutorials/month-end-closing/</link>
+      <link>http://localhost:50702/tutorials/month-end-closing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61953/tutorials/month-end-closing/</guid>
+      <guid>http://localhost:50702/tutorials/month-end-closing/</guid>
       <description>
         
         

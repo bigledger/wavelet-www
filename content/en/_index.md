@@ -1,384 +1,368 @@
 ---
-description: '{{< hextra/hero-badge >}}'
-tags:
-- user-guide
-title: BigLedger Documentation
+title: BigLedger ERP Documentation
+description: Complete documentation for BigLedger ERP - Malaysia's leading cloud ERP platform
 toc: false
-weight: 10
+layout: hextra-home
 ---
 
 {{< hextra/hero-badge >}}
-  <span>MDEC Accredited PEPPOL Service Provider</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+  <span>🇲🇾 Malaysia's #1 Cloud ERP • MDEC PEPPOL Accredited</span>
 {{< /hextra/hero-badge >}}
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  BigLedger Data Hub&nbsp;<br class="sm:block hidden" />
-  Centralized Data Management & E-Invoice Platform
+  BigLedger ERP Platform
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Transform data efficiency with our modular ERP and MyInvois-ready platform&nbsp;<br class="sm:block hidden" />
-  Trusted by Malaysian businesses for seamless digital transformation
+  Complete Business Management System • 100+ Modules • E-Invoice Ready • AI-Powered<br />
+  Trusted by 10,000+ businesses • 500+ Partners • 15+ Industries
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="mb-6">
-{{< hextra/hero-button text="Launch Your Platform" link="/implementation/" >}}
-</div>
+## 🎯 Choose Your Path
 
-## 🏢 Platform Overview
+{{< tabs items="🏢 Business User,🤝 Partner/Reseller,👩‍💻 Developer" >}}
 
-BigLedger revolutionizes business operations through **centralized data management** and **seamless ERP integration**, making us the ideal partner for Malaysia's digital transformation journey. As CEO Vincent Lee emphasizes: *"Accessing, analysing and acting on data efficiently is crucial for survival and growth."*
+{{< tab >}}
+### **Run Your Business Better**
 
-### Core Platform Components
+Start with our comprehensive ERP modules designed for every aspect of your business operations.
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
 
-**📊 Central Data Hub**
-- Unified data exchange platform
-- Consolidates data from multiple sources
-- Real-time data synchronization
-- Advanced analytics & business intelligence
-- Transforms isolated data into actionable assets
+**Quick Start**
+- [📚 Getting Started Guide](/user-guide/introduction/)
+- [🎯 First Steps Tutorial](/user-guide/creating-an-item/)
+- [🧭 Navigation Guide](/user-guide/navigation/)
+- [🎬 Video Tutorials](/demos-resources/)
 
-**📱 Modular ERP System**
-- Flexible business applets
-- Customizable for any business size
-- Seamless integration capabilities
-- Industry-specific solutions
-- Pay-for-what-you-use model
-
-**🔧 E-Invoice & Compliance**
-- MDEC PEPPOL accreditation
-- MyInvois ready platform
-- Automated tax compliance
-- Multi-source data integration
-- Real-time LHDN submission
+**Core Modules**
+- [💰 Finance & Accounting](/modules/financial-accounting/)
+- [📦 Inventory Management](/modules/inventory/)
+- [👥 Sales & CRM](/modules/crm/)
+- [🏭 Manufacturing](/modules/manufacturing/)
 
 </div>
 
-### Why BigLedger?
+[**Explore All Modules →**](/modules/)
+{{< /tab >}}
 
-**Strategic Data Centralization**: Transform your business from reactive to proactive with our powerful ecosystem where data and processes actively inform and enhance each other.
+{{< tab >}}
+### **Grow Your Business with BigLedger**
 
-**Regulatory Advantage**: Turn MyInvois compliance from a requirement into a strategic opportunity for operational improvement.
+Join our partner ecosystem and help businesses transform digitally.
 
-## 📖 Documentation Hub
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
 
-### By Role
+**Partner Benefits**
+- 💵 Attractive revenue sharing
+- 🎓 Comprehensive training program
+- 🛠️ Implementation support
+- 📈 Marketing resources
+
+**Getting Started**
+- [Partner Program Overview](/partners/)
+- [Implementation Methodology](/implementation/)
+- [Training & Certification](/partners/training/)
+- [Support Resources](/partners/support/)
+
+</div>
+
+[**Become a Partner →**](https://bigledger.com/partners)
+{{< /tab >}}
+
+{{< tab >}}
+### **Build & Integrate**
+
+Comprehensive technical documentation for developers and system integrators.
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+
+**API Documentation**
+- [🔌 REST API Reference](/developers/api-reference/)
+- [🔐 Authentication Guide](/developers/authentication/)
+- [🔔 Webhook Events](/developers/webhooks/)
+- [⚡ Quick Start](/developers/getting-started/)
+
+**Development Tools**
+- [💻 SDK Libraries](/developers/sdks/)
+- [🧪 Sandbox Environment](/developers/getting-started/)
+- [📝 Code Examples](https://github.com/bigledger)
+- [🧩 Applet Development](/applets/)
+
+</div>
+
+[**Developer Hub →**](/developers/)
+{{< /tab >}}
+
+{{< /tabs >}}
+
+## 🏢 **Core ERP Applications**
+
+Our comprehensive suite of business applications covers every aspect of your operations.
+
+{{< cards >}}
+{{< card link="/modules/financial-accounting" title="💰 Finance & Accounting" subtitle="GL, AP/AR, Banking, Financial Reports" >}}
+{{< card link="/modules/inventory" title="📦 Inventory & Warehouse" subtitle="Multi-location, Serial/Batch, Barcode" >}}
+{{< card link="/modules/crm" title="👥 Sales & CRM" subtitle="Customers, Quotes, Orders, Invoicing" >}}
+{{< card link="/modules/procurement" title="🛒 Purchasing" subtitle="Vendors, POs, Approvals, 3-way match" >}}
+{{< card link="/modules/manufacturing" title="🏭 Manufacturing" subtitle="BOM, Work Orders, MRP, Quality" >}}
+{{< card link="/modules/pos" title="💳 Point of Sale" subtitle="Retail POS, Restaurant, Multi-store" >}}
+{{< card link="/modules/hr" title="👔 Human Resources" subtitle="Employees, Payroll, Leave, Claims" >}}
+{{< card link="/modules/projects" title="📊 Project Management" subtitle="Tasks, Time, Resources, Billing" >}}
+{{< /cards >}}
+
+## ⚡ **Platform Capabilities**
+
+Extend your ERP with powerful platform features and integrations.
+
+{{< cards >}}
+{{< card link="/e-invoice-peppol" title="🧾 E-Invoice & PEPPOL" subtitle="MDEC accredited, LHDN MyInvois ready" >}}
+{{< card link="/applets" title="🧩 100+ Applets" subtitle="Extend with ready-made business apps" >}}
+{{< card link="/ai-intelligence" title="🤖 AI Intelligence" subtitle="OCR, NLP, Predictions, Automation" >}}
+{{< card link="/ecommerce" title="🛍️ E-Commerce" subtitle="Shopify, Lazada, Shopee integration" >}}
+{{< card link="/business-operations/dashboard" title="📊 Analytics" subtitle="Real-time dashboards and insights" >}}
+{{< card link="/industry-solutions" title="🏢 Industries" subtitle="Tailored solutions by industry" >}}
+{{< /cards >}}
+
+## 🔍 **Find Information By**
+
+Multiple ways to discover the content you need:
+
+### By Your Role
+
+<div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-6">
+
+**Operations**
+- [Accountant](/roles/accountant/)
+- [Sales Rep](/roles/sales/)
+- [Warehouse](/roles/warehouse/)
+- [Cashier](/roles/cashier/)
+
+**Management**
+- [CEO/Owner](/roles/executive/)
+- [CFO](/roles/finance/)
+- [Sales Manager](/roles/sales-manager/)
+- [IT Manager](/roles/it/)
+
+**Partners**
+- [Implementer](/partners/implementation/)
+- [Consultant](/partners/consulting/)
+- [Trainer](/partners/training/)
+- [Support](/partners/support/)
+
+**Technical**
+- [Developer](/developers/)
+- [Integrator](/developers/integration/)
+- [Admin](/admin/)
+- [DevOps](/technical/)
+
+</div>
+
+### By Business Process
+
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
+
+**Financial Processes**
+- [Order to Cash](/processes/order-to-cash/)
+- [Procure to Pay](/processes/procure-to-pay/)
+- [Record to Report](/processes/record-to-report/)
+- [Month-end Closing](/processes/month-end/)
+
+**Operational Processes**
+- [Inventory Management](/processes/inventory/)
+- [Production Planning](/processes/production/)
+- [Quality Control](/processes/quality/)
+- [Fulfillment](/processes/fulfillment/)
+
+**Customer Processes**
+- [Lead to Customer](/processes/lead-to-customer/)
+- [Quote to Order](/processes/quote-to-order/)
+- [Service & Support](/processes/service/)
+- [Returns & Refunds](/processes/returns/)
+
+</div>
+
+### By Industry
+
+{{< cards >}}
+{{< card link="/industry-solutions/retail" title="🛍️ Retail & F&B" subtitle="POS, inventory, loyalty, multi-store" >}}
+{{< card link="/industry-solutions/wholesale" title="📦 Wholesale" subtitle="B2B, route sales, van sales" >}}
+{{< card link="/industry-solutions/manufacturing" title="🏭 Manufacturing" subtitle="Discrete, process, job shop" >}}
+{{< card link="/industry-solutions/automotive" title="🚗 Automotive" subtitle="Dealership, workshop, parts" >}}
+{{< card link="/industry-solutions/services" title="💼 Services" subtitle="Professional, field service" >}}
+{{< card link="/industry-solutions/healthcare" title="🏥 Healthcare" subtitle="Clinic, pharmacy, medical" >}}
+{{< /cards >}}
+
+## 🚀 **Quick Actions**
+
+<div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
+
+[**🎓 Start Tutorial**](/user-guide/introduction/)
+Learn basics in 30 mins
+
+[**🎬 Watch Demo**](/demos-resources/)
+See BigLedger in action
+
+[**📖 Browse Docs**](/modules/)
+Explore all features
+
+[**💬 Get Support**](/support/)
+Help when you need it
+
+[**🔧 Setup Guide**](/implementation/)
+Implementation steps
+
+[**🔌 API Docs**](/developers/api-reference/)
+Technical reference
+
+[**📢 What's New**](/release-notes/)
+Latest updates
+
+[**📞 Contact Sales**](https://bigledger.com/contact)
+Get a quote
+
+</div>
+
+## 📚 **Popular Topics**
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
 
-**Business Users**
-- **[Platform Overview](/user-guide/introduction/)** - Understanding BigLedger as your Business OS
-- **[Applets & Workflows](/applets/)** - Complete guide to BigLedger applets and automation
-- **[Business Operations](/business-operations/)** - Day-to-day operations and workflow management
-- **[User Guides](/user-guide/)** - Step-by-step tutorials and how-to guides
+**Getting Started**
+- [System Requirements](/implementation/requirements/)
+- [Initial Setup](/user-guide/introduction/)
+- [Company Configuration](/applets/organization-applet/)
+- [User Management](/user-guide/member-listing/)
+- [Basic Navigation](/user-guide/navigation/)
 
-**System Administrators**
-- **[Implementation Guide](/developers/getting-started/)** - Deploy and configure BigLedger
-- **[Applet Management](/applets/applet-directory/)** - Install, configure, and manage applets
-- **[Platform Administration](/modules/)** - Core modules and system configuration
-- **[E-commerce Integration](/ecommerce/)** - Multi-channel e-commerce with EcomSync
+**Daily Operations**
+- [Creating Sales Orders](/business-operations/order/)
+- [Processing Invoices](/business-operations/accounting/)
+- [Managing Inventory](/modules/inventory/)
+- [Bank Reconciliation](/business-operations/accounting/)
+- [Generating Reports](/business-operations/dashboard/)
 
-</div>
+**E-Invoice & Compliance**
+- [MyInvois Setup](/e-invoice-peppol/)
+- [PEPPOL Configuration](/e-invoice-peppol/)
+- [GST/SST Reports](/modules/financial-accounting/)
+- [Audit Trail](/business-operations/accounting/)
 
-### By Business Function
-
-**Financial Management**
-- [Accounting Operations](/business-operations/accounting/)
-- [Accounts Receivable](/business-operations/account-receivable/)
-- [Financial Reporting](/guides/accounting-guides/)
-
-**Sales & Customer Management**
-- [CRM Module](/modules/crm/)
-- [Order Management](/business-operations/order/)
-- [Sales Operations](/business-operations/sales-dashboard/)
-
-**E-commerce & Multi-channel**
-- [EcomSync Platform](/ecommerce/introduction-to-ecomsync/)
-- [Shopify Integration](/ecommerce/integration-with-shopify/)
-- [B2B Solutions](/ecommerce/b2b/)
-
-**Inventory & Supply Chain**
-- [Stock Management](/guides/inventory-guides/)
-- [Stock Take Operations](/applets/stock-take-applet/)
-- [Manufacturing](/modules/manufacturing/)
-
-### Industry-Specific Solutions
-
-**Automotive & Workshop**
-- [Automotive Industry Success Story](/industry-solutions/automotive-and-workshop-industry/)
-- [Workshop Management Solutions](/applets/organization-applet/)
-
-**Food & Beverage**
-- [F&B Industry Implementation](/industry-solutions/food-and-beverage-fb-industry/)
-- [Multi-branch Operations](/business-operations/dashboard/)
-
-**General Industries**
-- [Industry Solutions Overview](/industry-solutions/industry-guide/)
-- [Custom Implementation Approach](/industry-solutions/)
-
-## 🚀 Getting Started Paths
-
-Choose your journey based on your role:
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
-
-**New Implementation**
-1. [Platform Requirements](/user-guide/)
-2. [Deployment Options](/user-guide/)
-3. [Initial Setup Wizard](/user-guide/)
-4. [Applet Selection](/applets/)
-
-**Business User**
-1. [Platform Fundamentals](/user-guide/)
-2. [Navigation & Interface](/user-guide/navigation/)
-3. [Your First Transaction](/business-operations/)
-4. [Daily Tasks](/business-operations/)
-
-**Developer/Integrator**
-1. [Platform Architecture](/developers/)
-2. [API Documentation](/developers/api-reference/)
-3. [Applet Development](/developers/)
-4. [Integration Patterns](/developers/)
+**Integration & Development**
+- [API Authentication](/developers/authentication/)
+- [Webhook Setup](/developers/webhooks/)
+- [Data Import/Export](/developers/api-reference/)
+- [Custom Applets](/applets/)
 
 </div>
 
-## 🎯 Popular Use Cases
+## 🌟 **Why BigLedger?**
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
 
-**Manufacturing Enterprise**
-- Production planning & control
-- Quality management
-- Supply chain optimization
-- Cost accounting
+**🎯 Complete Solution**
+- All-in-one platform
+- 100+ business modules
+- Industry-specific features
+- Scalable architecture
 
-**Service Organization**
-- Project management
-- Resource allocation
-- Time & billing
-- Customer service
+**🚀 Fast Implementation**
+- Pre-configured templates
+- Guided setup wizard
+- Data migration tools
+- Expert support
 
-**Retail Business**
-- Point of sale integration
-- Multi-channel inventory
-- Customer loyalty
-- Merchandising
+**💰 Best Value**
+- Transparent pricing
+- No hidden costs
+- Pay for what you use
+- Immediate ROI
 
-**Distribution Company**
-- Warehouse management
-- Order fulfillment
-- Route optimization
-- Vendor management
+**🔒 Enterprise Security**
+- Bank-level encryption
+- Role-based access
+- Audit trails
+- GDPR compliant
 
-</div>
+**☁️ Cloud Native**
+- 99.9% uptime SLA
+- Automatic backups
+- Global CDN
+- Mobile ready
 
-## 🔗 Quick Links
-
-**Platform Resources**
-- [Applet Store](https://store.bigledger.com) - Browse and install business applets
-- [Community Forum](https://forum.bigledger.com) - Connect with other users
-- [Support Portal](https://support.bigledger.com) - Get help and submit tickets
-- [Training Academy](https://academy.bigledger.com) - Courses and certifications
-
-**Technical Resources**
-- [GitHub Repository](https://github.com/bigledger) - Source code and contributions
-- [API Explorer](https://api.bigledger.com) - Interactive API documentation
-- [Developer Portal](https://developers.bigledger.com) - SDKs and tools
-- [Status Page](https://status.bigledger.com) - Platform health monitoring
-
-## 🤖 AI-Powered Intelligence: Structured Data & Narrow AI
-
-BigLedger revolutionizes business operations by embedding **narrow AI** capabilities directly into everyday workflows, handling the "structured" part of digital transformation with precision and efficiency.
-
-### Built-in AI Capabilities
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
-
-**📄 Intelligent Document Processing**
-- **OCR for Expense Management**: Automatically extract data from employee claim receipts, invoices, and bills
-- **Smart Form Recognition**: Process purchase orders, delivery notes, and contracts
-- **Multi-format Support**: Handle PDFs, images, scanned documents
-- **Accuracy**: 99.5% field extraction accuracy with ML validation
-- **Languages**: Supports 50+ languages including handwritten text
-
-**💬 Natural Language Processing**
-- **Sentiment Analysis in UCC**: Real-time customer emotion detection in Unified Contact Center
-- **Intent Recognition**: Automatically categorize and route customer inquiries
-- **Conversation Intelligence**: Extract actionable insights from support interactions
-- **Multilingual Support**: Process customer feedback in multiple languages
-- **Automated Responses**: Smart reply suggestions based on context
-
-**🏦 Financial Intelligence**
-- **Bank Reconciliation**: AI-powered transaction matching with 95% auto-match rate
-- **Anomaly Detection**: Identify unusual transactions and potential fraud
-- **Cash Flow Prediction**: ML-based forecasting with historical pattern analysis
-- **Invoice Matching**: Three-way matching for PO, receipt, and invoice
-- **Credit Risk Assessment**: Automated customer credit scoring
-
-**📊 Operational Analytics**
-- **Demand Forecasting**: Predict inventory needs using historical data and trends
-- **Quality Control**: Computer vision for manufacturing defect detection
-- **Route Optimization**: AI-driven logistics and delivery planning
-- **Predictive Maintenance**: Equipment failure prediction using IoT sensors
-- **Resource Planning**: Optimal staff scheduling based on demand patterns
+**🤝 Local Support**
+- Malaysian company
+- Local phone support
+- On-site training
+- Partner network
 
 </div>
 
-### How BigLedger's Narrow AI Works
+## 🗺️ **Implementation Roadmap**
 
-**1. Data Capture & Structuring**
-- Automatically captures unstructured data from various sources
-- Converts to structured format using specialized AI models
-- Validates and enriches data with contextual information
-- Stores in operational data hub for cross-applet access
+<div class="grid grid-cols-1 md:grid-cols-4 gap-4 mt-8">
 
-**2. Intelligent Processing**
-- Domain-specific AI models trained on business data
-- Continuous learning from user corrections and feedback
-- Rule-based validation combined with ML predictions
-- Real-time processing with sub-second response times
+**Week 1-2: Foundation**
+- Requirements gathering
+- System setup
+- Master data import
+- User creation
 
-**3. Human-in-the-Loop**
-- AI suggestions with confidence scores
-- One-click approval for high-confidence predictions
-- Manual override capability for edge cases
-- Feedback loop for model improvement
+**Week 3-4: Configuration**
+- Module activation
+- Workflow setup
+- Integration config
+- Testing
 
-## 🚀 AIMatrix Integration: Your Super Agent Workspace
+**Week 5-6: Training**
+- User training
+- Admin training
+- Documentation
+- Practice runs
 
-BigLedger seamlessly integrates with **AIMatrix** - the revolutionary super agent workspace, studio, hub, and platform that amplifies your digital transformation journey.
-
-### What is AIMatrix?
-
-AIMatrix is an advanced AI orchestration platform that connects BigLedger with cutting-edge AI capabilities, creating a unified workspace where AI agents collaborate to solve complex business problems.
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
-
-**🎯 Agent Studio**
-- **Visual Agent Builder**: Drag-and-drop interface to create custom AI agents
-- **Pre-built Templates**: 100+ industry-specific agent templates
-- **Multi-Agent Orchestration**: Coordinate multiple agents for complex tasks
-- **Testing Sandbox**: Safe environment to train and test agents
-- **Version Control**: Track and manage agent iterations
-
-**🔧 Integration Hub**
-- **BigLedger Connector**: Native integration with all BigLedger applets
-- **API Gateway**: Connect to 500+ external services
-- **Data Pipeline**: Real-time data streaming and transformation
-- **Event-Driven Architecture**: Trigger agents based on business events
-- **Webhook Management**: Bi-directional communication
-
-**💡 Intelligence Platform**
-- **Large Language Models**: Access to GPT-4, Claude, and specialized models
-- **Computer Vision**: Advanced image and video analysis
-- **Speech Recognition**: Voice commands and transcription
-- **Predictive Analytics**: Advanced ML models for forecasting
-- **Knowledge Graphs**: Contextual understanding of business relationships
+**Week 7-8: Go-Live**
+- Data migration
+- Final testing
+- Cutover
+- Support
 
 </div>
 
-### AIMatrix + BigLedger: Synergistic Benefits
+## 📞 **Get Help**
 
-**Cost-Effective Digital Transformation**
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
 
-1. **Reduced Implementation Costs**
-   - 70% reduction in customization expenses
-   - No need for expensive AI development teams
-   - Pre-built integrations eliminate integration costs
-   - Pay-per-use model for AI capabilities
+**📚 Documentation**
+- [User Guides](/user-guide/)
+- [Video Tutorials](/demos-resources/)
+- [FAQs](/support/faq/)
+- [Best Practices](/guides/)
 
-2. **Accelerated Time-to-Value**
-   - Deploy AI solutions in days, not months
-   - Immediate access to pre-trained models
-   - No infrastructure setup required
-   - Instant scalability based on demand
+**🤝 Community**
+- [Forum](https://forum.bigledger.com)
+- [Blog](https://blog.bigledger.com)
+- [Events](/events/)
+- [User Groups](/community/)
 
-3. **Operational Excellence**
-   - 40% reduction in manual data entry
-   - 60% faster document processing
-   - 80% improvement in reconciliation accuracy
-   - 50% reduction in customer response time
-
-### Real-World Use Cases
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
-
-**🏭 Manufacturing Excellence**
-- **Quality Assurance Agent**: Inspects products using computer vision, integrates with BigLedger's quality control applet
-- **Supply Chain Optimizer**: Predicts disruptions, suggests alternative suppliers, updates procurement plans
-- **Maintenance Predictor**: Analyzes equipment data, schedules preventive maintenance, creates work orders
-
-**🏪 Retail Innovation**
-- **Customer Service Bot**: Handles inquiries, processes returns, updates CRM records
-- **Inventory Assistant**: Monitors stock levels, predicts demand, generates purchase orders
-- **Price Optimizer**: Analyzes competition, adjusts pricing, updates POS systems
-
-**🏥 Healthcare Efficiency**
-- **Claims Processor**: Extracts data from medical documents, validates claims, processes payments
-- **Appointment Scheduler**: Manages bookings, sends reminders, optimizes resource allocation
-- **Compliance Monitor**: Ensures regulatory compliance, generates audit reports
-
-**💼 Professional Services**
-- **Contract Analyzer**: Reviews legal documents, identifies risks, extracts key terms
-- **Time Tracker**: Automatically logs billable hours, generates timesheets, creates invoices
-- **Project Assistant**: Updates project status, identifies bottlenecks, suggests resource reallocation
+**🆘 Support**
+- [Submit Ticket](https://support.bigledger.com)
+- [Phone: 1-300-88-2534](tel:1300882534)
+- [Email Support](mailto:support@bigledger.com)
+- [Partner Portal](/partners/)
 
 </div>
 
-### Implementation Approach
+---
 
-**Phase 1: Foundation (Week 1-2)**
-- Deploy BigLedger core platform
-- Establish AIMatrix connection
-- Configure data pipelines
-- Set up user permissions
-
-**Phase 2: Quick Wins (Week 3-4)**
-- Implement OCR for expense processing
-- Deploy customer sentiment analysis
-- Activate bank reconciliation AI
-- Enable smart document routing
-
-**Phase 3: Advanced Automation (Week 5-8)**
-- Create custom AI agents
-- Implement predictive analytics
-- Deploy computer vision solutions
-- Integrate voice interfaces
-
-**Phase 4: Optimization (Ongoing)**
-- Monitor AI performance metrics
-- Refine models based on feedback
-- Expand automation coverage
-- Measure ROI and benefits
-
-## 📊 Platform Capabilities
-
-BigLedger provides enterprise-grade features across all applets:
-
-- **Multi-company** support with consolidated reporting
-- **Multi-currency** transactions and automatic conversion
-- **Multi-language** interface (30+ languages)
-- **Role-based access** control with fine-grained permissions
-- **Workflow automation** with approval chains
-- **Real-time collaboration** and notifications
-- **Mobile-first** responsive design
-- **Offline capability** with automatic sync
-- **AI-powered** automation and intelligence
-- **AIMatrix integration** for advanced AI capabilities
-
-## 🌐 Global Availability
-
-Documentation available in:
-- **English** (Primary - Always current)
-- [中文](/) - Chinese
-- [Bahasa Melayu](/) - Malay  
-- [العربية](/) - Arabic
-
-*Primary documentation is maintained in English with periodic translations.*
+<div class="text-center mt-12">
+  <p class="text-sm text-gray-500">
+    BigLedger® is a registered trademark of BigLedger Sdn Bhd<br>
+    © 2024 BigLedger. All rights reserved. | 
+    <a href="/privacy">Privacy</a> | 
+    <a href="/terms">Terms</a> | 
+    <a href="/security">Security</a>
+  </p>
+</div>
