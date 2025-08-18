@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Applets and Workflows</title>
-    <link>http://localhost:1313/applets/</link>
+    <link>http://localhost:61953/applets/</link>
     <description>Recent content in Applets and Workflows on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/applets/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61953/applets/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>9.0 EcomSync Related Applets</title>
-      <link>http://localhost:1313/applets/90-ecomsync-related-applets/</link>
+      <link>http://localhost:61953/applets/90-ecomsync-related-applets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/90-ecomsync-related-applets/</guid>
+      <guid>http://localhost:61953/applets/90-ecomsync-related-applets/</guid>
       <description>
         
         
@@ -42,10 +42,10 @@ Ecomsync - Internal Sale Order Applet : Update marketplace order status&lt;/p&gt
     
     <item>
       <title>Applet Directory</title>
-      <link>http://localhost:1313/applets/applet-directory/</link>
+      <link>http://localhost:61953/applets/applet-directory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/applet-directory/</guid>
+      <guid>http://localhost:61953/applets/applet-directory/</guid>
       <description>
         
         
@@ -64,10 +64,10 @@ true&lt;/p&gt;
     
     <item>
       <title>Applet Store</title>
-      <link>http://localhost:1313/applets/applet-store/</link>
+      <link>http://localhost:61953/applets/applet-store/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/applet-store/</guid>
+      <guid>http://localhost:61953/applets/applet-store/</guid>
       <description>
         
         
@@ -78,7 +78,7 @@ true&lt;/p&gt;
 Steps: Accept Marketplace Terms of Use &amp;gt; Install Applets &amp;gt; Open Applet
 Permission Settings of Applets: Create Permission Set &amp;gt; Create and Assign Role
 Personalization of Applets: Personalization of Applet.&lt;/p&gt;
-&lt;h1&gt;2.0 Entering the Applet Store&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/screenshots/placeholder-applet-store.svg&#34; alt=&#34;Applet Store Interface&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;h1&gt;2.0 Entering the Applet Store&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:61953/screenshots/placeholder-applet-store.svg&#34; alt=&#34;Applet Store Interface&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;Figure 1: BigLedger Applet Store - Browse and install business applets&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;2.1 Applet Store icon in the Akaun Platform&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;21-applet-store-icon-in-the-akaun-platform&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#21-applet-store-icon-in-the-akaun-platform&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When users first register and log in to the website, they will be directed to a page as shown in the interface above. Before installing any applet in the Applet Store, there is only one icon in the platform, which is the Applet Store icon. Then, users can proceed by clicking on the Applet Store to start browsing their desired applets.
@@ -257,10 +257,10 @@ Finally, users can leave the Applet Store by clicking on the &amp;ldquo;akaun&am
     
     <item>
       <title>Branch - Organization Applet</title>
-      <link>http://localhost:1313/applets/branch-organization-applet/</link>
+      <link>http://localhost:61953/applets/branch-organization-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/branch-organization-applet/</guid>
+      <guid>http://localhost:61953/applets/branch-organization-applet/</guid>
       <description>
         
         
@@ -316,10 +316,10 @@ Intercompany: Set whether the system automatically finalizes intercompany transa
     
     <item>
       <title>Company - Organization Applet,</title>
-      <link>http://localhost:1313/applets/company-organization-applet/</link>
+      <link>http://localhost:61953/applets/company-organization-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/company-organization-applet/</guid>
+      <guid>http://localhost:61953/applets/company-organization-applet/</guid>
       <description>
         
         
@@ -409,10 +409,10 @@ The KO (knock-off) options depend on the customer configuration and the user&amp
     
     <item>
       <title>Group Maintenance Applet</title>
-      <link>http://localhost:1313/applets/group-maintenance-applet/</link>
+      <link>http://localhost:61953/applets/group-maintenance-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/group-maintenance-applet/</guid>
+      <guid>http://localhost:61953/applets/group-maintenance-applet/</guid>
       <description>
         
         
@@ -425,10 +425,10 @@ Group Maintenance applet is to add users into a Group, and assign permission to 
     
     <item>
       <title>Ingram Micro MS ESD Applet</title>
-      <link>http://localhost:1313/applets/ingram-micro-ms-esd-applet/</link>
+      <link>http://localhost:61953/applets/ingram-micro-ms-esd-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/ingram-micro-ms-esd-applet/</guid>
+      <guid>http://localhost:61953/applets/ingram-micro-ms-esd-applet/</guid>
       <description>
         
         
@@ -440,10 +440,10 @@ Group Maintenance applet is to add users into a Group, and assign permission to 
     
     <item>
       <title>Installation of Group Maintenance Applet</title>
-      <link>http://localhost:1313/applets/installation-of-group-maintenance-applet/</link>
+      <link>http://localhost:61953/applets/installation-of-group-maintenance-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/installation-of-group-maintenance-applet/</guid>
+      <guid>http://localhost:61953/applets/installation-of-group-maintenance-applet/</guid>
       <description>
         
         
@@ -460,10 +460,10 @@ Group Maintenance applet is to add users into a Group, and assign permission to 
     
     <item>
       <title>Installation of Pricebook Applet</title>
-      <link>http://localhost:1313/applets/installation-of-pricebook-applet/</link>
+      <link>http://localhost:61953/applets/installation-of-pricebook-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/installation-of-pricebook-applet/</guid>
+      <guid>http://localhost:61953/applets/installation-of-pricebook-applet/</guid>
       <description>
         
         
@@ -479,10 +479,10 @@ Please click on &amp;ldquo;akaun&amp;rdquo; to go back to the Akaun.cloud page t
     
     <item>
       <title>Installation of Team Maintenance Applet</title>
-      <link>http://localhost:1313/applets/installation-of-team-maintenance-applet/</link>
+      <link>http://localhost:61953/applets/installation-of-team-maintenance-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/installation-of-team-maintenance-applet/</guid>
+      <guid>http://localhost:61953/applets/installation-of-team-maintenance-applet/</guid>
       <description>
         
         
@@ -499,10 +499,10 @@ Please click on &amp;ldquo;akaun&amp;rdquo; to go back to the Akaun.cloud page t
     
     <item>
       <title>Internal Delivery Order Applet</title>
-      <link>http://localhost:1313/applets/internal-delivery-order-applet/</link>
+      <link>http://localhost:61953/applets/internal-delivery-order-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/internal-delivery-order-applet/</guid>
+      <guid>http://localhost:61953/applets/internal-delivery-order-applet/</guid>
       <description>
         
         
@@ -515,10 +515,10 @@ The Internal Delivery Order Applet is a versatile tool designed to streamline th
     
     <item>
       <title>Internal Stock Adjustment Applet</title>
-      <link>http://localhost:1313/applets/internal-stock-adjustment-applet/</link>
+      <link>http://localhost:61953/applets/internal-stock-adjustment-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/internal-stock-adjustment-applet/</guid>
+      <guid>http://localhost:61953/applets/internal-stock-adjustment-applet/</guid>
       <description>
         
         
@@ -531,10 +531,10 @@ The Internal Stock Adjustment Applet simplifies stock management by allowing use
     
     <item>
       <title>Introduction to Membership Admin Console Applet</title>
-      <link>http://localhost:1313/applets/introduction-to-membership-admin-console-applet/</link>
+      <link>http://localhost:61953/applets/introduction-to-membership-admin-console-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/introduction-to-membership-admin-console-applet/</guid>
+      <guid>http://localhost:61953/applets/introduction-to-membership-admin-console-applet/</guid>
       <description>
         
         
@@ -549,10 +549,10 @@ Steps:  Installation &amp;gt; Create Member &amp;gt; Create Member class &amp;gt
     
     <item>
       <title>Introduction to Stock Take Applet</title>
-      <link>http://localhost:1313/applets/introduction-to-stock-take-applet/</link>
+      <link>http://localhost:61953/applets/introduction-to-stock-take-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/introduction-to-stock-take-applet/</guid>
+      <guid>http://localhost:61953/applets/introduction-to-stock-take-applet/</guid>
       <description>
         
         
@@ -575,10 +575,10 @@ Once installed, users can find the Stock Take Applet on their Home Page in Akaun
     
     <item>
       <title>Introduction to Team Maintenance Applet</title>
-      <link>http://localhost:1313/applets/introduction-to-team-maintenance-applet/</link>
+      <link>http://localhost:61953/applets/introduction-to-team-maintenance-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/introduction-to-team-maintenance-applet/</guid>
+      <guid>http://localhost:61953/applets/introduction-to-team-maintenance-applet/</guid>
       <description>
         
         
@@ -593,10 +593,10 @@ Steps: Installation&amp;gt; Create Team&amp;gt;Edit team(Add Members, Import use
     
     <item>
       <title>Location - Organization Applet</title>
-      <link>http://localhost:1313/applets/location-organization-applet/</link>
+      <link>http://localhost:61953/applets/location-organization-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/location-organization-applet/</guid>
+      <guid>http://localhost:61953/applets/location-organization-applet/</guid>
       <description>
         
         
@@ -611,10 +611,10 @@ The edit tabs are similar to those in &lt;a href=&#34;https://bigledger.atlassia
     
     <item>
       <title>Membership Admin Console Applet</title>
-      <link>http://localhost:1313/applets/membership-admin-console-applet/</link>
+      <link>http://localhost:61953/applets/membership-admin-console-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/membership-admin-console-applet/</guid>
+      <guid>http://localhost:61953/applets/membership-admin-console-applet/</guid>
       <description>
         
         
@@ -627,10 +627,10 @@ The edit tabs are similar to those in &lt;a href=&#34;https://bigledger.atlassia
     
     <item>
       <title>Membership Program</title>
-      <link>http://localhost:1313/applets/membership-program/</link>
+      <link>http://localhost:61953/applets/membership-program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/membership-program/</guid>
+      <guid>http://localhost:61953/applets/membership-program/</guid>
       <description>
         
         
@@ -650,10 +650,10 @@ Point of sales applet&lt;/p&gt;
     
     <item>
       <title>Organization Applet</title>
-      <link>http://localhost:1313/applets/organization-applet/</link>
+      <link>http://localhost:61953/applets/organization-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/organization-applet/</guid>
+      <guid>http://localhost:61953/applets/organization-applet/</guid>
       <description>
         
         
@@ -662,7 +662,7 @@ Point of sales applet&lt;/p&gt;
 The Organization Applet is designed to manage and configure essential details for companies and their branches. This applet allows users to seamlessly set up, edit, and maintain company profiles, ensuring that all necessary configurations, such as branch information, business registration numbers (BRN), and invoice upload settings, are properly managed.&lt;/p&gt;
 &lt;p&gt;Whether you&amp;rsquo;re managing a single company or multiple branches, the Organization Applet simplifies the process, providing a user-friendly interface to ensure that all operational details are configured accurately and efficiently.&lt;/p&gt;
 &lt;h2&gt;Organization Setup Workflow&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;organization-setup-workflow&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#organization-setup-workflow&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/diagrams/organization-setup-workflow.svg&#34; alt=&#34;Organization Setup Workflow&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;a href=&#34;#organization-setup-workflow&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:61953/diagrams/organization-setup-workflow.svg&#34; alt=&#34;Organization Setup Workflow&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;Figure 1: Complete organization setup process for Malaysian businesses&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This user guide provides an in-depth overview of the Organization applet. It covers how to create and edit company and branch details, configure key settings such as tax and intercompany options, set branch locations (including multiple locations), and link branches to different customers. Additionally, the guide explains the applet&amp;rsquo;s settings and permission configurations to help you manage your organization efficiently.
 true&lt;/p&gt;
@@ -672,10 +672,10 @@ true&lt;/p&gt;
     
     <item>
       <title>Pricebook Applet</title>
-      <link>http://localhost:1313/applets/pricebook-applet/</link>
+      <link>http://localhost:61953/applets/pricebook-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/pricebook-applet/</guid>
+      <guid>http://localhost:61953/applets/pricebook-applet/</guid>
       <description>
         
         
@@ -688,10 +688,10 @@ true&lt;/p&gt;
     
     <item>
       <title>Process Monitoring Applet</title>
-      <link>http://localhost:1313/applets/process-monitoring-applet/</link>
+      <link>http://localhost:61953/applets/process-monitoring-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/process-monitoring-applet/</guid>
+      <guid>http://localhost:61953/applets/process-monitoring-applet/</guid>
       <description>
         
         
@@ -703,10 +703,10 @@ true&lt;/p&gt;
     
     <item>
       <title>Related Applets - Internal Job Order</title>
-      <link>http://localhost:1313/applets/related-applets-internal-job-order/</link>
+      <link>http://localhost:61953/applets/related-applets-internal-job-order/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/related-applets-internal-job-order/</guid>
+      <guid>http://localhost:61953/applets/related-applets-internal-job-order/</guid>
       <description>
         
         
@@ -720,10 +720,10 @@ true&lt;/p&gt;
     
     <item>
       <title>Related Applets - Internal Stock Adjustment</title>
-      <link>http://localhost:1313/applets/related-applets-internal-stock-adjustment/</link>
+      <link>http://localhost:61953/applets/related-applets-internal-stock-adjustment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/related-applets-internal-stock-adjustment/</guid>
+      <guid>http://localhost:61953/applets/related-applets-internal-stock-adjustment/</guid>
       <description>
         
         
@@ -742,10 +742,10 @@ Stock Balance Applet&lt;/p&gt;
     
     <item>
       <title>Related Applets - Process Monitoring</title>
-      <link>http://localhost:1313/applets/related-applets-process-monitoring/</link>
+      <link>http://localhost:61953/applets/related-applets-process-monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/related-applets-process-monitoring/</guid>
+      <guid>http://localhost:61953/applets/related-applets-process-monitoring/</guid>
       <description>
         
         
@@ -759,10 +759,10 @@ Stock Balance Applet&lt;/p&gt;
     
     <item>
       <title>Related Applets - Stock Balance</title>
-      <link>http://localhost:1313/applets/related-applets-stock-balance/</link>
+      <link>http://localhost:61953/applets/related-applets-stock-balance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/related-applets-stock-balance/</guid>
+      <guid>http://localhost:61953/applets/related-applets-stock-balance/</guid>
       <description>
         
         
@@ -811,10 +811,10 @@ Internal Purchase Goods Issue Note Applet&lt;/p&gt;
     
     <item>
       <title>Settings of Organization Applet</title>
-      <link>http://localhost:1313/applets/settings-of-organization-applet/</link>
+      <link>http://localhost:61953/applets/settings-of-organization-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/settings-of-organization-applet/</guid>
+      <guid>http://localhost:61953/applets/settings-of-organization-applet/</guid>
       <description>
         
         
@@ -828,10 +828,10 @@ The role permission allows you to set specific permissions if needed.&lt;/p&gt;
     
     <item>
       <title>Stock Balance Applet</title>
-      <link>http://localhost:1313/applets/stock-balance-applet/</link>
+      <link>http://localhost:61953/applets/stock-balance-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/stock-balance-applet/</guid>
+      <guid>http://localhost:61953/applets/stock-balance-applet/</guid>
       <description>
         
         
@@ -843,10 +843,10 @@ The role permission allows you to set specific permissions if needed.&lt;/p&gt;
     
     <item>
       <title>Stock Take Applet</title>
-      <link>http://localhost:1313/applets/stock-take-applet/</link>
+      <link>http://localhost:61953/applets/stock-take-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/stock-take-applet/</guid>
+      <guid>http://localhost:61953/applets/stock-take-applet/</guid>
       <description>
         
         
@@ -867,10 +867,10 @@ Introduction to Stock Take Applet
     
     <item>
       <title>Team Maintenance Applet</title>
-      <link>http://localhost:1313/applets/team-maintenance-applet/</link>
+      <link>http://localhost:61953/applets/team-maintenance-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/team-maintenance-applet/</guid>
+      <guid>http://localhost:61953/applets/team-maintenance-applet/</guid>
       <description>
         
         
@@ -883,10 +883,10 @@ Introduction to Stock Take Applet
     
     <item>
       <title>Unified Contact Center (UCC) Applet</title>
-      <link>http://localhost:1313/applets/unified-contact-center-ucc-applet/</link>
+      <link>http://localhost:61953/applets/unified-contact-center-ucc-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/unified-contact-center-ucc-applet/</guid>
+      <guid>http://localhost:61953/applets/unified-contact-center-ucc-applet/</guid>
       <description>
         
         
@@ -902,10 +902,10 @@ The UCC Applet consists of nine (9) main modules which are Inbox, Dashboard, My-
     
     <item>
       <title>VSTECS MS ESD Order Applet</title>
-      <link>http://localhost:1313/applets/vstecs-ms-esd-order-applet/</link>
+      <link>http://localhost:61953/applets/vstecs-ms-esd-order-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/applets/vstecs-ms-esd-order-applet/</guid>
+      <guid>http://localhost:61953/applets/vstecs-ms-esd-order-applet/</guid>
       <description>
         
         

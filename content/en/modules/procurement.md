@@ -72,4 +72,4 @@ The BigLedger Procurement module streamlines your entire purchase-to-pay process
 4. Create product catalogs
 5. Train procurement team
 
-For detailed documentation, visit our [Procurement Guide](/docs/procurement/) or contact support.
+For detailed documentation, visit our [Procurement Guide](/modules/procurement/) or contact support.

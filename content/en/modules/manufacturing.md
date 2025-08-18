@@ -88,4 +88,4 @@ The BigLedger Manufacturing module provides comprehensive production management 
 4. Establish costing methods
 5. Train production staff
 
-For detailed documentation, visit our [Manufacturing Guide](/docs/manufacturing/) or contact support.
+For detailed documentation, visit our [Manufacturing Guide](/modules/manufacturing/) or contact support.

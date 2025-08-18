@@ -2,500 +2,602 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/applets/</loc>
+    <loc>http://localhost:61953/applets/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/</loc>
+    <loc>http://localhost:61953/business-operations/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/</loc>
+    <loc>http://localhost:61953/ecommerce/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/industry-solutions/</loc>
+    <loc>http://localhost:61953/industry-solutions/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/getting-started/</loc>
+    <loc>http://localhost:61953/developers/getting-started/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/e-invoice-peppol/</loc>
-    <lastmod>2025-08-18T01:55:17+08:00</lastmod>
+    <loc>http://localhost:61953/user-guide/navigation/</loc>
   </url><url>
-    <loc>http://localhost:1313/applets-workflows/</loc>
-    <lastmod>2025-08-18T01:55:17+08:00</lastmod>
+    <loc>http://localhost:61953/e-invoice-peppol/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/20-website-configuration/</loc>
+    <loc>http://localhost:61953/applets-workflows/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/90-ecomsync-related-applets/</loc>
+    <loc>http://localhost:61953/ecommerce/20-website-configuration/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/account-receivable/</loc>
+    <loc>http://localhost:61953/applets/90-ecomsync-related-applets/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/accounting/</loc>
+    <loc>http://localhost:61953/business-operations/account-receivable/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/api-reference/accounting/</loc>
+    <loc>http://localhost:61953/business-operations/accounting/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/applet-directory/</loc>
+    <loc>http://localhost:61953/developers/api-reference/accounting/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/applet-store/</loc>
+    <loc>http://localhost:61953/applets/applet-directory/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/authentication/</loc>
+    <loc>http://localhost:61953/applets/applet-store/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/industry-solutions/automotive-and-workshop-industry/</loc>
+    <loc>http://localhost:61953/developers/authentication/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/b2b/</loc>
+    <loc>http://localhost:61953/industry-solutions/automotive-and-workshop-industry/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-18T01:55:17+08:00</lastmod>
+    <loc>http://localhost:61953/ecommerce/b2b/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:61953/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/"
+                href="http://localhost:61953/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/"
+                href="http://localhost:61953/ms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/"
+                href="http://localhost:61953/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://localhost:61953/"
                 />
   </url><url>
-    <loc>http://localhost:1313/user-guide/bigledger-documentation/</loc>
+    <loc>http://localhost:61953/user-guide/bigledger-documentation/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/branch-organization-applet/</loc>
+    <loc>http://localhost:61953/applets/branch-organization-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/</loc>
-    <lastmod>2025-08-18T01:41:23+08:00</lastmod>
+    <loc>http://localhost:61953/user-guide/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/accounting-guides/chart-of-accounts-setup/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/accounting-guides/chart-of-accounts-setup/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/company-organization-applet/</loc>
+    <loc>http://localhost:61953/applets/company-organization-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/cp-commerce/</loc>
+    <loc>http://localhost:61953/ecommerce/cp-commerce/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/create-single-tab/</loc>
+    <loc>http://localhost:61953/ecommerce/create-single-tab/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/creating-an-item/</loc>
+    <loc>http://localhost:61953/user-guide/creating-an-item/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tutorials/first-invoice/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/tutorials/first-invoice/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/dashboard/</loc>
+    <loc>http://localhost:61953/business-operations/dashboard/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/document-item-maintenance/</loc>
+    <loc>http://localhost:61953/user-guide/document-item-maintenance/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/document-item-types/</loc>
+    <loc>http://localhost:61953/user-guide/document-item-types/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/ecomsync-applet/</loc>
+    <loc>http://localhost:61953/ecommerce/ecomsync-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/ecomsync-features/</loc>
+    <loc>http://localhost:61953/ecommerce/ecomsync-features/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/editing-an-item/</loc>
+    <loc>http://localhost:61953/user-guide/editing-an-item/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modules/financial-accounting/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/financial-accounting/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/financial-accounting/"
+                href="http://localhost:61953/zh/modules/financial-accounting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/financial-accounting/"
+                href="http://localhost:61953/ms/modules/financial-accounting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/financial-accounting/"
+                href="http://localhost:61953/ar/modules/financial-accounting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/financial-accounting/"
+                href="http://localhost:61953/modules/financial-accounting/"
                 />
   </url><url>
-    <loc>http://localhost:1313/industry-solutions/food-and-beverage-fb-industry/</loc>
+    <loc>http://localhost:61953/industry-solutions/food-and-beverage-fb-industry/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/group-listing/</loc>
+    <loc>http://localhost:61953/user-guide/group-listing/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/group-maintenance-applet/</loc>
+    <loc>http://localhost:61953/applets/group-maintenance-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/industry-solutions/industry-guide/</loc>
+    <loc>http://localhost:61953/industry-solutions/industry-guide/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/ingram-micro-ms-esd-applet/</loc>
+    <loc>http://localhost:61953/applets/ingram-micro-ms-esd-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developer-docs/installation/</loc>
-    <lastmod>2025-08-12T19:05:35+08:00</lastmod>
+    <loc>http://localhost:61953/developer-docs/installation/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/installation-of-group-maintenance-applet/</loc>
+    <loc>http://localhost:61953/applets/installation-of-group-maintenance-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/installation-of-pricebook-applet/</loc>
+    <loc>http://localhost:61953/applets/installation-of-pricebook-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/installation-of-team-maintenance-applet/</loc>
+    <loc>http://localhost:61953/applets/installation-of-team-maintenance-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/integration-with-shopify/</loc>
+    <loc>http://localhost:61953/ecommerce/integration-with-shopify/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/internal-delivery-order-applet/</loc>
+    <loc>http://localhost:61953/applets/internal-delivery-order-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/internal-stock-adjustment-applet/</loc>
+    <loc>http://localhost:61953/applets/internal-stock-adjustment-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/introduction/</loc>
+    <loc>http://localhost:61953/user-guide/introduction/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/introduction-to-ecomsync/</loc>
+    <loc>http://localhost:61953/ecommerce/introduction-to-ecomsync/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/introduction-to-membership-admin-console-applet/</loc>
+    <loc>http://localhost:61953/applets/introduction-to-membership-admin-console-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/introduction-to-stock-take-applet/</loc>
+    <loc>http://localhost:61953/applets/introduction-to-stock-take-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/introduction-to-team-maintenance-applet/</loc>
+    <loc>http://localhost:61953/applets/introduction-to-team-maintenance-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/item-maintenance/</loc>
+    <loc>http://localhost:61953/user-guide/item-maintenance/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/listing/</loc>
+    <loc>http://localhost:61953/ecommerce/listing/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/location-organization-applet/</loc>
+    <loc>http://localhost:61953/applets/location-organization-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/main-dashboard/</loc>
+    <loc>http://localhost:61953/business-operations/main-dashboard/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/marketplace-tab/</loc>
+    <loc>http://localhost:61953/ecommerce/marketplace-tab/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/member-class/</loc>
+    <loc>http://localhost:61953/user-guide/member-class/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/member-label/</loc>
+    <loc>http://localhost:61953/user-guide/member-label/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/member-label-list/</loc>
+    <loc>http://localhost:61953/user-guide/member-label-list/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/member-listing/</loc>
+    <loc>http://localhost:61953/user-guide/member-listing/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/membership-admin-console-applet/</loc>
+    <loc>http://localhost:61953/applets/membership-admin-console-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/membership-program/</loc>
+    <loc>http://localhost:61953/applets/membership-program/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/einvoice-guides/myinvois-setup/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/einvoice-guides/myinvois-setup/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/order/</loc>
+    <loc>http://localhost:61953/business-operations/order/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/order-dashboard/</loc>
+    <loc>http://localhost:61953/business-operations/order-dashboard/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/order-details/</loc>
+    <loc>http://localhost:61953/business-operations/order-details/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/order-filtering/</loc>
+    <loc>http://localhost:61953/business-operations/order-filtering/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/order-listing/</loc>
+    <loc>http://localhost:61953/business-operations/order-listing/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/organization-applet/</loc>
+    <loc>http://localhost:61953/applets/organization-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/platform-overview/</loc>
-    <lastmod>2025-08-18T01:39:53+08:00</lastmod>
+    <loc>http://localhost:61953/user-guide/platform-overview/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/price-book/</loc>
+    <loc>http://localhost:61953/user-guide/price-book/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/price-set/</loc>
+    <loc>http://localhost:61953/user-guide/price-set/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/pricebook-applet/</loc>
+    <loc>http://localhost:61953/applets/pricebook-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/pricing-scheme/</loc>
+    <loc>http://localhost:61953/user-guide/pricing-scheme/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/process-monitoring-applet/</loc>
+    <loc>http://localhost:61953/applets/process-monitoring-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/related-applets-internal-job-order/</loc>
+    <loc>http://localhost:61953/applets/related-applets-internal-job-order/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/related-applets-internal-stock-adjustment/</loc>
+    <loc>http://localhost:61953/applets/related-applets-internal-stock-adjustment/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/related-applets-process-monitoring/</loc>
+    <loc>http://localhost:61953/applets/related-applets-process-monitoring/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/related-applets-stock-balance/</loc>
+    <loc>http://localhost:61953/applets/related-applets-stock-balance/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/sales-dashboard/</loc>
+    <loc>http://localhost:61953/business-operations/sales-dashboard/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/business-operations/sales-order-tab/</loc>
+    <loc>http://localhost:61953/business-operations/sales-order-tab/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
-    <lastmod>2025-08-18T01:21:58+08:00</lastmod>
+    <loc>http://localhost:61953/search/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/search/"
+                href="http://localhost:61953/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/search/"
+                href="http://localhost:61953/ms/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/search/"
+                href="http://localhost:61953/ar/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="http://localhost:61953/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/applets/settings-of-organization-applet/</loc>
+    <loc>http://localhost:61953/applets/settings-of-organization-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/stock-balance-applet/</loc>
+    <loc>http://localhost:61953/applets/stock-balance-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/inventory-guides/stock-management/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/inventory-guides/stock-management/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/stock-take-applet/</loc>
+    <loc>http://localhost:61953/applets/stock-take-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/user-guide/team/</loc>
+    <loc>http://localhost:61953/user-guide/team/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/team-maintenance-applet/</loc>
+    <loc>http://localhost:61953/applets/team-maintenance-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/unified-contact-center-ucc-applet/</loc>
+    <loc>http://localhost:61953/applets/unified-contact-center-ucc-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ecommerce/update-and-delete-item/</loc>
+    <loc>http://localhost:61953/ecommerce/update-and-delete-item/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/applets/vstecs-ms-esd-order-applet/</loc>
+    <loc>http://localhost:61953/applets/vstecs-ms-esd-order-applet/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ai-intelligence/</loc>
-    <lastmod>2025-08-18T01:39:53+08:00</lastmod>
+    <loc>http://localhost:61953/ai-intelligence/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/api-reference/</loc>
+    <loc>http://localhost:61953/developers/api-reference/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/demos-resources/</loc>
-    <lastmod>2025-08-18T01:55:17+08:00</lastmod>
+    <loc>http://localhost:61953/demos-resources/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developer-docs/</loc>
-    <lastmod>2025-08-12T19:05:35+08:00</lastmod>
+    <loc>http://localhost:61953/developer-docs/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/api-reference/einvoice/</loc>
+    <loc>http://localhost:61953/developers/api-reference/einvoice/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/accounting-guides/journal-entries/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/accounting-guides/journal-entries/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tutorials/month-end-closing/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/tutorials/month-end-closing/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/einvoice-guides/peppol-configuration/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/einvoice-guides/peppol-configuration/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modules/pos/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/pos/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/pos/"
+                href="http://localhost:61953/zh/modules/pos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/pos/"
+                href="http://localhost:61953/ms/modules/pos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/pos/"
+                href="http://localhost:61953/ar/modules/pos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/pos/"
+                href="http://localhost:61953/modules/pos/"
                 />
   </url><url>
-    <loc>http://localhost:1313/guides/inventory-guides/stock-transfer/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/inventory-guides/stock-transfer/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/</loc>
+    <loc>http://localhost:61953/developers/</loc>
+    <lastmod>2025-08-18T09:39:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/accounting-guides/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/accounting-guides/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/api-reference/</loc>
-    <lastmod>2025-08-12T19:05:35+08:00</lastmod>
+    <loc>http://localhost:61953/api-reference/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modules/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/"
+                href="http://localhost:61953/zh/modules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/"
+                href="http://localhost:61953/ms/modules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/"
+                href="http://localhost:61953/ar/modules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/"
+                href="http://localhost:61953/modules/"
                 />
   </url><url>
-    <loc>http://localhost:1313/modules/crm/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/crm/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/crm/"
+                href="http://localhost:61953/zh/modules/crm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/crm/"
+                href="http://localhost:61953/ms/modules/crm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/crm/"
+                href="http://localhost:61953/ar/modules/crm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/crm/"
+                href="http://localhost:61953/modules/crm/"
                 />
   </url><url>
-    <loc>http://localhost:1313/guides/einvoice-guides/einvoice-validation/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/einvoice-guides/einvoice-validation/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/accounting-guides/financial-reporting/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/accounting-guides/financial-reporting/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/api-reference/sales/</loc>
+    <loc>http://localhost:61953/developers/api-reference/sales/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/webhooks/</loc>
+    <loc>http://localhost:61953/developers/webhooks/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/einvoice-guides/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/einvoice-guides/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/inventory-guides/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/inventory-guides/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/sdks/</loc>
+    <loc>http://localhost:61953/developers/sdks/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/guides/accounting-guides/bank-reconciliation-guide/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/guides/accounting-guides/bank-reconciliation-guide/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/api-reference/inventory/</loc>
+    <loc>http://localhost:61953/developers/api-reference/inventory/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modules/inventory/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/inventory/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/inventory/"
+                href="http://localhost:61953/zh/modules/inventory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/inventory/"
+                href="http://localhost:61953/ms/modules/inventory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/inventory/"
+                href="http://localhost:61953/ar/modules/inventory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/inventory/"
+                href="http://localhost:61953/modules/inventory/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tutorials/</loc>
-    <lastmod>2025-08-12T19:05:35+08:00</lastmod>
+    <loc>http://localhost:61953/tutorials/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modules/procurement/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/procurement/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modules/manufacturing/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/manufacturing/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modules/hr/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/hr/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modules/projects/</loc>
-    <lastmod>2025-08-17T23:57:11+08:00</lastmod>
+    <loc>http://localhost:61953/modules/projects/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/developers/api-reference/errors/</loc>
+    <loc>http://localhost:61953/developers/api-reference/errors/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/applets/</loc>
+    <loc>http://localhost:61953/tags/applets/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
+    <loc>http://localhost:61953/tags/automation/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/business/</loc>
+    <loc>http://localhost:61953/tags/business/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/case-studies/</loc>
+    <loc>http://localhost:61953/tags/case-studies/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:61953/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/categories/"
+                href="http://localhost:61953/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/categories/"
+                href="http://localhost:61953/ms/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/categories/"
+                href="http://localhost:61953/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:61953/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/ecommerce/</loc>
+    <loc>http://localhost:61953/tags/ecommerce/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/industry/</loc>
+    <loc>http://localhost:61953/tags/industry/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/integration/</loc>
+    <loc>http://localhost:61953/tags/integration/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-channel/</loc>
+    <loc>http://localhost:61953/tags/multi-channel/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/operations/</loc>
+    <loc>http://localhost:61953/tags/operations/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/solutions/</loc>
+    <loc>http://localhost:61953/tags/solutions/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/tags/</loc>
+    <lastmod>2025-08-18T09:39:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/tags/"
+                href="http://localhost:61953/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/tags/"
+                href="http://localhost:61953/ms/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/tags/"
+                href="http://localhost:61953/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:61953/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <loc>http://localhost:61953/tags/tutorial/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/user-guide/</loc>
-    <lastmod>2025-08-18T02:05:58+08:00</lastmod>
+    <loc>http://localhost:61953/tags/user-guide/</loc>
+    <lastmod>2025-08-18T09:39:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/workflow/</loc>
+    <loc>http://localhost:61953/tags/workflow/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/workflows/</loc>
+    <loc>http://localhost:61953/tags/workflows/</loc>
+    <lastmod>2025-08-18T09:37:50+08:00</lastmod>
   </url>
 </urlset>

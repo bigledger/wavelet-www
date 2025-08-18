@@ -502,7 +502,7 @@ Available webhook events:
 
 ## Support Resources
 
-- 📖 [Video Tutorials](/tutorials/pos/)
+- 📖 [Video Tutorials](/modules/pos/)
 - 💬 [Community Forum](https://forum.bigledger.com/pos)
 - 📧 [Email Support](mailto:pos-support@bigledger.com)
 - 📞 24/7 Support: +1-800-POS-HELP

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – API Reference</title>
-    <link>http://localhost:1313/developers/api-reference/</link>
+    <link>http://localhost:61953/developers/api-reference/</link>
     <description>Recent content in API Reference on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/developers/api-reference/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61953/developers/api-reference/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Accounting APIs</title>
-      <link>http://localhost:1313/developers/api-reference/accounting/</link>
+      <link>http://localhost:61953/developers/api-reference/accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/developers/api-reference/accounting/</guid>
+      <guid>http://localhost:61953/developers/api-reference/accounting/</guid>
       <description>
         
         
@@ -1303,10 +1303,10 @@
     
     <item>
       <title>E-Invoice APIs</title>
-      <link>http://localhost:1313/developers/api-reference/einvoice/</link>
+      <link>http://localhost:61953/developers/api-reference/einvoice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/developers/api-reference/einvoice/</guid>
+      <guid>http://localhost:61953/developers/api-reference/einvoice/</guid>
       <description>
         
         
@@ -2498,10 +2498,10 @@
     
     <item>
       <title>Sales &amp; CRM APIs</title>
-      <link>http://localhost:1313/developers/api-reference/sales/</link>
+      <link>http://localhost:61953/developers/api-reference/sales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/developers/api-reference/sales/</guid>
+      <guid>http://localhost:61953/developers/api-reference/sales/</guid>
       <description>
         
         
@@ -4037,10 +4037,10 @@
     
     <item>
       <title>Inventory APIs</title>
-      <link>http://localhost:1313/developers/api-reference/inventory/</link>
+      <link>http://localhost:61953/developers/api-reference/inventory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/developers/api-reference/inventory/</guid>
+      <guid>http://localhost:61953/developers/api-reference/inventory/</guid>
       <description>
         
         
@@ -5547,10 +5547,10 @@
     
     <item>
       <title>Error Handling</title>
-      <link>http://localhost:1313/developers/api-reference/errors/</link>
+      <link>http://localhost:61953/developers/api-reference/errors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/developers/api-reference/errors/</guid>
+      <guid>http://localhost:61953/developers/api-reference/errors/</guid>
       <description>
         
         

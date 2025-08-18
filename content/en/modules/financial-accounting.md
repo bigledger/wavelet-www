@@ -487,8 +487,8 @@ Easy migration from popular accounting systems:
 
 ## Support & Resources
 
-- 📚 [Accounting Best Practices Guide](/docs/best-practices/accounting/)
-- 🎥 [Video Tutorials](/tutorials/financial-accounting/)
-- 📊 [Report Templates Library](/templates/financial/)
+- 📚 [Accounting Best Practices Guide](/modules/financial-accounting/)
+- 🎥 [Video Tutorials](/modules/financial-accounting/)
+- 📊 [Report Templates Library](/modules/financial-accounting/)
 - 🤝 [Community Forum](https://forum.bigledger.com/finance)
 - 📧 [Expert Support](mailto:finance@bigledger.com)

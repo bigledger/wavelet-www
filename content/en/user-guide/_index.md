@@ -13,27 +13,66 @@ Master your daily business operations with BigLedger's integrated platform.
 
 This guide helps business users effectively operate BigLedger's Business Operating System, covering essential workflows, best practices, and optimization strategies for your enterprise operations.
 
-## Guide Structure
+## Quick Start Guides
 
-### Foundation
-- [Platform Overview](/user-guide/platform-overview/) - Understanding BigLedger as your Business OS
-- [Navigation & Workspace](/user-guide/navigation/) - Mastering the interface
-- [User Roles & Permissions](/user-guide/roles/) - Access control and security
+### Getting Started
+- [Introduction to BigLedger](/user-guide/introduction/) - Platform overview and key concepts
+- [Creating Your First Item](/user-guide/creating-an-item/) - Step-by-step item creation
+- [Item Maintenance](/user-guide/item-maintenance/) - Managing your product catalog
+- [Editing Items](/user-guide/editing-an-item/) - Modifying existing products
 
-### Core Operations
-- [Financial Operations](/user-guide/finance/) - GL, AP/AR, cash management
-- [Sales & Customer Management](/user-guide/sales/) - CRM, orders, quotes
-- [Supply Chain Management](/user-guide/supply-chain/) - Inventory, procurement, fulfillment
-- [Human Resources](/user-guide/hr/) - Employee management, payroll, benefits
+### Pricing & Inventory
+- [Pricing Schemes](/user-guide/pricing-scheme/) - Setting up pricing strategies
+- [Price Book Management](/user-guide/price-book/) - Managing price lists
+- [Document Item Types](/user-guide/document-item-types/) - Understanding item classifications
 
-### Daily Tasks
-- [Transaction Processing](/user-guide/transactions/) - Invoices, payments, receipts
-- [Report Generation](/user-guide/reporting/) - Standard and custom reports
-- [Approval Workflows](/user-guide/workflows/) - Managing approval chains
-- [Data Management](/user-guide/data/) - Import, export, maintenance
+### Team & Organization
+- [Member Management](/user-guide/member-listing/) - User administration
+- [Team Configuration](/user-guide/team/) - Department and team setup
 
-### Advanced Topics
-- [Multi-Company Operations](/user-guide/multi-company/) - Managing multiple entities
-- [Integration Management](/user-guide/integrations/) - Connected systems
-- [Performance Optimization](/user-guide/optimization/) - Best practices
-- [Troubleshooting Guide](/user-guide/troubleshooting/) - Common issues and solutions
+## Core Modules
+
+### Financial Management
+- [Financial Accounting](/modules/financial-accounting/) - General ledger, journals, reports
+- [Accounts Receivable](/business-operations/account-receivable/) - Customer invoicing and collections
+- [Accounting Operations](/business-operations/accounting/) - Daily accounting tasks
+
+### Sales & Customer Management  
+- [CRM Module](/modules/crm/) - Customer relationship management
+- [Sales Dashboard](/business-operations/sales-dashboard/) - Sales analytics and insights
+- [Order Management](/business-operations/order/) - Order processing and fulfillment
+
+### Inventory & Supply Chain
+- [Inventory Management](/modules/inventory/) - Stock control and tracking
+- [Procurement](/modules/procurement/) - Purchase orders and vendor management
+- [Manufacturing](/modules/manufacturing/) - Production planning and control
+
+### Point of Sale & Retail
+- [POS System](/modules/pos/) - Retail operations and checkout
+- [Dashboard Analytics](/business-operations/dashboard/) - Business intelligence
+
+### Human Resources
+- [HR Management](/modules/hr/) - Employee records and administration
+- [Projects](/modules/projects/) - Project tracking and management
+
+## E-Commerce Integration
+
+- [E-Commerce Overview](/ecommerce/) - Multi-channel selling
+- [EcomSync Introduction](/ecommerce/introduction-to-ecomsync/) - Synchronization platform
+- [Shopify Integration](/ecommerce/integration-with-shopify/) - Connect your Shopify store
+- [B2B Commerce](/ecommerce/b2b/) - Business-to-business portal
+- [CP-Commerce](/ecommerce/cp-commerce/) - Consumer packaged goods
+- [Marketplace Integration](/ecommerce/marketplace-tab/) - Multi-marketplace management
+
+## Industry Solutions
+
+- [Industry Guide](/industry-solutions/industry-guide/) - Sector-specific features
+- [Automotive & Workshop](/industry-solutions/automotive-and-workshop-industry/) - Vehicle service management
+- [Food & Beverage](/industry-solutions/food-and-beverage-fb-industry/) - Restaurant and F&B operations
+
+## Advanced Features
+
+- [AI Intelligence](/ai-intelligence/) - AI-powered insights and automation
+- [E-Invoice & PEPPOL](/e-invoice-peppol/) - Electronic invoicing compliance
+- [Applets & Workflows](/applets-workflows/) - Extensible functionality
+- [Developer Resources](/developers/) - API documentation and SDKs

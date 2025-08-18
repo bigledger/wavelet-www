@@ -359,8 +359,8 @@ Warehouse Setup:
 
 ## Support & Resources
 
-- 📚 [Inventory Best Practices](/docs/best-practices/inventory/)
-- 🎥 [Training Videos](/tutorials/inventory/)
-- 📊 [Report Templates](/templates/inventory/)
+- 📚 [Inventory Best Practices](/modules/inventory/)
+- 🎥 [Training Videos](/modules/inventory/)
+- 📊 [Report Templates](/modules/inventory/)
 - 💬 [Community Forum](https://forum.bigledger.com/inventory)
 - 📧 [Support](mailto:inventory-support@bigledger.com)

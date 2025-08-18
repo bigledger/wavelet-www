@@ -112,4 +112,4 @@ The BigLedger HR module provides a complete human capital management solution, f
 4. Define leave policies
 5. Train HR team and employees
 
-For detailed documentation, visit our [HR Guide](/docs/hr/) or contact support.
+For detailed documentation, visit our [HR Guide](/modules/hr/) or contact support.

@@ -43,9 +43,9 @@ Optimize stock and warehouse operations:
 - [Stock Management Guide](/guides/inventory-guides/stock-management/)
 
 ### New User Guides
-- [Platform Overview](/user-guide/platform-overview/)
-- [Creating Your First Invoice](/tutorials/first-invoice/)
-- [Basic Navigation](/platform/navigation/)
+- [Platform Overview](/user-guide/introduction/)
+- [Creating Your First Invoice](/modules/financial-accounting/)
+- [Basic Navigation](/user-guide/navigation/)
 
 ### Advanced Topics
 - [Financial Reporting](/guides/accounting-guides/financial-reporting/)
@@ -107,8 +107,8 @@ Optimize stock and warehouse operations:
 
 ### Documentation
 - [User Guide](/user-guide/)
-- [API Reference](/api/)
-- [Troubleshooting](/support/troubleshooting/)
+- [API Reference](/developers/api-reference/)
+- [Troubleshooting](/user-guide/)
 
 ### Training
 - Video tutorials

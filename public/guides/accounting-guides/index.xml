@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Accounting Guides</title>
-    <link>http://localhost:1313/guides/accounting-guides/</link>
+    <link>http://localhost:61953/guides/accounting-guides/</link>
     <description>Recent content in Accounting Guides on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/guides/accounting-guides/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61953/guides/accounting-guides/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Chart of Accounts Setup Guide</title>
-      <link>http://localhost:1313/guides/accounting-guides/chart-of-accounts-setup/</link>
+      <link>http://localhost:61953/guides/accounting-guides/chart-of-accounts-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guides/accounting-guides/chart-of-accounts-setup/</guid>
+      <guid>http://localhost:61953/guides/accounting-guides/chart-of-accounts-setup/</guid>
       <description>
         
         
@@ -209,10 +209,10 @@
     
     <item>
       <title>Journal Entries Guide</title>
-      <link>http://localhost:1313/guides/accounting-guides/journal-entries/</link>
+      <link>http://localhost:61953/guides/accounting-guides/journal-entries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guides/accounting-guides/journal-entries/</guid>
+      <guid>http://localhost:61953/guides/accounting-guides/journal-entries/</guid>
       <description>
         
         
@@ -456,17 +456,17 @@ Dr. Input Tax              30
 &lt;li&gt;Verify module integration&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Need help? Visit our &lt;a href=&#34;http://localhost:1313/support&#34; &gt;Support Center&lt;/a&gt; or contact &lt;a href=&#34;mailto:support@bigledger.com&#34; &gt;support@bigledger.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Need help? Visit our &lt;a href=&#34;http://localhost:61953/user-guide/&#34; &gt;Support Center&lt;/a&gt; or contact &lt;a href=&#34;mailto:support@bigledger.com&#34; &gt;support@bigledger.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Financial Reporting Guide</title>
-      <link>http://localhost:1313/guides/accounting-guides/financial-reporting/</link>
+      <link>http://localhost:61953/guides/accounting-guides/financial-reporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guides/accounting-guides/financial-reporting/</guid>
+      <guid>http://localhost:61953/guides/accounting-guides/financial-reporting/</guid>
       <description>
         
         
@@ -667,10 +667,10 @@ Current Ratio = Current Assets / Current Liabilities&lt;/code&gt;&lt;/pre&gt;&lt
     
     <item>
       <title>Bank Reconciliation Step-by-Step</title>
-      <link>http://localhost:1313/guides/accounting-guides/bank-reconciliation-guide/</link>
+      <link>http://localhost:61953/guides/accounting-guides/bank-reconciliation-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guides/accounting-guides/bank-reconciliation-guide/</guid>
+      <guid>http://localhost:61953/guides/accounting-guides/bank-reconciliation-guide/</guid>
       <description>
         
         

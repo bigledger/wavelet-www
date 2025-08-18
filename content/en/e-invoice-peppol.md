@@ -294,10 +294,10 @@ MyInvois is Malaysia's national e-invoicing initiative, mandating electronic inv
 ### Resources
 
 **Documentation**
-- [API Documentation](/api/e-invoice/)
-- [Integration Guides](/guides/e-invoice-integration/)
-- [Best Practices](/guides/e-invoice-best-practices/)
-- [FAQ](/support/e-invoice-faq/)
+- [API Documentation](/developers/api-reference/einvoice/)
+- [Integration Guides](/e-invoice-peppol/)
+- [Best Practices](/e-invoice-peppol/)
+- [FAQ](/e-invoice-peppol/)
 
 **Support**
 - 24/7 Help Desk
@@ -320,7 +320,7 @@ Ready to transform your invoicing process? Our team is here to help:
 - **Implementation Support**: Expert guidance
 - **Training**: Comprehensive user training
 
-[Request Demo](/demo/e-invoice/) | [Contact Sales](mailto:einvoice@bigledger.com) | [Download Guide](/resources/e-invoice-guide/)
+[Request Demo](/e-invoice-peppol/) | [Contact Sales](mailto:einvoice@bigledger.com) | [Download Guide](/e-invoice-peppol/)
 
 ## Compliance & Certifications
 

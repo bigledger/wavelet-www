@@ -49,7 +49,9 @@
       "Bash(pip3 install:*)",
       "Bash(source:*)",
       "Bash(pip install:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(echo:*)",
+      "Bash(aws cloudfront get-invalidation:*)"
     ],
     "deny": [],
     "ask": [],

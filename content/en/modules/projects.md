@@ -120,4 +120,4 @@ The BigLedger Project Management module helps organizations plan, execute, and d
 4. Create project workflows
 5. Train project teams
 
-For detailed documentation, visit our [Project Management Guide](/docs/projects/) or contact support.
+For detailed documentation, visit our [Project Management Guide](/modules/projects/) or contact support.

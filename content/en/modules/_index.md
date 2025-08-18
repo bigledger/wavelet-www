@@ -76,6 +76,6 @@ graph TB
 Need help choosing the right modules for your business? Our team is here to help:
 
 - 📧 [Contact Sales](mailto:sales@bigledger.com)
-- 📚 [Module Documentation](/docs/modules/)
-- 🎥 [Video Tutorials](/tutorials/)
+- 📚 [Module Documentation](/modules/)
+- 🎥 [Video Tutorials](/user-guide/)
 - 💬 [Community Forum](https://forum.bigledger.com)

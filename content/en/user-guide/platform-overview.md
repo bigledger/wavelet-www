@@ -363,8 +363,8 @@ BigLedger seamlessly integrates with AIMatrix - a super agent workspace that pro
 
 ## Learn More
 
-- **[Implementation Guide](/implementation/)** - Detailed deployment instructions
+- **[Implementation Guide](/user-guide/)** - Detailed deployment instructions
 - **[Applet Catalog](/applets/)** - Browse available business applets
-- **[API Documentation](/api/)** - Technical integration details
-- **[Best Practices](/best-practices/)** - Industry recommendations
+- **[API Documentation](/developers/api-reference/)** - Technical integration details
+- **[Best Practices](/user-guide/)** - Industry recommendations
 - **[Training Academy](https://academy.bigledger.com)** - Comprehensive training programs

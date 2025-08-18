@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Tutorial</title>
-    <link>http://localhost:1313/tags/tutorial/</link>
+    <link>http://localhost:61953/tags/tutorial/</link>
     <description>Recent content in Tutorial on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61953/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>BigLedger Documentation</title>
-      <link>http://localhost:1313/user-guide/bigledger-documentation/</link>
+      <link>http://localhost:61953/user-guide/bigledger-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/bigledger-documentation/</guid>
+      <guid>http://localhost:61953/user-guide/bigledger-documentation/</guid>
       <description>
         
         
@@ -46,10 +46,10 @@ Youtube Channel&lt;/p&gt;
     
     <item>
       <title>Creating an Item</title>
-      <link>http://localhost:1313/user-guide/creating-an-item/</link>
+      <link>http://localhost:61953/user-guide/creating-an-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/creating-an-item/</guid>
+      <guid>http://localhost:61953/user-guide/creating-an-item/</guid>
       <description>
         
         
@@ -76,10 +76,10 @@ Click Create Item and it will direct you to this page and will indicate that the
     
     <item>
       <title>Document Item Maintenance</title>
-      <link>http://localhost:1313/user-guide/document-item-maintenance/</link>
+      <link>http://localhost:61953/user-guide/document-item-maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/document-item-maintenance/</guid>
+      <guid>http://localhost:61953/user-guide/document-item-maintenance/</guid>
       <description>
         
         
@@ -91,10 +91,10 @@ Click Create Item and it will direct you to this page and will indicate that the
     
     <item>
       <title>Document Item Types</title>
-      <link>http://localhost:1313/user-guide/document-item-types/</link>
+      <link>http://localhost:61953/user-guide/document-item-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/document-item-types/</guid>
+      <guid>http://localhost:61953/user-guide/document-item-types/</guid>
       <description>
         
         
@@ -111,10 +111,10 @@ Being the most complicated among all, Bundle can contain individual components a
     
     <item>
       <title>Editing an Item</title>
-      <link>http://localhost:1313/user-guide/editing-an-item/</link>
+      <link>http://localhost:61953/user-guide/editing-an-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/editing-an-item/</guid>
+      <guid>http://localhost:61953/user-guide/editing-an-item/</guid>
       <description>
         
         
@@ -135,10 +135,10 @@ Stock Allocation Tab&lt;/p&gt;
     
     <item>
       <title>Group Listing</title>
-      <link>http://localhost:1313/user-guide/group-listing/</link>
+      <link>http://localhost:61953/user-guide/group-listing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/group-listing/</guid>
+      <guid>http://localhost:61953/user-guide/group-listing/</guid>
       <description>
         
         
@@ -174,10 +174,10 @@ After adding the permission, you can Edit or Delete it from the &amp;ldquo;Permi
     
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/user-guide/introduction/</link>
+      <link>http://localhost:61953/user-guide/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/introduction/</guid>
+      <guid>http://localhost:61953/user-guide/introduction/</guid>
       <description>
         
         
@@ -206,10 +206,10 @@ Website: &lt;a href=&#34;http://www.bigledger.com&#34; target=&#34;_blank&#34; r
     
     <item>
       <title>Item Maintenance</title>
-      <link>http://localhost:1313/user-guide/item-maintenance/</link>
+      <link>http://localhost:61953/user-guide/item-maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/item-maintenance/</guid>
+      <guid>http://localhost:61953/user-guide/item-maintenance/</guid>
       <description>
         
         
@@ -236,10 +236,10 @@ Sales Order Tab&lt;/p&gt;
     
     <item>
       <title>Member Class</title>
-      <link>http://localhost:1313/user-guide/member-class/</link>
+      <link>http://localhost:61953/user-guide/member-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/member-class/</guid>
+      <guid>http://localhost:61953/user-guide/member-class/</guid>
       <description>
         
         
@@ -259,10 +259,10 @@ Please click ‘delete&amp;rsquo; to remove the member class from the list.&lt;/
     
     <item>
       <title>Member Label</title>
-      <link>http://localhost:1313/user-guide/member-label/</link>
+      <link>http://localhost:61953/user-guide/member-label/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/member-label/</guid>
+      <guid>http://localhost:61953/user-guide/member-label/</guid>
       <description>
         
         
@@ -291,10 +291,10 @@ Please select the listed members or follow the Member listing module to add new 
     
     <item>
       <title>Member Label List</title>
-      <link>http://localhost:1313/user-guide/member-label-list/</link>
+      <link>http://localhost:61953/user-guide/member-label-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/member-label-list/</guid>
+      <guid>http://localhost:61953/user-guide/member-label-list/</guid>
       <description>
         
         
@@ -321,10 +321,10 @@ Please fill up the compulsory information to add a new label. Please take note t
     
     <item>
       <title>Member Listing</title>
-      <link>http://localhost:1313/user-guide/member-listing/</link>
+      <link>http://localhost:61953/user-guide/member-listing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/member-listing/</guid>
+      <guid>http://localhost:61953/user-guide/member-listing/</guid>
       <description>
         
         
@@ -365,10 +365,10 @@ Item code &amp;amp; name&lt;/p&gt;
     
     <item>
       <title>Pricing Scheme</title>
-      <link>http://localhost:1313/user-guide/pricing-scheme/</link>
+      <link>http://localhost:61953/user-guide/pricing-scheme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/pricing-scheme/</guid>
+      <guid>http://localhost:61953/user-guide/pricing-scheme/</guid>
       <description>
         
         
@@ -376,7 +376,7 @@ Item code &amp;amp; name&lt;/p&gt;
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-12T21:27:30.118Z
 Once a user clicks on the pricing scheme module it will land on the pricing scheme listing page. The module is used to create the template for pricing that can be also used in transactional applets such as POS, GRN, etc. In this module you can only create the template/scheme, the price can be added later for each specific item in the &amp;ldquo;Item Maintenance&amp;rdquo; module
 For example, in the POS applet, users can go to the settings and choose which Pricing Scheme they want to use for a minimum price, maximum price or the retail price as shown in the interface below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/screenshots/placeholder-pricing-scheme.svg&#34; alt=&#34;Pricing Scheme Configuration&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:61953/screenshots/placeholder-pricing-scheme.svg&#34; alt=&#34;Pricing Scheme Configuration&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;Figure 1: Pricing Scheme Configuration in POS Settings - showing Malaysian tax-compliant pricing options&lt;/em&gt;
 Users also may search pricing schemes in the listing itself using fuzzy search in the AG-Grid listing. Pricing schemes can be searched in general search or advanced search:&lt;/p&gt;
 &lt;h2&gt;4.1 Pricing Scheme Create﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;41-pricing-scheme-create&#34;&gt;&lt;/span&gt;
@@ -401,10 +401,10 @@ In addition, users may delete the pricing scheme if they wish to. Users may clic
     
     <item>
       <title>Team</title>
-      <link>http://localhost:1313/user-guide/team/</link>
+      <link>http://localhost:61953/user-guide/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/user-guide/team/</guid>
+      <guid>http://localhost:61953/user-guide/team/</guid>
       <description>
         
         

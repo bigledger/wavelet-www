@@ -632,7 +632,7 @@ Our applet specialists can help you:
 - Plan implementation
 - Calculate ROI
 
-[Schedule Consultation](/consultation/) | [Browse Applets](/applet-store/) | [Download Guide](/resources/applet-guide/)
+[Schedule Consultation](/demos-resources/) | [Browse Applets](/applets/applet-store/) | [Download Guide](/applets/)
 
 ---
 

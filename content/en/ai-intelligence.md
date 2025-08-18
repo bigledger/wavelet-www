@@ -445,4 +445,4 @@ Ready to transform your business with AI? Contact our AI specialists:
 - **Training**: Comprehensive AI literacy programs
 - **Support**: 24/7 AI helpdesk
 
-[Launch AI Journey](/ai/getting-started/) | [Contact AI Team](mailto:ai@bigledger.com) | [View Pricing](/ai/pricing/)
+[Launch AI Journey](/ai-intelligence/) | [Contact AI Team](mailto:ai@bigledger.com) | [View Pricing](/ai-intelligence/)

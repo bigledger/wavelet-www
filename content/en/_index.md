@@ -74,13 +74,13 @@ BigLedger revolutionizes business operations through **centralized data manageme
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
 
 **Business Users**
-- **[Platform Overview](/user-guide/platform-overview/)** - Understanding BigLedger as your Business OS
+- **[Platform Overview](/user-guide/introduction/)** - Understanding BigLedger as your Business OS
 - **[Applets & Workflows](/applets/)** - Complete guide to BigLedger applets and automation
 - **[Business Operations](/business-operations/)** - Day-to-day operations and workflow management
 - **[User Guides](/user-guide/)** - Step-by-step tutorials and how-to guides
 
 **System Administrators**
-- **[Implementation Guide](/developer-docs/installation/)** - Deploy and configure BigLedger
+- **[Implementation Guide](/developers/getting-started/)** - Deploy and configure BigLedger
 - **[Applet Management](/applets/applet-directory/)** - Install, configure, and manage applets
 - **[Platform Administration](/modules/)** - Core modules and system configuration
 - **[E-commerce Integration](/ecommerce/)** - Multi-channel e-commerce with EcomSync
@@ -117,7 +117,7 @@ BigLedger revolutionizes business operations through **centralized data manageme
 
 **Food & Beverage**
 - [F&B Industry Implementation](/industry-solutions/food-and-beverage-fb-industry/)
-- [Multi-branch Operations](/business-operations/main-dashboard/)
+- [Multi-branch Operations](/business-operations/dashboard/)
 
 **General Industries**
 - [Industry Solutions Overview](/industry-solutions/industry-guide/)
@@ -130,22 +130,22 @@ Choose your journey based on your role:
 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
 
 **New Implementation**
-1. [Platform Requirements](/implementation/requirements/)
-2. [Deployment Options](/implementation/deployment/)
-3. [Initial Setup Wizard](/implementation/setup/)
-4. [Applet Selection](/applets/selection-guide/)
+1. [Platform Requirements](/user-guide/)
+2. [Deployment Options](/user-guide/)
+3. [Initial Setup Wizard](/user-guide/)
+4. [Applet Selection](/applets/)
 
 **Business User**
-1. [Platform Fundamentals](/platform/fundamentals/)
-2. [Navigation & Interface](/platform/navigation/)
-3. [Your First Transaction](/operations/first-transaction/)
-4. [Daily Tasks](/operations/daily/)
+1. [Platform Fundamentals](/user-guide/)
+2. [Navigation & Interface](/user-guide/navigation/)
+3. [Your First Transaction](/business-operations/)
+4. [Daily Tasks](/business-operations/)
 
 **Developer/Integrator**
-1. [Platform Architecture](/developer/architecture/)
-2. [API Documentation](/api/)
-3. [Applet Development](/developer/applets/)
-4. [Integration Patterns](/developer/integrations/)
+1. [Platform Architecture](/developers/)
+2. [API Documentation](/developers/api-reference/)
+3. [Applet Development](/developers/)
+4. [Integration Patterns](/developers/)
 
 </div>
 
@@ -377,8 +377,8 @@ BigLedger provides enterprise-grade features across all applets:
 
 Documentation available in:
 - **English** (Primary - Always current)
-- [中文](/zh/) - Chinese
-- [Bahasa Melayu](/ms/) - Malay  
-- [العربية](/ar/) - Arabic
+- [中文](/) - Chinese
+- [Bahasa Melayu](/) - Malay  
+- [العربية](/) - Arabic
 
 *Primary documentation is maintained in English with periodic translations.*

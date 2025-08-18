@@ -240,8 +240,8 @@ Create personalized dashboards with:
 
 ## Support & Training
 
-- 📚 [CRM Best Practices Guide](/docs/best-practices/crm/)
-- 🎥 [Video Tutorials](/tutorials/crm/)
-- 📊 [Report Templates](/templates/crm/)
+- 📚 [CRM Best Practices Guide](/modules/crm/)
+- 🎥 [Video Tutorials](/modules/crm/)
+- 📊 [Report Templates](/modules/crm/)
 - 💬 [Community Forum](https://forum.bigledger.com/crm)
 - 📧 [Support](mailto:crm-support@bigledger.com)

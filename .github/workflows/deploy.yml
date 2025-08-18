@@ -42,11 +42,29 @@ jobs:
       - name: Invalidate CloudFront
         if: success()
         run: |
-          aws cloudfront create-invalidation \
+          echo "Creating CloudFront invalidation for distribution E3FOFD9ZXC2QVT"
+          INVALIDATION_ID=$(aws cloudfront create-invalidation \
             --distribution-id E3FOFD9ZXC2QVT \
             --paths "/*" \
             --query 'Invalidation.Id' \
-            --output text
+            --output text)
+          echo "Invalidation created with ID: $INVALIDATION_ID"
+          
+          # Wait for invalidation to complete (max 5 minutes)
+          echo "Waiting for invalidation to complete..."
+          for i in {1..30}; do
+            STATUS=$(aws cloudfront get-invalidation \
+              --distribution-id E3FOFD9ZXC2QVT \
+              --id $INVALIDATION_ID \
+              --query 'Invalidation.Status' \
+              --output text)
+            echo "Status: $STATUS"
+            if [ "$STATUS" = "Completed" ]; then
+              echo "✅ CloudFront invalidation completed successfully"
+              break
+            fi
+            sleep 10
+          done
 
       - name: Verify deployment
         run: |

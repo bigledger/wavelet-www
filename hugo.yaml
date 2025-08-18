@@ -80,7 +80,7 @@ params:
   # Edit this page
   editURL:
     enable: true
-    base: "https://github.com/bigledger/blg-wiki/edit/main"
+    base: "https://github.com/bigledger/blg-wiki/edit/main/content"
     
   # Search
   search:
@@ -119,35 +119,35 @@ params:
 # Menu configuration
 menu:
   main:
-    - identifier: platform
-      name: Platform
-      weight: 1
-      pageRef: /platform
-      
     - identifier: modules
       name: Modules
-      weight: 2
+      weight: 1
       pageRef: /modules
       
+    - identifier: applets
+      name: Applets
+      weight: 2
+      pageRef: /applets
+      
     - identifier: einvoice
-      name: E-Invoice
+      name: E-Invoice & PEPPOL
       weight: 3
       pageRef: /e-invoice-peppol
       
-    - identifier: guides
-      name: Guides
-      weight: 4
-      pageRef: /guides
-      
     - identifier: operations
-      name: Operations
+      name: Business Operations
+      weight: 4
+      pageRef: /business-operations
+      
+    - identifier: user-guide
+      name: User Guide
       weight: 5
       pageRef: /user-guide
       
-    - identifier: tutorials
-      name: Tutorials
+    - identifier: ecommerce
+      name: E-Commerce
       weight: 6
-      pageRef: /tutorials
+      pageRef: /ecommerce
       
     - identifier: ai
       name: AI Intelligence
@@ -157,7 +157,7 @@ menu:
     - identifier: developers
       name: Developers
       weight: 8
-      pageRef: /developer-docs
+      pageRef: /developers
     
     - identifier: search
       name: 🔍 Search
@@ -182,3 +182,13 @@ deployment:
     - name: production
       URL: s3://wiki.bigledger.com?region=ap-southeast-5
       cloudFrontDistributionID: E3FOFD9ZXC2QVT
+
+# Permalink configuration to ensure consistent URLs
+permalinks:
+  pages: /:slug/
+  posts: /:slug/
+
+# URL management
+disablePathToLower: false
+relativeURLs: false
+canonifyURLs: true

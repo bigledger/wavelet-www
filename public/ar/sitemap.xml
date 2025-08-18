@@ -2,209 +2,209 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ar/modules/financial-accounting/</loc>
+    <loc>http://localhost:61953/ar/modules/financial-accounting/</loc>
     <lastmod>2025-08-17T23:57:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/financial-accounting/"
+                href="http://localhost:61953/modules/financial-accounting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/financial-accounting/"
+                href="http://localhost:61953/zh/modules/financial-accounting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/financial-accounting/"
+                href="http://localhost:61953/ms/modules/financial-accounting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/financial-accounting/"
+                href="http://localhost:61953/ar/modules/financial-accounting/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/modules/pos/</loc>
+    <loc>http://localhost:61953/ar/modules/pos/</loc>
     <lastmod>2025-08-17T23:57:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/pos/"
+                href="http://localhost:61953/modules/pos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/pos/"
+                href="http://localhost:61953/zh/modules/pos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/pos/"
+                href="http://localhost:61953/ms/modules/pos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/pos/"
+                href="http://localhost:61953/ar/modules/pos/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/modules/crm/</loc>
+    <loc>http://localhost:61953/ar/modules/crm/</loc>
     <lastmod>2025-08-17T23:57:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/crm/"
+                href="http://localhost:61953/modules/crm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/crm/"
+                href="http://localhost:61953/zh/modules/crm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/crm/"
+                href="http://localhost:61953/ms/modules/crm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/crm/"
+                href="http://localhost:61953/ar/modules/crm/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/modules/</loc>
+    <loc>http://localhost:61953/ar/modules/</loc>
     <lastmod>2025-08-17T23:57:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/"
+                href="http://localhost:61953/modules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/"
+                href="http://localhost:61953/zh/modules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/"
+                href="http://localhost:61953/ms/modules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/"
+                href="http://localhost:61953/ar/modules/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/modules/inventory/</loc>
+    <loc>http://localhost:61953/ar/modules/inventory/</loc>
     <lastmod>2025-08-17T23:57:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/modules/inventory/"
+                href="http://localhost:61953/modules/inventory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/modules/inventory/"
+                href="http://localhost:61953/zh/modules/inventory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/modules/inventory/"
+                href="http://localhost:61953/ms/modules/inventory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/modules/inventory/"
+                href="http://localhost:61953/ar/modules/inventory/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/categories/</loc>
+    <loc>http://localhost:61953/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:61953/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/categories/"
+                href="http://localhost:61953/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/categories/"
+                href="http://localhost:61953/ms/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/categories/"
+                href="http://localhost:61953/ar/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/tags/</loc>
+    <loc>http://localhost:61953/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:61953/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/tags/"
+                href="http://localhost:61953/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/tags/"
+                href="http://localhost:61953/ms/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/tags/"
+                href="http://localhost:61953/ar/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/search/</loc>
+    <loc>http://localhost:61953/ar/search/</loc>
     <lastmod>2025-08-12T19:26:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="http://localhost:61953/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/search/"
+                href="http://localhost:61953/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/search/"
+                href="http://localhost:61953/ms/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/search/"
+                href="http://localhost:61953/ar/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/</loc>
+    <loc>http://localhost:61953/ar/</loc>
     <lastmod>2025-08-12T19:19:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://localhost:61953/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/"
+                href="http://localhost:61953/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://localhost:1313/ms/"
+                href="http://localhost:61953/ms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/"
+                href="http://localhost:61953/ar/"
                 />
   </url>
 </urlset>

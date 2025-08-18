@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Inventory Management</title>
-    <link>http://localhost:1313/guides/inventory-guides/</link>
+    <link>http://localhost:61953/guides/inventory-guides/</link>
     <description>Recent content in Inventory Management on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/guides/inventory-guides/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61953/guides/inventory-guides/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Stock Management Guide</title>
-      <link>http://localhost:1313/guides/inventory-guides/stock-management/</link>
+      <link>http://localhost:61953/guides/inventory-guides/stock-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guides/inventory-guides/stock-management/</guid>
+      <guid>http://localhost:61953/guides/inventory-guides/stock-management/</guid>
       <description>
         
         
@@ -85,10 +85,10 @@
     
     <item>
       <title>Stock Transfer Procedures</title>
-      <link>http://localhost:1313/guides/inventory-guides/stock-transfer/</link>
+      <link>http://localhost:61953/guides/inventory-guides/stock-transfer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guides/inventory-guides/stock-transfer/</guid>
+      <guid>http://localhost:61953/guides/inventory-guides/stock-transfer/</guid>
       <description>
         
         

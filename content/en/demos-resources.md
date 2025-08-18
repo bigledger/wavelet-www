@@ -192,16 +192,16 @@ Coverage:
 ### 📚 Documentation
 
 **Getting Started Guides**
-- [Platform Setup Guide](/guides/platform-setup/)
-- [Module Configuration](/guides/module-config/)
-- [Integration Manual](/guides/integration/)
-- [Best Practices](/guides/best-practices/)
+- [Platform Setup Guide](/user-guide/)
+- [Module Configuration](/modules/)
+- [Integration Manual](/developers/)
+- [Best Practices](/guides/)
 
 **Technical Documentation**
-- [API Reference](/api/)
-- [Data Dictionary](/technical/data-dictionary/)
-- [Security Guide](/technical/security/)
-- [Performance Tuning](/technical/performance/)
+- [API Reference](/developers/api-reference/)
+- [Data Dictionary](/developers/)
+- [Security Guide](/developers/)
+- [Performance Tuning](/developers/)
 
 ### 🎓 Training Materials
 
@@ -274,7 +274,7 @@ Fill out our demo request form:
 - Key requirements
 - Preferred date/time
 
-[Schedule Demo Now](/demo-request/) | [Contact Sales](mailto:sales@bigledger.com)
+[Schedule Demo Now](/demos-resources/) | [Contact Sales](mailto:sales@bigledger.com)
 
 ## Customer Success Stories
 
@@ -338,7 +338,7 @@ Fill out our demo request form:
 - Industry insights
 - Regulatory updates
 
-[Subscribe Now](/subscribe/)
+[Subscribe Now](/demos-resources/)
 
 ---
 

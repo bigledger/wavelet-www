@@ -19,17 +19,17 @@ weight: 10
 ## Popular Topics
 
 ### Platform & Operations
-- [Platform Overview](/user-guide/platform-overview/)
+- [Platform Overview](/user-guide/introduction/)
 - [Business Operations Guide](/user-guide/)
-- [Implementation Guide](/implementation/)
+- [Implementation Guide](/user-guide/)
 
 ### Business Functions
-- [Financial Management](/applets/finance/)
-- [Sales & CRM](/applets/sales/)
-- [Supply Chain](/applets/supply-chain/)
-- [Human Resources](/applets/hr/)
+- [Financial Management](/applets/)
+- [Sales & CRM](/applets/)
+- [Supply Chain](/applets/)
+- [Human Resources](/applets/)
 
 ### Technical Resources
-- [API Documentation](/api/)
-- [Developer Guide](/developer-docs/)
-- [Integration Hub](/integrations/)
+- [API Documentation](/developers/api-reference/)
+- [Developer Guide](/developers/)
+- [Integration Hub](/developers/)

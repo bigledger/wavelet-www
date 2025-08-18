@@ -378,7 +378,7 @@ Comprehensive project tracking and resource management.
 
 See our modules in action with your business scenarios:
 
-[Schedule Demo](/demo/) | [Download Brochure](/resources/modules-brochure/) | [Contact Sales](mailto:sales@bigledger.com)
+[Schedule Demo](/demos-resources/) | [Download Brochure](/modules/) | [Contact Sales](mailto:sales@bigledger.com)
 
 ---
 

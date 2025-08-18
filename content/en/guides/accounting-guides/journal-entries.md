@@ -204,4 +204,4 @@ BigLedger validates:
 
 ---
 
-*Need help? Visit our [Support Center](/support) or contact support@bigledger.com*
+*Need help? Visit our [Support Center](/user-guide/) or contact support@bigledger.com*
