@@ -1,8 +1,13 @@
 # BigLedger Wiki - Complete Site Structure & GitHub Mapping
 
-## Important: GitHub Path Structure
+## ⚠️ CRITICAL: GitHub Path Structure
 
-**ALL content files are located under `content/en/` in the GitHub repository**
+### **ALL documentation files are under `content/en/` NOT just `en/`**
+
+❌ **WRONG**: `https://github.com/bigledger/blg-wiki/blob/main/en/user-guide/_index.md`  
+✅ **CORRECT**: `https://github.com/bigledger/blg-wiki/blob/main/content/en/user-guide/_index.md`
+
+**The `content/` prefix is REQUIRED for all GitHub paths!**
 
 GitHub Repository: https://github.com/bigledger/blg-wiki
 

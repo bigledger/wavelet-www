@@ -2,13 +2,26 @@
 
 This repository contains the source for BigLedger's documentation website, built with Hugo and hosted at https://wiki.bigledger.com
 
+## ⚠️ CRITICAL: GitHub File Paths
+
+### **ALL documentation files are located under `content/en/` NOT just `en/`**
+
+❌ **WRONG**: `https://github.com/bigledger/blg-wiki/blob/main/en/user-guide/_index.md`  
+✅ **CORRECT**: `https://github.com/bigledger/blg-wiki/blob/main/content/en/user-guide/_index.md`
+
+**The `content/` prefix is REQUIRED for all GitHub paths!**
+
 ## Overview
 
-The documentation is organized into sections for both end users and technical developers:
-- **User Guide** - Comprehensive guides for end users
-- **Developer Documentation** - Technical documentation for developers
-- **API Reference** - Complete API documentation
-- **Tutorials** - Step-by-step tutorials
+The documentation is organized into sections under `content/en/`:
+- **User Guide** (`content/en/user-guide/`) - Comprehensive guides for end users
+- **Developer Documentation** (`content/en/developers/`) - Technical documentation for developers
+- **API Reference** (`content/en/developers/api-reference/`) - Complete API documentation
+- **Modules** (`content/en/modules/`) - Core module documentation
+- **Applets** (`content/en/applets/`) - Applet documentation
+- **Business Operations** (`content/en/business-operations/`) - Operational workflows
+- **E-Commerce** (`content/en/ecommerce/`) - E-commerce features
+- **Industry Solutions** (`content/en/industry-solutions/`) - Industry-specific guides
 
 ## Local Development
 
