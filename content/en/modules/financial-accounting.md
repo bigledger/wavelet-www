@@ -1,15 +1,39 @@
 ---
-description: Complete financial management and accounting system with multi-currency,
-  multi-entity support
+title: "Financial Accounting Module"
+description: "Complete financial management and accounting system with multi-currency, multi-entity support"
+weight: 20
 tags:
 - user-guide
-title: Financial Accounting
-weight: 10
 ---
 
 # Financial Accounting Module
 
 ## Overview
+
+The Financial Accounting Module provides comprehensive, standards-compliant accounting through specialized applets working together. Designed for businesses of all sizes, it delivers real-time financial insights while maintaining audit compliance.
+
+## Module Composition
+
+### Core Applets (Primary Functions)
+- **General Ledger Applet** - Main accounting engine
+- **Journal Entry Applet** - Manual journal entries
+- **Financial Reports Applet** - Balance sheet, P&L, cash flow
+- **Bank Reconciliation Applet** - Bank statement matching
+- **Period End Closing Applet** - Month/year-end processes
+
+### Shared Applets (From Core Module)
+- **[Chart of Accounts Applet](/applets/)** - Account structure
+- **[Tax Configuration Applet](/applets/)** - GST/SST setup
+- **[Cashbook Applet](/applets/)** - Cash management
+- **[Organization Applet](/applets/organization-applet/)** - Multi-entity
+- **[Customer Maintenance](/applets/)** - AR master data
+- **[Supplier Maintenance](/applets/)** - AP master data
+
+### Optional Enhancement Applets
+- **Budget Management Applet** - Budget vs actual
+- **Fixed Assets Applet** - Asset depreciation
+- **Cost Center Applet** - Department accounting
+- **Inter-Company Applet** - Multi-entity transactions
 
 The BigLedger Financial Accounting module provides a comprehensive, standards-compliant accounting system designed for businesses of all sizes. Built with GAAP, IFRS, and local accounting standards in mind, it offers real-time financial insights while maintaining the rigor required for audit compliance.
 

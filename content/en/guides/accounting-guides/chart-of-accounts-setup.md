@@ -6,8 +6,6 @@ title: Chart of Accounts Setup Guide
 weight: 10
 ---
 
-# Chart of Accounts Setup Guide
-
 Complete guide for setting up your Chart of Accounts in BigLedger.
 
 ## Overview

@@ -389,4 +389,4 @@ You can either request it (we release updates monthly), build a custom applet, o
 - **Support Portal**: [support.bigledger.com](https://support.bigledger.com) - 24/7 help
 - **Training Academy**: [academy.bigledger.com](https://academy.bigledger.com) - Free courses
 - **Community Forum**: [forum.bigledger.com](https://forum.bigledger.com) - User community
-- **WhatsApp Support**: +60 12-345 6789 - Quick questions
+- **Telegram Support**: @leehongfay - Quick questions

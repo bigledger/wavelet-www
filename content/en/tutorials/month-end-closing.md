@@ -6,8 +6,6 @@ title: Month-End Closing Process
 weight: 20
 ---
 
-# Month-End Closing Process
-
 Complete month-end procedures in BigLedger.
 
 ## Checklist

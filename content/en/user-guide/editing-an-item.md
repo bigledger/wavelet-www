@@ -7,7 +7,6 @@ title: Editing an Item
 weight: 10
 ---
 
-# Editing an Item
 **Page ID**: 3196191049
 **Last Updated**: 2021-07-23T04:10:59.216Z
 Edit section allows users to see detailed information on their item. Users are allowed to manage stock and place where you are able to sync marketplace and view marketplace listings.

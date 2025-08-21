@@ -6,8 +6,6 @@ title: Stock Management Guide
 weight: 10
 ---
 
-# Stock Management Guide
-
 Complete inventory management with BigLedger.
 
 ## Stock Setup

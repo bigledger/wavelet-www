@@ -6,8 +6,6 @@ title: Financial Reporting Guide
 weight: 30
 ---
 
-# Financial Reporting Guide
-
 Generate accurate financial reports with BigLedger's reporting suite.
 
 ## Available Reports

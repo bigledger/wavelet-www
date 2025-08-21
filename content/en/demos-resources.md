@@ -7,8 +7,6 @@ title: Demos & Resources
 weight: 20
 ---
 
-# Demos & Resources
-
 Experience BigLedger's capabilities through our comprehensive demo videos and presentation materials.
 
 ## Video Demonstrations

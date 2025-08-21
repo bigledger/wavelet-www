@@ -7,7 +7,6 @@ title: Industry Guide
 weight: 10
 ---
 
-# Industry Guide
 **Page ID**: 3153822073
 **Last Updated**: 2024-11-15T01:56:59.787Z
 The consequences of the COVID pandemic have had an unprecedented impact on the businesses worldwide. To survive and grow, businesses had to face the new reality of lockdowns and social distancing, and embrace online space as the only way to stay connected to their customers. With over 150 customers impacted by pandemic, Wavelet team has demonstrated its ability to guide and implement scalable cloud solutions at the fast pace - a "life savior" for businesses in the pandemic era.

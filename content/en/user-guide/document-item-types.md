@@ -7,7 +7,6 @@ title: Document Item Types
 weight: 10
 ---
 
-# Document Item Types
 **Page ID**: 3225452915
 **Last Updated**: 2021-07-12T09:07:01.033Z
 Basic Item refers to an FI-item, an individual item having a one-to-one mapping with an INV Item;

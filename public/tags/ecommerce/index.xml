@@ -1,55 +1,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Ecommerce</title>
-    <link>http://localhost:62446/tags/ecommerce/</link>
+    <link>http://localhost:53975/tags/ecommerce/</link>
     <description>Recent content in Ecommerce on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:62446/tags/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:53975/tags/ecommerce/index.xml" rel="self" type="application/rss+xml" />
     
     
       
         
       
     
-    
-    <item>
-      <title>E-commerce Integration</title>
-      <link>http://localhost:62446/ecommerce/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:62446/ecommerce/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;E-commerce Integration&lt;/h1&gt;&lt;p&gt;BigLedger&amp;rsquo;s e-commerce solutions enable seamless multi-channel operations through EcomSync and CP-Commerce modules. Manage your online presence across multiple platforms while maintaining centralized inventory and order management.&lt;/p&gt;
-&lt;h2&gt;Core E-commerce Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-e-commerce-features&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#core-e-commerce-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;EcomSync Module&lt;/strong&gt; - Centralized multi-channel e-commerce management&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CP-Commerce&lt;/strong&gt; - Comprehensive e-commerce platform&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Marketplace Integration&lt;/strong&gt; - Connect with Shopee, Lazada, and other platforms&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;B2B Solutions&lt;/strong&gt; - Business-to-business e-commerce capabilities&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Key Benefits&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-benefits&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-benefits&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Centralized inventory management across all channels&lt;/li&gt;
-&lt;li&gt;Real-time synchronization of stock levels and pricing&lt;/li&gt;
-&lt;li&gt;Unified order management and fulfillment&lt;/li&gt;
-&lt;li&gt;Comprehensive reporting and analytics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Getting Started&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#getting-started&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Explore the topics below to set up and optimize your e-commerce operations with BigLedger.&lt;/p&gt;
-
-      </description>
-    </item>
     
     <item>
       <title>2.0 Website Configuration﻿</title>
-      <link>http://localhost:62446/ecommerce/20-website-configuration/</link>
+      <link>http://localhost:53975/modules/ecommerce/20-website-configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/20-website-configuration/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/20-website-configuration/</guid>
       <description>
         
         
@@ -65,14 +35,14 @@
     
     <item>
       <title>B2B</title>
-      <link>http://localhost:62446/ecommerce/b2b/</link>
+      <link>http://localhost:53975/modules/ecommerce/b2b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/b2b/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/b2b/</guid>
       <description>
         
         
-        &lt;h1&gt;B2B&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153822181
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153822181
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-05T09:01:05.690Z&lt;/p&gt;
 
       </description>
@@ -80,14 +50,14 @@
     
     <item>
       <title>CP-Commerce</title>
-      <link>http://localhost:62446/ecommerce/cp-commerce/</link>
+      <link>http://localhost:53975/modules/ecommerce/cp-commerce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/cp-commerce/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/cp-commerce/</guid>
       <description>
         
         
-        &lt;h1&gt;CP-Commerce&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153887626
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153887626
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-17T11:04:53.671Z
 The CP-Commerce Module is a powerful solution designed to help businesses offer products and services online. It serves as an integrated platform that combines eCommerce capabilities with central data management and seamless integration with various other business systems. By eliminating duplicated data entry and providing operational data lake functionality, CP-Commerce empowers businesses to establish a robust online presence and grow their operations.&lt;/p&gt;
 
@@ -96,14 +66,14 @@ The CP-Commerce Module is a powerful solution designed to help businesses offer 
     
     <item>
       <title>Create Single Tab</title>
-      <link>http://localhost:62446/ecommerce/create-single-tab/</link>
+      <link>http://localhost:53975/modules/ecommerce/create-single-tab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/create-single-tab/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/create-single-tab/</guid>
       <description>
         
         
-        &lt;h1&gt;Create Single Tab&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191946
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191946
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T06:09:58.079Z
 Create - used for syncing the chosen item into a marketplace store.  Create consist of 2 types :
 Create Single - used when user wants to sync 1 (one) item into the marketplace
@@ -120,14 +90,14 @@ Once user complete filling up attribute details they may click on &amp;ldquo;Sub
     
     <item>
       <title>EcomSync Applet</title>
-      <link>http://localhost:62446/ecommerce/ecomsync-applet/</link>
+      <link>http://localhost:53975/modules/ecommerce/ecomsync-applet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/ecomsync-applet/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/ecomsync-applet/</guid>
       <description>
         
         
-        &lt;h1&gt;EcomSync Applet&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3259346357
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3259346357
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-23T05:51:22.732Z
 Table of Content
 Introduction to Ecomsync
@@ -149,14 +119,14 @@ Integration with Shopify&lt;/p&gt;
     
     <item>
       <title>Ecomsync Features</title>
-      <link>http://localhost:62446/ecommerce/ecomsync-features/</link>
+      <link>http://localhost:53975/modules/ecommerce/ecomsync-features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/ecomsync-features/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/ecomsync-features/</guid>
       <description>
         
         
-        &lt;h1&gt;Ecomsync Features&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3299247174
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3299247174
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-19T02:40:30.908Z
 Readiness Status: 5 - Best possibleGreen 4 - optimalYellow 3 - averageBlue 2 - sub  optimalPurple 1 - worst possibleRed
 PHASE 1
@@ -281,14 +251,14 @@ Order management (Create Consignment Note, invoice etc)
     
     <item>
       <title>Integration with Shopify</title>
-      <link>http://localhost:62446/ecommerce/integration-with-shopify/</link>
+      <link>http://localhost:53975/modules/ecommerce/integration-with-shopify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/integration-with-shopify/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/integration-with-shopify/</guid>
       <description>
         
         
-        &lt;h1&gt;Integration with Shopify&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3292758065
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3292758065
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-15T07:56:28.266Z
 steps,..&lt;/p&gt;
 
@@ -297,18 +267,18 @@ steps,..&lt;/p&gt;
     
     <item>
       <title>Introduction to EcomSync</title>
-      <link>http://localhost:62446/ecommerce/introduction-to-ecomsync/</link>
+      <link>http://localhost:53975/modules/ecommerce/introduction-to-ecomsync/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/introduction-to-ecomsync/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/introduction-to-ecomsync/</guid>
       <description>
         
         
-        &lt;h1&gt;Introduction to EcomSync&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196485958
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196485958
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T01:46:53.953Z&lt;/p&gt;
 &lt;h2&gt;Introduction&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;introduction&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#introduction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;EcomSync Applet is an applet whereby users can organize and manage their items/products, orders and view their marketplace performances. The aim of EcomSync Applet is to equip users with the understanding of managing their marketplace aspects.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:62446/diagrams/ecomsync-integration-flow.svg&#34; alt=&#34;EcomSync Integration Flow&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:53975/diagrams/ecomsync-integration-flow.svg&#34; alt=&#34;EcomSync Integration Flow&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;Figure 1: EcomSync Integration Architecture - connecting BigLedger with major Malaysian marketplaces&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;You are able to experience many benefits from the applet such as from a management perspective, EcomSync provides better and feasible control of your seller shops. You are able to simultaneously sync items into multiple seller accounts. Other than that, EcomSync acts as a pacemaker which you can manage order and its status and can link with your Enterprise Management Portal (EMP) that makes your product management process easier.&lt;/p&gt;
 &lt;h2&gt;Prerequisites&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prerequisites&#34;&gt;&lt;/span&gt;
@@ -326,14 +296,14 @@ steps,..&lt;/p&gt;
     
     <item>
       <title>Listing</title>
-      <link>http://localhost:62446/ecommerce/listing/</link>
+      <link>http://localhost:53975/modules/ecommerce/listing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/listing/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/listing/</guid>
       <description>
         
         
-        &lt;h1&gt;Listing&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196846319
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196846319
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:06:35.534Z
 Listing shows all your Items that are synced from EMP and Marketplace. Inside the listing the item can be 2 levels, where by the first level is the one that is synced from EMP or the one that user created themselves, and the 2nd level shows the items that were synced to marketplace:
 User may customize the AG-Grid listing, where by they can move around and filter the headers of the listing.&lt;/p&gt;
@@ -343,14 +313,14 @@ User may customize the AG-Grid listing, where by they can move around and filter
     
     <item>
       <title>Marketplace Tab</title>
-      <link>http://localhost:62446/ecommerce/marketplace-tab/</link>
+      <link>http://localhost:53975/modules/ecommerce/marketplace-tab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/marketplace-tab/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/marketplace-tab/</guid>
       <description>
         
         
-        &lt;h1&gt;Marketplace Tab&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191832
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191832
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-23T05:24:07.943Z
 Marketplace Tab is used for the Users to Create, Edit, Update and Delete the Items to be sync into the marketplace. This section will let you select the Item Type to be displayed in the Marketplace.
 Click Save. - For this Module each time edit the Item detail throughout the tabs &amp;ldquo;MUST CLICK SAVE&amp;rdquo;.&lt;/p&gt;
@@ -360,14 +330,14 @@ Click Save. - For this Module each time edit the Item detail throughout the tabs
     
     <item>
       <title>Update and Delete Item</title>
-      <link>http://localhost:62446/ecommerce/update-and-delete-item/</link>
+      <link>http://localhost:53975/modules/ecommerce/update-and-delete-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/ecommerce/update-and-delete-item/</guid>
+      <guid>http://localhost:53975/modules/ecommerce/update-and-delete-item/</guid>
       <description>
         
         
-        &lt;h1&gt;Update and Delete Item&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191957
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191957
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T06:15:40.294Z
 Update/Delete Item - when user want to update or delete the item that was sync to the marketplace they will have to go to &amp;ldquo;Marketplace Tab&amp;rdquo; select the store from the current listing and update/delete the item:&lt;/p&gt;
 

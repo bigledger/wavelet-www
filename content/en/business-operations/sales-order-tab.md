@@ -7,7 +7,6 @@ title: Sales Order Tab
 weight: 10
 ---
 
-# Sales Order Tab
 **Page ID**: 3196191975
 **Last Updated**: 2021-06-18T06:19:14.245Z
 Sales Order Tab - allows user to configure the sales order either:

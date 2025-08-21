@@ -6,8 +6,6 @@ title: Stock Transfer Procedures
 weight: 20
 ---
 
-# Stock Transfer Procedures
-
 Manage inventory movements between locations.
 
 ## Transfer Types

@@ -6,8 +6,6 @@ title: SDKs & Libraries
 weight: 35
 ---
 
-# SDKs & Libraries
-
 Official SDKs and libraries for popular programming languages. Build integrations faster with type-safe, well-documented libraries that handle authentication, rate limiting, and error handling automatically.
 
 ## Available SDKs

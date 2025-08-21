@@ -6,8 +6,6 @@ title: Authentication & Authorization
 weight: 10
 ---
 
-# Authentication & Authorization
-
 BigLedger APIs use API key authentication with OAuth 2.0 support for secure access to your business data.
 
 ## API Key Authentication

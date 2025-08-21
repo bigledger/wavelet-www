@@ -6,7 +6,6 @@ title: Unified Contact Center (UCC) Applet
 weight: 10
 ---
 
-# Unified Contact Center (UCC) Applet
 **Page ID**: 3153854887
 **Last Updated**: 2021-08-25T03:55:39.645Z
 Introduction

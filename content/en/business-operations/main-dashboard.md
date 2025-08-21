@@ -7,7 +7,6 @@ title: Main Dashboard
 weight: 10
 ---
 
-# Main Dashboard
 **Page ID**: 3196486107
 **Last Updated**: 2021-06-18T02:51:44.242Z
 Users able to see their selling performance of marketplace in a graph figures for an example. 

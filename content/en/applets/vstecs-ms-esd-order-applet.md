@@ -6,7 +6,6 @@ title: VSTECS MS ESD Order Applet
 weight: 10
 ---
 
-# VSTECS MS ESD Order Applet
 **Page ID**: 3176039738
 **Last Updated**: 2021-07-15T07:57:41.735Z
 Attached User guide for MS ESD Order and Work Breakdown for implementation.

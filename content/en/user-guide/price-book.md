@@ -6,7 +6,6 @@ title: Price book
 weight: 10
 ---
 
-# Price book
 **Page ID**: 3317434109
 **Last Updated**: 2025-01-01T18:15:27.759Z
 # 3.0 Pricebook Listing

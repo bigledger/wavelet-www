@@ -7,8 +7,6 @@ title: E-Invoice APIs
 weight: 20
 ---
 
-# E-Invoice APIs
-
 PEPPOL and MyInvois compliance with automated invoice validation, formatting, and submission to government portals. Ensure compliance with Malaysian LHDN requirements and international PEPPOL standards.
 
 ## Base URL

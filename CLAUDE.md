@@ -29,6 +29,35 @@ When creating or updating documentation:
 4. **Use clear, simple English that is easy to translate**
 5. **Avoid idioms and culturally-specific references**
 
+## BigLedger Architecture - Module-Applet Relationship
+
+### CRITICAL: Understanding Modules and Applets
+
+**Modules and Applets have a many-to-many relationship:**
+- **Modules** = Logical business groupings (e.g., Financial Accounting, E-Commerce, POS)
+- **Applets** = Reusable functional components that can belong to MULTIPLE modules
+- **Location**: All applet documentation stays in `/content/en/applets/` (single source of truth)
+- **References**: Modules reference (link to) applets, never duplicate their documentation
+
+**Example**: Tax Configuration Applet is used by:
+- Financial Accounting Module
+- Sales & CRM Module  
+- Purchasing Module
+- E-Commerce Module
+- POS Module
+
+This applet has ONE documentation file in `/applets/` that all modules link to.
+
+**DO:**
+- ✅ Keep applet docs in `/applets/`
+- ✅ Have modules list and link to their applets
+- ✅ Explain in each module which applets it uses
+
+**DON'T:**
+- ❌ Move applets under module folders
+- ❌ Duplicate applet documentation
+- ❌ Create multiple versions of the same applet doc
+
 ### IMPORTANT: Hextra Theme Limitations
 
 ⚠️ **The Hextra theme has strict limitations on HTML/CSS usage:**

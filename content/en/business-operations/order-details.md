@@ -7,7 +7,6 @@ title: Order Details
 weight: 10
 ---
 
-# Order Details
 **Page ID**: 3196486077
 **Last Updated**: 2021-06-18T02:43:04.291Z
 When clicking on order, the details of order will be shown in each tab as shown in the interface below:

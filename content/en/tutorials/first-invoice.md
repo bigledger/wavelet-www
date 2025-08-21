@@ -6,8 +6,6 @@ title: Creating Your First Invoice
 weight: 10
 ---
 
-# Creating Your First Invoice
-
 Step-by-step guide to create and submit your first e-invoice.
 
 ## Prerequisites

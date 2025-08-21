@@ -6,7 +6,6 @@ title: Company - Organization Applet,
 weight: 10
 ---
 
-# Company - Organization Applet,
 **Page ID**: 3259374409
 **Last Updated**: 2025-05-23T00:35:53.163Z
 noneWhen logging into the Organization Applet, the first page displayed to the user is the Company Listing page in the first icon on the left sidebar.
@@ -15,15 +14,15 @@ How to Create a Company: A step-by-step guide on setting up company details and 
 How to Edit a Company: An overview of each tab and its features to enhance company configuration
 #  Create Company﻿
 One company can have multiple sub-branches, and there's no limit to this configuration
-To start creating a company, users can click on the &lsquo;+' button located at the top left corner.
+To start creating a company, users can click on the '+' button located at the top left corner.
 ##  Company Tab﻿
 ### Create a Company﻿
-Click the &lsquo;+' button at the top left corner.
+Click the '+' button at the top left corner.
 Fill in all required fields with the necessary information. Fields marked with a * are mandatory and cannot be modified later.
-Once completed, click &lsquo;Save' in the top right corner.
+Once completed, click 'Save' in the top right corner.
 Please refer to the screenshots below for guidance.
-Step 1: Click the &lsquo;+' button to create a company.
-Step 2 and 3: Fill in all required fields and click &lsquo;Save'.
+Step 1: Click the '+' button to create a company.
+Step 2 and 3: Fill in all required fields and click 'Save'.
 In the Company Creation form, you will need to fill in the following fields:
 Company Code, Name, Registration No.: Enter these details
 Company Incorporation Date: When the company was established
@@ -44,9 +43,9 @@ When creating a company, users are required to fill in the address details. This
 ### Fill in the Company Address﻿
 Navigate to the Address Tab.
 Fill in all required fields, including postal details and country information. Fields marked with a * are mandatory.
-Once completed, click &lsquo;Save' in the top right corner to store the address information.
+Once completed, click 'Save' in the top right corner to store the address information.
 Please refer to the screenshot below for guidance.
-Step 1, 2: Fill in the required address details and click &lsquo;Save'.
+Step 1, 2: Fill in the required address details and click 'Save'.
 The fields required in the Address Tab are as follows:
 Address Line 1: Primary address details
 Address Line 2: Additional address details
@@ -80,7 +79,7 @@ Configuring a KO is optional but may be necessary if:
 The company wants to track payments against invoices in an automated manner.
 The business requires document issuance verification before transactions are marked as completed.
 There is a need to link invoice issuance to supplier/customer transactions for internal processing.
-A critical setup for the company to configure the workflow. Click on the &lsquo;+' button to begin setup.
+A critical setup for the company to configure the workflow. Click on the '+' button to begin setup.
 Server Doc Type Options: Essential for setting up the company's workflow, such as configuring the process for purchase orders, converting them into purchase GRNs or invoices, or setting up the sales process (from sales orders to sales invoices). The configuration is based on document types.
 The user needs to select the server type. Server Type 1 refers to the source document, while Server Type 2 refers to the target document
 This is an example of a basic knock-off (KO) setup flow for the customer. For instance, when the user creates an invoice, there will be two knock-off options: Sales Order and Sales Quotation.

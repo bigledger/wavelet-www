@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Operations</title>
-    <link>http://localhost:62446/tags/operations/</link>
+    <link>http://localhost:53975/tags/operations/</link>
     <description>Recent content in Operations on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:62446/tags/operations/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:53975/tags/operations/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Business Operations</title>
-      <link>http://localhost:62446/business-operations/</link>
+      <link>http://localhost:53975/business-operations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/</guid>
+      <guid>http://localhost:53975/business-operations/</guid>
       <description>
         
         
@@ -41,10 +41,10 @@
     
     <item>
       <title>Account Receivable</title>
-      <link>http://localhost:62446/business-operations/account-receivable/</link>
+      <link>http://localhost:53975/business-operations/account-receivable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/account-receivable/</guid>
+      <guid>http://localhost:53975/business-operations/account-receivable/</guid>
       <description>
         
         
@@ -351,14 +351,14 @@
     
     <item>
       <title>Accounting</title>
-      <link>http://localhost:62446/business-operations/accounting/</link>
+      <link>http://localhost:53975/business-operations/accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/accounting/</guid>
+      <guid>http://localhost:53975/business-operations/accounting/</guid>
       <description>
         
         
-        &lt;h1&gt;Accounting&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153854863
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3153854863
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-17T18:06:34.270Z&lt;/p&gt;
 &lt;h2&gt;Set Up Company﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;set-up-company&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#set-up-company&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Organization Applet
@@ -403,14 +403,14 @@ Set of Book 3 = Branch 1 and Branch 2 (Branch 1 Primary Ledger, Branch 2 Primary
     
     <item>
       <title>Dashboard</title>
-      <link>http://localhost:62446/business-operations/dashboard/</link>
+      <link>http://localhost:53975/business-operations/dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/dashboard/</guid>
+      <guid>http://localhost:53975/business-operations/dashboard/</guid>
       <description>
         
         
-        &lt;h1&gt;Dashboard&lt;/h1&gt;&lt;h2&gt;Executive Command Center&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;executive-command-center&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Executive Command Center&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;executive-command-center&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#executive-command-center&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The BigLedger Dashboard transforms raw business data into actionable intelligence through real-time analytics and customizable KPI monitoring. Unlike traditional ERP dashboards, our AI-powered visualization engine learns from your business patterns and proactively highlights opportunities and risks.&lt;/p&gt;
 &lt;h2&gt;Dashboard Components&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;dashboard-components&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#dashboard-components&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Main Dashboard&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;main-dashboard&#34;&gt;&lt;/span&gt;
@@ -635,14 +635,14 @@ Set of Book 3 = Branch 1 and Branch 2 (Branch 1 Primary Ledger, Branch 2 Primary
     
     <item>
       <title>Main Dashboard</title>
-      <link>http://localhost:62446/business-operations/main-dashboard/</link>
+      <link>http://localhost:53975/business-operations/main-dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/main-dashboard/</guid>
+      <guid>http://localhost:53975/business-operations/main-dashboard/</guid>
       <description>
         
         
-        &lt;h1&gt;Main Dashboard&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196486107
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196486107
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:51:44.242Z
 Users able to see their selling performance of marketplace in a graph figures for an example.
 Users can filter by Custom Date , 7 Days and 30 Days.
@@ -661,10 +661,10 @@ Top Selling Branch&lt;/p&gt;
     
     <item>
       <title>Order</title>
-      <link>http://localhost:62446/business-operations/order/</link>
+      <link>http://localhost:53975/business-operations/order/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/order/</guid>
+      <guid>http://localhost:53975/business-operations/order/</guid>
       <description>
         
         
@@ -1091,14 +1091,14 @@ Top Selling Branch&lt;/p&gt;
     
     <item>
       <title>Order Dashboard</title>
-      <link>http://localhost:62446/business-operations/order-dashboard/</link>
+      <link>http://localhost:53975/business-operations/order-dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/order-dashboard/</guid>
+      <guid>http://localhost:53975/business-operations/order-dashboard/</guid>
       <description>
         
         
-        &lt;h1&gt;Order Dashboard&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3197010418
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3197010418
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:58:45.100Z
 Order dashboard also show users on the summary of users performance throughout their business timeline and specifically focuses on orders via users&amp;rsquo; marketplace.
 For the Order page, Users can also filter by Custom Date , 7 Days and 30 Days.
@@ -1111,17 +1111,17 @@ Canceled Orders Tab (In-depth Report)&lt;/p&gt;
     
     <item>
       <title>Order Details</title>
-      <link>http://localhost:62446/business-operations/order-details/</link>
+      <link>http://localhost:53975/business-operations/order-details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/order-details/</guid>
+      <guid>http://localhost:53975/business-operations/order-details/</guid>
       <description>
         
         
-        &lt;h1&gt;Order Details&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196486077
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196486077
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:43:04.291Z
 When clicking on order, the details of order will be shown in each tab as shown in the interface below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:62446/screenshots/placeholder-order-details.svg&#34; alt=&#34;Order Details Interface&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:53975/screenshots/placeholder-order-details.svg&#34; alt=&#34;Order Details Interface&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;Figure 1: Order Details Interface showing the tabbed layout for comprehensive order information&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Order Information Tabs&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;order-information-tabs&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#order-information-tabs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Details Tab&lt;/strong&gt; - allows to view full information about the Order and the price&lt;/p&gt;
@@ -1165,14 +1165,14 @@ When clicking on order, the details of order will be shown in each tab as shown 
     
     <item>
       <title>Order Filtering</title>
-      <link>http://localhost:62446/business-operations/order-filtering/</link>
+      <link>http://localhost:53975/business-operations/order-filtering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/order-filtering/</guid>
+      <guid>http://localhost:53975/business-operations/order-filtering/</guid>
       <description>
         
         
-        &lt;h1&gt;Order Filtering&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3197010347
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3197010347
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:33:29.613Z&lt;/p&gt;
 &lt;h1&gt;Filter&lt;/h1&gt;&lt;p&gt;Order filtering help users to specify and focus on important detail of an order.
 Users also can click on the &amp;ldquo;Filter&amp;rdquo; button under the search bar and view orders that are  chosen according to the user&amp;rsquo;s choice:
@@ -1199,14 +1199,14 @@ Allows to print consignment note for selected items&lt;/p&gt;
     
     <item>
       <title>Order Listing</title>
-      <link>http://localhost:62446/business-operations/order-listing/</link>
+      <link>http://localhost:53975/business-operations/order-listing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/order-listing/</guid>
+      <guid>http://localhost:53975/business-operations/order-listing/</guid>
       <description>
         
         
-        &lt;h1&gt;Order Listing&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191098
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191098
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T02:13:39.990Z
 The Order Listing shows all your orders that are synced from Marketplace to Ecomsync Applet.&lt;/p&gt;
 &lt;h3&gt;Search&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;search&#34;&gt;&lt;/span&gt;
@@ -1217,14 +1217,14 @@ The Order Listing shows all your orders that are synced from Marketplace to Ecom
     
     <item>
       <title>Sales Dashboard</title>
-      <link>http://localhost:62446/business-operations/sales-dashboard/</link>
+      <link>http://localhost:53975/business-operations/sales-dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/sales-dashboard/</guid>
+      <guid>http://localhost:53975/business-operations/sales-dashboard/</guid>
       <description>
         
         
-        &lt;h1&gt;Sales Dashboard&lt;/h1&gt;&lt;h2&gt;Comprehensive Sales Intelligence Platform&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;comprehensive-sales-intelligence-platform&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Comprehensive Sales Intelligence Platform&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;comprehensive-sales-intelligence-platform&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#comprehensive-sales-intelligence-platform&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;BigLedger&amp;rsquo;s Sales Dashboard transforms raw transaction data into actionable sales intelligence, providing real-time visibility into revenue performance, customer behavior, and market trends across all channels. Our AI-enhanced analytics engine delivers predictive insights that drive strategic decision-making and revenue growth.&lt;/p&gt;
 &lt;h2&gt;Dashboard Overview&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;dashboard-overview&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#dashboard-overview&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Executive Sales Summary&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;executive-sales-summary&#34;&gt;&lt;/span&gt;
@@ -1772,14 +1772,14 @@ The Order Listing shows all your orders that are synced from Marketplace to Ecom
     
     <item>
       <title>Sales Order Tab</title>
-      <link>http://localhost:62446/business-operations/sales-order-tab/</link>
+      <link>http://localhost:53975/business-operations/sales-order-tab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/business-operations/sales-order-tab/</guid>
+      <guid>http://localhost:53975/business-operations/sales-order-tab/</guid>
       <description>
         
         
-        &lt;h1&gt;Sales Order Tab&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191975
+        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191975
 &lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-18T06:19:14.245Z
 Sales Order Tab - allows user to configure the sales order either:
 Active - all active Sales Order will be configured

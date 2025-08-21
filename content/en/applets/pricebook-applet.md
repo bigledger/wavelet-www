@@ -6,7 +6,6 @@ title: Pricebook Applet
 weight: 10
 ---
 
-# Pricebook Applet
 **Page ID**: 3317565050
 **Last Updated**: 2025-01-01T18:13:11.882Z
 # 1.0 Introduction

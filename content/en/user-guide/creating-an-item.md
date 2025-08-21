@@ -7,7 +7,6 @@ title: Creating an Item
 weight: 10
 ---
 
-# Creating an Item
 **Page ID**: 3196846326
 **Last Updated**: 2021-07-23T04:01:29.004Z
 In creating an Item, users need to click on the

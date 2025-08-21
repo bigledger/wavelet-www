@@ -6,7 +6,6 @@ title: Applet Store
 weight: 10
 ---
 
-# Applet Store
 **Page ID**: 3153985735
 **Last Updated**: 2024-11-12T20:56:19.341Z
 

@@ -7,7 +7,6 @@ title: Food and Beverage (F&B) Industry
 weight: 10
 ---
 
-# Food and Beverage (F&B) Industry
 **Page ID**: 3153854852
 **Last Updated**: 2024-11-15T01:58:35.705Z
 ## Success Story 2 : Food and Beverage (F&B) Industry﻿

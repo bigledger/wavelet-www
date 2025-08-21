@@ -6,7 +6,6 @@ title: Related Applets - Stock Balance
 weight: 10
 ---
 
-# Related Applets - Stock Balance
 **Page ID**: 3325941210
 **Last Updated**: 2021-10-18T06:35:35.008Z
 ### The stock balance applet can import Lines from the following Applets:

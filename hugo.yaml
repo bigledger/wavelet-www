@@ -184,6 +184,12 @@ menu:
       pageRef: /modules/hr
       weight: 70
       
+    - identifier: ucc
+      name: Unified Contact Center
+      parent: applications
+      pageRef: /applications/unified-contact-center
+      weight: 80
+      
     # Platform Features
     - identifier: platform
       name: "⚙️ Platform"

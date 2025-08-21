@@ -6,7 +6,6 @@ title: Branch - Organization Applet
 weight: 10
 ---
 
-# Branch - Organization Applet
 **Page ID**: 3196191408
 **Last Updated**: 2025-05-23T00:37:54.393Z
 noneThis section covers the second main tab in the sidebar, Branches, where users can create and edit details for their branches.
@@ -18,10 +17,10 @@ The second topic in this section provides an overview of each tab in the Edit Br
 #  Create Branch﻿
 Users can create multiple branches, all linked to one company
 ## Create Branch From Sidebar﻿
-The second icon on the left menu bar is the Branch Tab, which allows users to create a new branch for a company manually. Users can press the &lsquo;+' button to create a new branch.
+The second icon on the left menu bar is the Branch Tab, which allows users to create a new branch for a company manually. Users can press the '+' button to create a new branch.
 Fill in all required fields in the Details Tab as outlined below.
-Once completed, click &lsquo;Save' to save the branch details.
-Users can choose between &lsquo;Create Default Location' or &lsquo;Choose From Existing Location' when setting up the branch.
+Once completed, click 'Save' to save the branch details.
+Users can choose between 'Create Default Location' or 'Choose From Existing Location' when setting up the branch.
 If you create the branch before setting up the location and select 'Create Default Location' the system will automatically create one default location.
 The fields that need to be filled in the Details Tab are:
 Branch Code, Branch Name
@@ -29,15 +28,15 @@ Company Name: Link the branch to your company. This will be displayed as the sel
 Company Registration No.: Displayed as filled in by the user
 Branch Commencement Date
 Currency: Different currencies can be selected from the drop-down list
-If the users created the location before the branch, then the users select &lsquo;Choose From Existing Location', the additional fields required in the Details Tab are:
+If the users created the location before the branch, then the users select 'Choose From Existing Location', the additional fields required in the Details Tab are:
 Location Code
 Default Location
-After filling in all necessary details, click &lsquo;Save' to store the branch information.
+After filling in all necessary details, click 'Save' to store the branch information.
 Fill in the details in the Address Tab as previously instructed.
-After confirming all the information, click the &lsquo;Save' button to store the branch details.
+After confirming all the information, click the 'Save' button to store the branch details.
 ##  Create Branch From Company Listing Tab﻿﻿
-If the users choose to create a branch for the selected company in the Company Listing Page, they are directly linking the branch to that company. Click the &lsquo;+' sign to start creating the branch.
-Navigate to the Branch Tab in the company edit and click the &lsquo;+' button to create a new branch.
+If the users choose to create a branch for the selected company in the Company Listing Page, they are directly linking the branch to that company. Click the '+' sign to start creating the branch.
+Navigate to the Branch Tab in the company edit and click the '+' button to create a new branch.
 Select the company you wish to create a branch for from the drop-down list. The Company Name and Company Registration No. will be auto-filled based on your selection.
 Fill in the mandatory fields that need to be filled in the Details Tab and Address
 #  Edit branch﻿

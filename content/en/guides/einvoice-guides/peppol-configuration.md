@@ -6,8 +6,6 @@ title: PEPPOL Configuration Guide
 weight: 20
 ---
 
-# PEPPOL Configuration Guide
-
 Configure PEPPOL for international e-invoicing.
 
 ## What is PEPPOL?

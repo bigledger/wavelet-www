@@ -6,8 +6,6 @@ title: Bank Reconciliation Step-by-Step
 weight: 40
 ---
 
-# Bank Reconciliation Step-by-Step
-
 Master the bank reconciliation process with BigLedger's AI-powered matching.
 
 ## Overview

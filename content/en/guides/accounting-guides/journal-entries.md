@@ -6,8 +6,6 @@ title: Journal Entries Guide
 weight: 20
 ---
 
-# Journal Entries Guide
-
 Master manual and automated journal entries in BigLedger.
 
 ## Overview

@@ -9,13 +9,21 @@ weight: 1
 ---
 
 
-# Applets and Workflows
+# Applets Library
 
-BigLedger's modular approach centers around applets - specialized mini-applications that handle specific business functions. This section provides comprehensive documentation for all available applets and their workflows.
+BigLedger's modular architecture is built on applets - reusable components that provide specific business functionality. Each applet can be used by multiple modules, ensuring consistency across your entire system.
 
-## What are Applets?
+## Understanding Applets
 
-Applets are lightweight, focused applications that can be installed and configured independently. They integrate seamlessly with BigLedger's core platform and other applets to create comprehensive business solutions.
+{{< callout type="info" >}}
+**Important**: Applets have a many-to-many relationship with modules. For example, the Tax Configuration Applet is used by Financial Accounting, Sales, Purchasing, and E-Commerce modules. This design eliminates duplication and ensures consistent behavior across the system.
+{{< /callout >}}
+
+### Key Characteristics
+- **Reusable** - One applet serves multiple modules
+- **Configurable** - Customize to your business needs
+- **Integrated** - Seamlessly work together
+- **Independent** - Can be updated without affecting others
 
 ## Applet Categories
 

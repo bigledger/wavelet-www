@@ -57,12 +57,12 @@ This guide helps business users effectively operate BigLedger's Business Operati
 
 ## E-Commerce Integration
 
-- [E-Commerce Overview](/ecommerce/) - Multi-channel selling
-- [EcomSync Introduction](/ecommerce/introduction-to-ecomsync/) - Synchronization platform
-- [Shopify Integration](/ecommerce/integration-with-shopify/) - Connect your Shopify store
-- [B2B Commerce](/ecommerce/b2b/) - Business-to-business portal
-- [CP-Commerce](/ecommerce/cp-commerce/) - Consumer packaged goods
-- [Marketplace Integration](/ecommerce/marketplace-tab/) - Multi-marketplace management
+- [E-Commerce Overview](/modules/ecommerce/) - Multi-channel selling
+- [EcomSync Introduction](/modules/ecommerce/introduction-to-ecomsync/) - Synchronization platform
+- [Shopify Integration](/modules/ecommerce/integration-with-shopify/) - Connect your Shopify store
+- [B2B Commerce](/modules/ecommerce/b2b/) - Business-to-business portal
+- [CP-Commerce](/modules/ecommerce/cp-commerce/) - Consumer packaged goods
+- [Marketplace Integration](/modules/ecommerce/marketplace-tab/) - Multi-marketplace management
 
 ## Industry Solutions
 

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – Overview</title>
-    <link>http://localhost:62446/tags/overview/</link>
+    <link>http://localhost:53975/tags/overview/</link>
     <description>Recent content in Overview on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:62446/tags/overview/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:53975/tags/overview/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Platform Overview - BigLedger Business Operating System</title>
-      <link>http://localhost:62446/user-guide/platform-overview/</link>
+      <link>http://localhost:53975/user-guide/platform-overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/user-guide/platform-overview/</guid>
+      <guid>http://localhost:53975/user-guide/platform-overview/</guid>
       <description>
         
         
@@ -420,21 +420,21 @@
 &lt;h2&gt;🔗 See Also&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-see-also&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-see-also&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Getting Started&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#getting-started&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/user-guide/implementation&#34; &gt;Implementation Guide&lt;/a&gt; - Step-by-step deployment guide&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/applets/applet-store/&#34; &gt;Applet Store Overview&lt;/a&gt; - Browse available applets&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/tutorials/quick-start&#34; &gt;Quick Start Tutorial&lt;/a&gt; - Get running in 30 minutes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/user-guide/implementation&#34; &gt;Implementation Guide&lt;/a&gt; - Step-by-step deployment guide&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/applets/applet-store/&#34; &gt;Applet Store Overview&lt;/a&gt; - Browse available applets&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/tutorials/quick-start&#34; &gt;Quick Start Tutorial&lt;/a&gt; - Get running in 30 minutes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Core Modules&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;core-modules&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#core-modules&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/modules/financial-accounting/&#34; &gt;Financial Accounting&lt;/a&gt; - Complete accounting solution&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/modules/crm/&#34; &gt;CRM &amp;amp; Sales&lt;/a&gt; - Customer relationship management&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/modules/inventory/&#34; &gt;Inventory Management&lt;/a&gt; - Stock and warehouse control&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/modules/financial-accounting/&#34; &gt;Financial Accounting&lt;/a&gt; - Complete accounting solution&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/modules/crm/&#34; &gt;CRM &amp;amp; Sales&lt;/a&gt; - Customer relationship management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/modules/inventory/&#34; &gt;Inventory Management&lt;/a&gt; - Stock and warehouse control&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Advanced Topics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advanced-topics&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advanced-topics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt; - Integration guide&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/developers/applet-sdk&#34; &gt;Custom Applet Development&lt;/a&gt; - Build your own&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:62446/ai-intelligence/&#34; &gt;AI &amp;amp; Automation&lt;/a&gt; - Leverage AI capabilities&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/developers/api-reference/&#34; &gt;API Documentation&lt;/a&gt; - Integration guide&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/developers/applet-sdk&#34; &gt;Custom Applet Development&lt;/a&gt; - Build your own&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:53975/ai-intelligence/&#34; &gt;AI &amp;amp; Automation&lt;/a&gt; - Leverage AI capabilities&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;❓ Frequently Asked Questions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-frequently-asked-questions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-frequently-asked-questions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;details&gt;
@@ -469,7 +469,7 @@
 &lt;li&gt;&lt;strong&gt;Support Portal&lt;/strong&gt;: &lt;a href=&#34;https://support.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;support.bigledger.com&lt;/a&gt; - 24/7 help&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Training Academy&lt;/strong&gt;: &lt;a href=&#34;https://academy.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;academy.bigledger.com&lt;/a&gt; - Free courses&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Community Forum&lt;/strong&gt;: &lt;a href=&#34;https://forum.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;forum.bigledger.com&lt;/a&gt; - User community&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;WhatsApp Support&lt;/strong&gt;: +60 12-345 6789 - Quick questions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Telegram Support&lt;/strong&gt;: @leehongfay - Quick questions&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

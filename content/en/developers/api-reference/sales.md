@@ -7,8 +7,6 @@ title: Sales & CRM APIs
 weight: 30
 ---
 
-# Sales & CRM APIs
-
 Complete customer relationship management and sales operations including customers, contacts, sales orders, quotes, and invoicing.
 
 ## Base URL

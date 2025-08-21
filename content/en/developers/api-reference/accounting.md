@@ -7,8 +7,6 @@ title: Accounting APIs
 weight: 10
 ---
 
-# Accounting APIs
-
 Complete accounting operations including chart of accounts, journal entries, and financial reporting. All accounting operations follow double-entry bookkeeping principles.
 
 ## Base URL

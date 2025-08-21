@@ -4,8 +4,6 @@ description: Learn how to navigate BigLedger's user interface effectively
 weight: 5
 ---
 
-# Navigation & Interface Guide
-
 ## Interface Overview
 
 BigLedger's modern interface is designed for efficiency and ease of use, providing quick access to all business functions through an intuitive navigation system.

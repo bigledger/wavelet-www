@@ -6,8 +6,6 @@ title: Webhooks
 weight: 30
 ---
 
-# Webhooks
-
 Real-time event notifications for BigLedger events. Get notified instantly when invoices are created, payments received, inventory levels change, and more.
 
 ## Overview

@@ -7,7 +7,6 @@ title: Pricing Scheme
 weight: 10
 ---
 
-# Pricing Scheme
 **Page ID**: 3313139757
 **Last Updated**: 2024-11-12T21:27:30.118Z
 Once a user clicks on the pricing scheme module it will land on the pricing scheme listing page. The module is used to create the template for pricing that can be also used in transactional applets such as POS, GRN, etc. In this module you can only create the template/scheme, the price can be added later for each specific item in the "Item Maintenance" module

@@ -6,7 +6,6 @@ title: Introduction to Stock Take Applet
 weight: 10
 ---
 
-# Introduction to Stock Take Applet
 **Page ID**: 3312746669
 **Last Updated**: 2025-02-28T09:09:05.479Z
 The Stock Take Applet offers a one-stop solution for all your inventory management needs, providing everything you need for traceability and efficient stock control. 

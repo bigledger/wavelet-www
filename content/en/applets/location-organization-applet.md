@@ -6,7 +6,6 @@ title: Location - Organization Applet
 weight: 10
 ---
 
-# Location - Organization Applet
 **Page ID**: 3259374431
 **Last Updated**: 2025-05-23T00:39:20.134Z
 Each branch can have multiple locations

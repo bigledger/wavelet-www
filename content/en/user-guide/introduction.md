@@ -1,5 +1,5 @@
 ---
-description: Introduction 3153854635 2024-11-08T12:29:44.
+description: Your gateway to streamlined business operations with BigLedger ERP
 tags:
 - user-guide
 - tutorial
@@ -7,26 +7,66 @@ title: Introduction
 weight: 10
 ---
 
-# Introduction
-**Page ID**: 3153854635
-**Last Updated**: 2024-11-08T12:29:44.536Z
-Your gateway to streamlined operations and valuable insights with Bigledger
-#DEEBFFBigledger centralizes your data for real-time insights and streamlined management. Explore our resources to maximize your experience.
-:note:atlassian-note#EAE6FFUser Registrations and Permissions  (First-time & Existing Users)
-:note:atlassian-note#FFEBE6Applet Directory  (User-guide on Akaun Applets)
-:note:atlassian-note#FFFAE6Industry Guide  (Industries we work in)
-:note:atlassian-note#E3FCEFModule Guide  (User-guide on Bigledger Modules )
-:note:atlassian-note#E6FCFFMobile App Use Guide  (User guide on Mobile Applications)
-#B3D4FF
-#                                 New To BigLedger?
-https://youtu.be/WrFz_4JTC1s?si=gNb1FT-BAxKO_7xl 
-BLG Users Guide Registration 
-Existing EMP User﻿﻿Server Side Permissions
-#   
-#4C9AFF
-#                                       Need Our Help?
-## Contact Us
-Email: sales@bigledger.com  
-Phone: 016-2991588
-Website: http://www.bigledger.com
-#DEEBFF
+# Introduction to BigLedger
+
+Welcome to BigLedger, your comprehensive gateway to streamlined business operations and valuable insights. BigLedger centralizes your data to provide real-time insights and streamlined management across all aspects of your business.
+
+## Getting Started Resources
+
+Explore our comprehensive resources to maximize your BigLedger experience:
+
+{{< cards >}}
+{{< card link="/user-guide/platform-overview" title="Platform Overview" subtitle="First-time and existing users - registration and permissions guide" >}}
+{{< card link="/applets/" title="Applet Directory" subtitle="User guide on BigLedger Applets and automation tools" >}}
+{{< card link="/industry-solutions/" title="Industry Solutions" subtitle="Discover solutions tailored for your specific industry" >}}
+{{< card link="/modules/" title="Module Guide" subtitle="Comprehensive guide to BigLedger's business modules" >}}
+{{< /cards >}}
+
+## New to BigLedger?
+
+If you're just getting started with BigLedger, here are the essential first steps:
+
+### Quick Start Video Tutorial
+{{< callout type="info" >}}
+**Watch our comprehensive introduction video:**  
+📹 [BigLedger User Guide Registration](https://youtu.be/WrFz_4JTC1s?si=gNb1FT-BAxKO_7xl)
+{{< /callout >}}
+
+### For New Users
+- **Registration Process**: Create your BigLedger account and set up your company profile
+- **Initial Configuration**: Configure basic settings for your business needs
+- **User Permissions**: Learn how to manage team access and permissions
+
+### For Existing EMP Users
+- **Migration Guide**: Seamlessly transition from existing EMP systems
+- **Data Import**: Transfer your existing business data
+- **Server-Side Permissions**: Configure advanced permission settings
+
+## Need Help?
+
+Our support team is ready to assist you with any questions or guidance you need.
+
+### Contact Information
+- **📧 Email**: vincent@bigledger.com / sales@bigledger.com
+- **💬 Telegram**: @leehongfay
+- **🌐 Website**: [www.bigledger.com](https://www.bigledger.com)
+
+### Additional Support Resources
+- **📚 Documentation**: Comprehensive guides and tutorials
+- **🎥 Video Library**: Step-by-step video tutorials
+- **💬 Community**: Connect with other BigLedger users
+- **🛠️ Technical Support**: Get help with technical issues
+
+## What's Next?
+
+Ready to dive deeper into BigLedger? Here are your next steps:
+
+1. **Complete Your Setup**: Finish configuring your company settings
+2. **Explore Core Modules**: Start with the modules most relevant to your business
+3. **Import Your Data**: Bring in your existing business information
+4. **Train Your Team**: Ensure everyone knows how to use the system effectively
+5. **Go Live**: Start managing your business operations with BigLedger
+
+{{< callout type="tip" >}}
+**Pro Tip**: Start with our most popular modules - Financial Accounting, Inventory Management, and CRM - to see immediate benefits in your daily operations.
+{{< /callout >}}

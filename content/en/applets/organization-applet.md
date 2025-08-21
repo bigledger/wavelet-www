@@ -6,7 +6,6 @@ title: Organization Applet
 weight: 10
 ---
 
-# Organization Applet
 **Page ID**: 3197010229
 **Last Updated**: 2025-05-23T00:34:30.718Z
 The Organization Applet is designed to manage and configure essential details for companies and their branches. This applet allows users to seamlessly set up, edit, and maintain company profiles, ensuring that all necessary configurations, such as branch information, business registration numbers (BRN), and invoice upload settings, are properly managed.

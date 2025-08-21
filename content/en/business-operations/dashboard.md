@@ -7,8 +7,6 @@ title: Dashboard
 weight: 10
 ---
 
-# Dashboard
-
 ## Executive Command Center
 
 The BigLedger Dashboard transforms raw business data into actionable intelligence through real-time analytics and customizable KPI monitoring. Unlike traditional ERP dashboards, our AI-powered visualization engine learns from your business patterns and proactively highlights opportunities and risks.

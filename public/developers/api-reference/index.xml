@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – API Reference</title>
-    <link>http://localhost:62446/developers/api-reference/</link>
+    <link>http://localhost:53975/developers/api-reference/</link>
     <description>Recent content in API Reference on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:62446/developers/api-reference/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:53975/developers/api-reference/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,14 +16,14 @@
     
     <item>
       <title>Accounting APIs</title>
-      <link>http://localhost:62446/developers/api-reference/accounting/</link>
+      <link>http://localhost:53975/developers/api-reference/accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/developers/api-reference/accounting/</guid>
+      <guid>http://localhost:53975/developers/api-reference/accounting/</guid>
       <description>
         
         
-        &lt;h1&gt;Accounting APIs&lt;/h1&gt;&lt;p&gt;Complete accounting operations including chart of accounts, journal entries, and financial reporting. All accounting operations follow double-entry bookkeeping principles.&lt;/p&gt;
+        &lt;p&gt;Complete accounting operations including chart of accounts, journal entries, and financial reporting. All accounting operations follow double-entry bookkeeping principles.&lt;/p&gt;
 &lt;h2&gt;Base URL&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;base-url&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#base-url&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -1303,14 +1303,14 @@
     
     <item>
       <title>E-Invoice APIs</title>
-      <link>http://localhost:62446/developers/api-reference/einvoice/</link>
+      <link>http://localhost:53975/developers/api-reference/einvoice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/developers/api-reference/einvoice/</guid>
+      <guid>http://localhost:53975/developers/api-reference/einvoice/</guid>
       <description>
         
         
-        &lt;h1&gt;E-Invoice APIs&lt;/h1&gt;&lt;p&gt;PEPPOL and MyInvois compliance with automated invoice validation, formatting, and submission to government portals. Ensure compliance with Malaysian LHDN requirements and international PEPPOL standards.&lt;/p&gt;
+        &lt;p&gt;PEPPOL and MyInvois compliance with automated invoice validation, formatting, and submission to government portals. Ensure compliance with Malaysian LHDN requirements and international PEPPOL standards.&lt;/p&gt;
 &lt;h2&gt;Base URL&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;base-url&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#base-url&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -2498,14 +2498,14 @@
     
     <item>
       <title>Sales &amp; CRM APIs</title>
-      <link>http://localhost:62446/developers/api-reference/sales/</link>
+      <link>http://localhost:53975/developers/api-reference/sales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/developers/api-reference/sales/</guid>
+      <guid>http://localhost:53975/developers/api-reference/sales/</guid>
       <description>
         
         
-        &lt;h1&gt;Sales &amp;amp; CRM APIs&lt;/h1&gt;&lt;p&gt;Complete customer relationship management and sales operations including customers, contacts, sales orders, quotes, and invoicing.&lt;/p&gt;
+        &lt;p&gt;Complete customer relationship management and sales operations including customers, contacts, sales orders, quotes, and invoicing.&lt;/p&gt;
 &lt;h2&gt;Base URL&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;base-url&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#base-url&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -4037,14 +4037,14 @@
     
     <item>
       <title>Inventory APIs</title>
-      <link>http://localhost:62446/developers/api-reference/inventory/</link>
+      <link>http://localhost:53975/developers/api-reference/inventory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/developers/api-reference/inventory/</guid>
+      <guid>http://localhost:53975/developers/api-reference/inventory/</guid>
       <description>
         
         
-        &lt;h1&gt;Inventory APIs&lt;/h1&gt;&lt;p&gt;Complete inventory management including items, stock levels, transfers, adjustments, and real-time tracking across multiple locations.&lt;/p&gt;
+        &lt;p&gt;Complete inventory management including items, stock levels, transfers, adjustments, and real-time tracking across multiple locations.&lt;/p&gt;
 &lt;h2&gt;Base URL&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;base-url&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#base-url&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
 
@@ -5547,10 +5547,10 @@
     
     <item>
       <title>Error Handling</title>
-      <link>http://localhost:62446/developers/api-reference/errors/</link>
+      <link>http://localhost:53975/developers/api-reference/errors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/developers/api-reference/errors/</guid>
+      <guid>http://localhost:53975/developers/api-reference/errors/</guid>
       <description>
         
         

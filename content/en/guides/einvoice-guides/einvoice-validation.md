@@ -6,8 +6,6 @@ title: E-Invoice Validation Rules
 weight: 30
 ---
 
-# E-Invoice Validation Rules
-
 Comprehensive validation rules for MyInvois compliance.
 
 ## Mandatory Fields

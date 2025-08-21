@@ -7,8 +7,6 @@ title: Sales Dashboard
 weight: 10
 ---
 
-# Sales Dashboard
-
 ## Comprehensive Sales Intelligence Platform
 
 BigLedger's Sales Dashboard transforms raw transaction data into actionable sales intelligence, providing real-time visibility into revenue performance, customer behavior, and market trends across all channels. Our AI-enhanced analytics engine delivers predictive insights that drive strategic decision-making and revenue growth.

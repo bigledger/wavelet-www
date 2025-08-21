@@ -7,8 +7,6 @@ title: Inventory APIs
 weight: 40
 ---
 
-# Inventory APIs
-
 Complete inventory management including items, stock levels, transfers, adjustments, and real-time tracking across multiple locations.
 
 ## Base URL

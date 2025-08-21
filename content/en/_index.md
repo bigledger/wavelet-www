@@ -17,20 +17,16 @@ layout: hextra-home
   **Trusted by 1 Million Users** • 100+ Integrated Modules • Malaysian Compliance Built-in
 {{< /hextra/hero-subtitle >}}
 
-<div style="display: flex; gap: 1rem; justify-content: center; margin: 2rem 0;">
 {{< hextra/hero-button text="Start Free Trial" link="/user-guide/introduction/" >}}
 {{< hextra/hero-button text="Watch Demo" link="/demos-resources/" style="secondary" >}}
-</div>
 
 ---
 
 ## 🎯 **Your Complete Business Solution**
 
-<div style="text-align: center; margin: 3rem 0;">
-  <p style="font-size: 1.25rem; color: #4b5563; max-width: 800px; margin: 0 auto;">
-    BigLedger ERP unifies all your business operations in one powerful platform. From accounting to inventory, sales to manufacturing - manage everything seamlessly with intelligent automation and real-time insights.
-  </p>
-</div>
+{{< callout type="info" >}}
+BigLedger ERP unifies all your business operations in one powerful platform. From accounting to inventory, sales to manufacturing - manage everything seamlessly with intelligent automation and real-time insights.
+{{< /callout >}}
 
 ---
 
@@ -90,8 +86,6 @@ Modern REST APIs and comprehensive documentation for developers.
 
 ## **🚀 Platform Highlights**
 
-<div style="background: linear-gradient(to right, #f3f4f6, #ffffff); padding: 3rem 2rem; border-radius: 12px; margin: 2rem 0;">
-
 ### **Core Business Applications**
 
 {{< cards >}}
@@ -103,42 +97,24 @@ Modern REST APIs and comprehensive documentation for developers.
   {{< card link="/ecommerce/" title="E-Commerce" subtitle="Shopify, Lazada, Shopee sync" >}}
 {{< /cards >}}
 
-</div>
-
 ---
 
 ## **✨ What Makes BigLedger Different**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin: 3rem 0;">
-
-<div style="text-align: center;">
-<h3>🧾 E-Invoice Ready</h3>
-<p style="color: #6b7280;">MDEC PEPPOL accredited provider. Fully integrated with LHDN MyInvois for seamless compliance.</p>
-<a href="/e-invoice-peppol/" style="color: #3b82f6;">Learn more →</a>
-</div>
-
-<div style="text-align: center;">
-<h3>🤖 AI-Powered</h3>
-<p style="color: #6b7280;">Smart automation, OCR for documents, predictive analytics, and intelligent recommendations.</p>
-<a href="/ai-intelligence/" style="color: #3b82f6;">Explore AI features →</a>
-</div>
-
-<div style="text-align: center;">
-<h3>🧩 100+ Applets</h3>
-<p style="color: #6b7280;">Extend functionality with ready-made business applets for every industry need.</p>
-<a href="/applets/" style="color: #3b82f6;">Browse applets →</a>
-</div>
-
-</div>
+{{< cards >}}
+  {{< card link="/e-invoice-peppol/" title="🧾 E-Invoice Ready" subtitle="MDEC PEPPOL accredited provider. Fully integrated with LHDN MyInvois for seamless compliance." >}}
+  {{< card link="/ai-intelligence/" title="🤖 AI-Powered" subtitle="Smart automation, OCR for documents, predictive analytics, and intelligent recommendations." >}}
+  {{< card link="/applets/" title="🧩 100+ Applets" subtitle="Extend functionality with ready-made business applets for every industry need." >}}
+{{< /cards >}}
 
 ---
 
 ## **🏭 Industry Solutions**
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h3>Tailored for Your Industry</h3>
-  <p style="color: #6b7280;">Pre-configured templates and best practices for your specific business needs</p>
-</div>
+{{< callout >}}
+**Tailored for Your Industry**  
+Pre-configured templates and best practices for your specific business needs
+{{< /callout >}}
 
 {{< cards >}}
   {{< card link="/industry-solutions/retail" title="Retail & F&B" subtitle="Multi-store, loyalty, kitchen display" >}}
@@ -153,43 +129,26 @@ Modern REST APIs and comprehensive documentation for developers.
 
 ## **📊 See BigLedger in Action**
 
-<div style="background: #f9fafb; padding: 3rem; border-radius: 12px; text-align: center; margin: 3rem 0;">
-  <h3 style="margin-bottom: 1rem;">Ready to Transform Your Business?</h3>
-  <p style="color: #6b7280; margin-bottom: 2rem;">
-    Join thousands of Malaysian businesses already using BigLedger to streamline operations and boost growth.
-  </p>
-  
-  {{< cards >}}
-    {{< card link="https://demo.bigledger.com" title="🖥️ Live Demo" subtitle="Try BigLedger with sample data" >}}
-    {{< card link="/user-guide/introduction/" title="📚 Quick Start Guide" subtitle="Get started in 30 minutes" >}}
-    {{< card link="https://bigledger.com/pricing" title="💰 Pricing Plans" subtitle="Transparent, affordable pricing" >}}
-  {{< /cards >}}
-</div>
+## Ready to Transform Your Business?
+
+Join thousands of Malaysian businesses already using BigLedger to streamline operations and boost growth.
+
+{{< cards >}}
+  {{< card link="https://demo.bigledger.com" title="🖥️ Live Demo" subtitle="Try BigLedger with sample data" >}}
+  {{< card link="/user-guide/introduction/" title="📚 Quick Start Guide" subtitle="Get started in 30 minutes" >}}
+  {{< card link="https://bigledger.com/pricing" title="💰 Pricing Plans" subtitle="Transparent, affordable pricing" >}}
+{{< /cards >}}
 
 ---
 
 ## **🌟 Trusted by Leading Malaysian Businesses**
 
-<div style="text-align: center; margin: 3rem 0;">
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; margin: 2rem 0;">
-    <div style="padding: 1rem;">
-      <div style="font-size: 2rem; font-weight: bold; color: #3b82f6;">1M+</div>
-      <div style="color: #6b7280; font-size: 0.875rem;">Active Users</div>
-    </div>
-    <div style="padding: 1rem;">
-      <div style="font-size: 2rem; font-weight: bold; color: #10b981;">99.9%</div>
-      <div style="color: #6b7280; font-size: 0.875rem;">Uptime SLA</div>
-    </div>
-    <div style="padding: 1rem;">
-      <div style="font-size: 2rem; font-weight: bold; color: #8b5cf6;">100+</div>
-      <div style="color: #6b7280; font-size: 0.875rem;">Business Modules</div>
-    </div>
-    <div style="padding: 1rem;">
-      <div style="font-size: 2rem; font-weight: bold; color: #ec4899;">24/7</div>
-      <div style="color: #6b7280; font-size: 0.875rem;">Local Support</div>
-    </div>
-  </div>
-</div>
+## Key Statistics
+
+- **1M+** Active Users across Malaysia and Southeast Asia
+- **99.9%** Uptime SLA guarantee for reliable business operations
+- **100+** Integrated Business Modules for comprehensive management
+- **24/7** Local Support in multiple languages
 
 ---
 

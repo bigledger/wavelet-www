@@ -6,8 +6,6 @@ title: MyInvois Setup Guide
 weight: 10
 ---
 
-# MyInvois Setup Guide
-
 Complete guide for MyInvois implementation with BigLedger.
 
 ## Overview

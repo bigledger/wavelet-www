@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BigLedger Documentation – E-Invoice Implementation</title>
-    <link>http://localhost:62446/guides/einvoice-guides/</link>
+    <link>http://localhost:53975/guides/einvoice-guides/</link>
     <description>Recent content in E-Invoice Implementation on BigLedger Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:62446/guides/einvoice-guides/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:53975/guides/einvoice-guides/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,14 +16,14 @@
     
     <item>
       <title>MyInvois Setup Guide</title>
-      <link>http://localhost:62446/guides/einvoice-guides/myinvois-setup/</link>
+      <link>http://localhost:53975/guides/einvoice-guides/myinvois-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/guides/einvoice-guides/myinvois-setup/</guid>
+      <guid>http://localhost:53975/guides/einvoice-guides/myinvois-setup/</guid>
       <description>
         
         
-        &lt;h1&gt;MyInvois Setup Guide&lt;/h1&gt;&lt;p&gt;Complete guide for MyInvois implementation with BigLedger.&lt;/p&gt;
+        &lt;p&gt;Complete guide for MyInvois implementation with BigLedger.&lt;/p&gt;
 &lt;h2&gt;Overview&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#overview&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;MyInvois is Malaysia&amp;rsquo;s national e-invoicing initiative by LHDN. BigLedger provides seamless integration as an MDEC-accredited PEPPOL service provider.&lt;/p&gt;
 &lt;h2&gt;Implementation Timeline&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;implementation-timeline&#34;&gt;&lt;/span&gt;
@@ -114,14 +114,14 @@
     
     <item>
       <title>PEPPOL Configuration Guide</title>
-      <link>http://localhost:62446/guides/einvoice-guides/peppol-configuration/</link>
+      <link>http://localhost:53975/guides/einvoice-guides/peppol-configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/guides/einvoice-guides/peppol-configuration/</guid>
+      <guid>http://localhost:53975/guides/einvoice-guides/peppol-configuration/</guid>
       <description>
         
         
-        &lt;h1&gt;PEPPOL Configuration Guide&lt;/h1&gt;&lt;p&gt;Configure PEPPOL for international e-invoicing.&lt;/p&gt;
+        &lt;p&gt;Configure PEPPOL for international e-invoicing.&lt;/p&gt;
 &lt;h2&gt;What is PEPPOL?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-is-peppol&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#what-is-peppol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Pan-European Public Procurement On-Line (PEPPOL) enables cross-border electronic document exchange.&lt;/p&gt;
 &lt;h2&gt;PEPPOL ID Setup&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;peppol-id-setup&#34;&gt;&lt;/span&gt;
@@ -196,14 +196,14 @@
     
     <item>
       <title>E-Invoice Validation Rules</title>
-      <link>http://localhost:62446/guides/einvoice-guides/einvoice-validation/</link>
+      <link>http://localhost:53975/guides/einvoice-guides/einvoice-validation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62446/guides/einvoice-guides/einvoice-validation/</guid>
+      <guid>http://localhost:53975/guides/einvoice-guides/einvoice-validation/</guid>
       <description>
         
         
-        &lt;h1&gt;E-Invoice Validation Rules&lt;/h1&gt;&lt;p&gt;Comprehensive validation rules for MyInvois compliance.&lt;/p&gt;
+        &lt;p&gt;Comprehensive validation rules for MyInvois compliance.&lt;/p&gt;
 &lt;h2&gt;Mandatory Fields&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mandatory-fields&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#mandatory-fields&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Invoice Header&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;invoice-header&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#invoice-header&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;

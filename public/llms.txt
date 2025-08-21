@@ -4,169 +4,215 @@
 
 
 ## Applets and Workflows
-- [9.0 EcomSync Related Applets](http://localhost:62446/applets/90-ecomsync-related-applets/): 9.0 EcomSync Related AppletsPage ID: 2944958608 Last Updated: 2024-11-16T19:11:46.763Z Ecomsync …
-- [Applet Directory](http://localhost:62446/applets/applet-directory/): Applet DirectoryPage ID: 2944893173 Last Updated: 2025-07-06T12:35:44.630Z Applet Store is the …
-- [Applet Store](http://localhost:62446/applets/applet-store/): Applet StorePage ID: 3153985735 Last Updated: 2024-11-12T20:56:19.341Z
-1.0 Introduction﻿ Applet …
-- [Branch - Organization Applet](http://localhost:62446/applets/branch-organization-applet/): Branch - Organization AppletPage ID: 3196191408 Last Updated: 2025-05-23T00:37:54.393Z noneThis …
-- [Company - Organization Applet,](http://localhost:62446/applets/company-organization-applet/): Company - Organization Applet,Page ID: 3259374409 Last Updated: 2025-05-23T00:35:53.163Z noneWhen …
-- [Group Maintenance Applet](http://localhost:62446/applets/group-maintenance-applet/): Group Maintenance AppletPage ID: 3284597324 Last Updated: 2024-11-18T05:14:31.039Z Group Maintenance …
-- [Ingram Micro MS ESD Applet](http://localhost:62446/applets/ingram-micro-ms-esd-applet/): Ingram Micro MS ESD AppletPage ID: 3292921869 Last Updated: 2021-07-15T07:57:58.109Z
-- [Installation of Group Maintenance Applet](http://localhost:62446/applets/installation-of-group-maintenance-applet/): Installation of Group Maintenance AppletPage ID: 3320746785 Last Updated: 2021-07-27T06:59:16.429Z …
-- [Installation of Pricebook Applet](http://localhost:62446/applets/installation-of-pricebook-applet/): Installation of Pricebook AppletPage ID: 3317538085 Last Updated: 2025-01-01T18:14:29.170Z
-2.0 …
-- [Installation of Team Maintenance Applet](http://localhost:62446/applets/installation-of-team-maintenance-applet/): Installation of Team Maintenance AppletPage ID: 3320324314 Last Updated: 2021-07-27T04:03:13.707Z …
-- [Internal Delivery Order Applet](http://localhost:62446/applets/internal-delivery-order-applet/): Internal Delivery Order AppletPage ID: 3325941105 Last Updated: 2024-11-19T14:06:31.723Z The …
-- [Internal Stock Adjustment Applet](http://localhost:62446/applets/internal-stock-adjustment-applet/): Internal Stock Adjustment AppletPage ID: 3325941223 Last Updated: 2024-11-20T10:17:44.792Z The …
-- [Introduction to Membership Admin Console Applet](http://localhost:62446/applets/introduction-to-membership-admin-console-applet/): Introduction to Membership Admin Console AppletPage ID: 3314974838 Last Updated: …
-- [Introduction to Stock Take Applet](http://localhost:62446/applets/introduction-to-stock-take-applet/): Introduction to Stock Take AppletPage ID: 3312746669 Last Updated: 2025-02-28T09:09:05.479Z The …
-- [Introduction to Team Maintenance Applet](http://localhost:62446/applets/introduction-to-team-maintenance-applet/): Introduction to Team Maintenance AppletPage ID: 3320513762 Last Updated: 2021-07-27T06:19:21.679Z …
-- [Location - Organization Applet](http://localhost:62446/applets/location-organization-applet/): Location - Organization AppletPage ID: 3259374431 Last Updated: 2025-05-23T00:39:20.134Z Each branch …
-- [Membership Admin Console Applet](http://localhost:62446/applets/membership-admin-console-applet/): Membership Admin Console AppletPage ID: 3314483397 Last Updated: 2021-07-26T04:37:55.594Z 1
-- [Membership Program](http://localhost:62446/applets/membership-program/): Membership ProgramPage ID: 3153822171 Last Updated: 2022-04-18T04:38:40.607Z To use the membership …
-- [Organization Applet](http://localhost:62446/applets/organization-applet/): Organization AppletPage ID: 3197010229 Last Updated: 2025-05-23T00:34:30.718Z The Organization …
-- [Pricebook Applet](http://localhost:62446/applets/pricebook-applet/): Pricebook AppletPage ID: 3317565050 Last Updated: 2025-01-01T18:13:11.882Z
-1.0 IntroductionThe …
-- [Process Monitoring Applet](http://localhost:62446/applets/process-monitoring-applet/): Process Monitoring AppletPage ID: 3325940977 Last Updated: 2021-08-02T07:55:26.716Z
-- [Related Applets - Internal Job Order](http://localhost:62446/applets/related-applets-internal-job-order/): Related Applets - Internal Job OrderPage ID: 3325940946 Last Updated: 2021-08-02T08:55:10.844Z
-The …
-- [Related Applets - Internal Stock Adjustment](http://localhost:62446/applets/related-applets-internal-stock-adjustment/): Related Applets - Internal Stock AdjustmentPage ID: 3325941230 Last Updated: …
-- [Related Applets - Process Monitoring](http://localhost:62446/applets/related-applets-process-monitoring/): Related Applets - Process MonitoringPage ID: 3325940988 Last Updated: 2021-08-02T08:57:04.570Z
-The …
-- [Related Applets - Stock Balance](http://localhost:62446/applets/related-applets-stock-balance/): Related Applets - Stock BalancePage ID: 3325941210 Last Updated: 2021-10-18T06:35:35.008Z
-The stock …
-- [Settings of Organization Applet](http://localhost:62446/applets/settings-of-organization-applet/): Settings of Organization AppletPage ID: 3259346305 Last Updated: 2025-05-23T00:39:52.631Z ﻿This …
-- [Stock Balance Applet](http://localhost:62446/applets/stock-balance-applet/): Stock Balance AppletPage ID: 3325941199 Last Updated: 2021-08-02T08:59:25.470Z
-- [Stock Take Applet](http://localhost:62446/applets/stock-take-applet/): Stock Take AppletPage ID: 3299246220 Last Updated: 2025-02-28T08:44:42.316Z The Stock Take Applet is …
-- [Team Maintenance Applet](http://localhost:62446/applets/team-maintenance-applet/): Team Maintenance AppletPage ID: 3286371018 Last Updated: 2021-07-27T04:56:24.668Z 1
-- [Unified Contact Center (UCC) Applet](http://localhost:62446/applets/unified-contact-center-ucc-applet/): Unified Contact Center (UCC) AppletPage ID: 3153854887 Last Updated: 2021-08-25T03:55:39.645Z …
-- [VSTECS MS ESD Order Applet](http://localhost:62446/applets/vstecs-ms-esd-order-applet/): VSTECS MS ESD Order AppletPage ID: 3176039738 Last Updated: 2021-07-15T07:57:41.735Z Attached User …
+- [9.0 EcomSync Related Applets](http://localhost:53975/applets/90-ecomsync-related-applets/): Page ID: 2944958608 Last Updated: 2024-11-16T19:11:46.763Z Ecomsync Organization Applet Ecomsync - …
+- [Applet Directory](http://localhost:53975/applets/applet-directory/): Page ID: 2944893173 Last Updated: 2025-07-06T12:35:44.630Z Applet Store is the marketplace for the …
+- [Applet Store](http://localhost:53975/applets/applet-store/): Page ID: 3153985735 Last Updated: 2024-11-12T20:56:19.341Z
+1.0 Introduction﻿ Applet Store is the …
+- [Branch - Organization Applet](http://localhost:53975/applets/branch-organization-applet/): Page ID: 3196191408 Last Updated: 2025-05-23T00:37:54.393Z noneThis section covers the second main …
+- [Company - Organization Applet,](http://localhost:53975/applets/company-organization-applet/): Page ID: 3259374409 Last Updated: 2025-05-23T00:35:53.163Z noneWhen logging into the Organization …
+- [Group Maintenance Applet](http://localhost:53975/applets/group-maintenance-applet/): Page ID: 3284597324 Last Updated: 2024-11-18T05:14:31.039Z Group Maintenance applet is to add users …
+- [Ingram Micro MS ESD Applet](http://localhost:53975/applets/ingram-micro-ms-esd-applet/): Page ID: 3292921869 Last Updated: 2021-07-15T07:57:58.109Z
+- [Installation of Group Maintenance Applet](http://localhost:53975/applets/installation-of-group-maintenance-applet/): Page ID: 3320746785 Last Updated: 2021-07-27T06:59:16.429Z 1.Installation (Akaun Cloud): Applet …
+- [Installation of Pricebook Applet](http://localhost:53975/applets/installation-of-pricebook-applet/): Page ID: 3317538085 Last Updated: 2025-01-01T18:14:29.170Z
+2.0 Installation of Pricebook …
+- [Installation of Team Maintenance Applet](http://localhost:53975/applets/installation-of-team-maintenance-applet/): Page ID: 3320324314 Last Updated: 2021-07-27T04:03:13.707Z 1.Installation (Akaun Cloud): Applet …
+- [Internal Delivery Order Applet](http://localhost:53975/applets/internal-delivery-order-applet/): Page ID: 3325941105 Last Updated: 2024-11-19T14:06:31.723Z The Internal Delivery Order Applet is a …
+- [Internal Stock Adjustment Applet](http://localhost:53975/applets/internal-stock-adjustment-applet/): Page ID: 3325941223 Last Updated: 2024-11-20T10:17:44.792Z The Internal Stock Adjustment Applet …
+- [Introduction to Membership Admin Console Applet](http://localhost:53975/applets/introduction-to-membership-admin-console-applet/): Page ID: 3314974838 Last Updated: 2021-08-05T02:05:18.124Z Introduction This applet is used to …
+- [Introduction to Stock Take Applet](http://localhost:53975/applets/introduction-to-stock-take-applet/): Page ID: 3312746669 Last Updated: 2025-02-28T09:09:05.479Z The Stock Take Applet offers a one-stop …
+- [Introduction to Team Maintenance Applet](http://localhost:53975/applets/introduction-to-team-maintenance-applet/): Page ID: 3320513762 Last Updated: 2021-07-27T06:19:21.679Z Introduction Team Maintenance applet is …
+- [Location - Organization Applet](http://localhost:53975/applets/location-organization-applet/): Page ID: 3259374431 Last Updated: 2025-05-23T00:39:20.134Z Each branch can have multiple locations …
+- [Membership Admin Console Applet](http://localhost:53975/applets/membership-admin-console-applet/): Page ID: 3314483397 Last Updated: 2021-07-26T04:37:55.594Z 1
+- [Membership Program](http://localhost:53975/applets/membership-program/): Page ID: 3153822171 Last Updated: 2022-04-18T04:38:40.607Z To use the membership Program Compulsory …
+- [Organization Applet](http://localhost:53975/applets/organization-applet/): Page ID: 3197010229 Last Updated: 2025-05-23T00:34:30.718Z The Organization Applet is designed to …
+- [Pricebook Applet](http://localhost:53975/applets/pricebook-applet/): Page ID: 3317565050 Last Updated: 2025-01-01T18:13:11.882Z
+1.0 IntroductionThe Pricebook Applet is …
+- [Process Monitoring Applet](http://localhost:53975/applets/process-monitoring-applet/): Page ID: 3325940977 Last Updated: 2021-08-02T07:55:26.716Z
+- [Related Applets - Internal Job Order](http://localhost:53975/applets/related-applets-internal-job-order/): Page ID: 3325940946 Last Updated: 2021-08-02T08:55:10.844Z
+The internal job order applet can import …
+- [Related Applets - Internal Stock Adjustment](http://localhost:53975/applets/related-applets-internal-stock-adjustment/): Page ID: 3325941230 Last Updated: 2021-10-18T06:03:41.108Z
+The Internal Stock Adjustment applet can …
+- [Related Applets - Process Monitoring](http://localhost:53975/applets/related-applets-process-monitoring/): Page ID: 3325940988 Last Updated: 2021-08-02T08:57:04.570Z
+The process monitoring applet can import …
+- [Related Applets - Stock Balance](http://localhost:53975/applets/related-applets-stock-balance/): Page ID: 3325941210 Last Updated: 2021-10-18T06:35:35.008Z
+The stock balance applet can import Lines …
+- [Settings of Organization Applet](http://localhost:53975/applets/settings-of-organization-applet/): Page ID: 3259346305 Last Updated: 2025-05-23T00:39:52.631Z ﻿This section covers all the settings …
+- [Stock Balance Applet](http://localhost:53975/applets/stock-balance-applet/): Page ID: 3325941199 Last Updated: 2021-08-02T08:59:25.470Z
+- [Stock Take Applet](http://localhost:53975/applets/stock-take-applet/): Page ID: 3299246220 Last Updated: 2025-02-28T08:44:42.316Z The Stock Take Applet is a cutting-edge …
+- [Team Maintenance Applet](http://localhost:53975/applets/team-maintenance-applet/): Page ID: 3286371018 Last Updated: 2021-07-27T04:56:24.668Z 1
+- [Unified Contact Center (UCC) Applet](http://localhost:53975/applets/unified-contact-center-ucc-applet/): Page ID: 3153854887 Last Updated: 2021-08-25T03:55:39.645Z Introduction Unified Contact Center (UCC) …
+- [VSTECS MS ESD Order Applet](http://localhost:53975/applets/vstecs-ms-esd-order-applet/): Page ID: 3176039738 Last Updated: 2021-07-15T07:57:41.735Z Attached User guide for MS ESD Order and …
+- [Membership Points Currency Configuration](http://localhost:53975/applets/membership-points-currency/): Membership Points Currency ModuleThe PTS CCY (Points Currency) Module allows you to create and …
 
 ## Business Operations
-- [Account Receivable](http://localhost:62446/business-operations/account-receivable/): Account Receivable ManagementComprehensive AR Automation Platform BigLedger&rsquo;s Account …
-- [Accounting](http://localhost:62446/business-operations/accounting/): AccountingPage ID: 3153854863 Last Updated: 2024-11-17T18:06:34.270Z
-Set Up Company﻿ Organization …
-- [Dashboard](http://localhost:62446/business-operations/dashboard/): DashboardExecutive Command Center The BigLedger Dashboard transforms raw business data into …
-- [Main Dashboard](http://localhost:62446/business-operations/main-dashboard/): Main DashboardPage ID: 3196486107 Last Updated: 2021-06-18T02:51:44.242Z Users able to see their …
-- [Order](http://localhost:62446/business-operations/order/): Order Management SystemUnified Order Orchestration Platform BigLedger&rsquo;s Order Management …
-- [Order Dashboard](http://localhost:62446/business-operations/order-dashboard/): Order DashboardPage ID: 3197010418 Last Updated: 2021-06-18T02:58:45.100Z Order dashboard also show …
-- [Order Details](http://localhost:62446/business-operations/order-details/): Order DetailsPage ID: 3196486077 Last Updated: 2021-06-18T02:43:04.291Z When clicking on order, the …
-- [Order Filtering](http://localhost:62446/business-operations/order-filtering/): Order FilteringPage ID: 3197010347 Last Updated: 2021-06-18T02:33:29.613Z
-FilterOrder filtering help …
-- [Order Listing](http://localhost:62446/business-operations/order-listing/): Order ListingPage ID: 3196191098 Last Updated: 2021-06-18T02:13:39.990Z The Order Listing shows all …
-- [Sales Dashboard](http://localhost:62446/business-operations/sales-dashboard/): Sales DashboardComprehensive Sales Intelligence Platform BigLedger&rsquo;s Sales Dashboard …
-- [Sales Order Tab](http://localhost:62446/business-operations/sales-order-tab/): Sales Order TabPage ID: 3196191975 Last Updated: 2021-06-18T06:19:14.245Z Sales Order Tab - allows …
-
-## E-commerce Integration
-- [2.0 Website Configuration﻿](http://localhost:62446/ecommerce/20-website-configuration/): 2.0 Website Configuration﻿Page ID: 3187343370 Last Updated: 2024-11-17T11:07:01.283Z
-2.1 Setting Up …
-- [B2B](http://localhost:62446/ecommerce/b2b/): B2BPage ID: 3153822181 Last Updated: 2021-06-05T09:01:05.690Z
-- [CP-Commerce](http://localhost:62446/ecommerce/cp-commerce/): CP-CommercePage ID: 3153887626 Last Updated: 2024-11-17T11:04:53.671Z The CP-Commerce Module is a …
-- [Create Single Tab](http://localhost:62446/ecommerce/create-single-tab/): Create Single TabPage ID: 3196191946 Last Updated: 2021-06-18T06:09:58.079Z Create - used for …
-- [EcomSync Applet](http://localhost:62446/ecommerce/ecomsync-applet/): EcomSync AppletPage ID: 3259346357 Last Updated: 2021-07-23T05:51:22.732Z Table of Content …
-- [Ecomsync Features](http://localhost:62446/ecommerce/ecomsync-features/): Ecomsync FeaturesPage ID: 3299247174 Last Updated: 2021-07-19T02:40:30.908Z Readiness Status: 5 - …
-- [Integration with Shopify](http://localhost:62446/ecommerce/integration-with-shopify/): Integration with ShopifyPage ID: 3292758065 Last Updated: 2021-07-15T07:56:28.266Z steps,..
-- [Introduction to EcomSync](http://localhost:62446/ecommerce/introduction-to-ecomsync/): Introduction to EcomSyncPage ID: 3196485958 Last Updated: 2021-06-18T01:46:53.953Z
-Introduction …
-- [Listing](http://localhost:62446/ecommerce/listing/): ListingPage ID: 3196846319 Last Updated: 2021-06-18T02:06:35.534Z Listing shows all your Items that …
-- [Marketplace Tab](http://localhost:62446/ecommerce/marketplace-tab/): Marketplace TabPage ID: 3196191832 Last Updated: 2021-07-23T05:24:07.943Z Marketplace Tab is used …
-- [Update and Delete Item](http://localhost:62446/ecommerce/update-and-delete-item/): Update and Delete ItemPage ID: 3196191957 Last Updated: 2021-06-18T06:15:40.294Z Update/Delete Item …
+- [Account Receivable](http://localhost:53975/business-operations/account-receivable/): Account Receivable ManagementComprehensive AR Automation Platform BigLedger&rsquo;s Account …
+- [Accounting](http://localhost:53975/business-operations/accounting/): Page ID: 3153854863 Last Updated: 2024-11-17T18:06:34.270Z
+Set Up Company﻿ Organization Applet …
+- [Dashboard](http://localhost:53975/business-operations/dashboard/): Executive Command Center The BigLedger Dashboard transforms raw business data into actionable …
+- [Main Dashboard](http://localhost:53975/business-operations/main-dashboard/): Page ID: 3196486107 Last Updated: 2021-06-18T02:51:44.242Z Users able to see their selling …
+- [Order](http://localhost:53975/business-operations/order/): Order Management SystemUnified Order Orchestration Platform BigLedger&rsquo;s Order Management …
+- [Order Dashboard](http://localhost:53975/business-operations/order-dashboard/): Page ID: 3197010418 Last Updated: 2021-06-18T02:58:45.100Z Order dashboard also show users on the …
+- [Order Details](http://localhost:53975/business-operations/order-details/): Page ID: 3196486077 Last Updated: 2021-06-18T02:43:04.291Z When clicking on order, the details of …
+- [Order Filtering](http://localhost:53975/business-operations/order-filtering/): Page ID: 3197010347 Last Updated: 2021-06-18T02:33:29.613Z
+FilterOrder filtering help users to …
+- [Order Listing](http://localhost:53975/business-operations/order-listing/): Page ID: 3196191098 Last Updated: 2021-06-18T02:13:39.990Z The Order Listing shows all your orders …
+- [Sales Dashboard](http://localhost:53975/business-operations/sales-dashboard/): Comprehensive Sales Intelligence Platform BigLedger&rsquo;s Sales Dashboard transforms raw …
+- [Sales Order Tab](http://localhost:53975/business-operations/sales-order-tab/): Page ID: 3196191975 Last Updated: 2021-06-18T06:19:14.245Z Sales Order Tab - allows user to …
 
 ## Industry Solutions
-- [Automotive and Workshop Industry](http://localhost:62446/industry-solutions/automotive-and-workshop-industry/): Automotive and Workshop IndustryPage ID: 3153985855 Last Updated: 2024-11-15T01:57:55.733Z
-Success …
-- [Food and Beverage (F&B) Industry](http://localhost:62446/industry-solutions/food-and-beverage-fb-industry/): Food and Beverage (F&amp;B) IndustryPage ID: 3153854852 Last Updated: 2024-11-15T01:58:35.705Z …
-- [Industry Guide](http://localhost:62446/industry-solutions/industry-guide/): Industry GuidePage ID: 3153822073 Last Updated: 2024-11-15T01:56:59.787Z The consequences of the …
+- [Automotive and Workshop Industry](http://localhost:53975/industry-solutions/automotive-and-workshop-industry/): Page ID: 3153985855 Last Updated: 2024-11-15T01:57:55.733Z
+Success Story 3 : Automotive and Workshop …
+- [Food and Beverage (F&B) Industry](http://localhost:53975/industry-solutions/food-and-beverage-fb-industry/): Page ID: 3153854852 Last Updated: 2024-11-15T01:58:35.705Z
+Success Story 2 : Food and Beverage …
+- [Industry Guide](http://localhost:53975/industry-solutions/industry-guide/): Page ID: 3153822073 Last Updated: 2024-11-15T01:56:59.787Z The consequences of the COVID pandemic …
 
 ## Business Operations Guide
-- [Navigation & Interface Guide](http://localhost:62446/user-guide/navigation/): Navigation &amp; Interface GuideInterface Overview BigLedger&rsquo;s modern interface is designed …
-- [BigLedger Documentation](http://localhost:62446/user-guide/bigledger-documentation/): BigLedger DocumentationPage ID: 2945286292 Last Updated: 2024-11-07T05:11:28.664Z
-How can we help …
-- [Creating an Item](http://localhost:62446/user-guide/creating-an-item/): Creating an ItemPage ID: 3196846326 Last Updated: 2021-07-23T04:01:29.004Z In creating an Item, …
-- [Document Item Maintenance](http://localhost:62446/user-guide/document-item-maintenance/): Document Item MaintenancePage ID: 3225452905 Last Updated: 2021-06-26T13:07:52.151Z
-- [Document Item Types](http://localhost:62446/user-guide/document-item-types/): Document Item TypesPage ID: 3225452915 Last Updated: 2021-07-12T09:07:01.033Z Basic Item refers to …
-- [Editing an Item](http://localhost:62446/user-guide/editing-an-item/): Editing an ItemPage ID: 3196191049 Last Updated: 2021-07-23T04:10:59.216Z Edit section allows users …
-- [Group Listing](http://localhost:62446/user-guide/group-listing/): Group ListingPage ID: 3320747164 Last Updated: 2024-11-18T05:15:51.558Z Please click the …
-- [Introduction](http://localhost:62446/user-guide/introduction/): IntroductionPage ID: 3153854635 Last Updated: 2024-11-08T12:29:44.536Z Your gateway to streamlined …
-- [Item Maintenance](http://localhost:62446/user-guide/item-maintenance/): Item MaintenancePage ID: 3132753410 Last Updated: 2021-07-23T05:12:14.093Z
-Table of Content Listings …
-- [Member Class](http://localhost:62446/user-guide/member-class/): Member ClassPage ID: 3317433944 Last Updated: 2021-07-26T04:09:12.999Z 3.Member Class: Create Member …
-- [Member Label](http://localhost:62446/user-guide/member-label/): Member LabelPage ID: 3319005232 Last Updated: 2021-07-26T04:18:59.615Z 4.Member Label:Create Member …
-- [Member Label List](http://localhost:62446/user-guide/member-label-list/): Member Label ListPage ID: 3317499439 Last Updated: 2021-07-26T04:25:30.383Z 5.Member label list: …
-- [Member Listing](http://localhost:62446/user-guide/member-listing/): Member ListingPage ID: 3317564816 Last Updated: 2021-07-26T04:28:05.761Z 2. Member Listing: Create …
-- [Platform Overview - BigLedger Business Operating System](http://localhost:62446/user-guide/platform-overview/): Platform Overview: Your Business Operating System🎯 TLDR (Too Long; Didn&rsquo;t Read) BigLedger is a …
-- [Price book](http://localhost:62446/user-guide/price-book/): Price bookPage ID: 3317434109 Last Updated: 2025-01-01T18:15:27.759Z
-3.0 Pricebook ListingPlease …
-- [Price Set](http://localhost:62446/user-guide/price-set/): Price SetPage ID: 3320710072 Last Updated: 2025-01-01T18:19:51.419Z
-4.0 Create Price SetPlease click …
-- [Pricing Scheme](http://localhost:62446/user-guide/pricing-scheme/): Pricing SchemePage ID: 3313139757 Last Updated: 2024-11-12T21:27:30.118Z Once a user clicks on the …
-- [Team](http://localhost:62446/user-guide/team/): TeamPage ID: 3321069573 Last Updated: 2021-07-27T06:18:28.861Z 2. Team: Create Team &gt; Compulsory …
+- [Navigation & Interface Guide](http://localhost:53975/user-guide/navigation/): Interface Overview BigLedger&rsquo;s modern interface is designed for efficiency and ease of use, …
+- [BigLedger Documentation](http://localhost:53975/user-guide/bigledger-documentation/): Page ID: 2945286292 Last Updated: 2024-11-07T05:11:28.664Z
+How can we help you?largepage …
+- [Creating an Item](http://localhost:53975/user-guide/creating-an-item/): Page ID: 3196846326 Last Updated: 2021-07-23T04:01:29.004Z In creating an Item, users need to click …
+- [Document Item Maintenance](http://localhost:53975/user-guide/document-item-maintenance/): Page ID: 3225452905 Last Updated: 2021-06-26T13:07:52.151Z
+- [Document Item Types](http://localhost:53975/user-guide/document-item-types/): Page ID: 3225452915 Last Updated: 2021-07-12T09:07:01.033Z Basic Item refers to an FI-item, an …
+- [Editing an Item](http://localhost:53975/user-guide/editing-an-item/): Page ID: 3196191049 Last Updated: 2021-07-23T04:10:59.216Z Edit section allows users to see detailed …
+- [Group Listing](http://localhost:53975/user-guide/group-listing/): Page ID: 3320747164 Last Updated: 2024-11-18T05:15:51.558Z Please click the &ldquo;+&rdquo; button …
+- [Introduction](http://localhost:53975/user-guide/introduction/): Introduction to BigLedgerWelcome to BigLedger, your comprehensive gateway to streamlined business …
+- [Item Maintenance](http://localhost:53975/user-guide/item-maintenance/): Page ID: 3132753410 Last Updated: 2021-07-23T05:12:14.093Z
+Table of Content Listings Creating an …
+- [Member Class](http://localhost:53975/user-guide/member-class/): Page ID: 3317433944 Last Updated: 2021-07-26T04:09:12.999Z 3.Member Class: Create Member Class …
+- [Member Label](http://localhost:53975/user-guide/member-label/): Page ID: 3319005232 Last Updated: 2021-07-26T04:18:59.615Z 4.Member Label:Create Member Label …
+- [Member Label List](http://localhost:53975/user-guide/member-label-list/): Page ID: 3317499439 Last Updated: 2021-07-26T04:25:30.383Z 5.Member label list: Create Member Label …
+- [Member Listing](http://localhost:53975/user-guide/member-listing/): Page ID: 3317564816 Last Updated: 2021-07-26T04:28:05.761Z 2. Member Listing: Create New Member &gt; …
+- [Platform Overview - BigLedger Business Operating System](http://localhost:53975/user-guide/platform-overview/): Platform Overview: Your Business Operating System🎯 TLDR (Too Long; Didn&rsquo;t Read) BigLedger is a …
+- [Price book](http://localhost:53975/user-guide/price-book/): Page ID: 3317434109 Last Updated: 2025-01-01T18:15:27.759Z
+3.0 Pricebook ListingPlease click the …
+- [Price Set](http://localhost:53975/user-guide/price-set/): Page ID: 3320710072 Last Updated: 2025-01-01T18:19:51.419Z
+4.0 Create Price SetPlease click on …
+- [Pricing Scheme](http://localhost:53975/user-guide/pricing-scheme/): Page ID: 3313139757 Last Updated: 2024-11-12T21:27:30.118Z Once a user clicks on the pricing scheme …
+- [Team](http://localhost:53975/user-guide/team/): Page ID: 3321069573 Last Updated: 2021-07-27T06:18:28.861Z 2. Team: Create Team &gt; Compulsory …
 
 ## Developer Documentation
-- [Installation](http://localhost:62446/developer-docs/installation/): Guide for installing and configuring BigLedger SDK.
+- [Installation](http://localhost:53975/developer-docs/installation/): Guide for installing and configuring BigLedger SDK.
 System Requirements Node.js 16+ or Python 3.8+ …
 
+## Applications
+- [Unified Contact Center (UCC)](http://localhost:53975/applications/unified-contact-center/): Unified Contact Center (UCC)Transform Your Customer Service Operations BigLedger&rsquo;s Unified …
+
 ## Developer Platform
-- [Getting Started](http://localhost:62446/developers/getting-started/): Getting Started with BigLedger APIsThis guide will help you make your first API call to BigLedger in …
-- [Authentication & Authorization](http://localhost:62446/developers/authentication/): Authentication &amp; AuthorizationBigLedger APIs use API key authentication with OAuth 2.0 support …
-- [Webhooks](http://localhost:62446/developers/webhooks/): WebhooksReal-time event notifications for BigLedger events. Get notified instantly when invoices are …
-- [SDKs & Libraries](http://localhost:62446/developers/sdks/): SDKs &amp; LibrariesOfficial SDKs and libraries for popular programming languages. Build …
+- [Getting Started](http://localhost:53975/developers/getting-started/): Getting Started with BigLedger APIsThis guide will help you make your first API call to BigLedger in …
+- [Authentication & Authorization](http://localhost:53975/developers/authentication/): BigLedger APIs use API key authentication with OAuth 2.0 support for secure access to your business …
+- [Webhooks](http://localhost:53975/developers/webhooks/): Real-time event notifications for BigLedger events. Get notified instantly when invoices are …
+- [SDKs & Libraries](http://localhost:53975/developers/sdks/): Official SDKs and libraries for popular programming languages. Build integrations faster with …
 
 ### API Reference
-- [Accounting APIs](http://localhost:62446/developers/api-reference/accounting/): Accounting APIsComplete accounting operations including chart of accounts, journal entries, and …
-- [E-Invoice APIs](http://localhost:62446/developers/api-reference/einvoice/): E-Invoice APIsPEPPOL and MyInvois compliance with automated invoice validation, formatting, and …
-- [Sales & CRM APIs](http://localhost:62446/developers/api-reference/sales/): Sales &amp; CRM APIsComplete customer relationship management and sales operations including …
-- [Inventory APIs](http://localhost:62446/developers/api-reference/inventory/): Inventory APIsComplete inventory management including items, stock levels, transfers, adjustments, …
-- [Error Handling](http://localhost:62446/developers/api-reference/errors/): Error Handling &amp; TroubleshootingComprehensive guide to BigLedger API error codes, …
+- [Accounting APIs](http://localhost:53975/developers/api-reference/accounting/): Complete accounting operations including chart of accounts, journal entries, and financial …
+- [E-Invoice APIs](http://localhost:53975/developers/api-reference/einvoice/): PEPPOL and MyInvois compliance with automated invoice validation, formatting, and submission to …
+- [Sales & CRM APIs](http://localhost:53975/developers/api-reference/sales/): Complete customer relationship management and sales operations including customers, contacts, sales …
+- [Inventory APIs](http://localhost:53975/developers/api-reference/inventory/): Complete inventory management including items, stock levels, transfers, adjustments, and real-time …
+- [Error Handling](http://localhost:53975/developers/api-reference/errors/): Error Handling &amp; TroubleshootingComprehensive guide to BigLedger API error codes, …
 
 ## Implementation Guides
 
 ### Accounting Guides
-- [Chart of Accounts Setup Guide](http://localhost:62446/guides/accounting-guides/chart-of-accounts-setup/): Chart of Accounts Setup GuideComplete guide for setting up your Chart of Accounts in BigLedger. …
-- [Journal Entries Guide](http://localhost:62446/guides/accounting-guides/journal-entries/): Journal Entries GuideMaster manual and automated journal entries in BigLedger.
-Overview Journal …
-- [Financial Reporting Guide](http://localhost:62446/guides/accounting-guides/financial-reporting/): Financial Reporting GuideGenerate accurate financial reports with BigLedger&rsquo;s reporting suite. …
-- [Bank Reconciliation Step-by-Step](http://localhost:62446/guides/accounting-guides/bank-reconciliation-guide/): Bank Reconciliation Step-by-StepMaster the bank reconciliation process with BigLedger&rsquo;s …
+- [Chart of Accounts Setup Guide](http://localhost:53975/guides/accounting-guides/chart-of-accounts-setup/): Complete guide for setting up your Chart of Accounts in BigLedger.
+Overview The Chart of Accounts …
+- [Journal Entries Guide](http://localhost:53975/guides/accounting-guides/journal-entries/): Master manual and automated journal entries in BigLedger.
+Overview Journal entries are the …
+- [Financial Reporting Guide](http://localhost:53975/guides/accounting-guides/financial-reporting/): Generate accurate financial reports with BigLedger&rsquo;s reporting suite.
+Available Reports Core …
+- [Bank Reconciliation Step-by-Step](http://localhost:53975/guides/accounting-guides/bank-reconciliation-guide/): Master the bank reconciliation process with BigLedger&rsquo;s AI-powered matching.
+Overview Bank …
 
 ### E-Invoice Implementation
-- [MyInvois Setup Guide](http://localhost:62446/guides/einvoice-guides/myinvois-setup/): MyInvois Setup GuideComplete guide for MyInvois implementation with BigLedger.
-Overview MyInvois is …
-- [PEPPOL Configuration Guide](http://localhost:62446/guides/einvoice-guides/peppol-configuration/): PEPPOL Configuration GuideConfigure PEPPOL for international e-invoicing.
-What is PEPPOL? …
-- [E-Invoice Validation Rules](http://localhost:62446/guides/einvoice-guides/einvoice-validation/): E-Invoice Validation RulesComprehensive validation rules for MyInvois compliance.
-Mandatory Fields …
+- [MyInvois Setup Guide](http://localhost:53975/guides/einvoice-guides/myinvois-setup/): Complete guide for MyInvois implementation with BigLedger.
+Overview MyInvois is Malaysia&rsquo;s …
+- [PEPPOL Configuration Guide](http://localhost:53975/guides/einvoice-guides/peppol-configuration/): Configure PEPPOL for international e-invoicing.
+What is PEPPOL? Pan-European Public Procurement …
+- [E-Invoice Validation Rules](http://localhost:53975/guides/einvoice-guides/einvoice-validation/): Comprehensive validation rules for MyInvois compliance.
+Mandatory Fields Invoice Header Invoice …
 
 ### Inventory Management
-- [Stock Management Guide](http://localhost:62446/guides/inventory-guides/stock-management/): Stock Management GuideComplete inventory management with BigLedger.
-Stock Setup Item Master Create …
-- [Stock Transfer Procedures](http://localhost:62446/guides/inventory-guides/stock-transfer/): Stock Transfer ProceduresManage inventory movements between locations.
-Transfer Types …
+- [Stock Management Guide](http://localhost:53975/guides/inventory-guides/stock-management/): Complete inventory management with BigLedger.
+Stock Setup Item Master Create item codes Set …
+- [Stock Transfer Procedures](http://localhost:53975/guides/inventory-guides/stock-transfer/): Manage inventory movements between locations.
+Transfer Types Inter-Warehouse Transfer Moving stock …
+
+### Role-Based Guides
+- [Branch Manager Guide](http://localhost:53975/guides/roles/branch-manager/): Branch Manager - BigLedger ERP Questions &amp; ScenariosBackground Profile Role: Branch Manager …
+- [Cashier Guide](http://localhost:53975/guides/roles/cashier/): BigLedger POS System - Cashier Questions &amp; ScenariosBackground I&rsquo;m a cashier at a retail …
+- [E-Commerce Specialist Guide](http://localhost:53975/guides/roles/ecommerce-specialist/): E-commerce Specialist - Questions and ScenariosRole Profile Position: E-commerce Manager Company: …
+- [Finance Manager Guide](http://localhost:53975/guides/roles/finance-manager/): Finance Manager/Accountant Questions for BigLedgerBackground Profile Professional accountant …
+- [Internal Auditor Guide](http://localhost:53975/guides/roles/internal-audit/): Internal Auditor - BigLedger System Evaluation QuestionsRole Profile As an Internal Auditor (CIA, …
+- [Merchandising Manager Guide](http://localhost:53975/guides/roles/merchandising-manager/): Merchandising Manager - BigLedger Product Planning &amp; Optimization QuestionsRole Profile …
+- [Procurement Manager Guide](http://localhost:53975/guides/roles/procurement-manager/): Procurement Manager Questions for BigLedger DocumentationBackground Profile Professional procurement …
+- [Warehouse Manager Guide](http://localhost:53975/guides/roles/warehouse-manager/): Warehouse Manager - BigLedger Inventory Management QuestionsRole Profile Position: Warehouse Manager …
+
+### Advanced Guides
+- [Accounting Workflows Deep Dive](http://localhost:53975/guides/advanced/accounting-workflows/): Accounting Workflows Deep Dive: A 30-Year Practitioner&rsquo;s GuideWritten by an ERP specialist …
+- [Advanced Inventory & Manufacturing](http://localhost:53975/guides/advanced/advanced-inventory-manufacturing/): Advanced Inventory &amp; Manufacturing: A Practitioner&rsquo;s Mastery GuideThree decades of …
+- [Financial Reporting Excellence](http://localhost:53975/guides/advanced/financial-reporting-excellence/): Financial Reporting Excellence: CFO-Level Expertise GuideDrawing from 30 years of financial …
+- [Compliance & Audit Requirements](http://localhost:53975/guides/advanced/compliance-audit/): Compliance &amp; Audit Requirements: A Practitioner&rsquo;s Complete GuideThree decades of …
+- [Industry-Specific Workflows](http://localhost:53975/guides/advanced/industry-specific-workflows/): Industry-Specific Workflows: 30 Years of Implementation ExperienceFrom implementing SAP in …
+- [Integration Best Practices](http://localhost:53975/guides/advanced/integration-best-practices/): Integration Best Practices: Enterprise Systems MasteryThree decades of integrating ERPs with banking …
+- [Performance Optimization](http://localhost:53975/guides/advanced/performance-optimization/): Performance Optimization: Enterprise ERP MasteryThree decades of optimizing ERP systems from 10-user …
 
 ## API Reference
 
-## BigLedger Modules
-- [Financial Accounting](http://localhost:62446/modules/financial-accounting/): Financial Accounting ModuleOverview The BigLedger Financial Accounting module provides a …
-- [Point of Sales (POS)](http://localhost:62446/modules/pos/): Point of Sales (POS) ModuleOverview The BigLedger Point of Sales (POS) module is a comprehensive …
-- [Customer Relationship Management (CRM)](http://localhost:62446/modules/crm/): Customer Relationship Management (CRM) ModuleOverview The BigLedger CRM module provides a …
-- [Inventory Management](http://localhost:62446/modules/inventory/): Inventory Management ModuleOverview The BigLedger Inventory Management module provides comprehensive …
-- [Procurement](http://localhost:62446/modules/procurement/): Procurement ModuleOverview The BigLedger Procurement module streamlines your entire purchase-to-pay …
-- [Manufacturing](http://localhost:62446/modules/manufacturing/): Manufacturing ModuleOverview The BigLedger Manufacturing module provides comprehensive production …
-- [Human Resources](http://localhost:62446/modules/hr/): Human Resources ModuleOverview The BigLedger HR module provides a complete human capital management …
-- [Project Management](http://localhost:62446/modules/projects/): Project Management ModuleOverview The BigLedger Project Management module helps organizations plan, …
+## Modules
+- [Financial Accounting Module](http://localhost:53975/modules/financial-accounting/): Financial Accounting ModuleOverview The Financial Accounting Module provides comprehensive, …
+- [Point of Sales (POS)](http://localhost:53975/modules/pos/): Point of Sales (POS) ModuleOverview The BigLedger Point of Sales (POS) module is a comprehensive …
+- [Category Groups Management](http://localhost:53975/modules/inventory/category-groups/): Category Groups provide a hierarchical structure for organizing your inventory categories in …
+- [Customer Relationship Management (CRM)](http://localhost:53975/modules/crm/): Customer Relationship Management (CRM) ModuleOverview The BigLedger CRM module provides a …
+- [Inventory Management](http://localhost:53975/modules/inventory/): Inventory Management ModuleOverview The BigLedger Inventory Management module provides comprehensive …
+- [Procurement](http://localhost:53975/modules/procurement/): Procurement ModuleOverview The BigLedger Procurement module streamlines your entire purchase-to-pay …
+- [Manufacturing](http://localhost:53975/modules/manufacturing/): Manufacturing ModuleOverview The BigLedger Manufacturing module provides comprehensive production …
+- [Human Resources](http://localhost:53975/modules/hr/): Human Resources ModuleOverview The BigLedger HR module provides a complete human capital management …
+- [Project Management](http://localhost:53975/modules/projects/): Project Management ModuleOverview The BigLedger Project Management module helps organizations plan, …
+
+### Core Module
+
+### E-Commerce Module
+- [2.0 Website Configuration﻿](http://localhost:53975/modules/ecommerce/20-website-configuration/): 2.0 Website Configuration﻿Page ID: 3187343370 Last Updated: 2024-11-17T11:07:01.283Z
+2.1 Setting Up …
+- [B2B](http://localhost:53975/modules/ecommerce/b2b/): Page ID: 3153822181 Last Updated: 2021-06-05T09:01:05.690Z
+- [CP-Commerce](http://localhost:53975/modules/ecommerce/cp-commerce/): Page ID: 3153887626 Last Updated: 2024-11-17T11:04:53.671Z The CP-Commerce Module is a powerful …
+- [Create Single Tab](http://localhost:53975/modules/ecommerce/create-single-tab/): Page ID: 3196191946 Last Updated: 2021-06-18T06:09:58.079Z Create - used for syncing the chosen item …
+- [EcomSync Applet](http://localhost:53975/modules/ecommerce/ecomsync-applet/): Page ID: 3259346357 Last Updated: 2021-07-23T05:51:22.732Z Table of Content Introduction to Ecomsync …
+- [Ecomsync Features](http://localhost:53975/modules/ecommerce/ecomsync-features/): Page ID: 3299247174 Last Updated: 2021-07-19T02:40:30.908Z Readiness Status: 5 - Best possibleGreen …
+- [Integration with Shopify](http://localhost:53975/modules/ecommerce/integration-with-shopify/): Page ID: 3292758065 Last Updated: 2021-07-15T07:56:28.266Z steps,..
+- [Introduction to EcomSync](http://localhost:53975/modules/ecommerce/introduction-to-ecomsync/): Page ID: 3196485958 Last Updated: 2021-06-18T01:46:53.953Z
+Introduction EcomSync Applet is an applet …
+- [Listing](http://localhost:53975/modules/ecommerce/listing/): Page ID: 3196846319 Last Updated: 2021-06-18T02:06:35.534Z Listing shows all your Items that are …
+- [Marketplace Tab](http://localhost:53975/modules/ecommerce/marketplace-tab/): Page ID: 3196191832 Last Updated: 2021-07-23T05:24:07.943Z Marketplace Tab is used for the Users to …
+- [Update and Delete Item](http://localhost:53975/modules/ecommerce/update-and-delete-item/): Page ID: 3196191957 Last Updated: 2021-06-18T06:15:40.294Z Update/Delete Item - when user want to …
+- [CP-Commerce Menu & Pages Configuration](http://localhost:53975/modules/ecommerce/cp-commerce-menu-pages/): CP-Commerce provides flexible tools for managing your e-commerce website&rsquo;s navigation menus …
 
 ## Tutorials
-- [Creating Your First Invoice](http://localhost:62446/tutorials/first-invoice/): Creating Your First InvoiceStep-by-step guide to create and submit your first e-invoice. …
-- [Month-End Closing Process](http://localhost:62446/tutorials/month-end-closing/): Month-End Closing ProcessComplete month-end procedures in BigLedger.
-Checklist Week 4 - Preparation …
+- [Creating Your First Invoice](http://localhost:53975/tutorials/first-invoice/): Step-by-step guide to create and submit your first e-invoice.
+Prerequisites Customer created in …
+- [Month-End Closing Process](http://localhost:53975/tutorials/month-end-closing/): Complete month-end procedures in BigLedger.
+Checklist Week 4 - Preparation Process pending …
+
+## Support & Troubleshooting
+- [Frequently Asked Questions](http://localhost:53975/support/faqs/): Find answers to commonly asked questions about BigLedger ERP.
+E-Commerce &amp; EcomSync How many …
+
+### Beginner's Guide
+- [Getting Started Questions](http://localhost:53975/support/beginner-guide/getting-started/): Getting Started with BigLedger: FAQ for BeginnersA comprehensive guide for small business owners new …
+- [Basic Business Operations](http://localhost:53975/support/beginner-guide/basic-business-operations/): Basic Business Operations: FAQ for BeginnersUnderstanding how to manage fundamental business …
+- [Day-to-Day Usage](http://localhost:53975/support/beginner-guide/day-to-day-usage/): Day-to-Day Usage: FAQ for BeginnersPractical guidance for using BigLedger in your daily business …
+- [Malaysian Features](http://localhost:53975/support/beginner-guide/malaysian-specific-questions/): Malaysian Specific Questions: FAQ for BeginnersUnderstanding BigLedger&rsquo;s Malaysian compliance …
+- [Growth & Scaling](http://localhost:53975/support/beginner-guide/growth-and-scaling/): Growth and Scaling: FAQ for BeginnersUnderstanding how BigLedger grows with your business and …
+- [Technical Setup](http://localhost:53975/support/beginner-guide/technical-concerns/): Technical Concerns: FAQ for BeginnersAddressing common technology fears and questions for …
+- [Cost & ROI](http://localhost:53975/support/beginner-guide/cost-and-roi-questions/): Cost and ROI Questions: FAQ for BeginnersUnderstanding BigLedger pricing, value, and return on …
 
 
 ## Root Pages
-- [E-Invoice & PEPPOL](http://localhost:62446/e-invoice-peppol/): E-Invoice &amp; PEPPOL SolutionsBigLedger is Malaysia&rsquo;s MDEC Fully Accredited PEPPOL Service …
-- [Applets & Workflows](http://localhost:62446/applets-workflows/): BigLedger Applets &amp; Business WorkflowsBigLedger&rsquo;s modular applet architecture enables …
-- [Search Documentation](http://localhost:62446/search/): Search Tips Use keywords from the topic you&rsquo;re looking for Search is case-insensitive Press …
-- [AI & Intelligence Platform](http://localhost:62446/ai-intelligence/): AI &amp; Intelligence PlatformBigLedger&rsquo;s comprehensive AI capabilities transform your …
-- [Demos & Resources](http://localhost:62446/demos-resources/): Demos &amp; ResourcesExperience BigLedger&rsquo;s capabilities through our comprehensive demo videos …
+- [E-Invoice & PEPPOL](http://localhost:53975/e-invoice-peppol/): E-Invoice &amp; PEPPOL SolutionsBigLedger is Malaysia&rsquo;s MDEC Fully Accredited PEPPOL Service …
+- [Applets & Workflows](http://localhost:53975/applets-workflows/): BigLedger Applets &amp; Business WorkflowsBigLedger&rsquo;s modular applet architecture enables …
+- [Search Documentation](http://localhost:53975/search/): Search Tips Use keywords from the topic you&rsquo;re looking for Search is case-insensitive Press …
+- [AI & Intelligence Platform](http://localhost:53975/ai-intelligence/): BigLedger&rsquo;s comprehensive AI capabilities transform your business operations through …
+- [Demos & Resources](http://localhost:53975/demos-resources/): Experience BigLedger&rsquo;s capabilities through our comprehensive demo videos and presentation …
 
 ---
-Generated on 2025-08-18 13:57:03 UTC
-Site: http://localhost:62446/
+Generated on 2025-08-21 14:34:36 UTC
+Site: http://localhost:53975/
