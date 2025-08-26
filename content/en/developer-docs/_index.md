@@ -7,7 +7,6 @@ title: Developer Documentation
 weight: 20
 ---
 
-# Developer Documentation
 
 Technical documentation for developers integrating with BigLedger.
 

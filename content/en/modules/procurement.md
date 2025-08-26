@@ -6,7 +6,6 @@ title: Procurement
 weight: 50
 ---
 
-# Procurement Module
 
 ## Overview
 

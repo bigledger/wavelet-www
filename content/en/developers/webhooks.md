@@ -1,12 +1,19 @@
 ---
-description: Real-time event notifications for BigLedger events.
+description: Comprehensive webhooks documentation for real-time event notifications, secure delivery, and integration automation.
 tags:
-- user-guide
+- webhooks
+- real-time
+- events
+- notifications
 title: Webhooks
 weight: 30
 ---
 
-Real-time event notifications for BigLedger events. Get notified instantly when invoices are created, payments received, inventory levels change, and more.
+Comprehensive webhook system for real-time event notifications in BigLedger. Get instant notifications when business events occur, enabling seamless integration and automation.
+
+{{< callout type="info" >}}
+**Event-Driven Architecture**: BigLedger's webhooks follow industry best practices with HMAC-SHA256 signature verification, automatic retries, and comprehensive event filtering.
+{{< /callout >}}
 
 ## Overview
 
@@ -81,6 +88,45 @@ BigLedger webhooks provide real-time notifications for important business events
 | `sales_order.shipped` | Order shipped | Shipping information added |
 | `sales_order.delivered` | Order delivered | Delivery confirmed |
 | `sales_order.cancelled` | Order cancelled | Order status changed to cancelled |
+
+### Purchase Order Events
+
+| Event | Description | When Triggered |
+|-------|-------------|----------------|
+| `purchase_order.created` | New purchase order | Purchase order created |
+| `purchase_order.sent` | PO sent to supplier | Purchase order emailed or transmitted |
+| `purchase_order.confirmed` | Supplier confirmed PO | Supplier acceptance received |
+| `purchase_order.received` | Goods received | Stock received against PO |
+| `purchase_order.invoiced` | Supplier bill received | Bill created from PO |
+
+### Bill & Expense Events
+
+| Event | Description | When Triggered |
+|-------|-------------|----------------|
+| `bill.created` | New supplier bill | Bill record created |
+| `bill.approved` | Bill approved for payment | Approval workflow completed |
+| `bill.paid` | Bill payment made | Payment applied to bill |
+| `expense.created` | New expense recorded | Expense entry created |
+| `expense.approved` | Expense approved | Expense approval completed |
+
+### User & Access Events
+
+| Event | Description | When Triggered |
+|-------|-------------|----------------|
+| `user.login` | User logged in | Successful authentication |
+| `user.logout` | User logged out | Session terminated |
+| `user.password_changed` | Password updated | User changed password |
+| `user.created` | New user added | User account created |
+| `user.deactivated` | User deactivated | User access revoked |
+
+### System Events
+
+| Event | Description | When Triggered |
+|-------|-------------|----------------|
+| `backup.completed` | Data backup finished | Automated backup completed |
+| `report.generated` | Report processing done | Scheduled report ready |
+| `integration.sync_completed` | Integration sync finished | Third-party sync completed |
+| `integration.sync_failed` | Integration sync failed | Third-party sync error |
 
 ## Setting Up Webhooks
 
@@ -728,4 +774,153 @@ GET /api/v1/webhooks/{webhookId}/logs
 }
 ```
 
-Webhooks provide real-time integration capabilities, allowing your application to respond immediately to BigLedger events and maintain synchronized data across your systems.
+## Advanced Webhook Features
+
+### Webhook Event Batching
+
+For high-volume environments, enable event batching to receive multiple events in a single request:
+
+```json
+{
+  "url": "https://your-app.com/webhooks/batch",
+  "events": ["invoice.created", "payment.received"],
+  "batchSettings": {
+    "enabled": true,
+    "maxEvents": 100,
+    "maxWaitTime": 30,
+    "flushOnEvent": ["invoice.paid"]
+  }
+}
+```
+
+**Batch Payload:**
+```json
+{
+  "batch": true,
+  "events": [
+    {
+      "id": "evt_001",
+      "event": "invoice.created",
+      "timestamp": "2024-01-15T10:30:00Z",
+      "data": {...}
+    },
+    {
+      "id": "evt_002", 
+      "event": "payment.received",
+      "timestamp": "2024-01-15T10:31:00Z",
+      "data": {...}
+    }
+  ],
+  "batchId": "batch_123456789",
+  "batchTimestamp": "2024-01-15T10:31:30Z"
+}
+```
+
+### Webhook Transformations
+
+Customize webhook payloads to match your application's data format:
+
+```json
+{
+  "url": "https://your-app.com/webhooks/custom",
+  "events": ["invoice.created"],
+  "transform": {
+    "template": {
+      "id": "{{data.object.id}}",
+      "invoice_number": "{{data.object.invoiceNumber}}",
+      "customer_name": "{{data.object.customer.name}}",
+      "amount": "{{data.object.total}}",
+      "currency": "{{data.object.currency}}",
+      "custom_field": "Invoice Created"
+    },
+    "contentType": "application/json"
+  }
+}
+```
+
+### Conditional Webhooks
+
+Create webhooks that only fire when specific conditions are met:
+
+```json
+{
+  "url": "https://your-app.com/webhooks/conditional",
+  "events": ["invoice.created"],
+  "conditions": [
+    {
+      "field": "data.object.total",
+      "operator": "gt",
+      "value": 1000.00
+    },
+    {
+      "field": "data.object.customer.tags",
+      "operator": "contains",
+      "value": "vip"
+    }
+  ],
+  "conditionLogic": "AND"
+}
+```
+
+## Integration Examples
+
+### Complete E-commerce Integration
+
+```javascript
+// Handle order fulfillment workflow
+async function handleOrderWebhooks(event) {
+  switch (event.event) {
+    case 'sales_order.created':
+      await notifyWarehouse(event.data.object);
+      await updateInventorySystem(event.data.object.items);
+      break;
+      
+    case 'sales_order.shipped':
+      await sendShippingNotification(event.data.object);
+      await updateTrackingInfo(event.data.object);
+      break;
+      
+    case 'invoice.paid':
+      await releaseShipment(event.data.object.salesOrderId);
+      await updateCRMStatus(event.data.object.customerId, 'paid');
+      break;
+      
+    case 'inventory.low_stock':
+      await createPurchaseOrder(event.data.object);
+      await notifyBuyer(event.data.object);
+      break;
+  }
+}
+```
+
+### Financial Reporting Automation
+
+```javascript
+// Automate financial reporting
+async function handleFinancialWebhooks(event) {
+  const { event: eventType, data } = event;
+  
+  if (eventType === 'invoice.paid') {
+    // Update cash flow forecasting
+    await updateCashFlowForecast(data.object);
+    
+    // Check for milestone achievements
+    await checkRevenueTargets(data.object);
+  }
+  
+  if (eventType === 'bill.paid') {
+    // Update expense tracking
+    await updateExpenseAnalysis(data.object);
+    
+    // Check budget compliance
+    await validateBudgetCompliance(data.object);
+  }
+  
+  if (eventType === 'report.generated') {
+    // Automatically distribute reports
+    await distributeFinancialReports(data.object);
+  }
+}
+```
+
+Webhooks provide the foundation for building real-time, event-driven integrations with BigLedger, enabling sophisticated automation and seamless data synchronization across your entire business ecosystem.

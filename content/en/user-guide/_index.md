@@ -1,78 +1,236 @@
 ---
 bookCollapseSection: true
-description: Master your daily business operations with BigLedger's integrated platform.
+description: Master your daily business operations with BigLedger's integrated platform through our comprehensive, step-by-step user guide.
 tags:
 - user-guide
 title: Business Operations Guide
 weight: 10
 ---
 
-Master your daily business operations with BigLedger's integrated platform.
 
-## What You'll Learn
+Welcome to BigLedger's comprehensive Business Operations Guide. This documentation will help you master BigLedger's Business Operating System through a structured learning path, from your first login to advanced automation features.
 
-This guide helps business users effectively operate BigLedger's Business Operating System, covering essential workflows, best practices, and optimization strategies for your enterprise operations.
+## How to Use This Guide
 
-## Quick Start Guides
+This guide is organized in a logical learning progression. We recommend following the sections in order, especially if you're new to BigLedger:
 
-### Getting Started
-- [Introduction to BigLedger](/user-guide/introduction/) - Platform overview and key concepts
-- [Creating Your First Item](/user-guide/creating-an-item/) - Step-by-step item creation
-- [Item Maintenance](/user-guide/item-maintenance/) - Managing your product catalog
-- [Editing Items](/user-guide/editing-an-item/) - Modifying existing products
+1. **Getting Started** - Essential first steps and platform orientation
+2. **Basic Operations** - Fundamental daily tasks and workflows  
+3. **Core Features** - Main business functionality and modules
+4. **Advanced Features** - Automation, integrations, and optimization
+5. **Best Practices** - Expert tips and proven methodologies
 
-### Pricing & Inventory
-- [Pricing Schemes](/user-guide/pricing-scheme/) - Setting up pricing strategies
-- [Price Book Management](/user-guide/price-book/) - Managing price lists
-- [Document Item Types](/user-guide/document-item-types/) - Understanding item classifications
+{{< callout type="info" >}}
+**New to BigLedger?** Start with the [Introduction](/user-guide/introduction/) and [Platform Overview](/user-guide/platform-overview/) to understand the fundamentals before diving into specific features.
+{{< /callout >}}
 
-### Team & Organization
-- [Member Management](/user-guide/member-listing/) - User administration
-- [Team Configuration](/user-guide/team/) - Department and team setup
+---
 
-## Core Modules
+## 🚀 Getting Started
 
-### Financial Management
-- [Financial Accounting](/modules/financial-accounting/) - General ledger, journals, reports
-- [Accounts Receivable](/business-operations/account-receivable/) - Customer invoicing and collections
-- [Accounting Operations](/business-operations/accounting/) - Daily accounting tasks
+Your essential first steps with BigLedger's Business Operating System.
 
-### Sales & Customer Management  
-- [CRM Module](/modules/crm/) - Customer relationship management
-- [Sales Dashboard](/business-operations/sales-dashboard/) - Sales analytics and insights
-- [Order Management](/business-operations/order/) - Order processing and fulfillment
+{{< cards >}}
+{{< card link="/user-guide/introduction" title="Introduction to BigLedger" subtitle="Platform overview, key concepts, and getting oriented with the system" >}}
+{{< card link="/user-guide/platform-overview" title="Platform Architecture" subtitle="Understanding BigLedger's applet-based Business Operating System" >}}
+{{< card link="/user-guide/navigation" title="Navigation Guide" subtitle="Master the interface, shortcuts, and efficient navigation patterns" >}}
+{{< /cards >}}
 
-### Inventory & Supply Chain
-- [Inventory Management](/modules/inventory/) - Stock control and tracking
-- [Procurement](/modules/procurement/) - Purchase orders and vendor management
-- [Manufacturing](/modules/manufacturing/) - Production planning and control
+### First-Time Setup Checklist
+- [ ] Complete your company profile and initial configuration
+- [ ] Set up user accounts and permissions for your team
+- [ ] Configure basic settings and preferences
+- [ ] Import essential master data (customers, products, suppliers)
+- [ ] Complete the onboarding tutorial
 
-### Point of Sale & Retail
-- [POS System](/modules/pos/) - Retail operations and checkout
-- [Dashboard Analytics](/business-operations/dashboard/) - Business intelligence
+---
 
-### Human Resources
-- [HR Management](/modules/hr/) - Employee records and administration
-- [Projects](/modules/projects/) - Project tracking and management
+## 📋 Basic Operations
 
-## E-Commerce Integration
+Master the fundamental daily tasks that form the backbone of your business operations.
 
-- [E-Commerce Overview](/modules/ecommerce/) - Multi-channel selling
-- [EcomSync Introduction](/modules/ecommerce/introduction-to-ecomsync/) - Synchronization platform
-- [Shopify Integration](/modules/ecommerce/integration-with-shopify/) - Connect your Shopify store
-- [B2B Commerce](/modules/ecommerce/b2b/) - Business-to-business portal
-- [CP-Commerce](/modules/ecommerce/cp-commerce/) - Consumer packaged goods
-- [Marketplace Integration](/modules/ecommerce/marketplace-tab/) - Multi-marketplace management
+### Data Management Fundamentals
 
-## Industry Solutions
+{{< cards >}}
+{{< card link="/user-guide/creating-an-item" title="Creating Items" subtitle="Step-by-step guide to adding products and services to your catalog" >}}
+{{< card link="/user-guide/item-maintenance" title="Item Management" subtitle="Comprehensive guide to maintaining your product catalog" >}}
+{{< card link="/user-guide/editing-an-item" title="Editing Items" subtitle="Modifying existing products, pricing, and specifications" >}}
+{{< /cards >}}
 
-- [Industry Guide](/industry-solutions/industry-guide/) - Sector-specific features
-- [Automotive & Workshop](/industry-solutions/automotive-and-workshop-industry/) - Vehicle service management
-- [Food & Beverage](/industry-solutions/food-and-beverage-fb-industry/) - Restaurant and F&B operations
+### Organization & Team Management
 
-## Advanced Features
+{{< cards >}}
+{{< card link="/user-guide/member-listing" title="User Management" subtitle="Adding, editing, and managing user accounts and permissions" >}}
+{{< card link="/user-guide/team" title="Team Configuration" subtitle="Setting up departments, roles, and organizational structure" >}}
+{{< card link="/user-guide/member-class" title="Member Classifications" subtitle="TODO: User roles, permissions, and access control systems" >}}
+{{< /cards >}}
 
-- [AI Intelligence](/ai-intelligence/) - AI-powered insights and automation
-- [E-Invoice & PEPPOL](/e-invoice-peppol/) - Electronic invoicing compliance
-- [Applets & Workflows](/applets-workflows/) - Extensible functionality
-- [Developer Resources](/developers/) - API documentation and SDKs
+### Document & Transaction Basics
+
+{{< cards >}}
+{{< card link="/user-guide/document-item-types" title="Document Types" subtitle="Understanding different document types and their usage" >}}
+{{< card link="/user-guide/document-item-maintenance" title="Document Management" subtitle="TODO: Creating, editing, and managing business documents" >}}
+{{< /cards >}}
+
+---
+
+## 💼 Core Features
+
+Explore BigLedger's main business functionality organized by operational area.
+
+### Pricing & Financial Operations
+
+Learn to manage your pricing strategies and financial processes effectively.
+
+{{< cards >}}
+{{< card link="/user-guide/pricing-scheme" title="Pricing Strategies" subtitle="Create and manage flexible pricing schemes for different customer segments" >}}
+{{< card link="/user-guide/price-book" title="Price Book Management" subtitle="Maintain comprehensive price lists and manage pricing updates" >}}
+{{< card link="/user-guide/price-set" title="Price Set Configuration" subtitle="TODO: Advanced pricing configurations and bulk price management" >}}
+{{< /cards >}}
+
+### Business Modules Overview
+
+BigLedger's core business modules provide comprehensive functionality for every aspect of your operations:
+
+#### Financial Management
+Master your financial operations with integrated accounting, reporting, and compliance features.
+
+- **[Financial Accounting](/modules/financial-accounting/)** - Complete double-entry accounting system
+- **[Accounts Receivable](/business-operations/account-receivable/)** - Customer invoicing and payment tracking
+- **[Accounting Operations](/business-operations/accounting/)** - Daily bookkeeping and financial tasks
+
+#### Sales & Customer Operations
+Build strong customer relationships and optimize your sales processes.
+
+- **[CRM Module](/modules/crm/)** - 360-degree customer relationship management
+- **[Sales Dashboard](/business-operations/sales-dashboard/)** - Real-time sales analytics and performance insights
+- **[Order Management](/business-operations/order/)** - End-to-end order processing and fulfillment
+
+#### Inventory & Supply Chain
+Optimize your inventory levels and streamline supply chain operations.
+
+- **[Inventory Management](/modules/inventory/)** - Multi-location stock control and tracking
+- **[Procurement](/modules/procurement/)** - Purchase orders and vendor relationship management
+- **[Manufacturing](/modules/manufacturing/)** - Production planning and manufacturing control
+
+#### Retail & Point of Sale
+Complete retail operations with modern POS and analytics capabilities.
+
+- **[POS System](/modules/pos/)** - Advanced point-of-sale for retail operations
+- **[Dashboard Analytics](/business-operations/dashboard/)** - Business intelligence and reporting
+
+#### Human Resources & Projects
+Manage your workforce and projects with integrated HR and project management tools.
+
+- **[HR Management](/modules/hr/)** - Employee records, payroll, and HR administration
+- **[Projects](/modules/projects/)** - Project tracking, resource allocation, and timeline management
+
+---
+
+## 🚀 Advanced Features
+
+Leverage BigLedger's advanced capabilities for automation, integration, and optimization.
+
+### E-Commerce & Multi-Channel Integration
+
+Expand your reach with comprehensive e-commerce and marketplace integrations.
+
+{{< cards >}}
+{{< card link="/modules/ecommerce/" title="E-Commerce Overview" subtitle="Multi-channel selling and online store management" >}}
+{{< card link="/modules/ecommerce/introduction-to-ecomsync/" title="EcomSync Platform" subtitle="Centralized synchronization for all your sales channels" >}}
+{{< card link="/modules/ecommerce/integration-with-shopify/" title="Shopify Integration" subtitle="Seamlessly connect and manage your Shopify store" >}}
+{{< /cards >}}
+
+### Specialized Commerce Solutions
+
+{{< cards >}}
+{{< card link="/modules/ecommerce/b2b/" title="B2B Commerce" subtitle="Business-to-business portal and wholesale operations" >}}
+{{< card link="/modules/ecommerce/cp-commerce/" title="CP-Commerce" subtitle="Consumer packaged goods and distribution management" >}}
+{{< card link="/modules/ecommerce/marketplace-tab/" title="Marketplace Management" subtitle="Multi-marketplace integration and centralized control" >}}
+{{< /cards >}}
+
+### Industry-Specific Solutions
+
+Tailored functionality for specific industries and business types.
+
+{{< cards >}}
+{{< card link="/industry-solutions/industry-guide/" title="Industry Overview" subtitle="Sector-specific features and best practices" >}}
+{{< card link="/industry-solutions/automotive-and-workshop-industry/" title="Automotive & Workshop" subtitle="Vehicle service management and automotive operations" >}}
+{{< card link="/industry-solutions/food-and-beverage-fb-industry/" title="Food & Beverage" subtitle="Restaurant operations and F&B management" >}}
+{{< /cards >}}
+
+### Automation & Intelligence
+
+{{< cards >}}
+{{< card link="/ai-intelligence/" title="AI Intelligence" subtitle="AI-powered insights, automation, and predictive analytics" >}}
+{{< card link="/e-invoice-peppol/" title="E-Invoice & PEPPOL" subtitle="Electronic invoicing compliance and automated billing" >}}
+{{< card link="/applets-workflows/" title="Applets & Workflows" subtitle="Custom automation and extensible functionality" >}}
+{{< /cards >}}
+
+---
+
+## 📖 Additional Resources
+
+### Reference Materials
+
+{{< cards >}}
+{{< card link="/user-guide/group-listing" title="Group Listings" subtitle="TODO: Managing groups, categories, and organizational structures" >}}
+{{< card link="/user-guide/member-label-list" title="Label Management" subtitle="TODO: Creating and managing labels for better organization" >}}
+{{< card link="/user-guide/member-label" title="Label Configuration" subtitle="TODO: Advanced labeling and tagging systems" >}}
+{{< /cards >}}
+
+### Developer & Technical Resources
+
+For technical users, developers, and system administrators:
+
+- **[Developer Resources](/developers/)** - API documentation, SDKs, and integration guides
+- **[Technical Documentation](/developers/api-reference/)** - Comprehensive API reference
+- **[Custom Development](/developers/applet-sdk/)** - Build custom applets and extensions
+
+---
+
+## 🎯 Best Practices & Tips
+
+### Getting the Most from BigLedger
+
+{{< callout type="tip" >}}
+**Success Strategy**: Start with core modules (Accounting, Sales, Inventory) and gradually add specialized features as your team becomes comfortable with the platform. Most successful implementations follow a phased approach over 2-3 months.
+{{< /callout >}}
+
+### Recommended Learning Path
+
+1. **Week 1**: Complete Getting Started section and basic navigation
+2. **Week 2**: Master fundamental data management and basic operations  
+3. **Week 3**: Explore relevant core modules for your business
+4. **Week 4**: Implement advanced features and automation
+5. **Ongoing**: Regular review of best practices and new features
+
+### Common Success Patterns
+
+- **Start Simple**: Begin with essential features before adding complexity
+- **Train Incrementally**: Educate your team on one module at a time
+- **Document Processes**: Create internal procedures for your specific workflows
+- **Regular Reviews**: Schedule monthly reviews to optimize your setup
+- **Stay Updated**: Keep current with new features and improvements
+
+---
+
+## 🤝 Getting Help
+
+### Support Resources
+
+- **📧 Email Support**: sales@bigledger.com for general inquiries
+- **💬 Technical Support**: vincent@bigledger.com for technical assistance
+- **📱 Quick Chat**: Telegram @leehongfay for immediate questions
+- **🌐 Website**: [www.bigledger.com](https://www.bigledger.com) for latest updates
+
+### Community & Learning
+
+- **📚 Knowledge Base**: Searchable documentation and FAQs
+- **🎥 Video Tutorials**: Step-by-step visual learning resources  
+- **👥 User Community**: Connect with other BigLedger users
+- **🎓 Training Programs**: Structured learning courses and certifications
+
+{{< callout type="info" >}}
+**Need immediate help?** Use the in-app help system (?) available on every page, or contact our support team through your preferred channel above.
+{{< /callout >}}

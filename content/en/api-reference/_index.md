@@ -7,7 +7,6 @@ title: API Reference
 weight: 30
 ---
 
-# API Reference
 
 Complete API reference for BigLedger services.
 

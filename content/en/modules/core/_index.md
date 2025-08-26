@@ -4,7 +4,6 @@ description: "Essential applets that form the foundation of BigLedger ERP system
 weight: 10
 ---
 
-# Core Module
 
 The Core Module contains fundamental applets that are required by all other modules in BigLedger. These applets provide the basic infrastructure and master data management capabilities that the entire system depends on.
 

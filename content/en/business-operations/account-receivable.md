@@ -7,8 +7,6 @@ title: Account Receivable
 weight: 10
 ---
 
-# Account Receivable Management
-
 ## Comprehensive AR Automation Platform
 
 BigLedger's Account Receivable module revolutionizes cash flow management through intelligent automation, predictive analytics, and seamless integration with Malaysia's banking ecosystem. Our unified entity architecture (`bl_fi_mst_entity_hdr`) provides a 360-degree view of customer relationships, credit history, and payment patterns.

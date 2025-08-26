@@ -4,7 +4,6 @@ description: "Complex inventory management and manufacturing processes"
 weight: 20
 ---
 
-# Advanced Inventory & Manufacturing: A Practitioner's Mastery Guide
 
 *Three decades of implementing manufacturing and inventory systems across discrete, process, and mixed-mode environments. From small job shops to Fortune 500 manufacturing operations.*
 

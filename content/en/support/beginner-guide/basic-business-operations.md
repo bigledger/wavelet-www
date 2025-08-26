@@ -4,7 +4,6 @@ description: "Complete guide to core business operations in BigLedger ERP"
 weight: 20
 ---
 
-# Basic Business Operations: FAQ for Beginners
 
 *Understanding how to manage fundamental business activities in BigLedger*
 

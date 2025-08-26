@@ -125,9 +125,9 @@ params:
 # Menu configuration
 menu:
   main:
-    # Main ERP dropdown
-    - identifier: erp
-      name: "🏢 BigLedger ERP"
+    # Main Modules dropdown
+    - identifier: modules
+      name: "🏢 Modules"
       weight: 1
       pageRef: /modules
       
@@ -136,59 +136,125 @@ menu:
       weight: 2
       pageRef: /user-guide
       
-    # Applications (Core ERP Modules)
-    - identifier: applications
-      name: "📦 Applications"
+    # Core Business Modules
+    - identifier: core-modules
+      name: "📦 Core Modules"
       weight: 3
       hasChildren: true
       
-    - identifier: finance
-      name: Finance & Accounting
-      parent: applications
-      pageRef: /modules/financial-accounting
+    - identifier: core
+      name: Core Module (Foundation)
+      parent: core-modules
+      pageRef: /modules/core
       weight: 10
       
-    - identifier: sales
-      name: Sales & CRM
-      parent: applications
-      pageRef: /modules/crm
+    - identifier: finance
+      name: Financial Accounting
+      parent: core-modules
+      pageRef: /modules/financial-accounting
       weight: 20
       
     - identifier: inventory
       name: Inventory & Warehouse
-      parent: applications
+      parent: core-modules
       pageRef: /modules/inventory
       weight: 30
       
+    - identifier: sales
+      name: Sales & CRM
+      parent: core-modules
+      pageRef: /modules/crm
+      weight: 40
+      
     - identifier: purchasing
       name: Purchasing
-      parent: applications
+      parent: core-modules
       pageRef: /modules/procurement
+      weight: 50
+      
+    # Specialized Modules
+    - identifier: specialized-modules
+      name: "🎯 Specialized Modules"
+      weight: 3.5
+      hasChildren: true
+      
+    - identifier: pos-module
+      name: Point of Sales
+      parent: specialized-modules
+      pageRef: /modules/pos
+      weight: 10
+      
+    - identifier: cp-commerce
+      name: CP-Commerce
+      parent: specialized-modules
+      pageRef: /modules/cp-commerce
+      weight: 20
+      
+    - identifier: e-invoice
+      name: E-Invoice
+      parent: specialized-modules
+      pageRef: /modules/e-invoice
+      weight: 30
+      
+    - identifier: accounting
+      name: Accounting (Advanced)
+      parent: specialized-modules
+      pageRef: /modules/accounting
       weight: 40
+      
+    - identifier: digital-crm
+      name: Digital CRM
+      parent: specialized-modules
+      pageRef: /modules/digital-crm
+      weight: 50
+      
+    - identifier: it-ce
+      name: IT & CE
+      parent: specialized-modules
+      pageRef: /modules/it-ce
+      weight: 60
+      
+    - identifier: service-industry
+      name: Service Industry
+      parent: specialized-modules
+      pageRef: /modules/service-industry
+      weight: 70
+      
+    - identifier: drop-shipping
+      name: Drop Shipping
+      parent: specialized-modules
+      pageRef: /modules/drop-shipping
+      weight: 80
+      
+    # Enterprise Solutions
+    - identifier: enterprise-modules
+      name: "🏢 Enterprise Solutions"
+      weight: 3.7
+      hasChildren: true
+      
+    - identifier: erp-module
+      name: ERP Module (Complete)
+      parent: enterprise-modules
+      pageRef: /modules/erp
+      weight: 10
       
     - identifier: manufacturing
       name: Manufacturing
-      parent: applications
+      parent: enterprise-modules
       pageRef: /modules/manufacturing
-      weight: 50
-      
-    - identifier: pos
-      name: Point of Sale
-      parent: applications
-      pageRef: /modules/pos
-      weight: 60
+      weight: 20
       
     - identifier: hr
       name: Human Resources
-      parent: applications
+      parent: enterprise-modules
       pageRef: /modules/hr
-      weight: 70
+      weight: 30
       
     - identifier: ucc
       name: Unified Contact Center
-      parent: applications
+      parent: enterprise-modules
       pageRef: /applications/unified-contact-center
-      weight: 80
+      weight: 40
       
     # Platform Features
     - identifier: platform

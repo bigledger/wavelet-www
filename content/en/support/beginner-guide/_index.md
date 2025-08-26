@@ -4,7 +4,6 @@ description: "Complete guide for new BigLedger users - from setup to daily opera
 weight: 5
 ---
 
-# BigLedger Beginner's Guide
 
 Welcome to BigLedger! This comprehensive guide is designed to help new users get started and become proficient with the BigLedger ERP system.
 

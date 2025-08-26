@@ -8,7 +8,6 @@ title: E-Invoice & PEPPOL
 weight: 8
 ---
 
-# E-Invoice & PEPPOL Solutions
 
 BigLedger is Malaysia's **MDEC Fully Accredited PEPPOL Service Provider**, offering comprehensive e-invoicing solutions designed for the MyInvois initiative and beyond.
 

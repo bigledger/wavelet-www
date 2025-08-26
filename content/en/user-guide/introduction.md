@@ -7,7 +7,6 @@ title: Introduction
 weight: 10
 ---
 
-# Introduction to BigLedger
 
 Welcome to BigLedger, your comprehensive gateway to streamlined business operations and valuable insights. BigLedger centralizes your data to provide real-time insights and streamlined management across all aspects of your business.
 

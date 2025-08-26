@@ -2,24 +2,37 @@
 bookCollapseSection: true
 cascade:
   type: docs
-description: Complete reference documentation for all BigLedger APIs.
+description: Complete reference documentation for all BigLedger REST APIs with interactive examples and comprehensive endpoint coverage.
 tags:
-- user-guide
+- api-reference
+- rest-api
+- endpoints
 title: API Reference
 weight: 20
 ---
 
-# BigLedger API Reference
 
-Complete reference documentation for all BigLedger APIs. Since all applets are built with Angular, every feature in the BigLedger interface has a corresponding API endpoint.
+Complete reference documentation for all BigLedger REST APIs. Since all BigLedger applets are built with Angular, every feature in the BigLedger interface has a corresponding API endpoint, ensuring 100% programmatic access to all functionality.
 
-## Base URL
+{{< callout type="info" >}}
+**Interactive Documentation**: This reference includes live examples, sample requests/responses, and interactive testing capabilities. Use our [API Explorer](https://developers.bigledger.com/explorer) to test endpoints directly.
+{{< /callout >}}
 
-All API requests should be made to:
+## Base URLs
 
+### Production Environment
 ```
 https://api.bigledger.com/v1
 ```
+
+### Sandbox Environment
+```
+https://sandbox-api.bigledger.com/v1
+```
+
+{{< callout type="tip" >}}
+**Start with Sandbox**: Always begin development and testing in the sandbox environment. It mirrors production exactly but uses test data.
+{{< /callout >}}
 
 ## Authentication
 
@@ -161,11 +174,43 @@ Response includes pagination metadata:
 
 ### Filtering and Sorting
 
-Use query parameters for filtering and sorting:
+Use query parameters for advanced filtering and sorting:
 
 ```http
-GET /api/v1/invoices?status=draft&customerName=acme&sort=createdAt:desc
+# Basic filtering
+GET /api/v1/invoices?status=draft&customerName=acme
+
+# Date range filtering
+GET /api/v1/invoices?fromDate=2024-01-01&toDate=2024-01-31
+
+# Sorting (ascending/descending)
+GET /api/v1/invoices?sort=createdAt:desc
+
+# Multiple sort fields
+GET /api/v1/invoices?sort=dueDate:asc,total:desc
+
+# Search across multiple fields
+GET /api/v1/customers?search=acme&searchFields=name,email,phone
+
+# Complex filtering with operators
+GET /api/v1/invoices?total[gte]=1000&total[lte]=5000&status[ne]=cancelled
 ```
+
+#### Supported Filter Operators
+
+| Operator | Description | Example |
+|----------|-------------|----------|
+| `eq` | Equal (default) | `status=active` |
+| `ne` | Not equal | `status[ne]=cancelled` |
+| `gt` | Greater than | `total[gt]=100` |
+| `gte` | Greater than or equal | `total[gte]=100` |
+| `lt` | Less than | `total[lt]=1000` |
+| `lte` | Less than or equal | `total[lte]=1000` |
+| `in` | In array | `status[in]=draft,pending` |
+| `nin` | Not in array | `status[nin]=cancelled,void` |
+| `contains` | Contains text | `name[contains]=acme` |
+| `startswith` | Starts with | `name[startswith]=A` |
+| `endswith` | Ends with | `email[endswith]=.com` |
 
 ## Rate Limiting
 
@@ -183,15 +228,92 @@ X-RateLimit-Reset: 1642248000
 
 ## Bulk Operations
 
-For high-volume operations, use bulk endpoints:
+For high-volume operations, use bulk endpoints to process multiple records efficiently:
 
+### Bulk Create
 ```http
 POST /api/v1/bulk/customers
-POST /api/v1/bulk/invoices
-POST /api/v1/bulk/inventory-adjustments
+Content-Type: application/json
+
+{
+  "operations": [
+    {
+      "operation": "create",
+      "data": {
+        "name": "Customer 1",
+        "email": "customer1@example.com"
+      }
+    },
+    {
+      "operation": "create",
+      "data": {
+        "name": "Customer 2",
+        "email": "customer2@example.com"
+      }
+    }
+  ]
+}
 ```
 
-Bulk requests support up to 100 records per request.
+### Bulk Update
+```http
+POST /api/v1/bulk/customers
+{
+  "operations": [
+    {
+      "operation": "update",
+      "id": "cust_123",
+      "data": {
+        "creditLimit": 15000
+      }
+    },
+    {
+      "operation": "update",
+      "id": "cust_456",
+      "data": {
+        "status": "inactive"
+      }
+    }
+  ]
+}
+```
+
+### Bulk Response Format
+```json
+{
+  "success": true,
+  "data": {
+    "processed": 2,
+    "successful": 1,
+    "failed": 1,
+    "results": [
+      {
+        "index": 0,
+        "success": true,
+        "data": {
+          "id": "cust_789",
+          "name": "Customer 1"
+        }
+      },
+      {
+        "index": 1,
+        "success": false,
+        "error": {
+          "code": "VALIDATION_ERROR",
+          "message": "Email already exists"
+        }
+      }
+    ]
+  }
+}
+```
+
+### Bulk Endpoints Available
+- `POST /api/v1/bulk/customers` - Bulk customer operations (max 100 records)
+- `POST /api/v1/bulk/invoices` - Bulk invoice operations (max 50 records)
+- `POST /api/v1/bulk/inventory-adjustments` - Bulk inventory updates (max 200 records)
+- `POST /api/v1/bulk/journal-entries` - Bulk accounting entries (max 100 records)
+- `POST /api/v1/bulk/payments` - Bulk payment processing (max 100 records)
 
 ## Webhooks
 
@@ -207,14 +329,63 @@ POST /api/v1/webhooks/subscribe
 
 ## WebSocket API
 
-For real-time data updates:
+For real-time data updates and live synchronization:
 
+### Connection
 ```javascript
 const ws = new WebSocket('wss://api.bigledger.com/v1/stream');
+
+// Authenticate and subscribe
+ws.onopen = function() {
+  ws.send(JSON.stringify({
+    "type": "auth",
+    "token": "YOUR_API_KEY",
+    "companyId": "YOUR_COMPANY_ID"
+  }));
+};
+
+// Subscribe to events
 ws.send(JSON.stringify({
-  "subscribe": ["invoice.updates", "stock.changes"],
-  "auth": "YOUR_API_KEY"
+  "type": "subscribe",
+  "channels": ["invoice.updates", "stock.changes", "payment.received"],
+  "filters": {
+    "invoice.updates": {
+      "status": ["draft", "sent"]
+    }
+  }
 }));
+```
+
+### Available Channels
+- `invoice.created` - New invoice created
+- `invoice.updated` - Invoice modified
+- `invoice.sent` - Invoice sent to customer
+- `payment.received` - Payment recorded
+- `stock.updated` - Inventory levels changed
+- `customer.created` - New customer added
+- `order.status_changed` - Sales order status updated
+- `einvoice.submitted` - E-invoice submitted to government
+- `report.generated` - Financial report completed
+
+### Message Format
+```json
+{
+  "type": "event",
+  "channel": "invoice.created",
+  "data": {
+    "id": "inv_123",
+    "invoiceNumber": "INV-2024-0001",
+    "customerId": "cust_456",
+    "total": 1060.00,
+    "status": "draft",
+    "timestamp": "2024-01-15T10:30:00Z"
+  },
+  "meta": {
+    "companyId": "company_abc123",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "eventId": "evt_789xyz"
+  }
+}
 ```
 
 ## Common HTTP Status Codes
@@ -243,27 +414,130 @@ https://api-sandbox.bigledger.com/v1
 
 ### Interactive API Explorer
 
-Try our interactive API explorer at:
-[https://developers.bigledger.com/api-explorer](https://developers.bigledger.com/api-explorer)
+Try our interactive API explorer with live testing capabilities:
+
+[Open API Explorer](https://developers.bigledger.com/api-explorer)
+
+Features:
+- **Live Testing**: Make real API calls from your browser
+- **Authentication**: Built-in API key management
+- **Code Generation**: Generate code samples in multiple languages
+- **Response Inspector**: Detailed response analysis
+- **History**: Track your API testing history
 
 ### Postman Collection
 
-Import our Postman collection for quick testing:
-[Download BigLedger Postman Collection](../../static/api/bigledger-api.postman.json)
+Import our comprehensive Postman collection:
+
+[Download BigLedger API Collection](https://developers.bigledger.com/postman/bigledger-api-collection.json)
+
+**Included**:
+- All API endpoints with sample requests
+- Environment variables for sandbox/production
+- Pre-request authentication scripts
+- Test scripts for response validation
+- Example workflows for common integrations
+
+### OpenAPI Specification
+
+Download our OpenAPI (Swagger) specification:
+
+- **OpenAPI 3.0**: [bigledger-api-v1.yaml](https://api.bigledger.com/v1/openapi.yaml)
+- **Swagger UI**: [Interactive Swagger Documentation](https://developers.bigledger.com/swagger-ui)
+- **JSON Format**: [bigledger-api-v1.json](https://api.bigledger.com/v1/openapi.json)
 
 ## API Modules
 
 {{< cards >}}
-{{< card link="./authentication" title="Authentication" icon="key" subtitle="OAuth 2.0 flows, API key management, and security." >}}
-{{< card link="./accounting" title="Accounting APIs" icon="chart-bar" subtitle="Accounts, journals, and financial reporting." >}}
-{{< card link="./einvoice" title="E-Invoice APIs" icon="document-text" subtitle="PEPPOL and MyInvois compliance." >}}
-{{< card link="./inventory" title="Inventory APIs" icon="cube" subtitle="Stock management and inventory operations." >}}
+{{< card link="../authentication" title="Authentication" icon="key" subtitle="OAuth 2.0 flows, API key management, and security best practices." >}}
+{{< card link="./accounting" title="Accounting APIs" icon="chart-bar" subtitle="Chart of accounts, journal entries, and financial reporting endpoints." >}}
+{{< card link="./einvoice" title="E-Invoice APIs" icon="document-text" subtitle="PEPPOL and MyInvois compliance with automated validation." >}}
+{{< card link="./inventory" title="Inventory APIs" icon="cube" subtitle="Stock management, transfers, adjustments, and real-time tracking." >}}
 
-{{< card link="./sales" title="Sales & CRM APIs" icon="user-group" subtitle="Customers, orders, quotes, and invoices." >}}
+{{< card link="./sales" title="Sales & CRM APIs" icon="user-group" subtitle="Customers, sales orders, quotes, invoices, and CRM operations." >}}
 
-{{< card link="./pos" title="POS APIs" icon="shopping-cart" subtitle="Point-of-sale and retail operations." >}}
+{{< card link="./purchasing" title="Purchasing APIs" icon="shopping-bag" subtitle="Purchase orders, suppliers, bills, and procurement workflows." >}}
 
-{{< card link="./webhooks" title="Webhooks API" icon="bell" subtitle="Real-time event notifications." >}}
+{{< card link="./pos" title="POS APIs" icon="shopping-cart" subtitle="Point-of-sale transactions, sessions, and retail operations." >}}
 
-{{< card link="./errors" title="Error Handling" icon="warning" subtitle="Error codes and troubleshooting." >}}
+{{< card link="./reports" title="Reporting APIs" icon="chart-pie" subtitle="Financial reports, analytics, and business intelligence data." >}}
+
+{{< card link="../webhooks" title="Webhooks API" icon="bell" subtitle="Real-time event notifications and webhook management." >}}
+
+{{< card link="./batch" title="Batch Operations" icon="layers" subtitle="Bulk operations for high-volume data processing." >}}
+
+{{< card link="./integrations" title="Integration APIs" icon="link" subtitle="Third-party integrations and data synchronization." >}}
+
+{{< card link="./errors" title="Error Handling" icon="warning" subtitle="Comprehensive error codes and troubleshooting guide." >}}
 {{< /cards >}}
+
+## Quick Reference
+
+### Common Endpoints
+
+```http
+# Authentication & Company Info
+GET    /v1/auth/verify
+GET    /v1/company
+
+# Core Business Entities
+GET    /v1/customers              # List customers
+POST   /v1/customers              # Create customer
+GET    /v1/customers/{id}         # Get customer
+PUT    /v1/customers/{id}         # Update customer
+DELETE /v1/customers/{id}         # Delete customer
+
+# Invoicing
+GET    /v1/invoices               # List invoices
+POST   /v1/invoices               # Create invoice
+GET    /v1/invoices/{id}          # Get invoice
+PUT    /v1/invoices/{id}          # Update invoice
+POST   /v1/invoices/{id}/send     # Send invoice
+POST   /v1/invoices/{id}/payment  # Record payment
+
+# Inventory
+GET    /v1/items                  # List inventory items
+GET    /v1/stock                  # Current stock levels
+POST   /v1/stock-adjustments      # Adjust stock
+POST   /v1/stock-transfers        # Transfer stock
+
+# Accounting
+GET    /v1/accounts               # Chart of accounts
+POST   /v1/journal-entries        # Create journal entry
+GET    /v1/reports/balance-sheet  # Balance sheet
+GET    /v1/reports/profit-loss    # P&L statement
+```
+
+### Response Time SLA
+
+| Operation Type | Target Response Time | SLA |
+|---|---|---|
+| Read operations (GET) | < 200ms | 99.9% |
+| Write operations (POST/PUT) | < 500ms | 99.5% |
+| Bulk operations | < 5 seconds | 99.0% |
+| Report generation | < 10 seconds | 95.0% |
+| File uploads | < 30 seconds | 95.0% |
+
+### Global Request/Response Headers
+
+**Request Headers**:
+```http
+Authorization: Bearer {api_key}     # Required
+Content-Type: application/json      # Required for POST/PUT
+X-Company-Id: {company_id}          # Required
+X-Request-ID: {unique_id}           # Optional, for tracking
+X-API-Version: 2024-01-15           # Optional, date-based versioning
+Accept-Encoding: gzip, deflate      # Optional, for compression
+User-Agent: YourApp/1.0.0           # Recommended
+```
+
+**Response Headers**:
+```http
+Content-Type: application/json
+X-Request-ID: req_123456789
+X-RateLimit-Limit: 1000
+X-RateLimit-Remaining: 999
+X-RateLimit-Reset: 1642248000
+X-Response-Time: 150ms
+Cache-Control: no-cache
+```

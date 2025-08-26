@@ -6,7 +6,6 @@ title: Inventory Management
 weight: 32
 ---
 
-# Inventory Management
 
 Comprehensive guides for inventory management.
 

@@ -4,7 +4,6 @@ description: "Daily tasks and common operations guide for BigLedger users"
 weight: 30
 ---
 
-# Day-to-Day Usage: FAQ for Beginners
 
 *Practical guidance for using BigLedger in your daily business operations*
 

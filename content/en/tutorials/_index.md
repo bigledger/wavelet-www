@@ -7,7 +7,6 @@ title: Tutorials
 weight: 40
 ---
 
-# Tutorials
 
 Step-by-step tutorials for common BigLedger use cases.
 

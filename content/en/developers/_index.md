@@ -9,8 +9,6 @@ title: Developer Platform
 weight: 25
 ---
 
-# BigLedger Developer Platform
-
 Welcome to the BigLedger Developer Platform. Build powerful accounting and business management integrations with our comprehensive RESTful APIs.
 
 {{< callout type="info" >}}
@@ -175,12 +173,50 @@ Enterprise plans include higher limits and dedicated infrastructure.
 - **Status Page**: [status.bigledger.com](https://status.bigledger.com)
 - **GitHub**: [github.com/bigledger](https://github.com/bigledger)
 
+## Developer Resources
+
+### 📚 Documentation & Guides
+
+{{< cards >}}
+{{< card link="./getting-started" title="Getting Started" icon="play" subtitle="Complete setup guide from authentication to your first API call in under 5 minutes." >}}
+
+{{< card link="./authentication" title="Authentication" icon="key" subtitle="OAuth 2.0, API keys, security best practices, and access management." >}}
+
+{{< card link="./tutorials" title="Tutorials & Guides" icon="academic-cap" subtitle="Step-by-step tutorials covering e-commerce, automation, and migration scenarios." >}}
+
+{{< card link="./sdks" title="SDKs & Libraries" icon="code" subtitle="Official SDKs for JavaScript, Python, PHP, Java, .NET, Go with framework integrations." >}}
+{{< /cards >}}
+
+### 🔧 API Documentation
+
+{{< cards >}}
+{{< card link="./api-reference" title="API Reference" icon="book-open" subtitle="Complete REST API documentation with interactive examples and endpoint details." >}}
+
+{{< card link="./webhooks" title="Webhooks" icon="bell" subtitle="Real-time event notifications with comprehensive event types and security features." >}}
+
+{{< card link="./api-reference/batch" title="Batch Operations" icon="layers" subtitle="High-volume data processing with bulk operations and error handling." >}}
+
+{{< card link="./api-reference/integrations" title="Integration APIs" icon="link" subtitle="Third-party connectors for Shopify, Amazon, QuickBooks, and custom systems." >}}
+{{< /cards >}}
+
+### 🛠️ Developer Tools
+
+{{< cards >}}
+{{< card link="https://developers.bigledger.com/console" title="Developer Console" icon="cog" subtitle="Manage API keys, monitor usage, test endpoints, and view analytics." >}}
+
+{{< card link="https://developers.bigledger.com/explorer" title="API Explorer" icon="cursor-click" subtitle="Interactive API testing with live requests, code generation, and response analysis." >}}
+
+{{< card link="https://developers.bigledger.com/postman" title="Postman Collection" icon="download" subtitle="Ready-to-use Postman collection with authentication and all endpoints configured." >}}
+
+{{< card link="https://api.bigledger.com/v1/openapi.yaml" title="OpenAPI Spec" icon="document-text" subtitle="Download OpenAPI/Swagger specification for code generation and tooling." >}}
+{{< /cards >}}
+
 ## Ready to Get Started?
 
 {{< cards >}}
-{{< card link="./getting-started" title="Start Building" icon="play" subtitle="Follow our quickstart guide to make your first API call in under 5 minutes." >}}
+{{< card link="./getting-started" title="Start Building Now" icon="rocket" subtitle="Set up your first integration in under 5 minutes with our quickstart guide." >}}
 
-{{< card link="./api-reference" title="API Reference" icon="book-open" subtitle="Explore the complete API documentation with interactive examples." >}}
+{{< card link="./tutorials" title="Follow Tutorials" icon="academic-cap" subtitle="Learn through hands-on tutorials covering real-world integration scenarios." >}}
 
-{{< card link="https://developers.bigledger.com/console" title="Developer Console" icon="cog" subtitle="Manage your API keys, view usage analytics, and test API endpoints." >}}
+{{< card link="https://developers.bigledger.com/console" title="Developer Console" icon="adjustments" subtitle="Access your API keys, test endpoints, and monitor your integration usage." >}}
 {{< /cards >}}

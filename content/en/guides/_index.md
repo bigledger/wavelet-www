@@ -7,7 +7,6 @@ title: Implementation Guides
 weight: 25
 ---
 
-# BigLedger Implementation Guides
 
 Comprehensive step-by-step guides for implementing and using BigLedger's features.
 

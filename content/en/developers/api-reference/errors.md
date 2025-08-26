@@ -7,7 +7,6 @@ title: Error Handling
 weight: 90
 ---
 
-# Error Handling & Troubleshooting
 
 Comprehensive guide to BigLedger API error codes, troubleshooting steps, and best practices for robust error handling in your integrations.
 

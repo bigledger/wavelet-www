@@ -4,7 +4,6 @@ description: "Get help with BigLedger ERP - FAQs, troubleshooting guides, and su
 weight: 90
 ---
 
-# Support & Troubleshooting
 
 Welcome to the BigLedger support center. Find answers to common questions, troubleshooting guides, and resources to help you get the most out of BigLedger ERP.
 

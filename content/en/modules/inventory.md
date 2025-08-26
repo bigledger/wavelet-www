@@ -7,7 +7,6 @@ title: Inventory Management
 weight: 40
 ---
 
-# Inventory Management Module
 
 ## Overview
 

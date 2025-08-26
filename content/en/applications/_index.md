@@ -4,7 +4,6 @@ description: "Specialized business applications built on BigLedger platform"
 weight: 25
 ---
 
-# BigLedger Applications
 
 Powerful, specialized applications that extend BigLedger's core capabilities to meet specific business needs.
 

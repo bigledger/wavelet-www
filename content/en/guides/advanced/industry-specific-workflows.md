@@ -4,7 +4,6 @@ description: "Specialized workflows for different industries and business models
 weight: 50
 ---
 
-# Industry-Specific Workflows: 30 Years of Implementation Experience
 
 *From implementing SAP in automotive plants to Oracle ERP in retail chains, Microsoft Dynamics in construction companies, and now BigLedger across diverse Malaysian industries. This guide provides battle-tested workflows for specific industry verticals.*
 

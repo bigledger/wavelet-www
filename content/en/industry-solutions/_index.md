@@ -9,8 +9,6 @@ weight: 1
 ---
 
 
-# Industry Solutions
-
 BigLedger serves businesses across multiple industries with tailored solutions and specialized workflows. This section showcases industry-specific implementations and success stories.
 
 ## Supported Industries

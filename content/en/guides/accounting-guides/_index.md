@@ -6,7 +6,6 @@ title: Accounting Guides
 weight: 30
 ---
 
-# Accounting Guides
 
 Comprehensive guides for accounting guides.
 

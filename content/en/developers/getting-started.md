@@ -1,15 +1,30 @@
 ---
-description: This guide will help you make your first API call to BigLedger in under
-  5 minutes.
+description: Comprehensive getting started guide for BigLedger APIs - from authentication to your first invoice in under 5 minutes.
 tags:
-- user-guide
+- api-guide
+- getting-started
+- authentication
 title: Getting Started
 weight: 5
 ---
 
-# Getting Started with BigLedger APIs
 
-This guide will help you make your first API call to BigLedger in under 5 minutes.
+This comprehensive guide will walk you through everything you need to know to get started with BigLedger APIs, from authentication to creating your first business transactions.
+
+{{< callout type="info" >}}
+**Complete API Coverage**: BigLedger APIs provide 100% coverage of all functionality available in our Angular-based web application. Every feature, every operation, and every data point can be accessed programmatically.
+{{< /callout >}}
+
+## Overview
+
+BigLedger's RESTful APIs are built on modern standards and designed for ease of use:
+
+- **RESTful Design**: Standard HTTP methods (GET, POST, PUT, DELETE)
+- **JSON Everywhere**: All requests and responses use JSON format
+- **Consistent Structure**: Predictable URL patterns and response formats
+- **Comprehensive**: Complete CRUD operations for all business entities
+- **Real-time**: WebSocket connections and webhooks for live updates
+- **Secure**: Industry-standard OAuth 2.0 and API key authentication
 
 ## Quick Start Checklist
 
@@ -604,6 +619,74 @@ public class BigLedgerClient {
 
 {{< /tabs >}}
 
+## Testing Your Integration
+
+### Health Check Endpoint
+
+Before integrating, verify the API is accessible:
+
+```bash
+curl -X GET "https://api.bigledger.com/v1/health" \
+  -H "Content-Type: application/json"
+```
+
+**Response**:
+```json
+{
+  "status": "ok",
+  "version": "1.0.0",
+  "timestamp": "2024-01-15T10:30:00Z",
+  "region": "ap-southeast-1"
+}
+```
+
+### API Explorer
+
+Use our interactive API Explorer to test endpoints without writing code:
+
+[Open API Explorer](https://developers.bigledger.com/explorer)
+
+### Sample Test Scenarios
+
+**1. Basic CRUD Operations**
+```bash
+# Create a customer
+POST /customers
+
+# Get the customer
+GET /customers/{id}
+
+# Update the customer
+PUT /customers/{id}
+
+# Create an invoice for the customer
+POST /invoices
+
+# List all invoices
+GET /invoices
+```
+
+**2. Search and Filtering**
+```bash
+# Search customers by name
+GET /customers?search=acme
+
+# Filter invoices by date range
+GET /invoices?fromDate=2024-01-01&toDate=2024-01-31
+
+# Get overdue invoices
+GET /invoices?status=overdue
+```
+
+**3. Pagination**
+```bash
+# Get first page of customers
+GET /customers?limit=20&offset=0
+
+# Get second page
+GET /customers?limit=20&offset=20
+```
+
 ## Error Handling
 
 Learn to handle common errors gracefully:
@@ -646,7 +729,49 @@ Learn to handle common errors gracefully:
   "error": {
     "code": "RATE_LIMIT_EXCEEDED",
     "message": "Too many requests",
-    "retryAfter": 60
+    "retryAfter": 60,
+    "limit": 1000,
+    "remaining": 0,
+    "resetTime": "2024-01-15T11:30:00Z"
+  }
+}
+```
+
+### 422 Unprocessable Entity
+
+```json
+{
+  "success": false,
+  "error": {
+    "code": "BUSINESS_RULE_VIOLATION",
+    "message": "Cannot delete customer with outstanding invoices",
+    "context": {
+      "customerId": "cust_789xyz123",
+      "outstandingInvoices": 3,
+      "totalAmount": 5250.00
+    }
+  }
+}
+```
+
+### Error Response Structure
+
+All error responses follow this consistent structure:
+
+```json
+{
+  "success": false,
+  "error": {
+    "code": "ERROR_CODE",
+    "message": "Human-readable description",
+    "details": [],           // Field-specific errors (validation)
+    "context": {},           // Additional error context
+    "documentation": "https://docs.bigledger.com/errors/ERROR_CODE",
+    "requestId": "req_123456789"
+  },
+  "meta": {
+    "timestamp": "2024-01-15T10:30:00Z",
+    "version": "1.0.0"
   }
 }
 ```
@@ -790,7 +915,96 @@ Now that you've made your first API calls, explore these topics:
 {{< card link="./migration" title="Migration Guides" icon="arrow-right"  subtitle="Migrate from other accounting platforms" >}}
 {{< /cards >}}
 
-## Support
+## API Base URLs & Environments
+
+### Environments
+
+- **Production**: `https://api.bigledger.com/v1`
+- **Sandbox**: `https://sandbox-api.bigledger.com/v1`
+
+{{< callout type="info" >}}
+**Always start with Sandbox** for development and testing. The sandbox environment provides realistic test data and mirrors the production API exactly.
+{{< /callout >}}
+
+### Rate Limits & Governance
+
+{{< callout type="warning" >}}
+**Default Rate Limits**
+- **Requests per Hour**: 1,000 per API key
+- **Burst Limit**: 10 requests per second
+- **Bulk Operations**: Separate higher limits (up to 10,000 operations per request)
+- **Concurrent Connections**: 5 simultaneous requests
+- **Request Timeout**: 30 seconds for standard operations, 15 minutes for bulk operations
+
+**Enterprise Plans**: Higher limits, dedicated infrastructure, and SLA guarantees available.
+{{< /callout >}}
+
+### Required Headers
+
+All API requests must include these headers:
+
+```http
+Authorization: Bearer {your_api_key}
+Content-Type: application/json
+X-Company-Id: {your_company_id}
+User-Agent: YourApp/1.0.0
+```
+
+Optional but recommended headers:
+
+```http
+X-Request-ID: {unique_request_identifier}
+X-API-Version: 2024-01-15
+Accept-Encoding: gzip, deflate
+```
+
+## Postman Collection
+
+{{< callout type="tip" >}}
+**Ready-to-use Postman Collection**: Download our complete Postman collection with all endpoints, authentication, and example requests pre-configured.
+
+[Download Postman Collection](https://developers.bigledger.com/postman/bigledger-api-collection.json)
+{{< /callout >}}
+
+The collection includes:
+- Pre-configured authentication
+- All API endpoints with example requests
+- Environment variables for easy switching between sandbox and production
+- Sample responses and error scenarios
+
+## Troubleshooting Common Issues
+
+### Authentication Problems
+
+**Symptoms**: 401 Unauthorized responses
+
+**Solutions**:
+1. Verify API key format: `blg_live_sk_...` (production) or `blg_test_sk_...` (sandbox)
+2. Check Company ID format: `company_...`
+3. Ensure headers are correctly formatted
+4. Verify API key hasn't expired or been revoked
+
+### Rate Limiting
+
+**Symptoms**: 429 Too Many Requests responses
+
+**Solutions**:
+1. Implement exponential backoff with retry logic
+2. Use bulk endpoints for multiple operations
+3. Cache responses when appropriate
+4. Consider upgrading to higher rate limits
+
+### Data Validation Errors
+
+**Symptoms**: 400 Bad Request with validation details
+
+**Solutions**:
+1. Check required fields are provided
+2. Verify data types and formats
+3. Ensure enum values are valid
+4. Review field length restrictions
+
+## Support & Community
 
 Need help? We're here to assist:
 
@@ -798,3 +1012,5 @@ Need help? We're here to assist:
 - **Email Support**: [developers@bigledger.com](mailto:developers@bigledger.com)
 - **Community Forum**: [community.bigledger.com](https://community.bigledger.com)
 - **Status Page**: [status.bigledger.com](https://status.bigledger.com)
+- **Developer Console**: [developers.bigledger.com/console](https://developers.bigledger.com/console)
+- **GitHub Issues**: [github.com/bigledger/api-issues](https://github.com/bigledger/api-issues)

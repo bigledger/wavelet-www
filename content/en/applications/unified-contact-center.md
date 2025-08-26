@@ -4,7 +4,6 @@ description: "Omnichannel customer service platform for superior customer experi
 weight: 80
 ---
 
-# Unified Contact Center (UCC)
 
 ## Transform Your Customer Service Operations
 

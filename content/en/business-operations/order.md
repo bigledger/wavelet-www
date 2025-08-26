@@ -7,8 +7,6 @@ title: Order
 weight: 10
 ---
 
-# Order Management System
-
 ## Unified Order Orchestration Platform
 
 BigLedger's Order Management System (OMS) provides end-to-end visibility and control over your entire order lifecycle across all sales channels. Our intelligent order routing engine ensures optimal fulfillment while maintaining real-time inventory accuracy and customer satisfaction.

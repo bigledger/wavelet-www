@@ -6,7 +6,6 @@ title: Human Resources
 weight: 70
 ---
 
-# Human Resources Module
 
 ## Overview
 

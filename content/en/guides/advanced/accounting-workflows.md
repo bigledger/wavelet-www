@@ -4,7 +4,6 @@ description: "Advanced accounting processes, automation, and best practices in B
 weight: 10
 ---
 
-# Accounting Workflows Deep Dive: A 30-Year Practitioner's Guide
 
 *Written by an ERP specialist with 30 years of experience implementing SAP R/3, Oracle ERP, Microsoft Dynamics, QuickBooks, Sage, Odoo, NetSuite, and now BigLedger. Drawing from real-world implementations across manufacturing, retail, services, and construction industries.*
 

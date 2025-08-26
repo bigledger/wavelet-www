@@ -6,7 +6,6 @@ title: Project Management
 weight: 80
 ---
 
-# Project Management Module
 
 ## Overview
 

@@ -4,7 +4,6 @@ description: "Regulatory compliance, audit trails, and control frameworks"
 weight: 40
 ---
 
-# Compliance & Audit Requirements: A Practitioner's Complete Guide
 
 *Three decades of experience navigating audits from Big 4 firms, regulatory compliance across multiple jurisdictions, and implementing bulletproof internal controls. From SOX compliance to Malaysian regulatory requirements.*
 

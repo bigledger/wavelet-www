@@ -6,8 +6,6 @@ tags:
 - user-guide
 ---
 
-# Financial Accounting Module
-
 ## Overview
 
 The Financial Accounting Module provides comprehensive, standards-compliant accounting through specialized applets working together. Designed for businesses of all sizes, it delivers real-time financial insights while maintaining audit compliance.

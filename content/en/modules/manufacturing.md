@@ -6,7 +6,6 @@ title: Manufacturing
 weight: 60
 ---
 
-# Manufacturing Module
 
 ## Overview
 

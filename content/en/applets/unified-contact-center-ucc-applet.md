@@ -9,8 +9,6 @@ tags:
 weight: 10
 ---
 
-# Unified Contact Center (UCC) Applet
-
 ## Executive Overview
 
 The Unified Contact Center (UCC) Applet is BigLedger's flagship customer engagement solution that revolutionizes how businesses communicate with their customers. By consolidating all communication channels into a single, intelligent platform, UCC enables businesses to deliver exceptional customer service while dramatically improving operational efficiency.

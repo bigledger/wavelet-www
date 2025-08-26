@@ -9,7 +9,6 @@ weight: 1
 ---
 
 
-# Business Operations
 
 This section covers the day-to-day business operations and workflow management within BigLedger. Learn how to manage your core business processes efficiently and effectively.
 

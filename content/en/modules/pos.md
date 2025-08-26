@@ -6,7 +6,6 @@ title: Point of Sales (POS)
 weight: 20
 ---
 
-# Point of Sales (POS) Module
 
 ## Overview
 

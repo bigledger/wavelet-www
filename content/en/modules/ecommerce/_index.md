@@ -4,7 +4,6 @@ description: "Comprehensive e-commerce operations with marketplace integration a
 weight: 70
 ---
 
-# E-Commerce Module
 
 The E-Commerce Module enables businesses to sell online through multiple channels, including their own website, marketplaces, and B2B portals. It provides seamless integration between online and offline operations.
 

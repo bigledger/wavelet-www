@@ -4,8 +4,6 @@ description: "BigLedger's comprehensive business modules - collections of applet
 weight: 30
 ---
 
-# BigLedger Modules
-
 BigLedger is organized into functional modules, each containing a collection of applets that work together to deliver specific business capabilities. Understanding the module-applet relationship is key to maximizing BigLedger's potential.
 
 ## Module-Applet Architecture
@@ -39,21 +37,87 @@ BigLedger is organized into functional modules, each containing a collection of 
 
 ### 1. Core Module
 **Foundation for all operations**
-- Essential master data applets
-- System configuration applets
+- Essential master data applets (13 applets)
+- System configuration and administration
 - Required by all other modules
 - [Explore Core Module →](/modules/core/)
 
-### 2. Financial Modules
+### 2. Specialized Business Modules
+
+#### Point of Sales Module
+**Complete retail store operations**
+- 6 specialized POS applets
+- Cashier operations and multi-outlet management
+- Offline/online sync capabilities
+- [Discover POS Module →](/modules/pos/)
+
+#### CP-Commerce Module  
+**Comprehensive e-commerce solution**
+- All 13 Core Module applets PLUS 7 commerce applets
+- Multi-channel selling and marketplace integration
+- Digital-first commerce capabilities
+- [Explore CP-Commerce Module →](/modules/cp-commerce/)
+
+#### E-Invoice Module
+**Electronic invoicing and compliance**
+- 8 specialized e-invoicing applets
+- MyInvois and PEPPOL compliance
+- Automated regulatory reporting
+- [Learn E-Invoice Module →](/modules/e-invoice/)
+
+#### Accounting Module
+**Advanced transaction processing**
+- 25 comprehensive transaction applets
+- Complete financial operations coverage
+- Industry-specific accounting workflows
+- [Explore Accounting Module →](/modules/accounting/)
+
+#### Digital CRM Module
+**Modern customer relationship management**
+- 3 AI-powered CRM applets
+- Predictive analytics and automation
+- Omnichannel customer engagement
+- [Discover Digital CRM →](/modules/digital-crm/)
+
+#### IT & CE Module
+**Technology and customer engagement**
+- 6 specialized IT and customer engagement applets
+- Service management and automation
+- Digital transformation capabilities
+- [Explore IT & CE Module →](/modules/it-ce/)
+
+#### Service Industry Module
+**Service-based business operations**
+- 7 service-focused applets
+- Project management and resource scheduling
+- Professional services optimization
+- [Learn Service Industry →](/modules/service-industry/)
+
+#### Drop Shipping Module
+**Drop shipping business operations**
+- 2 specialized drop shipping applets
+- Supplier network management
+- Automated fulfillment orchestration
+- [Explore Drop Shipping →](/modules/drop-shipping/)
+
+### 3. Enterprise Solutions
+
+#### ERP Module
+**Complete enterprise resource planning**
+- ALL Accounting Module applets (25)
+- ALL Point of Sales Module applets (6)
+- PLUS 10 additional enterprise applets (41 total)
+- Ultimate business management solution
+- [Discover ERP Module →](/modules/erp/)
+
+### 4. Traditional Core Modules
 
 #### Financial Accounting
-**Complete accounting and financial management**
+**Standard accounting and financial management**
 - General ledger and journals
 - Accounts receivable/payable
 - Financial reporting
 - [Learn about Financial Accounting →](/modules/financial-accounting/)
-
-### 3. Operations Modules
 
 #### Inventory & Warehouse
 **Stock and warehouse management**
@@ -76,15 +140,6 @@ BigLedger is organized into functional modules, each containing a collection of 
 - Purchase analytics
 - [View Purchasing →](/modules/procurement/)
 
-### 4. Retail & Commerce
-
-#### Point of Sale (POS)
-**Retail store operations**
-- Cashier operations
-- Multi-outlet management
-- Offline/online sync
-- [Discover POS Features →](/modules/pos/)
-
 #### E-Commerce
 **Online sales and marketplace integration**
 - Multi-channel selling
@@ -92,16 +147,14 @@ BigLedger is organized into functional modules, each containing a collection of 
 - Website management
 - [Explore E-Commerce →](/modules/ecommerce/)
 
-### 5. Human Resources
+### 5. Enterprise Operations
 
-#### HR & Payroll
+#### Human Resources
 **Employee and payroll management**
 - Employee records
 - Payroll processing
 - Leave and claims
 - [HR Management →](/modules/hr/)
-
-### 6. Production
 
 #### Manufacturing
 **Production and assembly operations**

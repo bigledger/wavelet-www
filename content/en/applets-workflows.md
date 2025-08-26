@@ -8,8 +8,6 @@ title: Applets & Workflows
 weight: 9
 ---
 
-# BigLedger Applets & Business Workflows
-
 BigLedger's modular applet architecture enables businesses to build customized solutions by combining specialized applets that work seamlessly together through our central data hub.
 
 ## Understanding Applets
