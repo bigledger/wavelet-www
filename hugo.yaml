@@ -125,190 +125,112 @@ params:
 # Menu configuration
 menu:
   main:
-    # Main Modules dropdown
-    - identifier: modules
-      name: "🏢 Modules"
+    # 1. Industry - Industry solutions and case studies
+    - identifier: industry
+      name: Industry
       weight: 1
-      pageRef: /modules
+      pageRef: /industry-solutions
       
-    - identifier: getting-started
-      name: "🚀 Getting Started"
+    # 2. User Guide - Comprehensive user documentation
+    - identifier: user-guide
+      name: User Guide
       weight: 2
       pageRef: /user-guide
       
-    # Core Business Modules
-    - identifier: core-modules
-      name: "📦 Core Modules"
+    # 3. Modules - Complete list of all modules
+    - identifier: modules
+      name: Modules
       weight: 3
       hasChildren: true
+      pageRef: /modules
       
-    - identifier: core
-      name: Core Module (Foundation)
-      parent: core-modules
+    # Core Module
+    - identifier: core-module
+      name: Core Module
+      parent: modules
       pageRef: /modules/core
       weight: 10
       
-    - identifier: finance
-      name: Financial Accounting
-      parent: core-modules
-      pageRef: /modules/financial-accounting
-      weight: 20
-      
-    - identifier: inventory
-      name: Inventory & Warehouse
-      parent: core-modules
-      pageRef: /modules/inventory
-      weight: 30
-      
-    - identifier: sales
-      name: Sales & CRM
-      parent: core-modules
-      pageRef: /modules/crm
-      weight: 40
-      
-    - identifier: purchasing
-      name: Purchasing
-      parent: core-modules
-      pageRef: /modules/procurement
-      weight: 50
-      
-    # Specialized Modules
-    - identifier: specialized-modules
-      name: "🎯 Specialized Modules"
-      weight: 3.5
-      hasChildren: true
-      
+    # Point of Sales Module
     - identifier: pos-module
-      name: Point of Sales
-      parent: specialized-modules
+      name: Point of Sales Module
+      parent: modules
       pageRef: /modules/pos
-      weight: 10
-      
-    - identifier: cp-commerce
-      name: CP-Commerce
-      parent: specialized-modules
-      pageRef: /modules/cp-commerce
       weight: 20
       
-    - identifier: e-invoice
-      name: E-Invoice
-      parent: specialized-modules
-      pageRef: /modules/e-invoice
+    # CP-Commerce Module
+    - identifier: cp-commerce-module
+      name: CP-Commerce Module
+      parent: modules
+      pageRef: /modules/cp-commerce
       weight: 30
       
-    - identifier: accounting
-      name: Accounting (Advanced)
-      parent: specialized-modules
-      pageRef: /modules/accounting
+    # E-Invoice Module
+    - identifier: e-invoice-module
+      name: E-Invoice Module
+      parent: modules
+      pageRef: /modules/e-invoice
       weight: 40
       
-    - identifier: digital-crm
-      name: Digital CRM
-      parent: specialized-modules
-      pageRef: /modules/digital-crm
+    # Accounting Module
+    - identifier: accounting-module
+      name: Accounting Module
+      parent: modules
+      pageRef: /modules/accounting
       weight: 50
       
-    - identifier: it-ce
-      name: IT & CE
-      parent: specialized-modules
-      pageRef: /modules/it-ce
+    # ERP Module
+    - identifier: erp-module
+      name: ERP Module
+      parent: modules
+      pageRef: /modules/erp
       weight: 60
       
-    - identifier: service-industry
-      name: Service Industry
-      parent: specialized-modules
-      pageRef: /modules/service-industry
+    # IT & CE Module
+    - identifier: it-ce-module
+      name: IT & CE Module
+      parent: modules
+      pageRef: /modules/it-ce
       weight: 70
       
-    - identifier: drop-shipping
-      name: Drop Shipping
-      parent: specialized-modules
-      pageRef: /modules/drop-shipping
+    # Digital CRM Module
+    - identifier: digital-crm-module
+      name: Digital CRM Module
+      parent: modules
+      pageRef: /modules/digital-crm
       weight: 80
       
-    # Enterprise Solutions
-    - identifier: enterprise-modules
-      name: "🏢 Enterprise Solutions"
-      weight: 3.7
-      hasChildren: true
+    # Service Industry Module
+    - identifier: service-industry-module
+      name: Service Industry Module
+      parent: modules
+      pageRef: /modules/service-industry
+      weight: 90
       
-    - identifier: erp-module
-      name: ERP Module (Complete)
-      parent: enterprise-modules
-      pageRef: /modules/erp
-      weight: 10
-      
-    - identifier: manufacturing
-      name: Manufacturing
-      parent: enterprise-modules
-      pageRef: /modules/manufacturing
-      weight: 20
-      
-    - identifier: hr
-      name: Human Resources
-      parent: enterprise-modules
-      pageRef: /modules/hr
-      weight: 30
-      
-    - identifier: ucc
-      name: Unified Contact Center
-      parent: enterprise-modules
-      pageRef: /applications/unified-contact-center
-      weight: 40
-      
-    # Platform Features
-    - identifier: platform
-      name: "⚙️ Platform"
-      weight: 4
-      hasChildren: true
-      
-    - identifier: applets-menu
-      name: Applet Ecosystem
-      parent: platform
-      pageRef: /applets
-      weight: 10
-      
-    - identifier: einvoice-menu
-      name: E-Invoice & PEPPOL
-      parent: platform
-      pageRef: /e-invoice-peppol
-      weight: 20
-      
-    - identifier: ai-menu
-      name: AI Intelligence
-      parent: platform
-      pageRef: /ai-intelligence
-      weight: 30
-      
-    - identifier: ecommerce-menu
-      name: E-Commerce Integration
-      parent: platform
-      pageRef: /ecommerce
-      weight: 40
-      
-    # Industries
-    - identifier: industries
-      name: "🏭 Industries"
-      weight: 5
-      pageRef: /industry-solutions
-      
-    # Developers
-    - identifier: developers
-      name: "👩‍💻 Developers"
-      weight: 6
-      pageRef: /developers
-    
-    - identifier: search
-      name: 🔍 Search
-      pageRef: /search
-      weight: 50
-      
-    - identifier: github
-      name: GitHub
+    # Drop Shipping Module
+    - identifier: drop-shipping-module
+      name: Drop Shipping Module
+      parent: modules
+      pageRef: /modules/drop-shipping
       weight: 100
-      url: https://github.com/bigledger
-      params:
-        external: true
+      
+    # 4. Applets - Complete list of applets with data sheets
+    - identifier: applets
+      name: Applets
+      weight: 4
+      pageRef: /applets
+      
+    # 5. Developers - All developer resources
+    - identifier: developers
+      name: Developers
+      weight: 5
+      pageRef: /developers
+      
+    # 6. Search - Keep existing search functionality
+    - identifier: search
+      name: Search
+      weight: 6
+      pageRef: /search
 
 outputs:
   home:

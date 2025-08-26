@@ -2,221 +2,311 @@
 bookCollapseSection: true
 cascade:
   type: docs
-description: Welcome to the BigLedger Developer Platform.
+description: Developer Platform for BigLedger - Build integrations, custom applets, and extend the platform with our comprehensive APIs and tools.
 tags:
-- user-guide
+- developer-platform
+- apis
+- integrations
+- custom-development
 title: Developer Platform
 weight: 25
 ---
 
-Welcome to the BigLedger Developer Platform. Build powerful accounting and business management integrations with our comprehensive RESTful APIs.
+# BigLedger Developer Platform
+
+Build powerful accounting and business management solutions with BigLedger's comprehensive developer platform. Whether you're integrating existing systems, building custom applets, or extending the platform, we have the tools and resources for your development needs.
 
 {{< callout type="info" >}}
-**All applets in BigLedger are built with Angular and can be automated via RESTful API calls.** Everything you see in the BigLedger interface can be programmatically controlled through our APIs.
+**Angular-First Architecture**: All BigLedger applets are built with Angular and can be automated via RESTful API calls. Everything you see in the BigLedger interface can be programmatically controlled through our APIs.
 {{< /callout >}}
 
-## Quick Start
+## Choose Your Developer Path
 
-Get up and running with BigLedger APIs in minutes:
+Select the path that best matches your development goals and requirements:
+
+{{< cards >}}
+{{< card link="#integration-developers" title="Integration Developers" icon="link" subtitle="Connect BigLedger with external systems using our RESTful APIs and SDKs." >}}
+
+{{< card link="#applet-developers" title="Applet Developers" icon="cube" subtitle="Build custom Angular applets that integrate seamlessly with the BigLedger platform." >}}
+
+{{< card link="#architecture-teams" title="Architecture Teams" icon="office-building" subtitle="Understand BigLedger's system architecture and design enterprise-grade solutions." >}}
+
+{{< card link="#automation-specialists" title="Automation Specialists" icon="cog" subtitle="Create sophisticated workflows and automation using webhooks and batch operations." >}}
+
+{{< card link="#api-consumers" title="API Consumers" icon="code" subtitle="Use our comprehensive REST API endpoints for data access and manipulation." >}}
+
+{{< card link="#platform-developers" title="Platform Developers" icon="server" subtitle="Extend BigLedger's core functionality and build platform-level integrations." >}}
+{{< /cards >}}
+
+---
+
+## Integration Developers {#integration-developers}
+
+**Perfect for:** System integrators, SaaS builders, and developers connecting BigLedger with third-party systems.
+
+### What You'll Build
+- **E-commerce Integrations**: Connect Shopify, WooCommerce, or custom stores
+- **ERP Synchronization**: Sync with existing business systems
+- **Payment Gateway Connections**: Integrate with Stripe, PayPal, local banks
+- **Marketplace Integrations**: Connect with Amazon, Lazada, and other platforms
+
+### Get Started Quickly
+{{< cards >}}
+{{< card link="./getting-started" title="Quick Start Guide" icon="play" subtitle="From API key to first integration in under 5 minutes" >}}
+
+{{< card link="./authentication" title="Authentication" icon="key" subtitle="OAuth 2.0, API keys, and security best practices" >}}
+
+{{< card link="./sdks" title="SDKs & Libraries" icon="code" subtitle="Official SDKs for JavaScript, Python, PHP, Java, .NET, Go" >}}
+
+{{< card link="./tutorials" title="Integration Tutorials" icon="academic-cap" subtitle="Step-by-step guides for common integration scenarios" >}}
+{{< /cards >}}
+
+### Core APIs for Integration
+{{< cards >}}
+{{< card link="./api-reference/sales" title="Sales & CRM APIs" icon="user-group" subtitle="Customer management, sales orders, quotes, and CRM operations" >}}
+
+{{< card link="./api-reference/accounting" title="Accounting APIs" icon="chart-bar" subtitle="Complete accounting operations and financial data sync" >}}
+
+{{< card link="./api-reference/einvoice" title="E-Invoice APIs" icon="document-text" subtitle="PEPPOL and MyInvois compliance automation" >}}
+
+{{< card link="./api-reference/integrations" title="Integration APIs" icon="link" subtitle="Third-party connectors and data synchronization" >}}
+{{< /cards >}}
+
+---
+
+## Applet Developers {#applet-developers}
+
+**Perfect for:** Angular developers, ISVs, and teams building industry-specific solutions.
+
+### What You'll Build
+- **Industry-Specific Modules**: Healthcare, construction, professional services
+- **Custom Workflows**: Approval processes, specialized reporting
+- **Extended Functionality**: Custom fields, calculations, business rules
+- **White-Label Solutions**: Branded applets for your clients
+
+### Development Resources
+{{< cards >}}
+{{< card link="./applet-development" title="Applet Development Guide" icon="cube" subtitle="Complete guide to building custom Angular applets" >}}
+
+{{< card link="./applet-sdk" title="Applet SDK" icon="cube" subtitle="Framework and components for rapid applet development" >}}
+
+{{< card link="./applet-examples" title="Example Applets" icon="document-duplicate" subtitle="Source code and patterns for common applet types" >}}
+
+{{< card link="./applet-deployment" title="Deployment Guide" icon="cloud-upload" subtitle="Package, test, and deploy your custom applets" >}}
+{{< /cards >}}
+
+---
+
+## Architecture Teams {#architecture-teams}
+
+**Perfect for:** Enterprise architects, technical leads, and solution designers.
+
+### What You'll Learn
+- **System Architecture**: How BigLedger's modular architecture works
+- **Data Models**: Complete entity relationship diagrams and data flows
+- **Scalability Patterns**: Multi-tenant, high-availability designs
+- **Security Architecture**: Enterprise security and compliance frameworks
+
+### Architecture Documentation
+{{< cards >}}
+{{< card link="./architecture/overview" title="System Architecture" icon="office-building" subtitle="Complete overview of BigLedger's architecture" >}}
+
+{{< card link="./architecture/data-models" title="Data Models" icon="table" subtitle="Entity relationships and database schema" >}}
+
+{{< card link="./architecture/security" title="Security Framework" icon="shield-check" subtitle="Enterprise security and compliance architecture" >}}
+
+{{< card link="./architecture/scalability" title="Scalability Patterns" icon="trending-up" subtitle="Design patterns for enterprise-scale deployments" >}}
+{{< /cards >}}
+
+---
+
+## Automation Specialists {#automation-specialists}
+
+**Perfect for:** DevOps engineers, process automation experts, and workflow designers.
+
+### What You'll Build
+- **Event-Driven Workflows**: Automate business processes with webhooks
+- **Bulk Data Processing**: Handle large-scale data imports and exports
+- **Scheduled Operations**: Automated reports, backups, and maintenance
+- **Business Rule Automation**: Complex approval workflows and notifications
+
+### Automation Tools
+{{< cards >}}
+{{< card link="./webhooks" title="Webhooks" icon="bell" subtitle="Real-time event notifications and workflow triggers" >}}
+
+{{< card link="./api-reference/batch" title="Batch Operations" icon="archive" subtitle="High-volume data processing and bulk operations" >}}
+
+{{< card link="./automation-workflows" title="Workflow Automation" icon="cog" subtitle="Design and implement automated business processes" >}}
+
+{{< card link="./scheduling" title="Scheduled Tasks" icon="clock" subtitle="Automated reporting and maintenance operations" >}}
+{{< /cards >}}
+
+---
+
+## API Consumers {#api-consumers}
+
+**Perfect for:** Developers who need direct API access for data retrieval and manipulation.
+
+### What You'll Access
+- **Complete CRUD Operations**: Full data access across all BigLedger entities
+- **Real-Time Data**: Live inventory, financial data, and business metrics
+- **Advanced Queries**: Filtering, sorting, and complex data relationships
+- **Bulk Operations**: Efficient handling of large datasets
+
+### API Reference
+{{< cards >}}
+{{< card link="./api-reference/accounting" title="Accounting APIs" icon="chart-bar" subtitle="Complete accounting operations and financial reporting" >}}
+
+{{< card link="./api-reference/inventory" title="Inventory APIs" icon="cube" subtitle="Stock management, transfers, and real-time tracking" >}}
+
+{{< card link="./api-reference/sales" title="Sales & CRM APIs" icon="user-group" subtitle="Customer management and sales operations" >}}
+
+{{< card link="./api-reference/reports" title="Reporting APIs" icon="chart-bar" subtitle="Generate reports, analytics, and business intelligence" >}}
+{{< /cards >}}
+
+---
+
+## Platform Developers {#platform-developers}
+
+**Perfect for:** Platform engineers, infrastructure teams, and enterprise software architects.
+
+### What You'll Build
+- **Platform Extensions**: Core functionality enhancements
+- **Multi-Tenant Solutions**: Enterprise-grade multi-company systems
+- **Infrastructure Integrations**: Cloud services, monitoring, and deployment
+- **Custom Authentication**: SSO, LDAP, and enterprise identity providers
+
+### Platform Resources
+{{< cards >}}
+{{< card link="./platform-extensions" title="Platform Extensions" icon="server" subtitle="Extend core BigLedger functionality" >}}
+
+{{< card link="./multi-tenant" title="Multi-Tenant Architecture" icon="office-building" subtitle="Design multi-company and enterprise solutions" >}}
+
+{{< card link="./infrastructure" title="Infrastructure APIs" icon="server" subtitle="Deployment, monitoring, and infrastructure management" >}}
+
+{{< card link="./enterprise-auth" title="Enterprise Authentication" icon="key" subtitle="SSO, LDAP, and enterprise identity integration" >}}
+{{< /cards >}}
+
+---
+
+## Quick Start - All Developers
+
+Get started with BigLedger development in minutes:
 
 {{< steps >}}
 
+### Choose Your Path
+Select your developer category above to access tailored resources and guides.
+
 ### Get API Credentials
-Create a developer account and generate your API keys from the BigLedger Developer Console.
+Create a developer account and generate API keys from the BigLedger Developer Console.
 
-### Make Your First API Call
-```bash
-curl -X GET "https://api.bigledger.com/v1/accounts" \
-  -H "Authorization: Bearer YOUR_API_KEY" \
-  -H "Content-Type: application/json"
-```
+### Explore the Documentation
+Browse category-specific documentation, tutorials, and examples.
 
-### Explore the API Reference
-Browse our comprehensive API documentation with interactive examples.
-
-### Build Your Integration
-Use our SDKs and code examples to build production-ready integrations.
+### Start Building
+Use our SDKs, APIs, and development tools to create your solution.
 
 {{< /steps >}}
 
-## Core API Modules
+## Common Developer Resources
 
-BigLedger's RESTful APIs are organized into logical modules that mirror our Angular applets:
-
-{{< cards >}}
-{{< card link="./api-reference/accounting" title="Accounting APIs" icon="chart-bar" subtitle="Complete accounting operations including accounts, journals, and financial reporting." >}}
-
-{{< card link="./api-reference/einvoice" title="E-Invoice APIs" icon="document-text" subtitle="PEPPOL and MyInvois compliance with automated invoice submission and validation." >}}
-
-{{< card link="./api-reference/inventory" title="Inventory APIs" icon="cube" subtitle="Stock management, transfers, adjustments, and real-time inventory tracking." >}}
-
-{{< card link="./api-reference/sales" title="Sales & CRM APIs" icon="user-group" subtitle="Customer management, sales orders, quotes, and CRM operations." >}}
-
-{{< card link="./api-reference/pos" title="POS APIs" icon="shopping-cart" subtitle="Point-of-sale transactions, session management, and retail operations." >}}
-
-{{< card link="./api-reference/reports" title="Reporting APIs" icon="chart-bar" subtitle="Generate financial reports, analytics, and business intelligence data." >}}
-{{< /cards >}}
-
-## Developer Resources
+Essential resources used across all developer categories:
 
 {{< cards >}}
-{{< card link="./getting-started" title="Getting Started" icon="play" subtitle="Complete guide to integrating with BigLedger APIs including authentication and first API calls." >}}
+{{< card link="./getting-started" title="Getting Started" icon="play" subtitle="Universal quick start guide for all BigLedger APIs" >}}
 
-{{< card link="./authentication" title="Authentication" icon="key" subtitle="OAuth 2.0 flows, API key management, and security best practices." >}}
+{{< card link="./authentication" title="Authentication" icon="key" subtitle="OAuth 2.0, API keys, and security best practices" >}}
 
-{{< card link="./sdks" title="SDKs & Libraries" icon="code" subtitle="Official SDKs for JavaScript, Python, PHP, Java, .NET, and more." >}}
+{{< card link="./api-reference" title="API Reference" icon="book-open" subtitle="Complete REST API documentation with examples" >}}
 
-{{< card link="./webhooks" title="Webhooks" icon="bell" subtitle="Real-time notifications for events like invoice creation, payment receipt, and stock changes." >}}
+{{< card link="./sdks" title="SDKs & Libraries" icon="code" subtitle="Official SDKs for JavaScript, Python, PHP, Java, .NET, Go" >}}
 
-{{< card link="./examples" title="Code Examples" icon="document-duplicate" subtitle="Production-ready code examples and integration patterns." >}}
+{{< card link="./webhooks" title="Webhooks" icon="bell" subtitle="Real-time event notifications and automation triggers" >}}
 
-{{< card link="./migration" title="Migration Guides" icon="arrow-right" subtitle="Migrate from QuickBooks, Xero, Sage, and other accounting platforms." >}}
+{{< card link="./tutorials" title="Tutorials & Guides" icon="academic-cap" subtitle="Step-by-step tutorials for common scenarios" >}}
 {{< /cards >}}
 
-## What Makes BigLedger Different
+## What Makes BigLedger Developer-Friendly
 
 ### Angular-First Architecture
-Since all BigLedger applets are built with Angular, you get:
-- **Complete API Coverage**: Every feature in the UI has a corresponding API endpoint
-- **Consistent Data Models**: Angular TypeScript interfaces ensure data consistency
-- **Real-time Updates**: WebSocket connections for live data synchronization
-- **Component-Based Integration**: Embed BigLedger Angular components directly in your app
+All BigLedger applets are built with Angular, providing:
+- **Complete API Coverage**: Every UI feature has a corresponding API endpoint
+- **Type Safety**: TypeScript interfaces ensure data consistency across all platforms
+- **Real-time Synchronization**: WebSocket connections for live data updates
+- **Component Reusability**: Embed BigLedger Angular components in your applications
 
-### Industry-Leading Compliance
-- **E-Invoice Ready**: Built-in PEPPOL and MyInvois compliance
-- **Multi-Currency**: Full support for global accounting standards
+### Enterprise-Ready Foundation
+Built for serious business applications:
+- **Industry Compliance**: PEPPOL, MyInvois, SOX, and international accounting standards
+- **Multi-Tenant Architecture**: Secure, scalable multi-company support
 - **Audit Trail**: Complete transaction history and compliance reporting
-- **Security**: Enterprise-grade security with SOC 2 Type II compliance
+- **Enterprise Security**: SOC 2 Type II compliance with advanced security features
 
-### Accounting-Specific Features
-- **Double-Entry Accounting**: Automatic journal entries and account balancing
-- **Multi-Company**: Manage multiple entities from a single integration
-- **Financial Reporting**: Pre-built reports for Balance Sheet, P&L, Trial Balance
-- **Chart of Accounts**: Flexible account hierarchies and classification
+### Developer Experience
+Designed with developers in mind:
+- **Consistent APIs**: RESTful design with predictable patterns
+- **Comprehensive SDKs**: First-class support for popular languages
+- **Interactive Documentation**: Try APIs directly in the documentation
+- **Real-time Webhooks**: Event-driven architecture for responsive integrations
+- **Robust Error Handling**: Detailed error messages and debugging information
 
-## API Design Principles
+## Quick Example
 
-Our APIs follow RESTful design principles with:
-
-- **Predictable URLs**: `/api/v1/resource` and `/api/v1/resource/{id}`
-- **HTTP Methods**: GET (read), POST (create), PUT (update), DELETE (remove)
-- **JSON Format**: All requests and responses use JSON
-- **Error Codes**: Standard HTTP status codes with detailed error messages
-- **Pagination**: Cursor-based pagination for large datasets
-- **Filtering**: Query parameters for searching and filtering
-- **Rate Limiting**: Fair usage with 1000 requests per hour per API key
-
-## Sample Integration
-
-Here's a complete example of creating a sales invoice:
+Here's how easy it is to create an invoice using our TypeScript SDK:
 
 ```typescript
-// TypeScript/Angular Integration
 import { BigLedgerClient } from '@bigledger/sdk';
 
 const client = new BigLedgerClient({
-  apiKey: 'your-api-key',
-  baseUrl: 'https://api.bigledger.com/v1'
+  apiKey: process.env.BIGLEDGER_API_KEY,
+  companyId: process.env.BIGLEDGER_COMPANY_ID
 });
 
-// Create a customer
+// Create customer and invoice in one flow
 const customer = await client.customers.create({
   name: 'Acme Corporation',
-  email: 'billing@acme.com',
-  address: {
-    street: '123 Main St',
-    city: 'Kuala Lumpur',
-    country: 'MY'
-  }
+  email: 'billing@acme.com'
 });
 
-// Create an invoice
 const invoice = await client.invoices.create({
   customerId: customer.id,
-  invoiceDate: new Date(),
-  dueDate: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000), // 30 days
-  items: [
-    {
-      description: 'Professional Services',
-      quantity: 10,
-      unitPrice: 100.00,
-      taxCode: 'SST'
-    }
-  ],
-  notes: 'Thank you for your business!'
+  items: [{
+    description: 'Professional Services',
+    quantity: 10,
+    unitPrice: 100.00,
+    taxCode: 'SST'
+  }]
 });
 
-// Submit for e-invoice compliance
-const einvoice = await client.einvoice.submit({
-  invoiceId: invoice.id,
-  format: 'PEPPOL_UBL'
-});
-
-console.log(`Invoice ${invoice.number} created and submitted as e-invoice`);
+console.log(`Invoice ${invoice.invoiceNumber} created!`);
 ```
 
-## Rate Limits & Quotas
+## Developer Tools & Resources
 
-{{< callout type="warning" >}}
-**Default Rate Limits**
-- 1000 requests per hour per API key
-- 10 requests per second burst limit
-- Bulk operations have separate limits
+Access everything you need to build with BigLedger:
 
-Enterprise plans include higher limits and dedicated infrastructure.
-{{< /callout >}}
+{{< cards >}}
+{{< card link="https://developers.bigledger.com/console" title="Developer Console" icon="cog" subtitle="Manage API keys, monitor usage, and view analytics" >}}
+
+{{< card link="https://developers.bigledger.com/explorer" title="API Explorer" icon="cursor-click" subtitle="Interactive API testing with live requests and code generation" >}}
+
+{{< card link="https://developers.bigledger.com/postman" title="Postman Collection" icon="download" subtitle="Ready-to-use collection with all endpoints pre-configured" >}}
+
+{{< card link="https://api.bigledger.com/v1/openapi.yaml" title="OpenAPI Spec" icon="document-text" subtitle="OpenAPI/Swagger specification for code generation" >}}
+{{< /cards >}}
 
 ## Support & Community
+
+Get help and connect with other developers:
 
 - **Developer Support**: [developers@bigledger.com](mailto:developers@bigledger.com)
 - **Community Forum**: [community.bigledger.com](https://community.bigledger.com)
 - **Status Page**: [status.bigledger.com](https://status.bigledger.com)
 - **GitHub**: [github.com/bigledger](https://github.com/bigledger)
 
-## Developer Resources
+{{< callout type="info" >}}
+**Rate Limits**: 1,000 requests/hour per API key with burst support. Enterprise plans include higher limits and dedicated infrastructure.
+{{< /callout >}}
 
-### 📚 Documentation & Guides
-
-{{< cards >}}
-{{< card link="./getting-started" title="Getting Started" icon="play" subtitle="Complete setup guide from authentication to your first API call in under 5 minutes." >}}
-
-{{< card link="./authentication" title="Authentication" icon="key" subtitle="OAuth 2.0, API keys, security best practices, and access management." >}}
-
-{{< card link="./tutorials" title="Tutorials & Guides" icon="academic-cap" subtitle="Step-by-step tutorials covering e-commerce, automation, and migration scenarios." >}}
-
-{{< card link="./sdks" title="SDKs & Libraries" icon="code" subtitle="Official SDKs for JavaScript, Python, PHP, Java, .NET, Go with framework integrations." >}}
-{{< /cards >}}
-
-### 🔧 API Documentation
-
-{{< cards >}}
-{{< card link="./api-reference" title="API Reference" icon="book-open" subtitle="Complete REST API documentation with interactive examples and endpoint details." >}}
-
-{{< card link="./webhooks" title="Webhooks" icon="bell" subtitle="Real-time event notifications with comprehensive event types and security features." >}}
-
-{{< card link="./api-reference/batch" title="Batch Operations" icon="archive" subtitle="High-volume data processing with bulk operations and error handling." >}}
-
-{{< card link="./api-reference/integrations" title="Integration APIs" icon="link" subtitle="Third-party connectors for Shopify, Amazon, QuickBooks, and custom systems." >}}
-{{< /cards >}}
-
-### 🛠️ Developer Tools
-
-{{< cards >}}
-{{< card link="https://developers.bigledger.com/console" title="Developer Console" icon="cog" subtitle="Manage API keys, monitor usage, test endpoints, and view analytics." >}}
-
-{{< card link="https://developers.bigledger.com/explorer" title="API Explorer" icon="cursor-click" subtitle="Interactive API testing with live requests, code generation, and response analysis." >}}
-
-{{< card link="https://developers.bigledger.com/postman" title="Postman Collection" icon="download" subtitle="Ready-to-use Postman collection with authentication and all endpoints configured." >}}
-
-{{< card link="https://api.bigledger.com/v1/openapi.yaml" title="OpenAPI Spec" icon="document-text" subtitle="Download OpenAPI/Swagger specification for code generation and tooling." >}}
-{{< /cards >}}
-
-## Ready to Get Started?
-
-{{< cards >}}
-{{< card link="./getting-started" title="Start Building Now" icon="arrow-circle-right" subtitle="Set up your first integration in under 5 minutes with our quickstart guide." >}}
-
-{{< card link="./tutorials" title="Follow Tutorials" icon="academic-cap" subtitle="Learn through hands-on tutorials covering real-world integration scenarios." >}}
-
-{{< card link="https://developers.bigledger.com/console" title="Developer Console" icon="adjustments" subtitle="Access your API keys, test endpoints, and monitor your integration usage." >}}
-{{< /cards >}}
+Ready to start building? Choose your developer path above and dive into the documentation tailored for your specific needs.

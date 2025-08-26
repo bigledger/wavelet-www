@@ -1,0 +1,308 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Catalog-Management</title><link>https://wiki.bigledger.com/tags/catalog-management/</link><description>Recent content in Catalog-Management on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/catalog-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Item Maintenance &amp; Catalog Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/</guid><description>
+&lt;p>Master the complete lifecycle of item management in BigLedger, from initial creation to ongoing maintenance, ensuring your product catalog remains accurate, organized, and optimized for all business operations.&lt;/p>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Item maintenance is crucial for effective business operations. This comprehensive guide covers all aspects of managing your product and service catalog, including detailed configurations, categorization, pricing, and integration with various business modules.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Item Management Interface&lt;span class="hx:absolute hx:-mt-20" id="item-management-interface">&lt;/span>
+&lt;a href="#item-management-interface" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Accessing Item Maintenance&lt;span class="hx:absolute hx:-mt-20" id="accessing-item-maintenance">&lt;/span>
+&lt;a href="#accessing-item-maintenance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Navigate to &lt;strong>Item Management&lt;/strong> from your main menu&lt;/li>
+&lt;li>Browse your item listings using the enhanced AG-Grid interface&lt;/li>
+&lt;li>Use search and filtering options to locate specific items&lt;/li>
+&lt;li>Click on any item to enter the comprehensive editing interface&lt;/li>
+&lt;/ol>
+&lt;h3>Item Listings Overview&lt;span class="hx:absolute hx:-mt-20" id="item-listings-overview">&lt;/span>
+&lt;a href="#item-listings-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The item listings page provides:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Advanced Search&lt;/strong>: Quick search with fuzzy matching&lt;/li>
+&lt;li>&lt;strong>Filter Options&lt;/strong>: Filter by category, type, status, and more&lt;/li>
+&lt;li>&lt;strong>Bulk Operations&lt;/strong>: Multi-select for batch updates&lt;/li>
+&lt;li>&lt;strong>Export Capabilities&lt;/strong>: Generate reports and data exports&lt;/li>
+&lt;li>&lt;strong>Visual Indicators&lt;/strong>: Stock status, sync status, and activity indicators&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Comprehensive Item Editing&lt;span class="hx:absolute hx:-mt-20" id="comprehensive-item-editing">&lt;/span>
+&lt;a href="#comprehensive-item-editing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When you select an item for editing, you&amp;rsquo;ll access multiple specialized tabs for different aspects of item management:&lt;/p>
+&lt;h3>Main Details Tab&lt;span class="hx:absolute hx:-mt-20" id="main-details-tab">&lt;/span>
+&lt;a href="#main-details-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Core Information Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Item Code&lt;/strong>: View system-generated code (read-only)&lt;/li>
+&lt;li>&lt;strong>Item Name&lt;/strong>: Update product/service names&lt;/li>
+&lt;li>&lt;strong>Description&lt;/strong>: Detailed product descriptions and specifications&lt;/li>
+&lt;li>&lt;strong>Type Configuration&lt;/strong>: Modify item type (Product, Service, Bundle, Digital)&lt;/li>
+&lt;li>&lt;strong>Status Management&lt;/strong>: Active, Inactive, Discontinued options&lt;/li>
+&lt;li>&lt;strong>Unit of Measure&lt;/strong>: View base UOM (established during creation)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Business Classifications&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Tax Configuration&lt;/strong>: Assign appropriate tax codes and rates&lt;/li>
+&lt;li>&lt;strong>GL Account Mapping&lt;/strong>: Link to accounting chart of accounts&lt;/li>
+&lt;li>&lt;strong>Vendor Information&lt;/strong>: Primary and secondary supplier details&lt;/li>
+&lt;li>&lt;strong>Internal Notes&lt;/strong>: Private administrative notes and handling instructions&lt;/li>
+&lt;/ul>
+&lt;h3>Item Categories Tab&lt;span class="hx:absolute hx:-mt-20" id="item-categories-tab">&lt;/span>
+&lt;a href="#item-categories-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Organizational Structure&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Category Assignment&lt;/strong>: Place items in logical groupings&lt;/li>
+&lt;li>&lt;strong>Sub-category Management&lt;/strong>: Detailed classification for better organization&lt;/li>
+&lt;li>&lt;strong>Tag System&lt;/strong>: Flexible tagging for cross-functional organization&lt;/li>
+&lt;li>&lt;strong>Search Optimization&lt;/strong>: Keywords for improved findability&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Category Benefits&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Streamlined navigation and browsing&lt;/li>
+&lt;li>Automated reporting and analytics grouping&lt;/li>
+&lt;li>E-commerce website organization&lt;/li>
+&lt;li>Pricing scheme application by category&lt;/li>
+&lt;/ul>
+&lt;h3>Dimension Details Tab&lt;span class="hx:absolute hx:-mt-20" id="dimension-details-tab">&lt;/span>
+&lt;a href="#dimension-details-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Physical Specifications&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Weight&lt;/strong>: Item weight for shipping calculations&lt;/li>
+&lt;li>&lt;strong>Dimensions&lt;/strong>: Length, width, height for packaging and storage&lt;/li>
+&lt;li>&lt;strong>Volume&lt;/strong>: Cubic measurements for space planning&lt;/li>
+&lt;li>&lt;strong>Special Handling&lt;/strong>: Fragile, hazardous, temperature-sensitive flags&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Operational Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Storage Requirements&lt;/strong>: Temperature, humidity, special conditions&lt;/li>
+&lt;li>&lt;strong>Shelf Life&lt;/strong>: Expiration tracking for perishable items&lt;/li>
+&lt;li>&lt;strong>Batch Tracking&lt;/strong>: Enable lot number and expiration date tracking&lt;/li>
+&lt;li>&lt;strong>Serial Number&lt;/strong>: Individual item tracking requirements&lt;/li>
+&lt;/ul>
+&lt;h3>Manage Image Tab&lt;span class="hx:absolute hx:-mt-20" id="manage-image-tab">&lt;/span>
+&lt;a href="#manage-image-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Visual Asset Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Primary Image&lt;/strong>: Main product photo for listings and documents&lt;/li>
+&lt;li>&lt;strong>Additional Images&lt;/strong>: Multiple angles, details, packaging shots&lt;/li>
+&lt;li>&lt;strong>Image Optimization&lt;/strong>: Automatic resizing for different platforms&lt;/li>
+&lt;li>&lt;strong>Alt Text&lt;/strong>: Accessibility and SEO descriptions&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>E-Commerce Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Marketplace Sync&lt;/strong>: Automatic image distribution to sales channels&lt;/li>
+&lt;li>&lt;strong>Image Standards&lt;/strong>: Size and quality requirements for different platforms&lt;/li>
+&lt;li>&lt;strong>Version Control&lt;/strong>: Track image updates and changes&lt;/li>
+&lt;/ul>
+&lt;h3>Marketplace Tab&lt;span class="hx:absolute hx:-mt-20" id="marketplace-tab">&lt;/span>
+&lt;a href="#marketplace-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Multi-Channel Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Platform Settings&lt;/strong>: Configure for Shopify, Lazada, Shopee, etc.&lt;/li>
+&lt;li>&lt;strong>Channel-Specific Pricing&lt;/strong>: Different prices for different marketplaces&lt;/li>
+&lt;li>&lt;strong>Inventory Allocation&lt;/strong>: Reserve stock for specific channels&lt;/li>
+&lt;li>&lt;strong>Shipping Options&lt;/strong>: Platform-specific shipping configurations&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Sync Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>EcomSync Integration&lt;/strong>: Central synchronization hub&lt;/li>
+&lt;li>&lt;strong>Real-time Updates&lt;/strong>: Automatic stock and price synchronization&lt;/li>
+&lt;li>&lt;strong>Conflict Resolution&lt;/strong>: Handle discrepancies between platforms&lt;/li>
+&lt;li>&lt;strong>Performance Analytics&lt;/strong>: Track sales across all channels&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Advanced Item Management&lt;span class="hx:absolute hx:-mt-20" id="advanced-item-management">&lt;/span>
+&lt;a href="#advanced-item-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Create Single Tab&lt;span class="hx:absolute hx:-mt-20" id="create-single-tab">&lt;/span>
+&lt;a href="#create-single-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Individual Item Creation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Quick Add&lt;/strong>: Streamlined process for single items&lt;/li>
+&lt;li>&lt;strong>Template Usage&lt;/strong>: Apply predefined item templates&lt;/li>
+&lt;li>&lt;strong>Bulk Field Population&lt;/strong>: Copy common settings from existing items&lt;/li>
+&lt;li>&lt;strong>Validation&lt;/strong>: Real-time error checking and required field validation&lt;/li>
+&lt;/ul>
+&lt;h3>Create Group Item Tab&lt;span class="hx:absolute hx:-mt-20" id="create-group-item-tab">&lt;/span>
+&lt;a href="#create-group-item-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Bulk Item Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>CSV Import&lt;/strong>: Upload multiple items simultaneously&lt;/li>
+&lt;li>&lt;strong>Template Download&lt;/strong>: Get properly formatted import templates&lt;/li>
+&lt;li>&lt;strong>Data Validation&lt;/strong>: Pre-import checking and error reporting&lt;/li>
+&lt;li>&lt;strong>Progress Tracking&lt;/strong>: Monitor bulk operation status&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Group Operations&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Category Assignment&lt;/strong>: Apply categories to multiple items&lt;/li>
+&lt;li>&lt;strong>Pricing Updates&lt;/strong>: Bulk pricing changes across item groups&lt;/li>
+&lt;li>&lt;strong>Status Changes&lt;/strong>: Mass activation/deactivation of items&lt;/li>
+&lt;li>&lt;strong>Export Functions&lt;/strong>: Generate item lists and reports&lt;/li>
+&lt;/ul>
+&lt;h3>Update and Delete Operations&lt;span class="hx:absolute hx:-mt-20" id="update-and-delete-operations">&lt;/span>
+&lt;a href="#update-and-delete-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Item Updates&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Version Control&lt;/strong>: Track all changes with timestamps and user attribution&lt;/li>
+&lt;li>&lt;strong>Approval Workflows&lt;/strong>: Require management approval for critical changes&lt;/li>
+&lt;li>&lt;strong>Change Notifications&lt;/strong>: Alert relevant team members of modifications&lt;/li>
+&lt;li>&lt;strong>Rollback Capability&lt;/strong>: Revert to previous versions when needed&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Item Deletion&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Safety Checks&lt;/strong>: Prevent deletion of items with transaction history&lt;/li>
+&lt;li>&lt;strong>Soft Delete&lt;/strong>: Archive items instead of permanent removal&lt;/li>
+&lt;li>&lt;strong>Cascade Effects&lt;/strong>: Understanding impact on related records&lt;/li>
+&lt;li>&lt;strong>Data Cleanup&lt;/strong>: Proper handling of associated data&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Stock and Inventory Management&lt;span class="hx:absolute hx:-mt-20" id="stock-and-inventory-management">&lt;/span>
+&lt;a href="#stock-and-inventory-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Stock Availability Tab&lt;span class="hx:absolute hx:-mt-20" id="stock-availability-tab">&lt;/span>
+&lt;a href="#stock-availability-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Real-Time Inventory Tracking&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Current Stock&lt;/strong>: Live inventory levels across all locations&lt;/li>
+&lt;li>&lt;strong>Available to Sell&lt;/strong>: Stock minus reserved quantities&lt;/li>
+&lt;li>&lt;strong>Reorder Levels&lt;/strong>: Minimum stock thresholds and automatic alerts&lt;/li>
+&lt;li>&lt;strong>Lead Times&lt;/strong>: Supplier delivery schedules and planning&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Multi-Location Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Warehouse Distribution&lt;/strong>: Stock levels by location&lt;/li>
+&lt;li>&lt;strong>Transfer Tracking&lt;/strong>: Inter-location stock movements&lt;/li>
+&lt;li>&lt;strong>Location-Specific&lt;/strong>: Different stock policies for different warehouses&lt;/li>
+&lt;li>&lt;strong>Centralized Control&lt;/strong>: Master view of all inventory locations&lt;/li>
+&lt;/ul>
+&lt;h3>Stock Balance Tab&lt;span class="hx:absolute hx:-mt-20" id="stock-balance-tab">&lt;/span>
+&lt;a href="#stock-balance-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Historical Analysis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Stock Movement History&lt;/strong>: Complete audit trail of all inventory changes&lt;/li>
+&lt;li>&lt;strong>Adjustment Records&lt;/strong>: Manual stock corrections and reasons&lt;/li>
+&lt;li>&lt;strong>Valuation Methods&lt;/strong>: FIFO, LIFO, weighted average cost tracking&lt;/li>
+&lt;li>&lt;strong>Variance Analysis&lt;/strong>: Identify discrepancies and investigate causes&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Reporting and Analytics&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Stock Aging&lt;/strong>: Identify slow-moving and obsolete inventory&lt;/li>
+&lt;li>&lt;strong>Turn Rate Analysis&lt;/strong>: Inventory velocity and efficiency metrics&lt;/li>
+&lt;li>&lt;strong>Cost Analysis&lt;/strong>: Track inventory investment and carrying costs&lt;/li>
+&lt;li>&lt;strong>Forecasting Data&lt;/strong>: Historical data for demand planning&lt;/li>
+&lt;/ul>
+&lt;h3>Sales Order Tab&lt;span class="hx:absolute hx:-mt-20" id="sales-order-tab">&lt;/span>
+&lt;a href="#sales-order-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Order Management Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Pending Orders&lt;/strong>: Items on backorder and fulfillment queue&lt;/li>
+&lt;li>&lt;strong>Reserved Stock&lt;/strong>: Quantities allocated to specific orders&lt;/li>
+&lt;li>&lt;strong>Commitment Tracking&lt;/strong>: Delivery promises and customer expectations&lt;/li>
+&lt;li>&lt;strong>Priority Management&lt;/strong>: Rush orders and special handling requirements&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Customer Order History&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Sales Performance&lt;/strong>: Item-specific sales analytics&lt;/li>
+&lt;li>&lt;strong>Customer Preferences&lt;/strong>: Track which customers buy which items&lt;/li>
+&lt;li>&lt;strong>Seasonal Patterns&lt;/strong>: Identify seasonal demand fluctuations&lt;/li>
+&lt;li>&lt;strong>Profitability Analysis&lt;/strong>: Margin analysis by item and customer&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Best Practices for Item Maintenance&lt;span class="hx:absolute hx:-mt-20" id="best-practices-for-item-maintenance">&lt;/span>
+&lt;a href="#best-practices-for-item-maintenance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Regular Maintenance Schedule&lt;span class="hx:absolute hx:-mt-20" id="regular-maintenance-schedule">&lt;/span>
+&lt;a href="#regular-maintenance-schedule" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Daily Tasks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Review stock levels and reorder alerts&lt;/li>
+&lt;li>Process any pending item approvals&lt;/li>
+&lt;li>Monitor marketplace synchronization status&lt;/li>
+&lt;li>Address customer inquiries about products&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Weekly Tasks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Update item descriptions and images as needed&lt;/li>
+&lt;li>Review and clean up inactive items&lt;/li>
+&lt;li>Analyze sales performance and adjust categories&lt;/li>
+&lt;li>Verify pricing across all channels&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Monthly Tasks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Comprehensive category review and optimization&lt;/li>
+&lt;li>Bulk update operations for seasonal changes&lt;/li>
+&lt;li>Review and update vendor information&lt;/li>
+&lt;li>Performance analysis and improvement planning&lt;/li>
+&lt;/ul>
+&lt;h3>Data Quality Management&lt;span class="hx:absolute hx:-mt-20" id="data-quality-management">&lt;/span>
+&lt;a href="#data-quality-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Consistency Standards&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Establish naming conventions and stick to them&lt;/li>
+&lt;li>Maintain consistent categorization schemes&lt;/li>
+&lt;li>Use standardized descriptions and specifications&lt;/li>
+&lt;li>Regular data audits and cleanup procedures&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Integration Maintenance&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Verify e-commerce platform synchronization&lt;/li>
+&lt;li>Check accounting integration accuracy&lt;/li>
+&lt;li>Monitor inventory tracking performance&lt;/li>
+&lt;li>Test reporting and analytics functionality&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Troubleshooting Common Issues&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting-common-issues">&lt;/span>
+&lt;a href="#troubleshooting-common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Synchronization Problems&lt;span class="hx:absolute hx:-mt-20" id="synchronization-problems">&lt;/span>
+&lt;a href="#synchronization-problems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>EcomSync Issues&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Verify applet activation and configuration&lt;/li>
+&lt;li>Check network connectivity and API limits&lt;/li>
+&lt;li>Review error logs for specific failure details&lt;/li>
+&lt;li>Contact support for persistent synchronization failures&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Marketplace Integration Issues&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Confirm platform-specific requirements and limitations&lt;/li>
+&lt;li>Verify image and description compliance&lt;/li>
+&lt;li>Check pricing and inventory synchronization&lt;/li>
+&lt;li>Review platform-specific error messages&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Optimization&lt;span class="hx:absolute hx:-mt-20" id="performance-optimization">&lt;/span>
+&lt;a href="#performance-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Large Catalog Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Use pagination and filtering for better performance&lt;/li>
+&lt;li>Implement efficient search and indexing strategies&lt;/li>
+&lt;li>Regular database maintenance and optimization&lt;/li>
+&lt;li>Archive inactive items to improve system speed&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>User Experience Enhancement&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Customize views for different user roles&lt;/li>
+&lt;li>Create saved searches for frequently accessed items&lt;/li>
+&lt;li>Implement keyboard shortcuts for power users&lt;/li>
+&lt;li>Provide comprehensive user training and documentation&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Integration with Other Modules&lt;span class="hx:absolute hx:-mt-20" id="integration-with-other-modules">&lt;/span>
+&lt;a href="#integration-with-other-modules" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Accounting Integration&lt;span class="hx:absolute hx:-mt-20" id="accounting-integration">&lt;/span>
+&lt;a href="#accounting-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Chart of Accounts&lt;/strong>: Automatic GL account assignment&lt;/li>
+&lt;li>&lt;strong>Cost Tracking&lt;/strong>: Real-time cost updates and variance reporting&lt;/li>
+&lt;li>&lt;strong>Tax Compliance&lt;/strong>: Proper tax code assignment and reporting&lt;/li>
+&lt;/ul>
+&lt;h3>Sales Integration&lt;span class="hx:absolute hx:-mt-20" id="sales-integration">&lt;/span>
+&lt;a href="#sales-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>CRM Linkage&lt;/strong>: Customer preferences and purchase history&lt;/li>
+&lt;li>&lt;strong>Quote Generation&lt;/strong>: Streamlined quotation creation&lt;/li>
+&lt;li>&lt;strong>Order Processing&lt;/strong>: Seamless order-to-fulfillment workflow&lt;/li>
+&lt;/ul>
+&lt;h3>Purchasing Integration&lt;span class="hx:absolute hx:-mt-20" id="purchasing-integration">&lt;/span>
+&lt;a href="#purchasing-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Vendor Management&lt;/strong>: Supplier information and performance tracking&lt;/li>
+&lt;li>&lt;strong>Purchase Orders&lt;/strong>: Automatic PO generation based on stock levels&lt;/li>
+&lt;li>&lt;strong>Receiving&lt;/strong>: Streamlined goods receipt and inventory updates&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
+&lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item maintenance, explore these related areas:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
+&lt;/ol>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Maintenance Success&lt;/strong>: A well-maintained item catalog improves operational efficiency by 40-60% and reduces order processing errors by up to 80%.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
+&lt;/ul></description></item></channel></rss>

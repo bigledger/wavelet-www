@@ -25,21 +25,41 @@ BigLedger's modular architecture is built on applets - reusable components that 
 - **Integrated** - Seamlessly work together
 - **Independent** - Can be updated without affecting others
 
-## Applet Categories
+## Applet Resources
 
-### Core Operations
-- **Stock Take Applet** - Digital inventory counting and management
-- **Organization Applet** - Company, branch, and location management
-- **Team Maintenance** - User and team management
+### Complete Applet Reference
+- **[Complete Applet Catalog](/applets/applet-catalog/)** - Comprehensive directory of all BigLedger applets organized by module
+- **[Applet Directory](/applets/applet-directory/)** - Searchable applet marketplace and installation guide
+- **[Applet Store](/applets/applet-store/)** - Marketplace for additional applets and extensions
 
-### Business Intelligence
-- **Process Monitoring** - Track and analyze business processes
-- **Membership Admin Console** - Customer loyalty and membership programs
+### Featured Applet Categories
 
-### Integration & Automation
-- **Internal Delivery Order** - Manage internal transfers and deliveries
-- **Internal Stock Adjustment** - Handle inventory adjustments and corrections
+#### Core Module (13 Essential Applets)
+Foundation applets required by all other modules:
+- **[Tenant Admin Applet](/applets/tenant-admin-applet/)** - System administration and configuration
+- **[Chart of Accounts Applet](/applets/chart-of-account-applet/)** - Financial account structure
+- **[Organization Applet](/applets/organization-applet/)** - Company and organizational structure
+- **[Customer Maintenance Applet](/applets/customer-maintenance-applet/)** - Customer master data
+- **[Supplier Maintenance Applet](/applets/supplier-maintenance-applet/)** - Vendor master data
+- **[Employee Maintenance Applet](/applets/employee-maintenance-applet/)** - Employee records
+- **[Tax Configuration Applet](/applets/tax-configuration-applet/)** - Tax setup and compliance
+- **[View All Core Applets →](/applets/applet-catalog/#core-module-applets-13-applets)**
 
-## Installation and Management
+#### Inventory & Operations
+- **[Stock Take Applet](/applets/stock-take-applet/)** - Digital inventory counting and management
+- **[Stock Balance Applet](/applets/stock-balance-applet/)** - Real-time inventory tracking
+- **[Internal Stock Adjustment Applet](/applets/internal-stock-adjustment-applet/)** - Inventory corrections
+- **[Process Monitoring Applet](/applets/process-monitoring-applet/)** - Business process tracking
 
-Learn how to install, configure, and manage applets through the Applet Store and directory system.
+#### Customer Engagement
+- **[Team Maintenance Applet](/applets/team-maintenance-applet/)** - Team structure and management
+- **[Membership Admin Console Applet](/applets/membership-admin-console-applet/)** - Customer loyalty programs
+- **[Unified Contact Center Applet](/applets/unified-contact-center-ucc-applet/)** - Customer service platform
+
+#### Pricing & Commerce
+- **[Pricebook Applet](/applets/pricebook-applet/)** - Advanced pricing management
+- **[EcomSync Related Applets](/applets/90-ecomsync-related-applets/)** - E-commerce synchronization
+
+## Module Integration
+
+Applets are designed with a many-to-many relationship with modules:

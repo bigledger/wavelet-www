@@ -1,0 +1,109 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Advanced-Configuration</title><link>https://wiki.bigledger.com/tags/advanced-configuration/</link><description>Recent content in Advanced-Configuration on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/advanced-configuration/index.xml" rel="self" type="application/rss+xml"/><item><title>Price Set Configuration &amp; Advanced Pricing</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/price-set/</guid><description>
+&lt;h1>Price Set Configuration &amp;amp; Advanced Pricing&lt;/h1>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;p>&lt;strong>🚧 Content Under Development&lt;/strong>: This page contains basic functionality notes and requires comprehensive documentation. Critical areas needing development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Rule-Based Pricing Logic&lt;/strong>: Detailed explanation of pricing rules and conditions&lt;/li>
+&lt;li>&lt;strong>Multi-Level Pricing&lt;/strong>: Complex pricing hierarchies and inheritance&lt;/li>
+&lt;li>&lt;strong>Business Rule Examples&lt;/strong>: Real-world scenarios and use cases&lt;/li>
+&lt;li>&lt;strong>Integration Workflows&lt;/strong>: How price sets work with other pricing components&lt;/li>
+&lt;li>&lt;strong>Performance Optimization&lt;/strong>: Managing large-scale pricing configurations&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price sets in BigLedger provide advanced pricing configuration capabilities that go beyond basic pricing schemes. They enable complex, rule-based pricing logic that can adapt to various business conditions, customer segments, and operational scenarios.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Foundation Required&lt;/strong>: Price sets work in conjunction with &lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Books&lt;/a> and &lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>. Ensure you understand these concepts before configuring price sets.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>TODO: Comprehensive Documentation Needed&lt;span class="hx:absolute hx:-mt-20" id="todo-comprehensive-documentation-needed">&lt;/span>
+&lt;a href="#todo-comprehensive-documentation-needed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Priority 1: Core Concepts&lt;span class="hx:absolute hx:-mt-20" id="priority-1-core-concepts">&lt;/span>
+&lt;a href="#priority-1-core-concepts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Price Set Architecture&lt;/strong>: How price sets fit into BigLedger&amp;rsquo;s pricing ecosystem&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Rule Logic System&lt;/strong>: Understanding AND/OR logic, negation, and complex conditions&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Priority Management&lt;/strong>: How multiple price sets interact and override each other&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Performance Impact&lt;/strong>: Optimizing price set configurations for large catalogs&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 2: Rule Configuration&lt;span class="hx:absolute hx:-mt-20" id="priority-2-rule-configuration">&lt;/span>
+&lt;a href="#priority-2-rule-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Document Header Rules&lt;/strong>: Customer, date, and entity-based pricing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Line Item Rules&lt;/strong>: Product-specific and category-based pricing logic&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Treatment Options&lt;/strong>: Discount, markup, fixed price, and percentage adjustments&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Validation Systems&lt;/strong>: Ensuring pricing rules don&amp;rsquo;t conflict&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 3: Advanced Implementation&lt;span class="hx:absolute hx:-mt-20" id="priority-3-advanced-implementation">&lt;/span>
+&lt;a href="#priority-3-advanced-implementation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Complex Scenarios&lt;/strong>: Multi-tier distributor pricing, seasonal adjustments&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Integration Examples&lt;/strong>: POS, e-commerce, and B2B portal configurations&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Troubleshooting Guide&lt;/strong>: Common issues and resolution strategies&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Best Practices&lt;/strong>: Performance optimization and maintenance strategies&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Current Basic Functionality&lt;span class="hx:absolute hx:-mt-20" id="current-basic-functionality">&lt;/span>
+&lt;a href="#current-basic-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Creating Price Sets&lt;span class="hx:absolute hx:-mt-20" id="creating-price-sets">&lt;/span>
+&lt;a href="#creating-price-sets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Required Information&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Price Book Name&lt;/strong>: Select from existing price books (must be created first)&lt;/li>
+&lt;li>&lt;strong>Price Set Code&lt;/strong>: System-generated, cannot be modified&lt;/li>
+&lt;li>&lt;strong>Price Set Name&lt;/strong>: Descriptive identifier&lt;/li>
+&lt;li>&lt;strong>Priority Level&lt;/strong>: Determines rule application order&lt;/li>
+&lt;/ul>
+&lt;h3>Basic Configuration Tabs&lt;span class="hx:absolute hx:-mt-20" id="basic-configuration-tabs">&lt;/span>
+&lt;a href="#basic-configuration-tabs" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Details Tab&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Edit price set name and priority level&lt;/li>
+&lt;li>Manage active/inactive status&lt;/li>
+&lt;li>Delete unused price sets&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Rules - Document Header&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Configure customer-level pricing rules&lt;/li>
+&lt;li>Set date range validations&lt;/li>
+&lt;li>Apply entity-specific pricing&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Rules - Multi Line &amp;amp; Single Line&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Item-specific pricing conditions&lt;/li>
+&lt;li>Category-based rule application&lt;/li>
+&lt;li>Regular expression matching for complex criteria&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Treatment Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Define pricing adjustments (discounts, markups)&lt;/li>
+&lt;li>Set calculation methods and values&lt;/li>
+&lt;li>Configure rule application behavior&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Immediate Next Steps&lt;span class="hx:absolute hx:-mt-20" id="immediate-next-steps">&lt;/span>
+&lt;a href="#immediate-next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While comprehensive documentation is being developed:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Start Simple&lt;/strong>: Begin with basic price sets using single rules&lt;/li>
+&lt;li>&lt;strong>Test Thoroughly&lt;/strong>: Verify pricing calculations in a test environment&lt;/li>
+&lt;li>&lt;strong>Document Decisions&lt;/strong>: Keep records of your pricing logic for future reference&lt;/li>
+&lt;li>&lt;strong>Monitor Performance&lt;/strong>: Watch for any slowdowns with complex rule sets&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Explore these foundational topics while this page is under development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> - Foundation pricing template system&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Core price list management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
+&lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Immediate): Rule logic documentation and examples&lt;br>
+&lt;strong>Phase 2&lt;/strong> (Short-term): Advanced scenarios and integration guides&lt;br>
+&lt;strong>Phase 3&lt;/strong> (Medium-term): Performance optimization and troubleshooting&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Need Help Now?&lt;/strong> For immediate assistance with price set configuration, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> with specific details about your pricing requirements.&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

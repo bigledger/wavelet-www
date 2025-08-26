@@ -1,0 +1,393 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Sales</title><link>https://wiki.bigledger.com/tags/sales/</link><description>Recent content in Sales on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/sales/index.xml" rel="self" type="application/rss+xml"/><item><title>Customer Maintenance Applet</title><link>https://wiki.bigledger.com/applets/customer-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/customer-maintenance-applet/</guid><description>
+&lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
+&lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Customer Maintenance Applet is the central repository for all customer information in BigLedger, providing comprehensive customer master data management that supports sales, CRM, accounts receivable, and customer-facing operations across all modules.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Core Module Applet&lt;/strong>: This is one of the 13 essential Core Module applets, fundamental for any business with customer relationships and sales operations.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>Primary Functions&lt;span class="hx:absolute hx:-mt-20" id="primary-functions">&lt;/span>
+&lt;a href="#primary-functions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Customer Profile Management&lt;/strong> - Complete customer information repository&lt;/li>
+&lt;li>&lt;strong>Credit Management&lt;/strong> - Credit limits and payment terms&lt;/li>
+&lt;li>&lt;strong>Customer Segmentation&lt;/strong> - Classification and categorization&lt;/li>
+&lt;li>&lt;strong>Contact Management&lt;/strong> - Multi-contact customer relationships&lt;/li>
+&lt;li>&lt;strong>Financial Integration&lt;/strong> - Accounts receivable and payment tracking&lt;/li>
+&lt;/ul>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Customer Information Management&lt;span class="hx:absolute hx:-mt-20" id="customer-information-management">&lt;/span>
+&lt;a href="#customer-information-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Complete customer profiles with detailed information&lt;/li>
+&lt;li>Multiple contact persons per customer&lt;/li>
+&lt;li>Customer communication history&lt;/li>
+&lt;li>Document attachments and notes&lt;/li>
+&lt;li>Customer preferences and requirements&lt;/li>
+&lt;li>Multi-language support for international customers&lt;/li>
+&lt;/ul>
+&lt;h3>Credit and Payment Management&lt;span class="hx:absolute hx:-mt-20" id="credit-and-payment-management">&lt;/span>
+&lt;a href="#credit-and-payment-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Customer credit limits and monitoring&lt;/li>
+&lt;li>Payment terms and conditions&lt;/li>
+&lt;li>Credit history and payment behavior&lt;/li>
+&lt;li>Aging analysis and collection management&lt;/li>
+&lt;li>Credit approval workflows&lt;/li>
+&lt;li>Payment method preferences&lt;/li>
+&lt;/ul>
+&lt;h3>Customer Classification&lt;span class="hx:absolute hx:-mt-20" id="customer-classification">&lt;/span>
+&lt;a href="#customer-classification" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Customer categories and segments&lt;/li>
+&lt;li>Geographic territory assignment&lt;/li>
+&lt;li>Sales representative assignment&lt;/li>
+&lt;li>Customer priority levels&lt;/li>
+&lt;li>Industry classification&lt;/li>
+&lt;li>Customer lifecycle stage tracking&lt;/li>
+&lt;/ul>
+&lt;h3>Address and Location Management&lt;span class="hx:absolute hx:-mt-20" id="address-and-location-management">&lt;/span>
+&lt;a href="#address-and-location-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Multiple addresses per customer (billing, shipping, etc.)&lt;/li>
+&lt;li>Geographic location tracking&lt;/li>
+&lt;li>Delivery zones and preferences&lt;/li>
+&lt;li>Branch/outlet assignment&lt;/li>
+&lt;li>Service territory management&lt;/li>
+&lt;li>GPS coordinates for route optimization&lt;/li>
+&lt;/ul>
+&lt;h3>Integration and Communication&lt;span class="hx:absolute hx:-mt-20" id="integration-and-communication">&lt;/span>
+&lt;a href="#integration-and-communication" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>CRM system integration&lt;/li>
+&lt;li>Email and SMS communication&lt;/li>
+&lt;li>Social media profile linking&lt;/li>
+&lt;li>Website and e-commerce integration&lt;/li>
+&lt;li>Customer portal access&lt;/li>
+&lt;li>Marketing automation integration&lt;/li>
+&lt;/ul>
+&lt;h2>Technical Specifications&lt;span class="hx:absolute hx:-mt-20" id="technical-specifications">&lt;/span>
+&lt;a href="#technical-specifications" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>System Requirements&lt;span class="hx:absolute hx:-mt-20" id="system-requirements">&lt;/span>
+&lt;a href="#system-requirements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Minimum Access Level&lt;/strong>: Sales Administrator&lt;/li>
+&lt;li>&lt;strong>Database Dependencies&lt;/strong>: Customer master tables&lt;/li>
+&lt;li>&lt;strong>Integration Points&lt;/strong>: Sales, CRM, financial modules&lt;/li>
+&lt;li>&lt;strong>API Availability&lt;/strong>: Full CRUD operations with advanced querying&lt;/li>
+&lt;li>&lt;strong>Document Storage&lt;/strong>: Unlimited document attachments&lt;/li>
+&lt;/ul>
+&lt;h3>Customer Configuration Options&lt;span class="hx:absolute hx:-mt-20" id="customer-configuration-options">&lt;/span>
+&lt;a href="#customer-configuration-options" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Customer Code Length&lt;/strong>: 3-50 characters&lt;/li>
+&lt;li>&lt;strong>Address Entries&lt;/strong>: Up to 20 addresses per customer&lt;/li>
+&lt;li>&lt;strong>Contact Persons&lt;/strong>: Up to 50 contacts per customer&lt;/li>
+&lt;li>&lt;strong>Custom Fields&lt;/strong>: Up to 30 custom fields&lt;/li>
+&lt;li>&lt;strong>Document Attachments&lt;/strong>: Multiple file types, up to 100MB total&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Parameters&lt;span class="hx:absolute hx:-mt-20" id="performance-parameters">&lt;/span>
+&lt;a href="#performance-parameters" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Customer Capacity&lt;/strong>: Up to 1,000,000 customers&lt;/li>
+&lt;li>&lt;strong>Search Performance&lt;/strong>: &amp;lt;1 second for complex searches&lt;/li>
+&lt;li>&lt;strong>Bulk Operations&lt;/strong>: Process 5,000+ customers per batch&lt;/li>
+&lt;li>&lt;strong>Concurrent Users&lt;/strong>: 500+ simultaneous users&lt;/li>
+&lt;li>&lt;strong>Real-time Updates&lt;/strong>: Immediate synchronization across modules&lt;/li>
+&lt;/ul>
+&lt;h2>Integration Points&lt;span class="hx:absolute hx:-mt-20" id="integration-points">&lt;/span>
+&lt;a href="#integration-points" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Dependencies&lt;span class="hx:absolute hx:-mt-20" id="core-module-dependencies">&lt;/span>
+&lt;a href="#core-module-dependencies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Tax Configuration Applet&lt;/strong> - Customer tax settings&lt;/li>
+&lt;li>&lt;strong>Chart of Account Applet&lt;/strong> - Customer account mapping&lt;/li>
+&lt;li>&lt;strong>Organization Applet&lt;/strong> - Multi-branch customer assignment&lt;/li>
+&lt;li>&lt;strong>Employee Maintenance Applet&lt;/strong> - Sales representative assignment&lt;/li>
+&lt;/ul>
+&lt;h3>Module Integration&lt;span class="hx:absolute hx:-mt-20" id="module-integration">&lt;/span>
+&lt;a href="#module-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Module&lt;/th>
+&lt;th>Integration Purpose&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Sales &amp;amp; CRM&lt;/strong>&lt;/td>
+&lt;td>Complete customer relationship management&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Financial Accounting&lt;/strong>&lt;/td>
+&lt;td>Accounts receivable and collections&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>E-Commerce&lt;/strong>&lt;/td>
+&lt;td>Online customer accounts and preferences&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>POS&lt;/strong>&lt;/td>
+&lt;td>Point-of-sale customer information&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Marketing&lt;/strong>&lt;/td>
+&lt;td>Customer segmentation and campaigns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Service Management&lt;/strong>&lt;/td>
+&lt;td>Customer service history and contracts&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Logistics&lt;/strong>&lt;/td>
+&lt;td>Delivery and shipping information&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3>External Integrations&lt;span class="hx:absolute hx:-mt-20" id="external-integrations">&lt;/span>
+&lt;a href="#external-integrations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>CRM Systems&lt;/strong> - Customer relationship data synchronization&lt;/li>
+&lt;li>&lt;strong>Marketing Platforms&lt;/strong> - Campaign management and automation&lt;/li>
+&lt;li>&lt;strong>E-Commerce Platforms&lt;/strong> - Online customer account integration&lt;/li>
+&lt;li>&lt;strong>Payment Gateways&lt;/strong> - Payment method and history integration&lt;/li>
+&lt;li>&lt;strong>Logistics Providers&lt;/strong> - Shipping address validation&lt;/li>
+&lt;li>&lt;strong>Credit Agencies&lt;/strong> - Credit scoring and monitoring&lt;/li>
+&lt;/ul>
+&lt;h2>Configuration Requirements&lt;span class="hx:absolute hx:-mt-20" id="configuration-requirements">&lt;/span>
+&lt;a href="#configuration-requirements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Initial Setup Requirements&lt;span class="hx:absolute hx:-mt-20" id="initial-setup-requirements">&lt;/span>
+&lt;a href="#initial-setup-requirements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Customer Categories&lt;/strong> - Define customer classification structure&lt;/li>
+&lt;li>&lt;strong>Payment Terms&lt;/strong> - Set up standard payment conditions&lt;/li>
+&lt;li>&lt;strong>Credit Policies&lt;/strong> - Configure credit limit rules&lt;/li>
+&lt;li>&lt;strong>Sales Territories&lt;/strong> - Define geographic assignments&lt;/li>
+&lt;li>&lt;strong>Numbering System&lt;/strong> - Set up customer coding structure&lt;/li>
+&lt;/ol>
+&lt;h3>Essential Configurations&lt;span class="hx:absolute hx:-mt-20" id="essential-configurations">&lt;/span>
+&lt;a href="#essential-configurations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Customer Types&lt;/strong>: B2B, B2C, Wholesale, Retail classifications&lt;/li>
+&lt;li>&lt;strong>Payment Methods&lt;/strong>: Cash, Credit Card, Bank Transfer, Check&lt;/li>
+&lt;li>&lt;strong>Credit Terms&lt;/strong>: 30 days, 60 days, COD, Prepaid options&lt;/li>
+&lt;li>&lt;strong>Geographic Regions&lt;/strong>: Sales territories and zones&lt;/li>
+&lt;li>&lt;strong>Customer Status&lt;/strong>: Active, Inactive, Suspended, VIP&lt;/li>
+&lt;/ul>
+&lt;h3>Advanced Configurations&lt;span class="hx:absolute hx:-mt-20" id="advanced-configurations">&lt;/span>
+&lt;a href="#advanced-configurations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Customer Hierarchies&lt;/strong> - Parent-child customer relationships&lt;/li>
+&lt;li>&lt;strong>Multi-Currency Support&lt;/strong> - International customer handling&lt;/li>
+&lt;li>&lt;strong>Approval Workflows&lt;/strong> - Credit limit and customer changes&lt;/li>
+&lt;li>&lt;strong>Data Quality Rules&lt;/strong> - Validation and duplicate detection&lt;/li>
+&lt;li>&lt;strong>Privacy Compliance&lt;/strong> - GDPR and data protection settings&lt;/li>
+&lt;/ul>
+&lt;h2>Use Cases&lt;span class="hx:absolute hx:-mt-20" id="use-cases">&lt;/span>
+&lt;a href="#use-cases" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>B2B Wholesale Business&lt;span class="hx:absolute hx:-mt-20" id="b2b-wholesale-business">&lt;/span>
+&lt;a href="#b2b-wholesale-business" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scenario&lt;/strong>: Manufacturing company selling to distributors&lt;/p>
+&lt;ul>
+&lt;li>Corporate customer accounts with multiple locations&lt;/li>
+&lt;li>Complex credit terms and payment schedules&lt;/li>
+&lt;li>Volume-based pricing and discounts&lt;/li>
+&lt;li>Multiple contact persons per account&lt;/li>
+&lt;li>Account hierarchy management&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits&lt;/strong>: Comprehensive B2B relationship management&lt;/p>
+&lt;h3>Retail Chain Operations&lt;span class="hx:absolute hx:-mt-20" id="retail-chain-operations">&lt;/span>
+&lt;a href="#retail-chain-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scenario&lt;/strong>: Multi-store retail business&lt;/p>
+&lt;ul>
+&lt;li>Individual consumer customer database&lt;/li>
+&lt;li>Loyalty program integration&lt;/li>
+&lt;li>Purchase history tracking&lt;/li>
+&lt;li>Personalized marketing campaigns&lt;/li>
+&lt;li>Store-specific customer preferences&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits&lt;/strong>: Enhanced customer experience and retention&lt;/p>
+&lt;h3>E-Commerce Platform&lt;span class="hx:absolute hx:-mt-20" id="e-commerce-platform">&lt;/span>
+&lt;a href="#e-commerce-platform" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scenario&lt;/strong>: Online marketplace with thousands of customers&lt;/p>
+&lt;ul>
+&lt;li>Automated customer onboarding&lt;/li>
+&lt;li>Online profile management&lt;/li>
+&lt;li>Order history and preferences&lt;/li>
+&lt;li>Recommendation engine integration&lt;/li>
+&lt;li>Multi-channel customer experience&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits&lt;/strong>: Scalable online customer management&lt;/p>
+&lt;h3>Service Industry Business&lt;span class="hx:absolute hx:-mt-20" id="service-industry-business">&lt;/span>
+&lt;a href="#service-industry-business" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scenario&lt;/strong>: Professional services firm&lt;/p>
+&lt;ul>
+&lt;li>Client relationship management&lt;/li>
+&lt;li>Service contract tracking&lt;/li>
+&lt;li>Billing and payment automation&lt;/li>
+&lt;li>Communication history&lt;/li>
+&lt;li>Referral tracking and management&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits&lt;/strong>: Complete client lifecycle management&lt;/p>
+&lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
+&lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
+&lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor master data&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;/strong> - Sales team assignment&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
+&lt;/ul>
+&lt;h3>Sales and CRM Applets&lt;span class="hx:absolute hx:-mt-20" id="sales-and-crm-applets">&lt;/span>
+&lt;a href="#sales-and-crm-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Customer order processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/quotation-management-applet/" >Quotation Management Applet&lt;/a>&lt;/strong> - Customer quotations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/customer-portal-applet/" >Customer Portal Applet&lt;/a>&lt;/strong> - Self-service customer access&lt;/li>
+&lt;/ul>
+&lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
+&lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/accounts-receivable-applet/" >Accounts Receivable Applet&lt;/a>&lt;/strong> - Customer payments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/credit-management-applet/" >Credit Management Applet&lt;/a>&lt;/strong> - Credit control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/collection-management-applet/" >Collection Management Applet&lt;/a>&lt;/strong> - Overdue accounts&lt;/li>
+&lt;/ul>
+&lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
+&lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
+&lt;a href="#quick-start" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Access Customer Maintenance&lt;/strong> - Navigate to the applet&lt;/li>
+&lt;li>&lt;strong>Define Customer Categories&lt;/strong> - Set up classification structure&lt;/li>
+&lt;li>&lt;strong>Configure Payment Terms&lt;/strong> - Set up standard terms&lt;/li>
+&lt;li>&lt;strong>Create Sample Customers&lt;/strong> - Add test customer records&lt;/li>
+&lt;li>&lt;strong>Test Integration&lt;/strong> - Verify integration with sales module&lt;/li>
+&lt;/ol>
+&lt;h3>Advanced Setup&lt;span class="hx:absolute hx:-mt-20" id="advanced-setup">&lt;/span>
+&lt;a href="#advanced-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Customer Hierarchy Setup&lt;/strong> - Configure parent-child relationships&lt;/li>
+&lt;li>&lt;strong>Credit Management Setup&lt;/strong> - Configure credit policies&lt;/li>
+&lt;li>&lt;strong>Multi-Address Configuration&lt;/strong> - Set up address management&lt;/li>
+&lt;li>&lt;strong>Integration Setup&lt;/strong> - Connect external systems&lt;/li>
+&lt;li>&lt;strong>Workflow Configuration&lt;/strong> - Set up approval processes&lt;/li>
+&lt;/ol>
+&lt;h2>Customer Master Data Structure&lt;span class="hx:absolute hx:-mt-20" id="customer-master-data-structure">&lt;/span>
+&lt;a href="#customer-master-data-structure" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Basic Customer Information&lt;span class="hx:absolute hx:-mt-20" id="basic-customer-information">&lt;/span>
+&lt;a href="#basic-customer-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Customer Code&lt;/span>: &lt;span style="color:#ae81ff">CUS-001&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Company Name&lt;/span>: &lt;span style="color:#ae81ff">ABC Manufacturing Ltd.&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Customer Type&lt;/span>: &lt;span style="color:#ae81ff">B2B Corporate&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Industry&lt;/span>: &lt;span style="color:#ae81ff">Manufacturing&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Status&lt;/span>: &lt;span style="color:#ae81ff">Active&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Created Date&lt;/span>: &lt;span style="color:#e6db74">2024-01-15&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Sales Representative&lt;/span>: &lt;span style="color:#ae81ff">John Smith&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Contact Information&lt;span class="hx:absolute hx:-mt-20" id="contact-information">&lt;/span>
+&lt;a href="#contact-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Primary Contact&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Name&lt;/span>: &lt;span style="color:#ae81ff">Jane Doe&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Title&lt;/span>: &lt;span style="color:#ae81ff">Purchasing Manager&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Email&lt;/span>: &lt;span style="color:#ae81ff">jane.doe@abcmfg.com&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Phone&lt;/span>: &lt;span style="color:#ae81ff">+60-3-1234-5678&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Mobile&lt;/span>: &lt;span style="color:#ae81ff">+60-12-345-6789&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Secondary Contact&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Name&lt;/span>: &lt;span style="color:#ae81ff">Bob Johnson&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Title&lt;/span>: &lt;span style="color:#ae81ff">Finance Director&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Email&lt;/span>: &lt;span style="color:#ae81ff">bob.johnson@abcmfg.com&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Phone&lt;/span>: &lt;span style="color:#ae81ff">+60-3-1234-5679&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Financial Terms&lt;span class="hx:absolute hx:-mt-20" id="financial-terms">&lt;/span>
+&lt;a href="#financial-terms" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Credit Limit&lt;/span>: &lt;span style="color:#ae81ff">RM 100,000&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Payment Terms&lt;/span>: &lt;span style="color:#ae81ff">NET 30&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Currency&lt;/span>: &lt;span style="color:#ae81ff">MYR&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Tax Registration&lt;/span>: &lt;span style="color:#ae81ff">GST123456789&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Account Category&lt;/span>: &lt;span style="color:#ae81ff">Trade Debtor&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Credit Rating&lt;/span>: &lt;span style="color:#ae81ff">A&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Last Credit Review&lt;/span>: &lt;span style="color:#e6db74">2024-06-01&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Address Information&lt;span class="hx:absolute hx:-mt-20" id="address-information">&lt;/span>
+&lt;a href="#address-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Billing Address&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Address Line 1&lt;/span>: &lt;span style="color:#ae81ff">123&lt;/span> &lt;span style="color:#ae81ff">Industrial Park&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Address Line 2&lt;/span>: &lt;span style="color:#ae81ff">Taman Industri&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">City&lt;/span>: &lt;span style="color:#ae81ff">Shah Alam&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">State&lt;/span>: &lt;span style="color:#ae81ff">Selangor&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Postal Code&lt;/span>: &lt;span style="color:#ae81ff">40000&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Country&lt;/span>: &lt;span style="color:#ae81ff">Malaysia&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Shipping Address&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Address Line 1&lt;/span>: &lt;span style="color:#ae81ff">Warehouse Complex B&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Address Line 2&lt;/span>: &lt;span style="color:#ae81ff">Jalan Logistics&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">City&lt;/span>: &lt;span style="color:#ae81ff">Port Klang&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">State&lt;/span>: &lt;span style="color:#ae81ff">Selangor&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Postal Code&lt;/span>: &lt;span style="color:#ae81ff">42000&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">Country&lt;/span>: &lt;span style="color:#ae81ff">Malaysia&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h2>Best Practices&lt;span class="hx:absolute hx:-mt-20" id="best-practices">&lt;/span>
+&lt;a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Data Management Best Practices&lt;span class="hx:absolute hx:-mt-20" id="data-management-best-practices">&lt;/span>
+&lt;a href="#data-management-best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Standardization&lt;/strong> - Consistent data entry formats&lt;/li>
+&lt;li>&lt;strong>Data Quality&lt;/strong> - Regular data cleaning and validation&lt;/li>
+&lt;li>&lt;strong>Duplicate Detection&lt;/strong> - Automated duplicate prevention&lt;/li>
+&lt;li>&lt;strong>Data Security&lt;/strong> - Proper access controls and encryption&lt;/li>
+&lt;li>&lt;strong>Backup Strategy&lt;/strong> - Regular data backup procedures&lt;/li>
+&lt;/ul>
+&lt;h3>Customer Relationship Best Practices&lt;span class="hx:absolute hx:-mt-20" id="customer-relationship-best-practices">&lt;/span>
+&lt;a href="#customer-relationship-best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Complete Profiles&lt;/strong> - Comprehensive customer information&lt;/li>
+&lt;li>&lt;strong>Regular Updates&lt;/strong> - Keep customer data current&lt;/li>
+&lt;li>&lt;strong>Communication History&lt;/strong> - Document all customer interactions&lt;/li>
+&lt;li>&lt;strong>Segmentation Strategy&lt;/strong> - Effective customer categorization&lt;/li>
+&lt;li>&lt;strong>Privacy Compliance&lt;/strong> - GDPR and local privacy law compliance&lt;/li>
+&lt;/ul>
+&lt;h3>Credit Management Best Practices&lt;span class="hx:absolute hx:-mt-20" id="credit-management-best-practices">&lt;/span>
+&lt;a href="#credit-management-best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Regular Reviews&lt;/strong> - Periodic credit limit assessments&lt;/li>
+&lt;li>&lt;strong>Risk Monitoring&lt;/strong> - Ongoing credit risk evaluation&lt;/li>
+&lt;li>&lt;strong>Collection Procedures&lt;/strong> - Systematic collection processes&lt;/li>
+&lt;li>&lt;strong>Payment Terms&lt;/strong> - Clear and consistent terms&lt;/li>
+&lt;li>&lt;strong>Documentation&lt;/strong> - Proper credit decision documentation&lt;/li>
+&lt;/ul>
+&lt;h2>Troubleshooting&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting">&lt;/span>
+&lt;a href="#troubleshooting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Common Issues&lt;span class="hx:absolute hx:-mt-20" id="common-issues">&lt;/span>
+&lt;a href="#common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Cannot create new customers&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Check user permissions for customer creation&lt;/li>
+&lt;li>Verify required fields are completed&lt;/li>
+&lt;li>Ensure customer categories are configured&lt;/li>
+&lt;li>Check duplicate customer code restrictions&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Credit limit exceeded warnings&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Review customer credit limit settings&lt;/li>
+&lt;li>Check outstanding invoice amounts&lt;/li>
+&lt;li>Verify payment posting accuracy&lt;/li>
+&lt;li>Review credit approval workflows&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Integration synchronization issues&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Check API connectivity and credentials&lt;/li>
+&lt;li>Verify data mapping configurations&lt;/li>
+&lt;li>Review synchronization logs&lt;/li>
+&lt;li>Test individual record updates&lt;/li>
+&lt;/ul>
+&lt;h3>Support Resources&lt;span class="hx:absolute hx:-mt-20" id="support-resources">&lt;/span>
+&lt;a href="#support-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Customer setup and configuration guide&lt;/li>
+&lt;li>Credit management best practices&lt;/li>
+&lt;li>Integration troubleshooting documentation&lt;/li>
+&lt;li>Data quality management guide&lt;/li>
+&lt;/ul>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pro Tip&lt;/strong>: Invest time in setting up proper customer categories and data quality rules from the beginning. Clean, well-organized customer data is the foundation of effective sales and marketing operations.&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

@@ -1,0 +1,232 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Support</title><link>https://wiki.bigledger.com/tags/support/</link><description>Recent content in Support on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/support/index.xml" rel="self" type="application/rss+xml"/><item><title>Troubleshooting</title><link>https://wiki.bigledger.com/user-guide/troubleshooting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/troubleshooting/</guid><description>
+&lt;h1>Troubleshooting&lt;/h1>&lt;p>Quick solutions to common BigLedger issues and comprehensive problem-solving guides. This section helps you resolve problems quickly and get back to productive work.&lt;/p>
+&lt;h2>Quick Problem Resolution&lt;span class="hx:absolute hx:-mt-20" id="quick-problem-resolution">&lt;/span>
+&lt;a href="#quick-problem-resolution" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Most Common Issues&lt;span class="hx:absolute hx:-mt-20" id="most-common-issues">&lt;/span>
+&lt;a href="#most-common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>TODO: Add comprehensive troubleshooting content based on common user issues&lt;/strong>&lt;/p>
+&lt;h4>Login &amp;amp; Access Problems&lt;span class="hx:absolute hx:-mt-20" id="login--access-problems">&lt;/span>
+&lt;a href="#login--access-problems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Cannot Login&lt;/strong>: Password resets, account status, browser issues&lt;/li>
+&lt;li>&lt;strong>Missing Features&lt;/strong>: Permission problems, applet availability&lt;/li>
+&lt;li>&lt;strong>Slow Performance&lt;/strong>: Browser optimization, network issues&lt;/li>
+&lt;li>&lt;strong>Session Timeouts&lt;/strong>: Security settings, browser configuration&lt;/li>
+&lt;/ul>
+&lt;h4>Data Entry Issues&lt;span class="hx:absolute hx:-mt-20" id="data-entry-issues">&lt;/span>
+&lt;a href="#data-entry-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Cannot Save Records&lt;/strong>: Validation errors, required fields&lt;/li>
+&lt;li>&lt;strong>Missing Dropdown Options&lt;/strong>: Master data setup, permissions&lt;/li>
+&lt;li>&lt;strong>Import Failures&lt;/strong>: Data format, mapping errors&lt;/li>
+&lt;li>&lt;strong>Duplicate Records&lt;/strong>: Data validation, merge procedures&lt;/li>
+&lt;/ul>
+&lt;h4>Transaction Problems&lt;span class="hx:absolute hx:-mt-20" id="transaction-problems">&lt;/span>
+&lt;a href="#transaction-problems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Order Processing Errors&lt;/strong>: Workflow issues, approval chains&lt;/li>
+&lt;li>&lt;strong>Pricing Problems&lt;/strong>: Price scheme configuration, customer settings&lt;/li>
+&lt;li>&lt;strong>Inventory Discrepancies&lt;/strong>: Stock adjustments, location issues&lt;/li>
+&lt;li>&lt;strong>Report Errors&lt;/strong>: Data access, parameter settings&lt;/li>
+&lt;/ul>
+&lt;h2>Step-by-Step Troubleshooting&lt;span class="hx:absolute hx:-mt-20" id="step-by-step-troubleshooting">&lt;/span>
+&lt;a href="#step-by-step-troubleshooting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1. Identify the Problem&lt;span class="hx:absolute hx:-mt-20" id="1-identify-the-problem">&lt;/span>
+&lt;a href="#1-identify-the-problem" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Document Symptoms&lt;/strong> - What exactly is happening?&lt;/li>
+&lt;li>&lt;strong>Reproduce the Issue&lt;/strong> - Can you make it happen again?&lt;/li>
+&lt;li>&lt;strong>Check Timing&lt;/strong> - When did this start occurring?&lt;/li>
+&lt;li>&lt;strong>Gather Context&lt;/strong> - What were you trying to accomplish?&lt;/li>
+&lt;/ul>
+&lt;h3>2. Gather Information&lt;span class="hx:absolute hx:-mt-20" id="2-gather-information">&lt;/span>
+&lt;a href="#2-gather-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Error Messages&lt;/strong> - Copy exact error text and codes&lt;/li>
+&lt;li>&lt;strong>Screenshots&lt;/strong> - Visual evidence of the problem&lt;/li>
+&lt;li>&lt;strong>User Account Details&lt;/strong> - Permissions and role information&lt;/li>
+&lt;li>&lt;strong>System Environment&lt;/strong> - Browser, device, network information&lt;/li>
+&lt;/ul>
+&lt;h3>3. Try Basic Solutions&lt;span class="hx:absolute hx:-mt-20" id="3-try-basic-solutions">&lt;/span>
+&lt;a href="#3-try-basic-solutions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Refresh/Reload&lt;/strong> - Simple browser refresh&lt;/li>
+&lt;li>&lt;strong>Clear Cache&lt;/strong> - Browser cache and cookies&lt;/li>
+&lt;li>&lt;strong>Different Browser&lt;/strong> - Test with another browser&lt;/li>
+&lt;li>&lt;strong>Check Permissions&lt;/strong> - Verify access rights&lt;/li>
+&lt;/ul>
+&lt;h3>4. Advanced Diagnostics&lt;span class="hx:absolute hx:-mt-20" id="4-advanced-diagnostics">&lt;/span>
+&lt;a href="#4-advanced-diagnostics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Check System Status&lt;/strong> - Is the system running normally?&lt;/li>
+&lt;li>&lt;strong>Review Recent Changes&lt;/strong> - What changed recently?&lt;/li>
+&lt;li>&lt;strong>Test with Different Data&lt;/strong> - Is it data-specific?&lt;/li>
+&lt;li>&lt;strong>Consult Documentation&lt;/strong> - Review relevant user guides&lt;/li>
+&lt;/ul>
+&lt;h2>Common Error Messages&lt;span class="hx:absolute hx:-mt-20" id="common-error-messages">&lt;/span>
+&lt;a href="#common-error-messages" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>System Errors&lt;span class="hx:absolute hx:-mt-20" id="system-errors">&lt;/span>
+&lt;a href="#system-errors" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>&amp;ldquo;Access Denied&amp;rdquo;&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Cause&lt;/strong>: Insufficient permissions for the requested action&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Contact administrator to verify role assignments&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular permission reviews and proper role management&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ldquo;Session Expired&amp;rdquo;&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Cause&lt;/strong>: Security timeout due to inactivity&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Log in again; consider adjusting session timeout settings&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular activity or adjust timeout preferences&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ldquo;Data Validation Error&amp;rdquo;&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Cause&lt;/strong>: Required fields missing or invalid data format&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Review field requirements and correct data entry&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Use field validation and data entry training&lt;/li>
+&lt;/ul>
+&lt;h3>Transaction Errors&lt;span class="hx:absolute hx:-mt-20" id="transaction-errors">&lt;/span>
+&lt;a href="#transaction-errors" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>&amp;ldquo;Insufficient Inventory&amp;rdquo;&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Cause&lt;/strong>: Attempting to sell more than available stock&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Check inventory levels or adjust transaction quantity&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular inventory monitoring and reorder processes&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&amp;ldquo;Price Not Found&amp;rdquo;&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Cause&lt;/strong>: No valid price configured for item/customer combination&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Set up pricing in price schemes or customer-specific pricing&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Comprehensive pricing scheme setup&lt;/li>
+&lt;/ul>
+&lt;h3>Integration Errors&lt;span class="hx:absolute hx:-mt-20" id="integration-errors">&lt;/span>
+&lt;a href="#integration-errors" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>&amp;ldquo;Sync Failed&amp;rdquo;&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Cause&lt;/strong>: Connection issues with integrated systems&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Check integration settings and network connectivity&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Monitor integration health and maintain credentials&lt;/li>
+&lt;/ul>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Safety First&lt;/strong>: Before making any system changes to resolve issues, ensure you have proper backups and understand the impact of your changes.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Browser-Specific Issues&lt;span class="hx:absolute hx:-mt-20" id="browser-specific-issues">&lt;/span>
+&lt;a href="#browser-specific-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Chrome Issues&lt;span class="hx:absolute hx:-mt-20" id="chrome-issues">&lt;/span>
+&lt;a href="#chrome-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Cache Problems&lt;/strong>: Clear browsing data, reset Chrome settings&lt;/li>
+&lt;li>&lt;strong>Extension Conflicts&lt;/strong>: Disable extensions, test in incognito mode&lt;/li>
+&lt;li>&lt;strong>Memory Issues&lt;/strong>: Close unused tabs, restart browser&lt;/li>
+&lt;/ul>
+&lt;h3>Firefox Issues&lt;span class="hx:absolute hx:-mt-20" id="firefox-issues">&lt;/span>
+&lt;a href="#firefox-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Security Settings&lt;/strong>: Adjust security preferences for BigLedger&lt;/li>
+&lt;li>&lt;strong>Add-on Conflicts&lt;/strong>: Test with add-ons disabled&lt;/li>
+&lt;li>&lt;strong>Cookie Settings&lt;/strong>: Ensure cookies are enabled for BigLedger&lt;/li>
+&lt;/ul>
+&lt;h3>Safari Issues&lt;span class="hx:absolute hx:-mt-20" id="safari-issues">&lt;/span>
+&lt;a href="#safari-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>JavaScript Settings&lt;/strong>: Enable JavaScript for BigLedger domain&lt;/li>
+&lt;li>&lt;strong>Privacy Settings&lt;/strong>: Adjust privacy settings for business applications&lt;/li>
+&lt;li>&lt;strong>Cache Issues&lt;/strong>: Clear website data for BigLedger&lt;/li>
+&lt;/ul>
+&lt;h3>Mobile Browser Issues&lt;span class="hx:absolute hx:-mt-20" id="mobile-browser-issues">&lt;/span>
+&lt;a href="#mobile-browser-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Responsive Design&lt;/strong>: Use landscape mode for complex screens&lt;/li>
+&lt;li>&lt;strong>Touch Interface&lt;/strong>: Use appropriate gestures for navigation&lt;/li>
+&lt;li>&lt;strong>Data Connection&lt;/strong>: Ensure stable internet connection&lt;/li>
+&lt;/ul>
+&lt;h2>Performance Optimization&lt;span class="hx:absolute hx:-mt-20" id="performance-optimization">&lt;/span>
+&lt;a href="#performance-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>System Performance&lt;span class="hx:absolute hx:-mt-20" id="system-performance">&lt;/span>
+&lt;a href="#system-performance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>TODO: Add detailed performance optimization guides&lt;/strong>&lt;/p>
+&lt;h4>Client-Side Optimization&lt;span class="hx:absolute hx:-mt-20" id="client-side-optimization">&lt;/span>
+&lt;a href="#client-side-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Browser Maintenance&lt;/strong>: Regular cache clearing, update browser&lt;/li>
+&lt;li>&lt;strong>Network Optimization&lt;/strong>: Stable internet connection, avoid peak hours&lt;/li>
+&lt;li>&lt;strong>Device Performance&lt;/strong>: Sufficient RAM, close unnecessary applications&lt;/li>
+&lt;li>&lt;strong>Screen Resolution&lt;/strong>: Optimize display settings for BigLedger&lt;/li>
+&lt;/ul>
+&lt;h4>Server-Side Factors&lt;span class="hx:absolute hx:-mt-20" id="server-side-factors">&lt;/span>
+&lt;a href="#server-side-factors" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>Peak Usage Times&lt;/strong>: Understand system load patterns&lt;/li>
+&lt;li>&lt;strong>Data Volume&lt;/strong>: Large reports and queries impact performance&lt;/li>
+&lt;li>&lt;strong>Integration Load&lt;/strong>: Multiple simultaneous integrations affect speed&lt;/li>
+&lt;li>&lt;strong>Maintenance Windows&lt;/strong>: Scheduled maintenance affects availability&lt;/li>
+&lt;/ul>
+&lt;h3>Data Performance&lt;span class="hx:absolute hx:-mt-20" id="data-performance">&lt;/span>
+&lt;a href="#data-performance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Query Optimization&lt;/strong>: Use appropriate filters and date ranges&lt;/li>
+&lt;li>&lt;strong>Report Efficiency&lt;/strong>: Limit data scope for large reports&lt;/li>
+&lt;li>&lt;strong>Batch Processing&lt;/strong>: Group similar operations together&lt;/li>
+&lt;li>&lt;strong>Archive Strategy&lt;/strong>: Archive old data to improve performance&lt;/li>
+&lt;/ul>
+&lt;h2>Escalation Procedures&lt;span class="hx:absolute hx:-mt-20" id="escalation-procedures">&lt;/span>
+&lt;a href="#escalation-procedures" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>When to Escalate&lt;span class="hx:absolute hx:-mt-20" id="when-to-escalate">&lt;/span>
+&lt;a href="#when-to-escalate" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Security Incidents&lt;/strong>: Immediate escalation for security breaches&lt;/li>
+&lt;li>&lt;strong>System Outages&lt;/strong>: When system is completely unavailable&lt;/li>
+&lt;li>&lt;strong>Data Corruption&lt;/strong>: Any suspected data integrity issues&lt;/li>
+&lt;li>&lt;strong>Critical Business Impact&lt;/strong>: Issues affecting core business operations&lt;/li>
+&lt;/ul>
+&lt;h3>How to Escalate&lt;span class="hx:absolute hx:-mt-20" id="how-to-escalate">&lt;/span>
+&lt;a href="#how-to-escalate" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Document the Issue&lt;/strong>: Comprehensive problem description&lt;/li>
+&lt;li>&lt;strong>Gather Evidence&lt;/strong>: Screenshots, error messages, logs&lt;/li>
+&lt;li>&lt;strong>Assess Impact&lt;/strong>: Business impact and urgency level&lt;/li>
+&lt;li>&lt;strong>Contact Appropriate Support&lt;/strong>: Use correct support channel&lt;/li>
+&lt;li>&lt;strong>Follow Up&lt;/strong>: Monitor resolution and communicate status&lt;/li>
+&lt;/ol>
+&lt;h2>Self-Service Resources&lt;span class="hx:absolute hx:-mt-20" id="self-service-resources">&lt;/span>
+&lt;a href="#self-service-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Knowledge Base&lt;span class="hx:absolute hx:-mt-20" id="knowledge-base">&lt;/span>
+&lt;a href="#knowledge-base" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>FAQ Section&lt;/strong> - Answers to frequently asked questions&lt;/li>
+&lt;li>&lt;strong>Video Tutorials&lt;/strong> - Step-by-step visual guides&lt;/li>
+&lt;li>&lt;strong>User Forums&lt;/strong> - Community-driven support&lt;/li>
+&lt;li>&lt;strong>Documentation&lt;/strong> - Comprehensive user guides&lt;/li>
+&lt;/ul>
+&lt;h3>Diagnostic Tools&lt;span class="hx:absolute hx:-mt-20" id="diagnostic-tools">&lt;/span>
+&lt;a href="#diagnostic-tools" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>System Health Check&lt;/strong> - Built-in system diagnostics&lt;/li>
+&lt;li>&lt;strong>Connection Test&lt;/strong> - Network and integration testing&lt;/li>
+&lt;li>&lt;strong>Permission Checker&lt;/strong> - Verify user access rights&lt;/li>
+&lt;li>&lt;strong>Performance Monitor&lt;/strong> - System performance metrics&lt;/li>
+&lt;/ul>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Efficiency Tip&lt;/strong>: Keep a troubleshooting log to track recurring issues and their solutions. This builds your expertise and helps identify system improvement opportunities.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Prevention Strategies&lt;span class="hx:absolute hx:-mt-20" id="prevention-strategies">&lt;/span>
+&lt;a href="#prevention-strategies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Proactive Maintenance&lt;span class="hx:absolute hx:-mt-20" id="proactive-maintenance">&lt;/span>
+&lt;a href="#proactive-maintenance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Regular Updates&lt;/strong>: Keep browser and system updated&lt;/li>
+&lt;li>&lt;strong>Training Programs&lt;/strong>: Ongoing user education and training&lt;/li>
+&lt;li>&lt;strong>System Monitoring&lt;/strong>: Regular health checks and performance monitoring&lt;/li>
+&lt;li>&lt;strong>Data Backup&lt;/strong>: Maintain current backups and recovery procedures&lt;/li>
+&lt;/ul>
+&lt;h3>Best Practices&lt;span class="hx:absolute hx:-mt-20" id="best-practices">&lt;/span>
+&lt;a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Documentation&lt;/strong>: Keep procedures documented and current&lt;/li>
+&lt;li>&lt;strong>Testing&lt;/strong>: Test changes in staging before production&lt;/li>
+&lt;li>&lt;strong>Communication&lt;/strong>: Inform users of system changes and updates&lt;/li>
+&lt;li>&lt;strong>Monitoring&lt;/strong>: Set up alerts for critical system metrics&lt;/li>
+&lt;/ul>
+&lt;h2>Getting Help&lt;span class="hx:absolute hx:-mt-20" id="getting-help">&lt;/span>
+&lt;a href="#getting-help" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Support Channels&lt;span class="hx:absolute hx:-mt-20" id="support-channels">&lt;/span>
+&lt;a href="#support-channels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>📧 Email Support&lt;/strong>: &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for technical issues&lt;/li>
+&lt;li>&lt;strong>💬 Quick Chat&lt;/strong>: Telegram @leehongfay for immediate questions&lt;/li>
+&lt;li>&lt;strong>📞 Phone Support&lt;/strong>: Available during business hours&lt;/li>
+&lt;li>&lt;strong>🌐 Support Portal&lt;/strong>: Online ticket system and knowledge base&lt;/li>
+&lt;/ul>
+&lt;h3>Support Information to Provide&lt;span class="hx:absolute hx:-mt-20" id="support-information-to-provide">&lt;/span>
+&lt;a href="#support-information-to-provide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Problem Description&lt;/strong>: Clear explanation of the issue&lt;/li>
+&lt;li>&lt;strong>Steps to Reproduce&lt;/strong>: How to recreate the problem&lt;/li>
+&lt;li>&lt;strong>Error Messages&lt;/strong>: Exact text of any error messages&lt;/li>
+&lt;li>&lt;strong>User Information&lt;/strong>: Account details and permissions&lt;/li>
+&lt;li>&lt;strong>System Details&lt;/strong>: Browser, device, and network information&lt;/li>
+&lt;li>&lt;strong>Business Impact&lt;/strong>: How the issue affects your operations&lt;/li>
+&lt;/ul>
+&lt;h3>Response Time Expectations&lt;span class="hx:absolute hx:-mt-20" id="response-time-expectations">&lt;/span>
+&lt;a href="#response-time-expectations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Critical Issues&lt;/strong>: 1-2 hours response time&lt;/li>
+&lt;li>&lt;strong>High Priority&lt;/strong>: 4-8 hours response time&lt;/li>
+&lt;li>&lt;strong>Normal Issues&lt;/strong>: 1-2 business days response time&lt;/li>
+&lt;li>&lt;strong>Enhancement Requests&lt;/strong>: Reviewed in monthly planning cycles&lt;/li>
+&lt;/ul>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Resolution Success&lt;/strong>: Most user issues can be resolved quickly with proper problem identification and using the appropriate resources and support channels.&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

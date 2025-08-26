@@ -1,363 +1,85 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>BigLedger Documentation – Tutorial</title>
-    <link>http://localhost:53975/tags/tutorial/</link>
-    <description>Recent content in Tutorial on BigLedger Documentation</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:53975/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>BigLedger Documentation</title>
-      <link>http://localhost:53975/user-guide/bigledger-documentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/bigledger-documentation/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 2945286292
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-07T05:11:28.664Z&lt;/p&gt;
-&lt;h1&gt;How can we help you?&lt;/h1&gt;&lt;p&gt;largepage excerptSearch keywords (e.g. Team, Sales Order, etc)
-Welcome to BigLedger Knowledge Center! Here, you&amp;rsquo;ll find comprehensive documentation to help you navigate BigLedger&amp;rsquo;s products and services, including user guides, and technical resources. Whether you&amp;rsquo;re setting up your system, exploring advanced features, or integrating our solutions, this knowledge center is here to guide you.
-New Here? Start with the Introduction page in the left menu to get an overview of the documentation.
-Need Help Finding Something? Use the search bar above to find topics by keywords like &amp;ldquo;Team&amp;rdquo; or &amp;ldquo;Sales Order&amp;rsquo; etc.
-noteNote: We are currently migrating our documentation from our previous system. During this transition, some pages may still be under construction. We appreciate your patience as we work to bring you a fully comprehensive knowledge base.
-Note: We are currently migrating our documentation from our previous system. During this transition, some pages may still be under construction. We appreciate your patience as we work to bring you a fully comprehensive knowledge base.&lt;/p&gt;
-&lt;h1&gt;|Basics&lt;/h1&gt;&lt;h2&gt;Getting Started&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#getting-started&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Overview of the Akaun Platform
-Quick Start Guide
-End User Guide
-Administrator Guide&lt;/p&gt;
-&lt;h2&gt;Need more help?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;need-more-help&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#need-more-help&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;BigLedger helpdesk
-Telegram Support (Linking to @bigledgerbot)
-Youtube Channel&lt;/p&gt;
-&lt;h1&gt;|&lt;/h1&gt;
-      </description>
-    </item>
-    
-    <item>
-      <title>Creating an Item</title>
-      <link>http://localhost:53975/user-guide/creating-an-item/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/creating-an-item/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196846326
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-23T04:01:29.004Z
-In creating an Item, users need to click on the
-button to open the Create tab.
-Users must fill up compulsory information such as:
-Item Code
-ItemName
-Type (Dropdown list)
-Select according to your item functions and usage type
-Base UOM (eg: Unit, Kilogram, Meter, and etc)
-Base UOM is the smallest unit of measurement that will be used
-Item Description (Optional)
-Ecomsync (Will automatically tick when synching to EMP)
-Users must tick &amp;ldquo;EcomSync checkbox&amp;rdquo; so that the item is synced into the EcomSync Applet instead of just the Doc Item Applet.
-Once the user fills in all the details they may click save the item. A success message will pop up to indicate that the item has been saved.
-Users will be redirected to the EDIT page once they click on the Create Item button or when they click on the new created item.
-Click Create Item and it will direct you to this page and will indicate that the item is successfully registered and updated.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Document Item Maintenance</title>
-      <link>http://localhost:53975/user-guide/document-item-maintenance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/document-item-maintenance/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3225452905
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-06-26T13:07:52.151Z&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Document Item Types</title>
-      <link>http://localhost:53975/user-guide/document-item-types/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/document-item-types/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3225452915
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-12T09:07:01.033Z
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Tutorial</title><link>https://wiki.bigledger.com/tags/tutorial/</link><description>Recent content in Tutorial on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Document Item Types</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/</guid><description>
+&lt;p>&lt;strong>Page ID&lt;/strong>: 3225452915
+&lt;strong>Last Updated&lt;/strong>: 2021-07-12T09:07:01.033Z
 Basic Item refers to an FI-item, an individual item having a one-to-one mapping with an INV Item;
-Kit , where  a basic item has 1 to 1 mapping with INV item, however this has child components. The kitting process/reverse kitting process will apply. 1 Kit (Kit-A) may have A1, A2, A3, A4 child items, which will be deducted from the stock balance, while a Kit-A quantity will also increase by 1 (this constitutes one of the main differences between Kit and a Grouped item).
-Grouped item is applicable for those cases when an item has dimensions (e.g. size, colour etc). This refers to the grouping of the basic items. For example, T-shirt - Yellow/Blue/Red - size 3/4/5 : When the customer selects a T-shirt, he/she is presented with options (e.g. colours &amp;amp; sizes).  (Ratio = 1, i.e. only to choose one from the list). A grouping of basic FI-items and it has a ratio of 1, meaning from this grouping, you only select 1 basic FI-item.
+Kit , where a basic item has 1 to 1 mapping with INV item, however this has child components. The kitting process/reverse kitting process will apply. 1 Kit (Kit-A) may have A1, A2, A3, A4 child items, which will be deducted from the stock balance, while a Kit-A quantity will also increase by 1 (this constitutes one of the main differences between Kit and a Grouped item).
+Grouped item is applicable for those cases when an item has dimensions (e.g. size, colour etc). This refers to the grouping of the basic items. For example, T-shirt - Yellow/Blue/Red - size 3/4/5 : When the customer selects a T-shirt, he/she is presented with options (e.g. colours &amp;amp; sizes). (Ratio = 1, i.e. only to choose one from the list). A grouping of basic FI-items and it has a ratio of 1, meaning from this grouping, you only select 1 basic FI-item.
 Package : Implies one-to-many relationship : This FI-item is mapped to many INV items. It has a one to many relationship with INV items. The stock quantity of the individual INV items is not deducted until the package is sold.
-Being the most complicated among all, Bundle can contain individual components as either basic items, Kit, grouped items or package. Therefore having multiple GenDocLines unlike the previous 4. The bundle currently supports 2 levels.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Editing an Item</title>
-      <link>http://localhost:53975/user-guide/editing-an-item/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/editing-an-item/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3196191049
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-23T04:10:59.216Z
-Edit section allows users to see detailed information on their item. Users are allowed to manage stock and place where you are able to sync marketplace and view marketplace listings.
-To edit the Item, click on the Item from the listings.
-In the editing section, users will be able to cover and understand the following :
-Main Details Tab
-Item Categories
-Dimension Details Tab
-Manage Image Tab
-Marketplace Tab
-Stock Allocation Tab&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Group Listing</title>
-      <link>http://localhost:53975/user-guide/group-listing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/group-listing/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3320747164
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-18T05:15:51.558Z
-Please click the &amp;ldquo;+&amp;rdquo; button to add a new group.
-Please fill up the compulsory * information for creating the group.
-Compulsory Information:
-Group Name
-Group Code
-Group Email
-Please Select the Group Visibility from the list.
-Please Select the Group Joining from the list
-After filling up all Compulsory * information, Please click &amp;ldquo;Create Group&amp;rdquo; to add a new group.
-After adding the group, it will be listed in the main page. Please click on the group to edit it.
-Please edit the Group general information from the &amp;ldquo;Edit general info&amp;rdquo; tab.
-Only the following fields can be edited:
-Group Name
-Group Visibility
-Group Joining
-Group Status
-Please add or edit members of the group from the &amp;ldquo;Edit Members&amp;rdquo; tab.
-Please search user email- once the users sign-up in the, their email will be listed in &amp;lsquo;Select Email&amp;rsquo;.
-Please select the rank-Please &amp;ldquo;Select Rank&amp;rdquo; to differentiate the role of the member.
-Please select the status.
-After adding the members to the group, you can Edit or Delete them from the &amp;ldquo;Members List&amp;rdquo;.
-Please add or edit permission from the &amp;ldquo;Edit Permission&amp;rdquo; tab.
-You can &amp;ldquo;Select permission&amp;rdquo; from the list to Add permission.
-After adding the permission, you can Edit or Delete it from the &amp;ldquo;Permission&amp;rdquo;.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>http://localhost:53975/user-guide/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/introduction/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Introduction to BigLedger&lt;/h1&gt;&lt;p&gt;Welcome to BigLedger, your comprehensive gateway to streamlined business operations and valuable insights. BigLedger centralizes your data to provide real-time insights and streamlined management across all aspects of your business.&lt;/p&gt;
-&lt;h2&gt;Getting Started Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started-resources&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#getting-started-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Explore our comprehensive resources to maximize your BigLedger experience:&lt;/p&gt;
-&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+Being the most complicated among all, Bundle can contain individual components as either basic items, Kit, grouped items or package. Therefore having multiple GenDocLines unlike the previous 4. The bundle currently supports 2 levels.&lt;/p></description></item><item><title>Introduction</title><link>https://wiki.bigledger.com/user-guide/getting-started/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/getting-started/introduction/</guid><description>
+&lt;p>Welcome to BigLedger, your comprehensive gateway to streamlined business operations and valuable insights. BigLedger centralizes your data to provide real-time insights and streamlined management across all aspects of your business.&lt;/p>
+&lt;h2>Getting Started Resources&lt;span class="hx:absolute hx:-mt-20" id="getting-started-resources">&lt;/span>
+&lt;a href="#getting-started-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Explore our comprehensive resources to maximize your BigLedger experience:&lt;/p>
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:53975/user-guide/platform-overview&#34;
-    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Platform Overview&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;First-time and existing users - registration and permissions guide&lt;/div&gt;&lt;/a&gt;
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/user-guide/platform-overview"
+>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Platform Overview&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">First-time and existing users - registration and permissions guide&lt;/div>&lt;/a>
 &lt;a
-  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:53975/applets/&#34;
-    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Applet Directory&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;User guide on BigLedger Applets and automation tools&lt;/div&gt;&lt;/a&gt;
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/applets/"
+>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Applet Directory&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">User guide on BigLedger Applets and automation tools&lt;/div>&lt;/a>
 &lt;a
-  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:53975/industry-solutions/&#34;
-    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Industry Solutions&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Discover solutions tailored for your specific industry&lt;/div&gt;&lt;/a&gt;
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/industry-solutions/"
+>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Industry Solutions&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Discover solutions tailored for your specific industry&lt;/div>&lt;/a>
 &lt;a
-  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:53975/modules/&#34;
-    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Module Guide&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Comprehensive guide to BigLedger&amp;rsquo;s business modules&lt;/div&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;New to BigLedger?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-to-bigledger&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#new-to-bigledger&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If you&amp;rsquo;re just getting started with BigLedger, here are the essential first steps:&lt;/p&gt;
-&lt;h3&gt;Quick Start Video Tutorial&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;quick-start-video-tutorial&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#quick-start-video-tutorial&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
-    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;Watch our comprehensive introduction video:&lt;/strong&gt;&lt;br&gt;
-📹 &lt;a href=&#34;https://youtu.be/WrFz_4JTC1s?si=gNb1FT-BAxKO_7xl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigLedger User Guide Registration&lt;/a&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;For New Users&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;for-new-users&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#for-new-users&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Registration Process&lt;/strong&gt;: Create your BigLedger account and set up your company profile&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Initial Configuration&lt;/strong&gt;: Configure basic settings for your business needs&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;User Permissions&lt;/strong&gt;: Learn how to manage team access and permissions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;For Existing EMP Users&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;for-existing-emp-users&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#for-existing-emp-users&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Migration Guide&lt;/strong&gt;: Seamlessly transition from existing EMP systems&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data Import&lt;/strong&gt;: Transfer your existing business data&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Server-Side Permissions&lt;/strong&gt;: Configure advanced permission settings&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Need Help?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;need-help&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#need-help&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Our support team is ready to assist you with any questions or guidance you need.&lt;/p&gt;
-&lt;h3&gt;Contact Information&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contact-information&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#contact-information&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;📧 Email&lt;/strong&gt;: &lt;a href=&#34;mailto:vincent@bigledger.com&#34; &gt;vincent@bigledger.com&lt;/a&gt; / &lt;a href=&#34;mailto:sales@bigledger.com&#34; &gt;sales@bigledger.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;💬 Telegram&lt;/strong&gt;: @leehongfay&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;🌐 Website&lt;/strong&gt;: &lt;a href=&#34;https://www.bigledger.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.bigledger.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Additional Support Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;additional-support-resources&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#additional-support-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;📚 Documentation&lt;/strong&gt;: Comprehensive guides and tutorials&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;🎥 Video Library&lt;/strong&gt;: Step-by-step video tutorials&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;💬 Community&lt;/strong&gt;: Connect with other BigLedger users&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;🛠️ Technical Support&lt;/strong&gt;: Get help with technical issues&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;What&amp;rsquo;s Next?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;whats-next&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#whats-next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Ready to dive deeper into BigLedger? Here are your next steps:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Complete Your Setup&lt;/strong&gt;: Finish configuring your company settings&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Explore Core Modules&lt;/strong&gt;: Start with the modules most relevant to your business&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Import Your Data&lt;/strong&gt;: Bring in your existing business information&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Train Your Team&lt;/strong&gt;: Ensure everyone knows how to use the system effectively&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Go Live&lt;/strong&gt;: Start managing your business operations with BigLedger&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
-  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
-    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;Pro Tip&lt;/strong&gt;: Start with our most popular modules - Financial Accounting, Inventory Management, and CRM - to see immediate benefits in your daily operations.&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Item Maintenance</title>
-      <link>http://localhost:53975/user-guide/item-maintenance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/item-maintenance/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3132753410
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-23T05:12:14.093Z&lt;/p&gt;
-&lt;h2&gt;Table of Content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;table-of-content&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#table-of-content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Listings
-Creating an Item
-Editing an Item
-Main Details Tab
-Item Categories Tab
-Dimension Details Tab
-Manage Image Tab
-Marketplace Tab
-Create Single Tab
-Create Group Item Tab
-Update and Delete Item
-Stock Availability Tab
-Stock Balance Tab
-Sales Order Tab&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Member Class</title>
-      <link>http://localhost:53975/user-guide/member-class/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/member-class/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3317433944
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-26T04:09:12.999Z
-3.Member Class: Create Member Class &amp;gt;Compulsory information&amp;gt;Edit
-3.1. Please click on &amp;lsquo;Member Class&amp;rsquo; from the module list and click &amp;lsquo;+&amp;rsquo; button to create a new member class.
-3.2. Please fill up the compulsory (&lt;em&gt;) information for creating the member class. After filled up all Compulsory (&lt;/em&gt;) information, Please click &amp;lsquo;Create&amp;rsquo; to add a new Member class. Compulsory information:
-Membership Class Code
-Membership Class name
-3.3. After adding the member class, it will be listed in the main page. Please click on the member to edit it.
-Only member class name and status can be edited. After changing the details of the field, please click &amp;lsquo;save&amp;rsquo;.
-Please click &amp;lsquo;delete&amp;rsquo; to remove the member class from the list.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Member Label</title>
-      <link>http://localhost:53975/user-guide/member-label/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/member-label/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3319005232
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-26T04:18:59.615Z
-4.Member Label:Create Member Label &amp;gt;Compulsory information&amp;gt;Edit
-4.1. Please click on &amp;lsquo;Member Label&amp;rsquo; from the module list and click the &amp;lsquo;+&amp;rsquo; button to create a new member label.
-4.2. Please fill up the compulsory (&lt;em&gt;) information for creating the member label. After filled up all Compulsory (&lt;/em&gt;) information, Please click &amp;lsquo;Create&amp;rsquo; to add a new Member label. Compulsory information:
-Label list: Please create a new label list from the member label list.
-Label name
-Label code
-4.3.After adding the member Label, it will be listed in the main page. Please click on the label to edit it.
-You can edit the details and members of the member label.
-4.3.1. In details tab, the following information can be edited:
-Label list
-Label name
-Status
-After changing the details of the field, please click &amp;lsquo;save&amp;rsquo;.
-Please click &amp;lsquo;delete&amp;rsquo; to remove the member label from the list.
-4.3.2. In the Members tab, you can add members to the label.
-Please click &amp;lsquo;+&amp;rsquo; button to add members.
-Please select the listed members or follow the Member listing module to add new members.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Member Label List</title>
-      <link>http://localhost:53975/user-guide/member-label-list/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/member-label-list/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3317499439
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-26T04:25:30.383Z
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/modules/"
+>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Module Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Comprehensive guide to BigLedger&amp;rsquo;s business modules&lt;/div>&lt;/a>
+&lt;/div>
+&lt;h2>New to BigLedger?&lt;span class="hx:absolute hx:-mt-20" id="new-to-bigledger">&lt;/span>
+&lt;a href="#new-to-bigledger" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>If you&amp;rsquo;re just getting started with BigLedger, here are the essential first steps:&lt;/p>
+&lt;h3>Quick Start Video Tutorial&lt;span class="hx:absolute hx:-mt-20" id="quick-start-video-tutorial">&lt;/span>
+&lt;a href="#quick-start-video-tutorial" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Watch our comprehensive introduction video:&lt;/strong>&lt;br>
+📹 &lt;a href="https://youtu.be/WrFz_4JTC1s?si=gNb1FT-BAxKO_7xl" target="_blank" rel="noopener">BigLedger User Guide Registration&lt;/a>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>For New Users&lt;span class="hx:absolute hx:-mt-20" id="for-new-users">&lt;/span>
+&lt;a href="#for-new-users" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Registration Process&lt;/strong>: Create your BigLedger account and set up your company profile&lt;/li>
+&lt;li>&lt;strong>Initial Configuration&lt;/strong>: Configure basic settings for your business needs&lt;/li>
+&lt;li>&lt;strong>User Permissions&lt;/strong>: Learn how to manage team access and permissions&lt;/li>
+&lt;/ul>
+&lt;h3>For Existing EMP Users&lt;span class="hx:absolute hx:-mt-20" id="for-existing-emp-users">&lt;/span>
+&lt;a href="#for-existing-emp-users" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Migration Guide&lt;/strong>: Seamlessly transition from existing EMP systems&lt;/li>
+&lt;li>&lt;strong>Data Import&lt;/strong>: Transfer your existing business data&lt;/li>
+&lt;li>&lt;strong>Server-Side Permissions&lt;/strong>: Configure advanced permission settings&lt;/li>
+&lt;/ul>
+&lt;h2>Need Help?&lt;span class="hx:absolute hx:-mt-20" id="need-help">&lt;/span>
+&lt;a href="#need-help" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Our support team is ready to assist you with any questions or guidance you need.&lt;/p>
+&lt;h3>Contact Information&lt;span class="hx:absolute hx:-mt-20" id="contact-information">&lt;/span>
+&lt;a href="#contact-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>📧 Email&lt;/strong>: &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> / &lt;a href="mailto:sales@bigledger.com" >sales@bigledger.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>💬 Telegram&lt;/strong>: @leehongfay&lt;/li>
+&lt;li>&lt;strong>🌐 Website&lt;/strong>: &lt;a href="https://www.bigledger.com" target="_blank" rel="noopener">www.bigledger.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3>Additional Support Resources&lt;span class="hx:absolute hx:-mt-20" id="additional-support-resources">&lt;/span>
+&lt;a href="#additional-support-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>📚 Documentation&lt;/strong>: Comprehensive guides and tutorials&lt;/li>
+&lt;li>&lt;strong>🎥 Video Library&lt;/strong>: Step-by-step video tutorials&lt;/li>
+&lt;li>&lt;strong>💬 Community&lt;/strong>: Connect with other BigLedger users&lt;/li>
+&lt;li>&lt;strong>🛠️ Technical Support&lt;/strong>: Get help with technical issues&lt;/li>
+&lt;/ul>
+&lt;h2>What&amp;rsquo;s Next?&lt;span class="hx:absolute hx:-mt-20" id="whats-next">&lt;/span>
+&lt;a href="#whats-next" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Ready to dive deeper into BigLedger? Here are your next steps:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Complete Your Setup&lt;/strong>: Finish configuring your company settings&lt;/li>
+&lt;li>&lt;strong>Explore Core Modules&lt;/strong>: Start with the modules most relevant to your business&lt;/li>
+&lt;li>&lt;strong>Import Your Data&lt;/strong>: Bring in your existing business information&lt;/li>
+&lt;li>&lt;strong>Train Your Team&lt;/strong>: Ensure everyone knows how to use the system effectively&lt;/li>
+&lt;li>&lt;strong>Go Live&lt;/strong>: Start managing your business operations with BigLedger&lt;/li>
+&lt;/ol>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pro Tip&lt;/strong>: Start with our most popular modules - Financial Accounting, Inventory Management, and CRM - to see immediate benefits in your daily operations.&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Member Label List</title><link>https://wiki.bigledger.com/user-guide/administration/member-label-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-label-list/</guid><description>
+&lt;p>&lt;strong>Page ID&lt;/strong>: 3317499439
+&lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:25:30.383Z
 5.Member label list: Create Member Label list&amp;gt;Compulsory information&amp;gt;Edit
 5.1. Please click on &amp;lsquo;Member label list&amp;rsquo; from the module list and click &amp;lsquo;+&amp;rsquo; button to create a new member label list.
-5.2. Please fill up the compulsory (&lt;em&gt;) information for creating the member label list. After filled up all Compulsory (&lt;/em&gt;) information, Please click &amp;lsquo;Create&amp;rsquo; to add a new Member label list. Compulsory information:
+5.2. Please fill up the compulsory (&lt;em>) information for creating the member label list. After filled up all Compulsory (&lt;/em>) information, Please click &amp;lsquo;Create&amp;rsquo; to add a new Member label list. Compulsory information:
 Label list Code
 Label list name
 5.3. After adding the member label list, it will be listed in the main page. Please click on the member to edit it.
@@ -369,25 +91,12 @@ After changing the details of the field, please click &amp;lsquo;save&amp;rsquo;
 Please click &amp;lsquo;delete&amp;rsquo; to remove the member label list from the list.
 5.3.2. In the labels tab, you can add labels to the label list.
 Please click &amp;lsquo;+&amp;rsquo; button to add labels.
-Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Member Listing</title>
-      <link>http://localhost:53975/user-guide/member-listing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/member-listing/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3317564816
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-26T04:28:05.761Z
+Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p></description></item><item><title>Member Listing</title><link>https://wiki.bigledger.com/user-guide/administration/member-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-listing/</guid><description>
+&lt;p>&lt;strong>Page ID&lt;/strong>: 3317564816
+&lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:28:05.761Z
 2. Member Listing: Create New Member &amp;gt; Membership Edit
 2.1. Please click the &amp;lsquo;+&amp;rsquo; button to Create a new Member.
-Please fill up the compulsory (&lt;em&gt;) information for creating the Member. After filled up all Compulsory (&lt;/em&gt;) information, Please click &amp;lsquo;Save&amp;rsquo; to add a new Member. Compulsory information:
+Please fill up the compulsory (&lt;em>) information for creating the Member. After filled up all Compulsory (&lt;/em>) information, Please click &amp;lsquo;Save&amp;rsquo; to add a new Member. Compulsory information:
 Member Name
 Email
 Country Code
@@ -413,67 +122,18 @@ Please click &amp;lsquo;+&amp;rsquo; button to add point adjustment.
 The following fields are compulsory:
 Branch
 Point Currency
-Item code &amp;amp; name&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pricing Scheme</title>
-      <link>http://localhost:53975/user-guide/pricing-scheme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/pricing-scheme/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3313139757
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2024-11-12T21:27:30.118Z
-Once a user clicks on the pricing scheme module it will land on the pricing scheme listing page. The module is used to create the template for pricing that can be also used in transactional applets such as POS, GRN, etc. In this module you can only create the template/scheme, the price can be added later for each specific item in the &amp;ldquo;Item Maintenance&amp;rdquo; module
-For example, in the POS applet, users can go to the settings and choose which Pricing Scheme they want to use for a minimum price, maximum price or the retail price as shown in the interface below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:53975/screenshots/placeholder-pricing-scheme.svg&#34; alt=&#34;Pricing Scheme Configuration&#34;  loading=&#34;lazy&#34; /&gt;
-&lt;em&gt;Figure 1: Pricing Scheme Configuration in POS Settings - showing Malaysian tax-compliant pricing options&lt;/em&gt;
-Users also may search pricing schemes in the listing itself using fuzzy search in the AG-Grid listing. Pricing schemes can be searched in general search or advanced search:&lt;/p&gt;
-&lt;h2&gt;4.1 Pricing Scheme Create﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;41-pricing-scheme-create&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#41-pricing-scheme-create&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To create a Pricing Scheme, the user should click on the &amp;ldquo;+&amp;rdquo; button, once clicked it will open a second container where the user can fill up general details on the pricing scheme such as:
-Pricing scheme Code - code is created by the system.
-Pricing Scheme Name - compulsory to fill up
-Description - not compulsory&lt;/p&gt;
-&lt;h2&gt;4.2 Pricing Scheme Edit﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;42-pricing-scheme-edit&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#42-pricing-scheme-edit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If the user wishes to edit the Pricing Scheme they can click on a specific pricing scheme in the listing, once clicked it will redirect to the second container where the user can edit the remaining information.
-There are three tabs included In the Pricing Scheme Edit&lt;/p&gt;
-&lt;h3&gt;4.2.1 Main Tab﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;421-main-tab&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#421-main-tab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Pricing Code - cannot be edited
-Pricing name - The user able to edit the name
-Description - The user can edit the description. the description is not compulsory
-Status - The user can specify whether the pricing scheme is active or inactive
-In addition, users may delete the pricing scheme if they wish to. Users may click on the &amp;ldquo;Remove&amp;rdquo; button at the bottom.&lt;/p&gt;
-&lt;h3&gt;4.2.2 Copy Tab﻿&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;422-copy-tab&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#422-copy-tab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The user selects one item from the Pricing list in the dropdown list and makes some amendments to the pricing.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>http://localhost:53975/user-guide/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53975/user-guide/team/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Page ID&lt;/strong&gt;: 3321069573
-&lt;strong&gt;Last Updated&lt;/strong&gt;: 2021-07-27T06:18:28.861Z
+Item code &amp;amp; name&lt;/p></description></item><item><title>Team</title><link>https://wiki.bigledger.com/user-guide/administration/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/team/</guid><description>
+&lt;p>&lt;strong>Page ID&lt;/strong>: 3321069573
+&lt;strong>Last Updated&lt;/strong>: 2021-07-27T06:18:28.861Z
 2. Team: Create Team &amp;gt; Compulsory Information&amp;gt; Edit (General info, Members,Import Users, Permission)
 2.1 Please click the &amp;lsquo;+&amp;rsquo; button to add a new team.
-2.2 Please fill up the compulsory (&lt;em&gt;) information for creating the team.Compulsory information:
+2.2 Please fill up the compulsory (&lt;em>) information for creating the team.Compulsory information:
 Team Name
 Team Code
 Team Email
 Please select the Team Visibility from the list.
 Please select the Team Joining from the list
-After filled up all Compulsory (&lt;/em&gt;) information, Please click &amp;lsquo;Create&amp;rsquo; to add a new team.
+After filled up all Compulsory (&lt;/em>) information, Please click &amp;lsquo;Create&amp;rsquo; to add a new team.
 2.3 After adding the team, it will be listed in the main page. Please click on the team to edit it.
 2.4 Please edit the Team general information from the &amp;lsquo;Edit general info&amp;rsquo; tab.
 Only the following fields can be edited:
@@ -484,20 +144,1598 @@ Team Joining
 Team Status
 2.5 Please add or edit members of the team from the &amp;lsquo;Edit Members&amp;rsquo; tab.
 2.5.1.Please click the &amp;lsquo;+&amp;rsquo; button to add users to the team.
-Please search user email-Once the users sign-up in the &lt;a href=&#34;http://akaun.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://akaun.com&lt;/a&gt; , their email will be listed in &amp;lsquo;Select Email&amp;rsquo;.
+Please search user email-Once the users sign-up in the &lt;a href="http://akaun.com" target="_blank" rel="noopener">http://akaun.com&lt;/a> , their email will be listed in &amp;lsquo;Select Email&amp;rsquo;.
 Please select the rank-Please &amp;lsquo;Select Rank&amp;rsquo; to differentiate the role of the member.
 Please select the status
 Please click the &amp;lsquo;Add&amp;rsquo; button to add the user to the team.
-2.5.2. After adding the members in the team,  Please click the Member from the list to edit or Delete it.
+2.5.2. After adding the members in the team, Please click the Member from the list to edit or Delete it.
 2.6 Please import Users to the Team from the &amp;lsquo;Import Users&amp;rsquo; tab.
 Please follow the instructions or download the &amp;lsquo;simple format&amp;rsquo; for uploading the correct file.
 Please click &amp;lsquo;Upload file&amp;rsquo; to import the users in the team
 2.7 Please add or edit permission from the &amp;lsquo;Edit Permission&amp;rsquo; tab.
 You can &amp;lsquo;Select permission&amp;rsquo; from the list to Add permission.
-After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permission.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permission.&lt;/p></description></item><item><title>Creating Items in Your Catalog</title><link>https://wiki.bigledger.com/user-guide/basic-operations/creating-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/creating-an-item/</guid><description>
+&lt;p>Learn how to add products and services to your BigLedger catalog with proper configuration for optimal inventory management and e-commerce integration.&lt;/p>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Items are the foundation of your business operations in BigLedger. Whether you&amp;rsquo;re selling physical products, digital services, or bundled offerings, proper item setup ensures accurate inventory tracking, pricing, and integration across all your sales channels.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Before You Start&lt;/strong>: Ensure you have the necessary permissions to create items. Contact your system administrator if you don&amp;rsquo;t see the &amp;ldquo;+&amp;rdquo; button or Create options.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Step-by-Step Creation Process&lt;span class="hx:absolute hx:-mt-20" id="step-by-step-creation-process">&lt;/span>
+&lt;a href="#step-by-step-creation-process" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1. Access the Item Creation Interface&lt;span class="hx:absolute hx:-mt-20" id="1-access-the-item-creation-interface">&lt;/span>
+&lt;a href="#1-access-the-item-creation-interface" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Navigate to &lt;strong>Item Management&lt;/strong> from your main menu&lt;/li>
+&lt;li>Click the &lt;strong>&amp;quot;+&amp;quot; button&lt;/strong> or &lt;strong>&amp;ldquo;Create New Item&amp;rdquo;&lt;/strong> button&lt;/li>
+&lt;li>The Create Item dialog will open in a new container&lt;/li>
+&lt;/ol>
+&lt;h3>2. Complete Required Information&lt;span class="hx:absolute hx:-mt-20" id="2-complete-required-information">&lt;/span>
+&lt;a href="#2-complete-required-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Fill in the following mandatory fields to create your item:&lt;/p>
+&lt;h4>Essential Details&lt;span class="hx:absolute hx:-mt-20" id="essential-details">&lt;/span>
+&lt;a href="#essential-details" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>&lt;strong>Item Code&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Automatically generated by the system&lt;/li>
+&lt;li>Used for internal tracking and identification&lt;/li>
+&lt;li>Cannot be modified after creation&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Item Name&lt;/strong> &lt;em>(Required)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Clear, descriptive name for your product or service&lt;/li>
+&lt;li>This will appear in all transactions and reports&lt;/li>
+&lt;li>Best practice: Use consistent naming conventions&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Type&lt;/strong> &lt;em>(Required)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Select from the dropdown menu based on your item&amp;rsquo;s nature:
+&lt;ul>
+&lt;li>&lt;strong>Product&lt;/strong>: Physical goods you sell or manufacture&lt;/li>
+&lt;li>&lt;strong>Service&lt;/strong>: Intangible services you provide&lt;/li>
+&lt;li>&lt;strong>Bundle&lt;/strong>: Combination of products and/or services&lt;/li>
+&lt;li>&lt;strong>Digital&lt;/strong>: Downloadable or digital products&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Base Unit of Measure (UOM)&lt;/strong> &lt;em>(Required)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Choose the smallest unit for tracking this item&lt;/li>
+&lt;li>Common examples: Unit, Kilogram, Meter, Liter, Hour, Piece&lt;/li>
+&lt;li>This cannot be changed once the item is created&lt;/li>
+&lt;li>All transactions will be based on this UOM&lt;/li>
+&lt;/ul>
+&lt;h4>Optional Information&lt;span class="hx:absolute hx:-mt-20" id="optional-information">&lt;/span>
+&lt;a href="#optional-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>&lt;strong>Item Description&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Detailed description for internal reference&lt;/li>
+&lt;li>Helpful for complex products or special handling instructions&lt;/li>
+&lt;li>Appears in reports and can assist with customer inquiries&lt;/li>
+&lt;/ul>
+&lt;h3>3. Configure E-Commerce Integration&lt;span class="hx:absolute hx:-mt-20" id="3-configure-e-commerce-integration">&lt;/span>
+&lt;a href="#3-configure-e-commerce-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>EcomSync Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Check the &lt;strong>&amp;ldquo;EcomSync&amp;rdquo;&lt;/strong> checkbox to enable multi-channel synchronization&lt;/li>
+&lt;li>This syncs the item to the EcomSync Applet for online store integration&lt;/li>
+&lt;li>Recommended for all items you plan to sell online&lt;/li>
+&lt;/ul>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>E-Commerce Tip&lt;/strong>: Always enable EcomSync for retail items, even if you&amp;rsquo;re not currently selling online. This future-proofs your catalog for when you expand to e-commerce platforms.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>4. Save and Verify&lt;span class="hx:absolute hx:-mt-20" id="4-save-and-verify">&lt;/span>
+&lt;a href="#4-save-and-verify" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Click &lt;strong>&amp;ldquo;Save&amp;rdquo;&lt;/strong> or &lt;strong>&amp;ldquo;Create Item&amp;rdquo;&lt;/strong> to save your new item&lt;/li>
+&lt;li>A success message will confirm the item has been created&lt;/li>
+&lt;li>You&amp;rsquo;ll be automatically redirected to the &lt;strong>Edit Item&lt;/strong> page&lt;/li>
+&lt;li>Verify all information is correct before proceeding&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2>After Creation: Next Steps&lt;span class="hx:absolute hx:-mt-20" id="after-creation-next-steps">&lt;/span>
+&lt;a href="#after-creation-next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Once your item is created successfully, you can:&lt;/p>
+&lt;h3>Immediate Actions&lt;span class="hx:absolute hx:-mt-20" id="immediate-actions">&lt;/span>
+&lt;a href="#immediate-actions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Edit Additional Details&lt;/strong>: Add pricing, categories, and specifications&lt;/li>
+&lt;li>&lt;strong>Upload Images&lt;/strong>: Add product photos for e-commerce integration&lt;/li>
+&lt;li>&lt;strong>Set Pricing&lt;/strong>: Configure pricing schemes and customer-specific prices&lt;/li>
+&lt;li>&lt;strong>Configure Categories&lt;/strong>: Organize items for better management&lt;/li>
+&lt;/ul>
+&lt;h3>Advanced Configuration&lt;span class="hx:absolute hx:-mt-20" id="advanced-configuration">&lt;/span>
+&lt;a href="#advanced-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Multi-location Setup&lt;/strong>: Configure stock levels for different warehouses&lt;/li>
+&lt;li>&lt;strong>Vendor Information&lt;/strong>: Link suppliers and purchase costs&lt;/li>
+&lt;li>&lt;strong>Barcode Generation&lt;/strong>: Create barcodes for POS and warehouse operations&lt;/li>
+&lt;li>&lt;strong>Tax Configuration&lt;/strong>: Set appropriate tax rates and codes&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Best Practices&lt;span class="hx:absolute hx:-mt-20" id="best-practices">&lt;/span>
+&lt;a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Naming Conventions&lt;span class="hx:absolute hx:-mt-20" id="naming-conventions">&lt;/span>
+&lt;a href="#naming-conventions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Use consistent, descriptive names&lt;/li>
+&lt;li>Include key specifications in the name when relevant&lt;/li>
+&lt;li>Avoid special characters that might cause integration issues&lt;/li>
+&lt;/ul>
+&lt;h3>Organization Strategy&lt;span class="hx:absolute hx:-mt-20" id="organization-strategy">&lt;/span>
+&lt;a href="#organization-strategy" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Create a logical category structure before adding many items&lt;/li>
+&lt;li>Use consistent UOM choices across similar items&lt;/li>
+&lt;li>Plan your item codes if using custom numbering&lt;/li>
+&lt;/ul>
+&lt;h3>E-Commerce Optimization&lt;span class="hx:absolute hx:-mt-20" id="e-commerce-optimization">&lt;/span>
+&lt;a href="#e-commerce-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Always enable EcomSync for sellable items&lt;/li>
+&lt;li>Prepare high-quality product images&lt;/li>
+&lt;li>Write customer-friendly descriptions&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Common Issues and Solutions&lt;span class="hx:absolute hx:-mt-20" id="common-issues-and-solutions">&lt;/span>
+&lt;a href="#common-issues-and-solutions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Problem&lt;/strong>: Cannot see the Create button
+&lt;strong>Solution&lt;/strong>: Check your user permissions with your administrator&lt;/p>
+&lt;p>&lt;strong>Problem&lt;/strong>: EcomSync checkbox is grayed out
+&lt;strong>Solution&lt;/strong>: Ensure the EcomSync applet is installed and activated&lt;/p>
+&lt;p>&lt;strong>Problem&lt;/strong>: UOM options are limited
+&lt;strong>Solution&lt;/strong>: Contact your administrator to add custom units of measure&lt;/p>
+&lt;hr>
+&lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
+&lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After creating your items, continue with:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Management&lt;/a>&lt;/strong> - Learn comprehensive item maintenance&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/editing-an-item/" >Editing Items&lt;/a>&lt;/strong> - Modify existing items and specifications&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Set up flexible pricing strategies&lt;/li>
+&lt;/ol>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Success Indicator&lt;/strong>: You&amp;rsquo;ll know your item is properly set up when it appears in your item listings and is available for use in transactions, quotes, and purchase orders.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Related Topics&lt;span class="hx:absolute hx:-mt-20" id="related-topics">&lt;/span>
+&lt;a href="#related-topics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding different item classifications&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Setting up pricing&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Stock control and tracking&lt;/li>
+&lt;/ul></description></item><item><title>Editing Items &amp; Updating Product Information</title><link>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
+&lt;h1>Editing Items &amp;amp; Updating Product Information&lt;/h1>&lt;p>Learn how to efficiently modify existing items in your BigLedger catalog, update specifications, manage marketplace synchronization, and maintain accurate product information across all business operations.&lt;/p>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The item editing interface provides comprehensive access to all aspects of your product and service information. From basic details to complex marketplace integrations, this powerful editing environment ensures your catalog stays current, accurate, and optimized for all business scenarios.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Before You Start&lt;/strong>: Ensure you have appropriate permissions to edit items. Changes to items may affect pricing, inventory, and marketplace listings across all integrated platforms.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Accessing Item Editing&lt;span class="hx:absolute hx:-mt-20" id="accessing-item-editing">&lt;/span>
+&lt;a href="#accessing-item-editing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Navigation to Edit Mode&lt;span class="hx:absolute hx:-mt-20" id="navigation-to-edit-mode">&lt;/span>
+&lt;a href="#navigation-to-edit-mode" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Navigate to Item Management&lt;/strong> from your main menu&lt;/li>
+&lt;li>&lt;strong>Browse or search&lt;/strong> for the item you want to modify&lt;/li>
+&lt;li>&lt;strong>Click on the item&lt;/strong> from the listings to open the editing interface&lt;/li>
+&lt;li>&lt;strong>Access comprehensive tabs&lt;/strong> for different aspects of item management&lt;/li>
+&lt;/ol>
+&lt;h3>Edit Interface Overview&lt;span class="hx:absolute hx:-mt-20" id="edit-interface-overview">&lt;/span>
+&lt;a href="#edit-interface-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The editing interface provides organized access to all item information through specialized tabs:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Main Details&lt;/strong>: Core item information and business settings&lt;/li>
+&lt;li>&lt;strong>Item Categories&lt;/strong>: Organizational structure and classification&lt;/li>
+&lt;li>&lt;strong>Dimension Details&lt;/strong>: Physical specifications and handling requirements&lt;/li>
+&lt;li>&lt;strong>Manage Images&lt;/strong>: Visual assets and multimedia content&lt;/li>
+&lt;li>&lt;strong>Marketplace Integration&lt;/strong>: E-commerce platform synchronization&lt;/li>
+&lt;li>&lt;strong>Stock Management&lt;/strong>: Inventory allocation and availability tracking&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Comprehensive Editing Capabilities&lt;span class="hx:absolute hx:-mt-20" id="comprehensive-editing-capabilities">&lt;/span>
+&lt;a href="#comprehensive-editing-capabilities" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Main Details Tab&lt;span class="hx:absolute hx:-mt-20" id="main-details-tab">&lt;/span>
+&lt;a href="#main-details-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Core Information Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Item Code&lt;/strong>: View system-generated identifier (read-only)&lt;/li>
+&lt;li>&lt;strong>Item Name&lt;/strong>: Update product or service names for clarity&lt;/li>
+&lt;li>&lt;strong>Description&lt;/strong>: Modify detailed descriptions and specifications&lt;/li>
+&lt;li>&lt;strong>Type Configuration&lt;/strong>: Adjust item type classifications as needed&lt;/li>
+&lt;li>&lt;strong>Status Management&lt;/strong>: Control active/inactive/discontinued status&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Business Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Unit of Measure&lt;/strong>: View base UOM (established during creation)&lt;/li>
+&lt;li>&lt;strong>Tax Settings&lt;/strong>: Update tax codes and compliance requirements&lt;/li>
+&lt;li>&lt;strong>GL Integration&lt;/strong>: Modify accounting integration settings&lt;/li>
+&lt;li>&lt;strong>Vendor Management&lt;/strong>: Update supplier information and relationships&lt;/li>
+&lt;/ul>
+&lt;h3>Item Categories Tab&lt;span class="hx:absolute hx:-mt-20" id="item-categories-tab">&lt;/span>
+&lt;a href="#item-categories-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Organizational Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Category Assignment&lt;/strong>: Update primary and secondary categories&lt;/li>
+&lt;li>&lt;strong>Tag Management&lt;/strong>: Add, remove, or modify organizational tags&lt;/li>
+&lt;li>&lt;strong>Search Optimization&lt;/strong>: Update keywords and search terms&lt;/li>
+&lt;li>&lt;strong>Classification Updates&lt;/strong>: Refine item classifications for better organization&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits of Proper Categorization&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Improved searchability and navigation&lt;/li>
+&lt;li>Better reporting and analytics&lt;/li>
+&lt;li>Enhanced e-commerce organization&lt;/li>
+&lt;li>Streamlined inventory management&lt;/li>
+&lt;/ul>
+&lt;h3>Dimension Details Tab&lt;span class="hx:absolute hx:-mt-20" id="dimension-details-tab">&lt;/span>
+&lt;a href="#dimension-details-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Physical Specifications&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Weight Management&lt;/strong>: Update item weight for shipping calculations&lt;/li>
+&lt;li>&lt;strong>Dimension Updates&lt;/strong>: Modify length, width, height measurements&lt;/li>
+&lt;li>&lt;strong>Volume Configuration&lt;/strong>: Adjust cubic measurements and space requirements&lt;/li>
+&lt;li>&lt;strong>Special Handling&lt;/strong>: Update flags for fragile, hazardous, or special items&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Operational Settings&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Storage Requirements&lt;/strong>: Modify environmental storage needs&lt;/li>
+&lt;li>&lt;strong>Shelf Life&lt;/strong>: Update expiration tracking for perishable items&lt;/li>
+&lt;li>&lt;strong>Batch Tracking&lt;/strong>: Enable or modify lot number tracking&lt;/li>
+&lt;li>&lt;strong>Serial Numbers&lt;/strong>: Configure individual item tracking requirements&lt;/li>
+&lt;/ul>
+&lt;h3>Manage Images Tab&lt;span class="hx:absolute hx:-mt-20" id="manage-images-tab">&lt;/span>
+&lt;a href="#manage-images-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Visual Asset Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Primary Image&lt;/strong>: Update main product photo for all platforms&lt;/li>
+&lt;li>&lt;strong>Additional Images&lt;/strong>: Add, remove, or replace supplementary images&lt;/li>
+&lt;li>&lt;strong>Image Optimization&lt;/strong>: Automatic sizing for different platforms and uses&lt;/li>
+&lt;li>&lt;strong>Alt Text Management&lt;/strong>: Update descriptions for accessibility and SEO&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>E-Commerce Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Marketplace Sync&lt;/strong>: Distribute images to all connected sales channels&lt;/li>
+&lt;li>&lt;strong>Quality Standards&lt;/strong>: Ensure images meet platform requirements&lt;/li>
+&lt;li>&lt;strong>Version Control&lt;/strong>: Track image changes and updates&lt;/li>
+&lt;/ul>
+&lt;h3>Marketplace Tab&lt;span class="hx:absolute hx:-mt-20" id="marketplace-tab">&lt;/span>
+&lt;a href="#marketplace-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Multi-Channel Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Platform Configuration&lt;/strong>: Update settings for Shopify, Lazada, Shopee, and other platforms&lt;/li>
+&lt;li>&lt;strong>Channel-Specific Pricing&lt;/strong>: Modify prices for different marketplaces&lt;/li>
+&lt;li>&lt;strong>Inventory Allocation&lt;/strong>: Adjust stock distribution across channels&lt;/li>
+&lt;li>&lt;strong>Shipping Configuration&lt;/strong>: Update platform-specific shipping options&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Synchronization Control&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>EcomSync Integration&lt;/strong>: Manage central synchronization settings&lt;/li>
+&lt;li>&lt;strong>Real-Time Updates&lt;/strong>: Configure automatic sync preferences&lt;/li>
+&lt;li>&lt;strong>Conflict Resolution&lt;/strong>: Handle discrepancies between platforms&lt;/li>
+&lt;li>&lt;strong>Performance Monitoring&lt;/strong>: Track sync status and success rates&lt;/li>
+&lt;/ul>
+&lt;h3>Stock Allocation Tab&lt;span class="hx:absolute hx:-mt-20" id="stock-allocation-tab">&lt;/span>
+&lt;a href="#stock-allocation-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Inventory Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Current Stock Levels&lt;/strong>: View real-time inventory across all locations&lt;/li>
+&lt;li>&lt;strong>Reserved Quantities&lt;/strong>: Manage stock allocated to specific orders or customers&lt;/li>
+&lt;li>&lt;strong>Reorder Management&lt;/strong>: Update minimum stock levels and reorder points&lt;/li>
+&lt;li>&lt;strong>Multi-Location&lt;/strong>: Distribute and manage stock across warehouses&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Advanced Stock Features&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Transfer Management&lt;/strong>: Move stock between locations&lt;/li>
+&lt;li>&lt;strong>Adjustment Tracking&lt;/strong>: Record and track inventory corrections&lt;/li>
+&lt;li>&lt;strong>Valuation Methods&lt;/strong>: Configure cost tracking and valuation approaches&lt;/li>
+&lt;li>&lt;strong>Analytics Integration&lt;/strong>: Connect with inventory reporting and forecasting&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Best Practices for Item Editing&lt;span class="hx:absolute hx:-mt-20" id="best-practices-for-item-editing">&lt;/span>
+&lt;a href="#best-practices-for-item-editing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Data Consistency&lt;span class="hx:absolute hx:-mt-20" id="data-consistency">&lt;/span>
+&lt;a href="#data-consistency" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Maintain Standards&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Use consistent naming conventions across all items&lt;/li>
+&lt;li>Keep descriptions clear, accurate, and up-to-date&lt;/li>
+&lt;li>Ensure categorization follows your established system&lt;/li>
+&lt;li>Regular review and cleanup of item information&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Integration Considerations&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Verify changes sync properly across all platforms&lt;/li>
+&lt;li>Test marketplace integration after significant updates&lt;/li>
+&lt;li>Monitor accounting integration for GL and tax changes&lt;/li>
+&lt;li>Confirm inventory tracking accuracy after modifications&lt;/li>
+&lt;/ul>
+&lt;h3>Change Management&lt;span class="hx:absolute hx:-mt-20" id="change-management">&lt;/span>
+&lt;a href="#change-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Planning Updates&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Review impact of changes on existing orders and quotations&lt;/li>
+&lt;li>Consider seasonal or promotional timing for updates&lt;/li>
+&lt;li>Plan bulk updates during low-activity periods&lt;/li>
+&lt;li>Document significant changes for audit trails&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Testing and Validation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Test changes in non-production environment when possible&lt;/li>
+&lt;li>Verify marketplace synchronization after updates&lt;/li>
+&lt;li>Check pricing calculations and tax compliance&lt;/li>
+&lt;li>Confirm inventory tracking and reporting accuracy&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Common Editing Scenarios&lt;span class="hx:absolute hx:-mt-20" id="common-editing-scenarios">&lt;/span>
+&lt;a href="#common-editing-scenarios" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Seasonal Updates&lt;span class="hx:absolute hx:-mt-20" id="seasonal-updates">&lt;/span>
+&lt;a href="#seasonal-updates" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Update descriptions for seasonal relevance&lt;/li>
+&lt;li>Modify images for current marketing campaigns&lt;/li>
+&lt;li>Adjust categories for seasonal organization&lt;/li>
+&lt;li>Update dimensions if packaging changes&lt;/li>
+&lt;/ul>
+&lt;h3>Price and Cost Changes&lt;span class="hx:absolute hx:-mt-20" id="price-and-cost-changes">&lt;/span>
+&lt;a href="#price-and-cost-changes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Coordinate with &lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
+&lt;li>Update vendor costs and margin calculations&lt;/li>
+&lt;li>Modify marketplace-specific pricing&lt;/li>
+&lt;li>Review and update tax classifications&lt;/li>
+&lt;/ul>
+&lt;h3>Marketplace Expansion&lt;span class="hx:absolute hx:-mt-20" id="marketplace-expansion">&lt;/span>
+&lt;a href="#marketplace-expansion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Configure new platform integrations&lt;/li>
+&lt;li>Optimize images for new marketplace requirements&lt;/li>
+&lt;li>Update descriptions for different audiences&lt;/li>
+&lt;li>Set up platform-specific inventory allocation&lt;/li>
+&lt;/ul>
+&lt;h3>Compliance Updates&lt;span class="hx:absolute hx:-mt-20" id="compliance-updates">&lt;/span>
+&lt;a href="#compliance-updates" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Update tax codes for regulatory changes&lt;/li>
+&lt;li>Modify descriptions for compliance requirements&lt;/li>
+&lt;li>Update dimensions for shipping regulations&lt;/li>
+&lt;li>Revise categories for industry standards&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Integration Impact&lt;span class="hx:absolute hx:-mt-20" id="integration-impact">&lt;/span>
+&lt;a href="#integration-impact" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Accounting Integration&lt;span class="hx:absolute hx:-mt-20" id="accounting-integration">&lt;/span>
+&lt;a href="#accounting-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>GL Accounts&lt;/strong>: Changes affect financial reporting&lt;/li>
+&lt;li>&lt;strong>Tax Codes&lt;/strong>: Updates impact tax calculations and compliance&lt;/li>
+&lt;li>&lt;strong>Cost Tracking&lt;/strong>: Modifications influence profitability reporting&lt;/li>
+&lt;li>&lt;strong>Budget Planning&lt;/strong>: Updates affect financial planning and forecasting&lt;/li>
+&lt;/ul>
+&lt;h3>Sales Operations&lt;span class="hx:absolute hx:-mt-20" id="sales-operations">&lt;/span>
+&lt;a href="#sales-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>CRM Integration&lt;/strong>: Changes reflect in customer-facing documents&lt;/li>
+&lt;li>&lt;strong>Quotation Systems&lt;/strong>: Updates appear in new quotes automatically&lt;/li>
+&lt;li>&lt;strong>Order Processing&lt;/strong>: Modifications affect order management and fulfillment&lt;/li>
+&lt;li>&lt;strong>Customer Communications&lt;/strong>: Changes impact customer-facing information&lt;/li>
+&lt;/ul>
+&lt;h3>Inventory Management&lt;span class="hx:absolute hx:-mt-20" id="inventory-management">&lt;/span>
+&lt;a href="#inventory-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Stock Tracking&lt;/strong>: Updates affect inventory management systems&lt;/li>
+&lt;li>&lt;strong>Warehouse Operations&lt;/strong>: Changes impact picking, packing, and shipping&lt;/li>
+&lt;li>&lt;strong>Procurement&lt;/strong>: Modifications influence purchase order generation&lt;/li>
+&lt;li>&lt;strong>Forecasting&lt;/strong>: Updates affect demand planning and inventory optimization&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Troubleshooting Common Issues&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting-common-issues">&lt;/span>
+&lt;a href="#troubleshooting-common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Synchronization Problems&lt;span class="hx:absolute hx:-mt-20" id="synchronization-problems">&lt;/span>
+&lt;a href="#synchronization-problems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Changes not appearing on marketplaces&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Check EcomSync status and force synchronization if needed&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular monitoring of sync status and error logs&lt;/li>
+&lt;/ul>
+&lt;h3>Data Validation Errors&lt;span class="hx:absolute hx:-mt-20" id="data-validation-errors">&lt;/span>
+&lt;a href="#data-validation-errors" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Unable to save changes due to validation failures&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Review required fields and data format requirements&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Understand field requirements before making changes&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Issues&lt;span class="hx:absolute hx:-mt-20" id="performance-issues">&lt;/span>
+&lt;a href="#performance-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Slow loading or saving of item updates&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Optimize image sizes and remove unnecessary data&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular maintenance and cleanup of item information&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
+&lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item editing, explore these related capabilities:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
+&lt;/ol>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Edit Success&lt;/strong>: Efficient item editing reduces data inconsistencies by 70% and improves marketplace performance by maintaining accurate, up-to-date product information.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
+&lt;/ul></description></item><item><title>Item Maintenance &amp; Catalog Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/</guid><description>
+&lt;p>Master the complete lifecycle of item management in BigLedger, from initial creation to ongoing maintenance, ensuring your product catalog remains accurate, organized, and optimized for all business operations.&lt;/p>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Item maintenance is crucial for effective business operations. This comprehensive guide covers all aspects of managing your product and service catalog, including detailed configurations, categorization, pricing, and integration with various business modules.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Item Management Interface&lt;span class="hx:absolute hx:-mt-20" id="item-management-interface">&lt;/span>
+&lt;a href="#item-management-interface" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Accessing Item Maintenance&lt;span class="hx:absolute hx:-mt-20" id="accessing-item-maintenance">&lt;/span>
+&lt;a href="#accessing-item-maintenance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Navigate to &lt;strong>Item Management&lt;/strong> from your main menu&lt;/li>
+&lt;li>Browse your item listings using the enhanced AG-Grid interface&lt;/li>
+&lt;li>Use search and filtering options to locate specific items&lt;/li>
+&lt;li>Click on any item to enter the comprehensive editing interface&lt;/li>
+&lt;/ol>
+&lt;h3>Item Listings Overview&lt;span class="hx:absolute hx:-mt-20" id="item-listings-overview">&lt;/span>
+&lt;a href="#item-listings-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The item listings page provides:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Advanced Search&lt;/strong>: Quick search with fuzzy matching&lt;/li>
+&lt;li>&lt;strong>Filter Options&lt;/strong>: Filter by category, type, status, and more&lt;/li>
+&lt;li>&lt;strong>Bulk Operations&lt;/strong>: Multi-select for batch updates&lt;/li>
+&lt;li>&lt;strong>Export Capabilities&lt;/strong>: Generate reports and data exports&lt;/li>
+&lt;li>&lt;strong>Visual Indicators&lt;/strong>: Stock status, sync status, and activity indicators&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Comprehensive Item Editing&lt;span class="hx:absolute hx:-mt-20" id="comprehensive-item-editing">&lt;/span>
+&lt;a href="#comprehensive-item-editing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When you select an item for editing, you&amp;rsquo;ll access multiple specialized tabs for different aspects of item management:&lt;/p>
+&lt;h3>Main Details Tab&lt;span class="hx:absolute hx:-mt-20" id="main-details-tab">&lt;/span>
+&lt;a href="#main-details-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Core Information Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Item Code&lt;/strong>: View system-generated code (read-only)&lt;/li>
+&lt;li>&lt;strong>Item Name&lt;/strong>: Update product/service names&lt;/li>
+&lt;li>&lt;strong>Description&lt;/strong>: Detailed product descriptions and specifications&lt;/li>
+&lt;li>&lt;strong>Type Configuration&lt;/strong>: Modify item type (Product, Service, Bundle, Digital)&lt;/li>
+&lt;li>&lt;strong>Status Management&lt;/strong>: Active, Inactive, Discontinued options&lt;/li>
+&lt;li>&lt;strong>Unit of Measure&lt;/strong>: View base UOM (established during creation)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Business Classifications&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Tax Configuration&lt;/strong>: Assign appropriate tax codes and rates&lt;/li>
+&lt;li>&lt;strong>GL Account Mapping&lt;/strong>: Link to accounting chart of accounts&lt;/li>
+&lt;li>&lt;strong>Vendor Information&lt;/strong>: Primary and secondary supplier details&lt;/li>
+&lt;li>&lt;strong>Internal Notes&lt;/strong>: Private administrative notes and handling instructions&lt;/li>
+&lt;/ul>
+&lt;h3>Item Categories Tab&lt;span class="hx:absolute hx:-mt-20" id="item-categories-tab">&lt;/span>
+&lt;a href="#item-categories-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Organizational Structure&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Category Assignment&lt;/strong>: Place items in logical groupings&lt;/li>
+&lt;li>&lt;strong>Sub-category Management&lt;/strong>: Detailed classification for better organization&lt;/li>
+&lt;li>&lt;strong>Tag System&lt;/strong>: Flexible tagging for cross-functional organization&lt;/li>
+&lt;li>&lt;strong>Search Optimization&lt;/strong>: Keywords for improved findability&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Category Benefits&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Streamlined navigation and browsing&lt;/li>
+&lt;li>Automated reporting and analytics grouping&lt;/li>
+&lt;li>E-commerce website organization&lt;/li>
+&lt;li>Pricing scheme application by category&lt;/li>
+&lt;/ul>
+&lt;h3>Dimension Details Tab&lt;span class="hx:absolute hx:-mt-20" id="dimension-details-tab">&lt;/span>
+&lt;a href="#dimension-details-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Physical Specifications&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Weight&lt;/strong>: Item weight for shipping calculations&lt;/li>
+&lt;li>&lt;strong>Dimensions&lt;/strong>: Length, width, height for packaging and storage&lt;/li>
+&lt;li>&lt;strong>Volume&lt;/strong>: Cubic measurements for space planning&lt;/li>
+&lt;li>&lt;strong>Special Handling&lt;/strong>: Fragile, hazardous, temperature-sensitive flags&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Operational Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Storage Requirements&lt;/strong>: Temperature, humidity, special conditions&lt;/li>
+&lt;li>&lt;strong>Shelf Life&lt;/strong>: Expiration tracking for perishable items&lt;/li>
+&lt;li>&lt;strong>Batch Tracking&lt;/strong>: Enable lot number and expiration date tracking&lt;/li>
+&lt;li>&lt;strong>Serial Number&lt;/strong>: Individual item tracking requirements&lt;/li>
+&lt;/ul>
+&lt;h3>Manage Image Tab&lt;span class="hx:absolute hx:-mt-20" id="manage-image-tab">&lt;/span>
+&lt;a href="#manage-image-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Visual Asset Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Primary Image&lt;/strong>: Main product photo for listings and documents&lt;/li>
+&lt;li>&lt;strong>Additional Images&lt;/strong>: Multiple angles, details, packaging shots&lt;/li>
+&lt;li>&lt;strong>Image Optimization&lt;/strong>: Automatic resizing for different platforms&lt;/li>
+&lt;li>&lt;strong>Alt Text&lt;/strong>: Accessibility and SEO descriptions&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>E-Commerce Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Marketplace Sync&lt;/strong>: Automatic image distribution to sales channels&lt;/li>
+&lt;li>&lt;strong>Image Standards&lt;/strong>: Size and quality requirements for different platforms&lt;/li>
+&lt;li>&lt;strong>Version Control&lt;/strong>: Track image updates and changes&lt;/li>
+&lt;/ul>
+&lt;h3>Marketplace Tab&lt;span class="hx:absolute hx:-mt-20" id="marketplace-tab">&lt;/span>
+&lt;a href="#marketplace-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Multi-Channel Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Platform Settings&lt;/strong>: Configure for Shopify, Lazada, Shopee, etc.&lt;/li>
+&lt;li>&lt;strong>Channel-Specific Pricing&lt;/strong>: Different prices for different marketplaces&lt;/li>
+&lt;li>&lt;strong>Inventory Allocation&lt;/strong>: Reserve stock for specific channels&lt;/li>
+&lt;li>&lt;strong>Shipping Options&lt;/strong>: Platform-specific shipping configurations&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Sync Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>EcomSync Integration&lt;/strong>: Central synchronization hub&lt;/li>
+&lt;li>&lt;strong>Real-time Updates&lt;/strong>: Automatic stock and price synchronization&lt;/li>
+&lt;li>&lt;strong>Conflict Resolution&lt;/strong>: Handle discrepancies between platforms&lt;/li>
+&lt;li>&lt;strong>Performance Analytics&lt;/strong>: Track sales across all channels&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Advanced Item Management&lt;span class="hx:absolute hx:-mt-20" id="advanced-item-management">&lt;/span>
+&lt;a href="#advanced-item-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Create Single Tab&lt;span class="hx:absolute hx:-mt-20" id="create-single-tab">&lt;/span>
+&lt;a href="#create-single-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Individual Item Creation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Quick Add&lt;/strong>: Streamlined process for single items&lt;/li>
+&lt;li>&lt;strong>Template Usage&lt;/strong>: Apply predefined item templates&lt;/li>
+&lt;li>&lt;strong>Bulk Field Population&lt;/strong>: Copy common settings from existing items&lt;/li>
+&lt;li>&lt;strong>Validation&lt;/strong>: Real-time error checking and required field validation&lt;/li>
+&lt;/ul>
+&lt;h3>Create Group Item Tab&lt;span class="hx:absolute hx:-mt-20" id="create-group-item-tab">&lt;/span>
+&lt;a href="#create-group-item-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Bulk Item Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>CSV Import&lt;/strong>: Upload multiple items simultaneously&lt;/li>
+&lt;li>&lt;strong>Template Download&lt;/strong>: Get properly formatted import templates&lt;/li>
+&lt;li>&lt;strong>Data Validation&lt;/strong>: Pre-import checking and error reporting&lt;/li>
+&lt;li>&lt;strong>Progress Tracking&lt;/strong>: Monitor bulk operation status&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Group Operations&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Category Assignment&lt;/strong>: Apply categories to multiple items&lt;/li>
+&lt;li>&lt;strong>Pricing Updates&lt;/strong>: Bulk pricing changes across item groups&lt;/li>
+&lt;li>&lt;strong>Status Changes&lt;/strong>: Mass activation/deactivation of items&lt;/li>
+&lt;li>&lt;strong>Export Functions&lt;/strong>: Generate item lists and reports&lt;/li>
+&lt;/ul>
+&lt;h3>Update and Delete Operations&lt;span class="hx:absolute hx:-mt-20" id="update-and-delete-operations">&lt;/span>
+&lt;a href="#update-and-delete-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Item Updates&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Version Control&lt;/strong>: Track all changes with timestamps and user attribution&lt;/li>
+&lt;li>&lt;strong>Approval Workflows&lt;/strong>: Require management approval for critical changes&lt;/li>
+&lt;li>&lt;strong>Change Notifications&lt;/strong>: Alert relevant team members of modifications&lt;/li>
+&lt;li>&lt;strong>Rollback Capability&lt;/strong>: Revert to previous versions when needed&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Item Deletion&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Safety Checks&lt;/strong>: Prevent deletion of items with transaction history&lt;/li>
+&lt;li>&lt;strong>Soft Delete&lt;/strong>: Archive items instead of permanent removal&lt;/li>
+&lt;li>&lt;strong>Cascade Effects&lt;/strong>: Understanding impact on related records&lt;/li>
+&lt;li>&lt;strong>Data Cleanup&lt;/strong>: Proper handling of associated data&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Stock and Inventory Management&lt;span class="hx:absolute hx:-mt-20" id="stock-and-inventory-management">&lt;/span>
+&lt;a href="#stock-and-inventory-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Stock Availability Tab&lt;span class="hx:absolute hx:-mt-20" id="stock-availability-tab">&lt;/span>
+&lt;a href="#stock-availability-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Real-Time Inventory Tracking&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Current Stock&lt;/strong>: Live inventory levels across all locations&lt;/li>
+&lt;li>&lt;strong>Available to Sell&lt;/strong>: Stock minus reserved quantities&lt;/li>
+&lt;li>&lt;strong>Reorder Levels&lt;/strong>: Minimum stock thresholds and automatic alerts&lt;/li>
+&lt;li>&lt;strong>Lead Times&lt;/strong>: Supplier delivery schedules and planning&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Multi-Location Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Warehouse Distribution&lt;/strong>: Stock levels by location&lt;/li>
+&lt;li>&lt;strong>Transfer Tracking&lt;/strong>: Inter-location stock movements&lt;/li>
+&lt;li>&lt;strong>Location-Specific&lt;/strong>: Different stock policies for different warehouses&lt;/li>
+&lt;li>&lt;strong>Centralized Control&lt;/strong>: Master view of all inventory locations&lt;/li>
+&lt;/ul>
+&lt;h3>Stock Balance Tab&lt;span class="hx:absolute hx:-mt-20" id="stock-balance-tab">&lt;/span>
+&lt;a href="#stock-balance-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Historical Analysis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Stock Movement History&lt;/strong>: Complete audit trail of all inventory changes&lt;/li>
+&lt;li>&lt;strong>Adjustment Records&lt;/strong>: Manual stock corrections and reasons&lt;/li>
+&lt;li>&lt;strong>Valuation Methods&lt;/strong>: FIFO, LIFO, weighted average cost tracking&lt;/li>
+&lt;li>&lt;strong>Variance Analysis&lt;/strong>: Identify discrepancies and investigate causes&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Reporting and Analytics&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Stock Aging&lt;/strong>: Identify slow-moving and obsolete inventory&lt;/li>
+&lt;li>&lt;strong>Turn Rate Analysis&lt;/strong>: Inventory velocity and efficiency metrics&lt;/li>
+&lt;li>&lt;strong>Cost Analysis&lt;/strong>: Track inventory investment and carrying costs&lt;/li>
+&lt;li>&lt;strong>Forecasting Data&lt;/strong>: Historical data for demand planning&lt;/li>
+&lt;/ul>
+&lt;h3>Sales Order Tab&lt;span class="hx:absolute hx:-mt-20" id="sales-order-tab">&lt;/span>
+&lt;a href="#sales-order-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Order Management Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Pending Orders&lt;/strong>: Items on backorder and fulfillment queue&lt;/li>
+&lt;li>&lt;strong>Reserved Stock&lt;/strong>: Quantities allocated to specific orders&lt;/li>
+&lt;li>&lt;strong>Commitment Tracking&lt;/strong>: Delivery promises and customer expectations&lt;/li>
+&lt;li>&lt;strong>Priority Management&lt;/strong>: Rush orders and special handling requirements&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Customer Order History&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Sales Performance&lt;/strong>: Item-specific sales analytics&lt;/li>
+&lt;li>&lt;strong>Customer Preferences&lt;/strong>: Track which customers buy which items&lt;/li>
+&lt;li>&lt;strong>Seasonal Patterns&lt;/strong>: Identify seasonal demand fluctuations&lt;/li>
+&lt;li>&lt;strong>Profitability Analysis&lt;/strong>: Margin analysis by item and customer&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Best Practices for Item Maintenance&lt;span class="hx:absolute hx:-mt-20" id="best-practices-for-item-maintenance">&lt;/span>
+&lt;a href="#best-practices-for-item-maintenance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Regular Maintenance Schedule&lt;span class="hx:absolute hx:-mt-20" id="regular-maintenance-schedule">&lt;/span>
+&lt;a href="#regular-maintenance-schedule" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Daily Tasks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Review stock levels and reorder alerts&lt;/li>
+&lt;li>Process any pending item approvals&lt;/li>
+&lt;li>Monitor marketplace synchronization status&lt;/li>
+&lt;li>Address customer inquiries about products&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Weekly Tasks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Update item descriptions and images as needed&lt;/li>
+&lt;li>Review and clean up inactive items&lt;/li>
+&lt;li>Analyze sales performance and adjust categories&lt;/li>
+&lt;li>Verify pricing across all channels&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Monthly Tasks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Comprehensive category review and optimization&lt;/li>
+&lt;li>Bulk update operations for seasonal changes&lt;/li>
+&lt;li>Review and update vendor information&lt;/li>
+&lt;li>Performance analysis and improvement planning&lt;/li>
+&lt;/ul>
+&lt;h3>Data Quality Management&lt;span class="hx:absolute hx:-mt-20" id="data-quality-management">&lt;/span>
+&lt;a href="#data-quality-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Consistency Standards&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Establish naming conventions and stick to them&lt;/li>
+&lt;li>Maintain consistent categorization schemes&lt;/li>
+&lt;li>Use standardized descriptions and specifications&lt;/li>
+&lt;li>Regular data audits and cleanup procedures&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Integration Maintenance&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Verify e-commerce platform synchronization&lt;/li>
+&lt;li>Check accounting integration accuracy&lt;/li>
+&lt;li>Monitor inventory tracking performance&lt;/li>
+&lt;li>Test reporting and analytics functionality&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Troubleshooting Common Issues&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting-common-issues">&lt;/span>
+&lt;a href="#troubleshooting-common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Synchronization Problems&lt;span class="hx:absolute hx:-mt-20" id="synchronization-problems">&lt;/span>
+&lt;a href="#synchronization-problems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>EcomSync Issues&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Verify applet activation and configuration&lt;/li>
+&lt;li>Check network connectivity and API limits&lt;/li>
+&lt;li>Review error logs for specific failure details&lt;/li>
+&lt;li>Contact support for persistent synchronization failures&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Marketplace Integration Issues&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Confirm platform-specific requirements and limitations&lt;/li>
+&lt;li>Verify image and description compliance&lt;/li>
+&lt;li>Check pricing and inventory synchronization&lt;/li>
+&lt;li>Review platform-specific error messages&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Optimization&lt;span class="hx:absolute hx:-mt-20" id="performance-optimization">&lt;/span>
+&lt;a href="#performance-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Large Catalog Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Use pagination and filtering for better performance&lt;/li>
+&lt;li>Implement efficient search and indexing strategies&lt;/li>
+&lt;li>Regular database maintenance and optimization&lt;/li>
+&lt;li>Archive inactive items to improve system speed&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>User Experience Enhancement&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Customize views for different user roles&lt;/li>
+&lt;li>Create saved searches for frequently accessed items&lt;/li>
+&lt;li>Implement keyboard shortcuts for power users&lt;/li>
+&lt;li>Provide comprehensive user training and documentation&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Integration with Other Modules&lt;span class="hx:absolute hx:-mt-20" id="integration-with-other-modules">&lt;/span>
+&lt;a href="#integration-with-other-modules" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Accounting Integration&lt;span class="hx:absolute hx:-mt-20" id="accounting-integration">&lt;/span>
+&lt;a href="#accounting-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Chart of Accounts&lt;/strong>: Automatic GL account assignment&lt;/li>
+&lt;li>&lt;strong>Cost Tracking&lt;/strong>: Real-time cost updates and variance reporting&lt;/li>
+&lt;li>&lt;strong>Tax Compliance&lt;/strong>: Proper tax code assignment and reporting&lt;/li>
+&lt;/ul>
+&lt;h3>Sales Integration&lt;span class="hx:absolute hx:-mt-20" id="sales-integration">&lt;/span>
+&lt;a href="#sales-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>CRM Linkage&lt;/strong>: Customer preferences and purchase history&lt;/li>
+&lt;li>&lt;strong>Quote Generation&lt;/strong>: Streamlined quotation creation&lt;/li>
+&lt;li>&lt;strong>Order Processing&lt;/strong>: Seamless order-to-fulfillment workflow&lt;/li>
+&lt;/ul>
+&lt;h3>Purchasing Integration&lt;span class="hx:absolute hx:-mt-20" id="purchasing-integration">&lt;/span>
+&lt;a href="#purchasing-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Vendor Management&lt;/strong>: Supplier information and performance tracking&lt;/li>
+&lt;li>&lt;strong>Purchase Orders&lt;/strong>: Automatic PO generation based on stock levels&lt;/li>
+&lt;li>&lt;strong>Receiving&lt;/strong>: Streamlined goods receipt and inventory updates&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
+&lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item maintenance, explore these related areas:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
+&lt;/ol>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Maintenance Success&lt;/strong>: A well-maintained item catalog improves operational efficiency by 40-60% and reduces order processing errors by up to 80%.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
+&lt;/ul></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
+&lt;h1>Document Item Maintenance &amp;amp; Workflow Management&lt;/h1>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;p>&lt;strong>🚧 Content Under Development&lt;/strong>: This page requires comprehensive documentation. Critical areas needing development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Document Lifecycle Management&lt;/strong>: Creation, editing, approval, and archiving processes&lt;/li>
+&lt;li>&lt;strong>Workflow Integration&lt;/strong>: How documents flow through business processes&lt;/li>
+&lt;li>&lt;strong>Compliance Features&lt;/strong>: Audit trails, version control, and regulatory requirements&lt;/li>
+&lt;li>&lt;strong>Integration Examples&lt;/strong>: Document management across BigLedger modules&lt;/li>
+&lt;li>&lt;strong>Advanced Features&lt;/strong>: Automated document generation and template management&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Document item maintenance in BigLedger provides comprehensive tools for managing business documents throughout their lifecycle, ensuring proper workflow integration, compliance tracking, and seamless integration with all business operations.&lt;/p>
+&lt;hr>
+&lt;h2>TODO: Comprehensive Documentation Needed&lt;span class="hx:absolute hx:-mt-20" id="todo-comprehensive-documentation-needed">&lt;/span>
+&lt;a href="#todo-comprehensive-documentation-needed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Priority 1: Document Management Fundamentals&lt;span class="hx:absolute hx:-mt-20" id="priority-1-document-management-fundamentals">&lt;/span>
+&lt;a href="#priority-1-document-management-fundamentals" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Document Types&lt;/strong>: Understanding different document categories and their purposes&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Creation Workflows&lt;/strong>: Step-by-step document creation processes&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Editing Procedures&lt;/strong>: Modification, version control, and change tracking&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Status Management&lt;/strong>: Document lifecycle states and transitions&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 2: Business Process Integration&lt;span class="hx:absolute hx:-mt-20" id="priority-2-business-process-integration">&lt;/span>
+&lt;a href="#priority-2-business-process-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Approval Workflows&lt;/strong>: Multi-level approval processes and routing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Module Integration&lt;/strong>: How documents work with accounting, sales, inventory&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Automated Generation&lt;/strong>: Template-based document creation&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Digital Signatures&lt;/strong>: Electronic signing and authentication processes&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 3: Compliance &amp;amp; Advanced Features&lt;span class="hx:absolute hx:-mt-20" id="priority-3-compliance--advanced-features">&lt;/span>
+&lt;a href="#priority-3-compliance--advanced-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Audit Trails&lt;/strong>: Complete tracking of document changes and access&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Compliance Management&lt;/strong>: Meeting regulatory requirements and standards&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Archive Management&lt;/strong>: Long-term storage and retrieval systems&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Performance Optimization&lt;/strong>: Managing large document repositories efficiently&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Expected Core Functionality&lt;span class="hx:absolute hx:-mt-20" id="expected-core-functionality">&lt;/span>
+&lt;a href="#expected-core-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Document Creation &amp;amp; Management&lt;span class="hx:absolute hx:-mt-20" id="document-creation--management">&lt;/span>
+&lt;a href="#document-creation--management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Template Selection&lt;/strong>: Choose from predefined document templates&lt;/li>
+&lt;li>&lt;strong>Data Integration&lt;/strong>: Automatic population from related BigLedger modules&lt;/li>
+&lt;li>&lt;strong>Custom Fields&lt;/strong>: Flexible document structure for specific business needs&lt;/li>
+&lt;li>&lt;strong>Validation Rules&lt;/strong>: Ensure document completeness and accuracy&lt;/li>
+&lt;/ul>
+&lt;h3>Workflow Integration&lt;span class="hx:absolute hx:-mt-20" id="workflow-integration">&lt;/span>
+&lt;a href="#workflow-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Process Automation&lt;/strong>: Automatic routing based on business rules&lt;/li>
+&lt;li>&lt;strong>Approval Chains&lt;/strong>: Multi-step approval processes with notifications&lt;/li>
+&lt;li>&lt;strong>Status Tracking&lt;/strong>: Real-time visibility into document progress&lt;/li>
+&lt;li>&lt;strong>Exception Handling&lt;/strong>: Managing non-standard document scenarios&lt;/li>
+&lt;/ul>
+&lt;h3>Document Control&lt;span class="hx:absolute hx:-mt-20" id="document-control">&lt;/span>
+&lt;a href="#document-control" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Version Management&lt;/strong>: Track all document revisions and changes&lt;/li>
+&lt;li>&lt;strong>Access Control&lt;/strong>: Role-based permissions for document access&lt;/li>
+&lt;li>&lt;strong>Search &amp;amp; Retrieval&lt;/strong>: Efficient document finding and organization&lt;/li>
+&lt;li>&lt;strong>Backup &amp;amp; Recovery&lt;/strong>: Secure document storage and restoration&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Integration Points&lt;span class="hx:absolute hx:-mt-20" id="integration-points">&lt;/span>
+&lt;a href="#integration-points" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Financial Accounting&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Invoice templates and generation&lt;/li>
+&lt;li>Financial reports and statements&lt;/li>
+&lt;li>Compliance documents and filings&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Sales &amp;amp; CRM&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Quotations and proposals&lt;/li>
+&lt;li>Contracts and agreements&lt;/li>
+&lt;li>Customer communications&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Inventory &amp;amp; Operations&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Purchase orders and receipts&lt;/li>
+&lt;li>Stock movement documents&lt;/li>
+&lt;li>Quality control reports&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Human Resources&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Employee documents and contracts&lt;/li>
+&lt;li>Policy documents and handbooks&lt;/li>
+&lt;li>Training materials and certifications&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/platform-overview/" >Platform Overview&lt;/a> - System architecture and capabilities&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
+&lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Priority): Core document management workflows and procedures&lt;br>
+&lt;strong>Phase 2&lt;/strong> (Follow-up): Advanced features and business process integration&lt;br>
+&lt;strong>Phase 3&lt;/strong> (Enhancement): Compliance, automation, and optimization features&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Document management functionality exists within BigLedger but requires comprehensive documentation. For immediate assistance with document workflows and setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> with specific requirements.&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Member Classifications &amp; Access Control</title><link>https://wiki.bigledger.com/user-guide/administration/member-class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-class/</guid><description>
+&lt;h1>Member Classifications &amp;amp; Access Control&lt;/h1>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;p>&lt;strong>🚧 Content Under Development&lt;/strong>: This page contains placeholder content and requires comprehensive documentation. Priority areas needing development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Role-Based Access Control (RBAC)&lt;/strong>: Detailed explanation of permission systems&lt;/li>
+&lt;li>&lt;strong>User Classification Strategies&lt;/strong>: Best practices for organizing team members&lt;/li>
+&lt;li>&lt;strong>Security Implementation&lt;/strong>: Step-by-step security configuration guides&lt;/li>
+&lt;li>&lt;strong>Integration Examples&lt;/strong>: Real-world scenarios and use cases&lt;/li>
+&lt;li>&lt;strong>Troubleshooting Guide&lt;/strong>: Common issues and solutions&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Member classifications in BigLedger provide a structured approach to managing user access, permissions, and organizational roles. This system ensures secure, role-based access control while maintaining operational efficiency.&lt;/p>
+&lt;hr>
+&lt;h2>TODO: Content Development Needed&lt;span class="hx:absolute hx:-mt-20" id="todo-content-development-needed">&lt;/span>
+&lt;a href="#todo-content-development-needed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Priority 1: Core Functionality&lt;span class="hx:absolute hx:-mt-20" id="priority-1-core-functionality">&lt;/span>
+&lt;a href="#priority-1-core-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Role Definition System&lt;/strong>: How to create and manage different user roles&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Permission Matrix&lt;/strong>: Detailed breakdown of available permissions and their impact&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Security Levels&lt;/strong>: Different classification levels and their appropriate usage&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Department Integration&lt;/strong>: Linking member classes to organizational structure&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 2: Implementation Guide&lt;span class="hx:absolute hx:-mt-20" id="priority-2-implementation-guide">&lt;/span>
+&lt;a href="#priority-2-implementation-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Setup Walkthrough&lt;/strong>: Step-by-step implementation process&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Best Practices&lt;/strong>: Proven strategies for member classification&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Common Scenarios&lt;/strong>: Typical business use cases and configurations&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Compliance Requirements&lt;/strong>: Meeting regulatory and audit requirements&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 3: Advanced Features&lt;span class="hx:absolute hx:-mt-20" id="priority-3-advanced-features">&lt;/span>
+&lt;a href="#priority-3-advanced-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Dynamic Permissions&lt;/strong>: Time-based and conditional access controls&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Integration Points&lt;/strong>: How member classes work with other BigLedger modules&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Reporting &amp;amp; Analytics&lt;/strong>: Monitoring access patterns and security metrics&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Bulk Management&lt;/strong>: Efficiently managing large teams and complex hierarchies&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Current Basic Functionality&lt;span class="hx:absolute hx:-mt-20" id="current-basic-functionality">&lt;/span>
+&lt;a href="#current-basic-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Creating Member Classes&lt;span class="hx:absolute hx:-mt-20" id="creating-member-classes">&lt;/span>
+&lt;a href="#creating-member-classes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Navigate to &lt;strong>Member Class&lt;/strong> from the main module list&lt;/li>
+&lt;li>Click the &lt;strong>&amp;quot;+&amp;quot;&lt;/strong> button to create a new member class&lt;/li>
+&lt;li>Complete required information:
+&lt;ul>
+&lt;li>&lt;strong>Membership Class Code&lt;/strong>: System-generated identifier&lt;/li>
+&lt;li>&lt;strong>Membership Class Name&lt;/strong>: Descriptive name for the role&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3>Managing Existing Classes&lt;span class="hx:absolute hx:-mt-20" id="managing-existing-classes">&lt;/span>
+&lt;a href="#managing-existing-classes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Edit&lt;/strong>: Modify member class name and status&lt;/li>
+&lt;li>&lt;strong>Delete&lt;/strong>: Remove unused member classes&lt;/li>
+&lt;li>&lt;strong>List View&lt;/strong>: Browse all configured member classifications&lt;/li>
+&lt;/ul>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Limitation&lt;/strong>: This basic implementation needs expansion to cover comprehensive role-based access control, security policies, and integration with BigLedger&amp;rsquo;s complete permission system.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Adding and managing user accounts&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Organizing departments and teams&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/navigation/" >Navigation Guide&lt;/a> - Interface permissions and access&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/platform-overview/" >Platform Overview&lt;/a> - Security architecture overview&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
+&lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Priority): Core role-based access control documentation&lt;br>
+&lt;strong>Phase 2&lt;/strong> (Follow-up): Advanced security features and integration guides&lt;br>
+&lt;strong>Phase 3&lt;/strong> (Enhancement): Analytics, reporting, and optimization strategies&lt;/p>
+&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://wiki.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/group-listing/</guid><description>
+&lt;h1>Group Listings &amp;amp; Organizational Management&lt;/h1>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;p>&lt;strong>🚧 Content Under Development&lt;/strong>: This page contains basic functionality notes and requires comprehensive documentation. Key areas needing development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Group Strategy &amp;amp; Planning&lt;/strong>: Best practices for organizational structure design&lt;/li>
+&lt;li>&lt;strong>Permission Management&lt;/strong>: Detailed access control and security implementation&lt;/li>
+&lt;li>&lt;strong>Integration Workflows&lt;/strong>: How groups work across BigLedger modules&lt;/li>
+&lt;li>&lt;strong>Advanced Features&lt;/strong>: Hierarchical groups, dynamic membership, and automation&lt;/li>
+&lt;li>&lt;strong>Use Case Examples&lt;/strong>: Real-world scenarios for different business types&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Group listings in BigLedger provide a structured approach to organizing teams, managing access permissions, and creating logical groupings for better collaboration and data management across your organization.&lt;/p>
+&lt;hr>
+&lt;h2>TODO: Comprehensive Documentation Needed&lt;span class="hx:absolute hx:-mt-20" id="todo-comprehensive-documentation-needed">&lt;/span>
+&lt;a href="#todo-comprehensive-documentation-needed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Priority 1: Group Strategy &amp;amp; Architecture&lt;span class="hx:absolute hx:-mt-20" id="priority-1-group-strategy--architecture">&lt;/span>
+&lt;a href="#priority-1-group-strategy--architecture" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Organizational Design&lt;/strong>: Best practices for structuring groups in BigLedger&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Group Types&lt;/strong>: Different types of groups and their optimal usage scenarios&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Hierarchy Management&lt;/strong>: Parent-child relationships and nested group structures&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Scalability Planning&lt;/strong>: Managing groups in large organizations&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 2: Membership &amp;amp; Permissions&lt;span class="hx:absolute hx:-mt-20" id="priority-2-membership--permissions">&lt;/span>
+&lt;a href="#priority-2-membership--permissions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>User Management&lt;/strong>: Adding, removing, and managing group members&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Role Assignment&lt;/strong>: Different member roles and their capabilities&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Permission Matrices&lt;/strong>: Detailed breakdown of available permissions&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Security Best Practices&lt;/strong>: Implementing proper access controls&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 3: Integration &amp;amp; Automation&lt;span class="hx:absolute hx:-mt-20" id="priority-3-integration--automation">&lt;/span>
+&lt;a href="#priority-3-integration--automation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Module Integration&lt;/strong>: How groups work with accounting, sales, inventory modules&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Automated Workflows&lt;/strong>: Dynamic group membership based on criteria&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Reporting &amp;amp; Analytics&lt;/strong>: Group performance and usage analytics&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Bulk Operations&lt;/strong>: Managing large-scale group changes efficiently&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Current Basic Functionality&lt;span class="hx:absolute hx:-mt-20" id="current-basic-functionality">&lt;/span>
+&lt;a href="#current-basic-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Creating Groups&lt;span class="hx:absolute hx:-mt-20" id="creating-groups">&lt;/span>
+&lt;a href="#creating-groups" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Required Information&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Group Name&lt;/strong>: Descriptive identifier for the group&lt;/li>
+&lt;li>&lt;strong>Group Code&lt;/strong>: Unique system identifier&lt;/li>
+&lt;li>&lt;strong>Group Email&lt;/strong>: Contact email for group communications&lt;/li>
+&lt;li>&lt;strong>Group Visibility&lt;/strong>: Controls who can see the group&lt;/li>
+&lt;li>&lt;strong>Group Joining&lt;/strong>: Determines how users can join the group&lt;/li>
+&lt;/ul>
+&lt;h3>Group Management Tabs&lt;span class="hx:absolute hx:-mt-20" id="group-management-tabs">&lt;/span>
+&lt;a href="#group-management-tabs" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Edit General Info&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Modify group name, visibility, and joining settings&lt;/li>
+&lt;li>Control group active/inactive status&lt;/li>
+&lt;li>Update group configuration parameters&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Edit Members&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Add users by searching email addresses&lt;/li>
+&lt;li>Assign member ranks and roles&lt;/li>
+&lt;li>Manage member status (active/inactive)&lt;/li>
+&lt;li>Remove members from the group&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Edit Permissions&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Select permissions from available options&lt;/li>
+&lt;li>Apply group-level access controls&lt;/li>
+&lt;li>Manage permission inheritance&lt;/li>
+&lt;li>Remove or modify existing permissions&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Basic Implementation Guide&lt;span class="hx:absolute hx:-mt-20" id="basic-implementation-guide">&lt;/span>
+&lt;a href="#basic-implementation-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While comprehensive documentation is being developed:&lt;/p>
+&lt;h3>Step 1: Plan Your Group Structure&lt;span class="hx:absolute hx:-mt-20" id="step-1-plan-your-group-structure">&lt;/span>
+&lt;a href="#step-1-plan-your-group-structure" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Define the purpose and scope of each group&lt;/li>
+&lt;li>Consider how groups will interact with existing organizational structure&lt;/li>
+&lt;li>Plan permission levels and access requirements&lt;/li>
+&lt;/ul>
+&lt;h3>Step 2: Create Core Groups&lt;span class="hx:absolute hx:-mt-20" id="step-2-create-core-groups">&lt;/span>
+&lt;a href="#step-2-create-core-groups" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Start with essential groups (departments, roles, projects)&lt;/li>
+&lt;li>Use consistent naming conventions&lt;/li>
+&lt;li>Configure appropriate visibility and joining settings&lt;/li>
+&lt;/ul>
+&lt;h3>Step 3: Manage Membership&lt;span class="hx:absolute hx:-mt-20" id="step-3-manage-membership">&lt;/span>
+&lt;a href="#step-3-manage-membership" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Add key users to appropriate groups&lt;/li>
+&lt;li>Assign appropriate ranks and permissions&lt;/li>
+&lt;li>Test access levels and functionality&lt;/li>
+&lt;/ul>
+&lt;h3>Step 4: Monitor and Optimize&lt;span class="hx:absolute hx:-mt-20" id="step-4-monitor-and-optimize">&lt;/span>
+&lt;a href="#step-4-monitor-and-optimize" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Regular review of group membership and permissions&lt;/li>
+&lt;li>Adjust structure as organizational needs change&lt;/li>
+&lt;li>Maintain security and access control standards&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
+&lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Priority): Core group management and permission documentation&lt;br>
+&lt;strong>Phase 2&lt;/strong> (Follow-up): Advanced features and integration guides&lt;br>
+&lt;strong>Phase 3&lt;/strong> (Enhancement): Automation, analytics, and optimization strategies&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic group creation and management functionality is available. For complex organizational requirements or advanced permission setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance.&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://wiki.bigledger.com/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-label/</guid><description>
+&lt;h1>Member Label Configuration &amp;amp; Management&lt;/h1>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;p>&lt;strong>🚧 Content Under Development&lt;/strong>: This page contains basic functionality notes and requires comprehensive documentation. Essential areas needing development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Labeling Strategy&lt;/strong>: Best practices for creating effective labeling systems&lt;/li>
+&lt;li>&lt;strong>Advanced Use Cases&lt;/strong>: Complex labeling scenarios and business applications&lt;/li>
+&lt;li>&lt;strong>Integration Examples&lt;/strong>: How labels work with groups, permissions, and modules&lt;/li>
+&lt;li>&lt;strong>Automation Features&lt;/strong>: Dynamic labeling based on user attributes or behaviors&lt;/li>
+&lt;li>&lt;strong>Analytics &amp;amp; Reporting&lt;/strong>: Label-based reporting and organizational insights&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Member labels in BigLedger provide a flexible tagging and categorization system for organizing users beyond traditional hierarchical structures. Labels enable cross-functional organization, improved searchability, and sophisticated user management capabilities.&lt;/p>
+&lt;hr>
+&lt;h2>TODO: Comprehensive Documentation Needed&lt;span class="hx:absolute hx:-mt-20" id="todo-comprehensive-documentation-needed">&lt;/span>
+&lt;a href="#todo-comprehensive-documentation-needed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Priority 1: Labeling Strategy &amp;amp; Design&lt;span class="hx:absolute hx:-mt-20" id="priority-1-labeling-strategy--design">&lt;/span>
+&lt;a href="#priority-1-labeling-strategy--design" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Label Architecture&lt;/strong>: Planning effective labeling systems for different organization types&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Best Practices&lt;/strong>: Naming conventions, color coding, and organizational strategies&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Scalability Planning&lt;/strong>: Managing labels in large organizations with complex structures&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Performance Considerations&lt;/strong>: Optimizing label usage for system efficiency&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 2: Advanced Functionality&lt;span class="hx:absolute hx:-mt-20" id="priority-2-advanced-functionality">&lt;/span>
+&lt;a href="#priority-2-advanced-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Dynamic Labels&lt;/strong>: Automatically assigned labels based on user attributes&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Label Hierarchies&lt;/strong>: Parent-child relationships and nested label structures&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Conditional Logic&lt;/strong>: Rules-based label assignment and management&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Bulk Operations&lt;/strong>: Efficient management of labels across large user bases&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 3: Integration &amp;amp; Analytics&lt;span class="hx:absolute hx:-mt-20" id="priority-3-integration--analytics">&lt;/span>
+&lt;a href="#priority-3-integration--analytics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Module Integration&lt;/strong>: How labels work with accounting, sales, and other modules&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Reporting Systems&lt;/strong>: Label-based analytics and organizational insights&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Search Enhancement&lt;/strong>: Using labels to improve user and data discovery&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Workflow Integration&lt;/strong>: Labels in approval processes and business workflows&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Current Basic Functionality&lt;span class="hx:absolute hx:-mt-20" id="current-basic-functionality">&lt;/span>
+&lt;a href="#current-basic-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Creating Member Labels&lt;span class="hx:absolute hx:-mt-20" id="creating-member-labels">&lt;/span>
+&lt;a href="#creating-member-labels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Required Information&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Label List&lt;/strong>: Parent category (must be created in Member Label List module first)&lt;/li>
+&lt;li>&lt;strong>Label Name&lt;/strong>: Descriptive identifier for the label&lt;/li>
+&lt;li>&lt;strong>Label Code&lt;/strong>: System-generated unique identifier&lt;/li>
+&lt;/ul>
+&lt;h3>Label Management&lt;span class="hx:absolute hx:-mt-20" id="label-management">&lt;/span>
+&lt;a href="#label-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Details Tab Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Label List&lt;/strong>: Modify parent category assignment&lt;/li>
+&lt;li>&lt;strong>Label Name&lt;/strong>: Update descriptive naming&lt;/li>
+&lt;li>&lt;strong>Status&lt;/strong>: Control active/inactive status&lt;/li>
+&lt;li>&lt;strong>Save/Delete&lt;/strong>: Manage label lifecycle&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Members Tab Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Add Members&lt;/strong>: Assign users to labels using the &amp;lsquo;+&amp;rsquo; button&lt;/li>
+&lt;li>&lt;strong>Select Members&lt;/strong>: Choose from existing users or add new members&lt;/li>
+&lt;li>&lt;strong>Member Management&lt;/strong>: View and manage all users assigned to the label&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Basic Implementation Workflow&lt;span class="hx:absolute hx:-mt-20" id="basic-implementation-workflow">&lt;/span>
+&lt;a href="#basic-implementation-workflow" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While comprehensive documentation is being developed:&lt;/p>
+&lt;h3>Step 1: Plan Your Labeling System&lt;span class="hx:absolute hx:-mt-20" id="step-1-plan-your-labeling-system">&lt;/span>
+&lt;a href="#step-1-plan-your-labeling-system" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Define the purpose and scope of your labels&lt;/li>
+&lt;li>Consider how labels complement existing group structures&lt;/li>
+&lt;li>Plan naming conventions and organizational hierarchy&lt;/li>
+&lt;/ul>
+&lt;h3>Step 2: Create Label Lists (Foundation)&lt;span class="hx:absolute hx:-mt-20" id="step-2-create-label-lists-foundation">&lt;/span>
+&lt;a href="#step-2-create-label-lists-foundation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Set up parent categories in the Member Label List module&lt;/li>
+&lt;li>Establish consistent naming and organizational patterns&lt;/li>
+&lt;li>Plan for future expansion and organizational changes&lt;/li>
+&lt;/ul>
+&lt;h3>Step 3: Create Individual Labels&lt;span class="hx:absolute hx:-mt-20" id="step-3-create-individual-labels">&lt;/span>
+&lt;a href="#step-3-create-individual-labels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Create specific labels within established lists&lt;/li>
+&lt;li>Use consistent, descriptive naming&lt;/li>
+&lt;li>Configure appropriate status settings&lt;/li>
+&lt;/ul>
+&lt;h3>Step 4: Assign Members&lt;span class="hx:absolute hx:-mt-20" id="step-4-assign-members">&lt;/span>
+&lt;a href="#step-4-assign-members" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Add relevant users to appropriate labels&lt;/li>
+&lt;li>Test search and filtering functionality&lt;/li>
+&lt;li>Verify integration with other modules and features&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Label vs Group Distinction&lt;span class="hx:absolute hx:-mt-20" id="label-vs-group-distinction">&lt;/span>
+&lt;a href="#label-vs-group-distinction" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Groups&lt;/strong>: Hierarchical, permission-based, formal organizational structure&lt;br>
+&lt;strong>Labels&lt;/strong>: Flexible tags, cross-functional, searchable attributes&lt;/p>
+&lt;p>&lt;strong>Use Groups For&lt;/strong>: Departments, roles, formal permissions&lt;br>
+&lt;strong>Use Labels For&lt;/strong>: Skills, projects, locations, specializations, certifications&lt;/p>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
+&lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Immediate): Labeling strategy and best practices documentation&lt;br>
+&lt;strong>Phase 2&lt;/strong> (Short-term): Advanced features and integration examples&lt;br>
+&lt;strong>Phase 3&lt;/strong> (Medium-term): Analytics, reporting, and automation capabilities&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic label creation and member assignment functionality is available. For complex labeling strategies or advanced organizational requirements, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance and best practices consultation.&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Pricing Schemes &amp; Strategy Management</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/</guid><description>
+&lt;h1>Pricing Schemes &amp;amp; Strategy Management&lt;/h1>&lt;p>Master BigLedger&amp;rsquo;s flexible pricing system to create sophisticated pricing strategies that adapt to different customers, markets, and business scenarios while maintaining profitability and competitive positioning.&lt;/p>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pricing schemes in BigLedger are powerful templates that define pricing structures for your products and services. These schemes can be applied across multiple business modules including POS, sales orders, quotations, and e-commerce platforms, providing consistent pricing while allowing for customer-specific and scenario-based flexibility.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Key Concept&lt;/strong>: Pricing schemes create the framework, while actual item prices are set in the &lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> module. This separation allows for flexible pricing strategies across different customer segments and sales channels.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Understanding Pricing Schemes&lt;span class="hx:absolute hx:-mt-20" id="understanding-pricing-schemes">&lt;/span>
+&lt;a href="#understanding-pricing-schemes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>What Are Pricing Schemes?&lt;span class="hx:absolute hx:-mt-20" id="what-are-pricing-schemes">&lt;/span>
+&lt;a href="#what-are-pricing-schemes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Pricing schemes are templates that define how different types of prices are calculated and applied:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Price Types&lt;/strong>: Retail, wholesale, member, promotional, minimum, maximum prices&lt;/li>
+&lt;li>&lt;strong>Customer Segments&lt;/strong>: Different pricing for different customer categories&lt;/li>
+&lt;li>&lt;strong>Channel-Specific&lt;/strong>: Unique pricing for POS, e-commerce, B2B portals&lt;/li>
+&lt;li>&lt;strong>Time-Sensitive&lt;/strong>: Seasonal, promotional, or time-based pricing&lt;/li>
+&lt;li>&lt;strong>Volume-Based&lt;/strong>: Quantity breaks and bulk pricing structures&lt;/li>
+&lt;/ul>
+&lt;h3>Integration Across Modules&lt;span class="hx:absolute hx:-mt-20" id="integration-across-modules">&lt;/span>
+&lt;a href="#integration-across-modules" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Pricing schemes integrate seamlessly with:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>POS Systems&lt;/strong>: Automatic price selection based on customer type&lt;/li>
+&lt;li>&lt;strong>E-Commerce Platforms&lt;/strong>: Dynamic pricing for online channels&lt;/li>
+&lt;li>&lt;strong>Sales Orders&lt;/strong>: Customer-specific pricing application&lt;/li>
+&lt;li>&lt;strong>Quotation Systems&lt;/strong>: Professional pricing presentation&lt;/li>
+&lt;li>&lt;strong>Procurement&lt;/strong>: Cost-plus pricing calculations&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Accessing Pricing Scheme Management&lt;span class="hx:absolute hx:-mt-20" id="accessing-pricing-scheme-management">&lt;/span>
+&lt;a href="#accessing-pricing-scheme-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Navigation and Interface&lt;span class="hx:absolute hx:-mt-20" id="navigation-and-interface">&lt;/span>
+&lt;a href="#navigation-and-interface" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Navigate to &lt;strong>Pricing Scheme&lt;/strong> from your main menu&lt;/li>
+&lt;li>Access the comprehensive listing page with advanced search capabilities&lt;/li>
+&lt;li>Use the AG-Grid interface for efficient scheme management&lt;/li>
+&lt;li>Leverage fuzzy search for quick scheme location&lt;/li>
+&lt;/ol>
+&lt;h3>Listing Page Features&lt;span class="hx:absolute hx:-mt-20" id="listing-page-features">&lt;/span>
+&lt;a href="#listing-page-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Search and Filter Capabilities&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>General Search&lt;/strong>: Quick text-based search across all scheme fields&lt;/li>
+&lt;li>&lt;strong>Advanced Search&lt;/strong>: Detailed filtering by status, type, date ranges&lt;/li>
+&lt;li>&lt;strong>Fuzzy Search&lt;/strong>: Find schemes even with partial or approximate terms&lt;/li>
+&lt;li>&lt;strong>Sort Options&lt;/strong>: Organize by name, date created, last modified, usage frequency&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Visual Indicators&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Status Icons&lt;/strong>: Active, inactive, draft scheme indicators&lt;/li>
+&lt;li>&lt;strong>Usage Statistics&lt;/strong>: Show which schemes are most frequently used&lt;/li>
+&lt;li>&lt;strong>Integration Status&lt;/strong>: Indicate which modules are using each scheme&lt;/li>
+&lt;li>&lt;strong>Last Modified&lt;/strong>: Track recent changes and updates&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Creating Pricing Schemes&lt;span class="hx:absolute hx:-mt-20" id="creating-pricing-schemes">&lt;/span>
+&lt;a href="#creating-pricing-schemes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Scheme Creation Process&lt;span class="hx:absolute hx:-mt-20" id="scheme-creation-process">&lt;/span>
+&lt;a href="#scheme-creation-process" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>1. Initiate New Scheme Creation&lt;span class="hx:absolute hx:-mt-20" id="1-initiate-new-scheme-creation">&lt;/span>
+&lt;a href="#1-initiate-new-scheme-creation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>Click the &lt;strong>&amp;quot;+&amp;quot; button&lt;/strong> on the pricing scheme listing page&lt;/li>
+&lt;li>The creation dialog opens in a secondary container&lt;/li>
+&lt;li>Complete the required and optional information&lt;/li>
+&lt;li>Save to create your new pricing scheme template&lt;/li>
+&lt;/ol>
+&lt;h4>2. Essential Scheme Information&lt;span class="hx:absolute hx:-mt-20" id="2-essential-scheme-information">&lt;/span>
+&lt;a href="#2-essential-scheme-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>&lt;strong>System-Generated Code&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Automatically created by BigLedger&lt;/li>
+&lt;li>Unique identifier for internal tracking&lt;/li>
+&lt;li>Used in API calls and data exports&lt;/li>
+&lt;li>Cannot be modified after creation&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Scheme Name&lt;/strong> &lt;em>(Required)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Descriptive name for easy identification&lt;/li>
+&lt;li>Best practices: Include purpose and target market&lt;/li>
+&lt;li>Examples: &amp;ldquo;Retail Standard&amp;rdquo;, &amp;ldquo;Wholesale Bulk&amp;rdquo;, &amp;ldquo;Member Discount&amp;rdquo;&lt;/li>
+&lt;li>Keep names consistent and professional&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Description&lt;/strong> &lt;em>(Optional)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Detailed explanation of scheme purpose and usage&lt;/li>
+&lt;li>Include target customer segments&lt;/li>
+&lt;li>Note any special conditions or restrictions&lt;/li>
+&lt;li>Helpful for team understanding and training&lt;/li>
+&lt;/ul>
+&lt;h3>Scheme Configuration Examples&lt;span class="hx:absolute hx:-mt-20" id="scheme-configuration-examples">&lt;/span>
+&lt;a href="#scheme-configuration-examples" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Retail Pricing Scheme&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Name: &amp;ldquo;Retail Standard Pricing&amp;rdquo;&lt;/li>
+&lt;li>Description: &amp;ldquo;Standard retail prices for walk-in customers and online sales&amp;rdquo;&lt;/li>
+&lt;li>Usage: POS systems, e-commerce platforms, general quotations&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Wholesale Pricing Scheme&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Name: &amp;ldquo;Wholesale B2B Pricing&amp;rdquo;&lt;/li>
+&lt;li>Description: &amp;ldquo;Bulk pricing for business customers with volume discounts&amp;rdquo;&lt;/li>
+&lt;li>Usage: B2B portal, large order processing, distributor sales&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Member Pricing Scheme&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Name: &amp;ldquo;VIP Member Exclusive&amp;rdquo;&lt;/li>
+&lt;li>Description: &amp;ldquo;Special pricing for loyalty program members with additional discounts&amp;rdquo;&lt;/li>
+&lt;li>Usage: Member portal, POS with customer identification, special promotions&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Editing and Managing Pricing Schemes&lt;span class="hx:absolute hx:-mt-20" id="editing-and-managing-pricing-schemes">&lt;/span>
+&lt;a href="#editing-and-managing-pricing-schemes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Accessing Scheme Editing&lt;span class="hx:absolute hx:-mt-20" id="accessing-scheme-editing">&lt;/span>
+&lt;a href="#accessing-scheme-editing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Click on any pricing scheme from the main listing&lt;/li>
+&lt;li>Access the comprehensive editing interface&lt;/li>
+&lt;li>Navigate between different configuration tabs&lt;/li>
+&lt;li>Make changes and save updates&lt;/li>
+&lt;/ol>
+&lt;h3>Main Tab Configuration&lt;span class="hx:absolute hx:-mt-20" id="main-tab-configuration">&lt;/span>
+&lt;a href="#main-tab-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Core Information Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Pricing Code&lt;/strong>: View system code (read-only for reference)&lt;/li>
+&lt;li>&lt;strong>Scheme Name&lt;/strong>: Update naming for clarity and consistency&lt;/li>
+&lt;li>&lt;strong>Description&lt;/strong>: Modify detailed explanations and usage notes&lt;/li>
+&lt;li>&lt;strong>Status Management&lt;/strong>: Control active/inactive status for scheme availability&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Status Control Options&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Active&lt;/strong>: Scheme available for use in all integrated modules&lt;/li>
+&lt;li>&lt;strong>Inactive&lt;/strong>: Scheme hidden from selection but existing usage preserved&lt;/li>
+&lt;li>&lt;strong>Draft&lt;/strong>: Scheme under development, not available for operational use&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Scheme Management Actions&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Save Changes&lt;/strong>: Update scheme information&lt;/li>
+&lt;li>&lt;strong>Duplicate Scheme&lt;/strong>: Create copy for similar pricing strategies&lt;/li>
+&lt;li>&lt;strong>Delete Scheme&lt;/strong>: Remove unused schemes (with safety checks)&lt;/li>
+&lt;li>&lt;strong>Export Settings&lt;/strong>: Generate scheme configuration for backup or transfer&lt;/li>
+&lt;/ul>
+&lt;h3>Copy Tab Functionality&lt;span class="hx:absolute hx:-mt-20" id="copy-tab-functionality">&lt;/span>
+&lt;a href="#copy-tab-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scheme Duplication and Templates&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Source Scheme Selection&lt;/strong>: Choose existing scheme as starting point&lt;/li>
+&lt;li>&lt;strong>Modification Options&lt;/strong>: Adjust pricing percentages, add/remove price types&lt;/li>
+&lt;li>&lt;strong>Bulk Updates&lt;/strong>: Apply changes across multiple price points&lt;/li>
+&lt;li>&lt;strong>Template Creation&lt;/strong>: Save as reusable template for future schemes&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Advanced Copy Features&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Selective Copying&lt;/strong>: Choose specific elements to duplicate&lt;/li>
+&lt;li>&lt;strong>Price Adjustments&lt;/strong>: Apply percentage increases or decreases during copy&lt;/li>
+&lt;li>&lt;strong>Customer Segment Mapping&lt;/strong>: Adapt schemes for different market segments&lt;/li>
+&lt;li>&lt;strong>Multi-Currency Support&lt;/strong>: Convert pricing for international markets&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Pricing Scheme Application&lt;span class="hx:absolute hx:-mt-20" id="pricing-scheme-application">&lt;/span>
+&lt;a href="#pricing-scheme-application" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>POS Integration&lt;span class="hx:absolute hx:-mt-20" id="pos-integration">&lt;/span>
+&lt;a href="#pos-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>POS Configuration Setup&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Access POS settings from your main navigation&lt;/li>
+&lt;li>Navigate to pricing configuration section&lt;/li>
+&lt;li>Select appropriate pricing schemes for different scenarios:
+&lt;ul>
+&lt;li>&lt;strong>Minimum Price&lt;/strong>: Lowest allowable selling price&lt;/li>
+&lt;li>&lt;strong>Maximum Price&lt;/strong>: Highest suggested selling price&lt;/li>
+&lt;li>&lt;strong>Retail Price&lt;/strong>: Standard customer pricing&lt;/li>
+&lt;li>&lt;strong>Member Price&lt;/strong>: Special pricing for loyalty members&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Dynamic Price Selection&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Customer Type Recognition&lt;/strong>: Automatic scheme selection based on customer profile&lt;/li>
+&lt;li>&lt;strong>Manual Override&lt;/strong>: Staff ability to select appropriate scheme when needed&lt;/li>
+&lt;li>&lt;strong>Promotion Integration&lt;/strong>: Apply promotional schemes during special events&lt;/li>
+&lt;li>&lt;strong>Tax Compliance&lt;/strong>: Ensure Malaysian GST/SST compliance in all pricing&lt;/li>
+&lt;/ul>
+&lt;h3>E-Commerce Platform Integration&lt;span class="hx:absolute hx:-mt-20" id="e-commerce-platform-integration">&lt;/span>
+&lt;a href="#e-commerce-platform-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Multi-Channel Pricing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Platform-Specific Schemes&lt;/strong>: Different pricing for Shopify, Lazada, Shopee&lt;/li>
+&lt;li>&lt;strong>Currency Adaptation&lt;/strong>: Automatic conversion for international sales&lt;/li>
+&lt;li>&lt;strong>Promotional Pricing&lt;/strong>: Time-sensitive pricing for marketing campaigns&lt;/li>
+&lt;li>&lt;strong>Inventory-Based Pricing&lt;/strong>: Price adjustments based on stock levels&lt;/li>
+&lt;/ul>
+&lt;h3>Sales Order and Quotation Integration&lt;span class="hx:absolute hx:-mt-20" id="sales-order-and-quotation-integration">&lt;/span>
+&lt;a href="#sales-order-and-quotation-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Professional Pricing Presentation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Customer-Specific Pricing&lt;/strong>: Automatic application based on customer classification&lt;/li>
+&lt;li>&lt;strong>Volume Discounting&lt;/strong>: Quantity-based pricing calculations&lt;/li>
+&lt;li>&lt;strong>Project Pricing&lt;/strong>: Special schemes for large projects or contracts&lt;/li>
+&lt;li>&lt;strong>Approval Workflows&lt;/strong>: Management approval for special pricing requests&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Advanced Pricing Strategies&lt;span class="hx:absolute hx:-mt-20" id="advanced-pricing-strategies">&lt;/span>
+&lt;a href="#advanced-pricing-strategies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Multi-Tier Pricing Systems&lt;span class="hx:absolute hx:-mt-20" id="multi-tier-pricing-systems">&lt;/span>
+&lt;a href="#multi-tier-pricing-systems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Customer Segmentation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Retail Customers&lt;/strong>: Standard pricing with full margins&lt;/li>
+&lt;li>&lt;strong>Wholesale Customers&lt;/strong>: Volume-based pricing with reduced margins&lt;/li>
+&lt;li>&lt;strong>VIP Members&lt;/strong>: Special pricing with loyalty discounts&lt;/li>
+&lt;li>&lt;strong>Staff/Employee&lt;/strong>: Internal pricing for employee purchases&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Geographic Pricing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Local Market&lt;/strong>: Standard regional pricing&lt;/li>
+&lt;li>&lt;strong>Export Market&lt;/strong>: International pricing with currency considerations&lt;/li>
+&lt;li>&lt;strong>Remote Areas&lt;/strong>: Adjusted pricing for delivery costs&lt;/li>
+&lt;li>&lt;strong>Urban vs Rural&lt;/strong>: Market-specific pricing strategies&lt;/li>
+&lt;/ul>
+&lt;h3>Time-Based Pricing&lt;span class="hx:absolute hx:-mt-20" id="time-based-pricing">&lt;/span>
+&lt;a href="#time-based-pricing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Seasonal Adjustments&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Peak Season&lt;/strong>: Higher prices during high-demand periods&lt;/li>
+&lt;li>&lt;strong>Off-Season&lt;/strong>: Promotional pricing to maintain sales volume&lt;/li>
+&lt;li>&lt;strong>Holiday Specials&lt;/strong>: Event-specific pricing schemes&lt;/li>
+&lt;li>&lt;strong>End-of-Season&lt;/strong>: Clearance pricing for inventory management&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Dynamic Pricing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Real-time Adjustments&lt;/strong>: Market-responsive pricing changes&lt;/li>
+&lt;li>&lt;strong>Competitive Pricing&lt;/strong>: Adjust based on market conditions&lt;/li>
+&lt;li>&lt;strong>Inventory-Driven&lt;/strong>: Price adjustments based on stock levels&lt;/li>
+&lt;li>&lt;strong>Demand-Based&lt;/strong>: Higher prices for high-demand items&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Best Practices for Pricing Scheme Management&lt;span class="hx:absolute hx:-mt-20" id="best-practices-for-pricing-scheme-management">&lt;/span>
+&lt;a href="#best-practices-for-pricing-scheme-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Strategic Planning&lt;span class="hx:absolute hx:-mt-20" id="strategic-planning">&lt;/span>
+&lt;a href="#strategic-planning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Market Analysis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Research competitor pricing strategies&lt;/li>
+&lt;li>Understand customer price sensitivity&lt;/li>
+&lt;li>Analyze cost structures and margin requirements&lt;/li>
+&lt;li>Consider market positioning and brand image&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Profitability Focus&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Ensure all schemes maintain acceptable profit margins&lt;/li>
+&lt;li>Factor in all costs including overhead, shipping, taxes&lt;/li>
+&lt;li>Regular review and adjustment of pricing strategies&lt;/li>
+&lt;li>Monitor performance metrics and adjust accordingly&lt;/li>
+&lt;/ul>
+&lt;h3>Implementation Excellence&lt;span class="hx:absolute hx:-mt-20" id="implementation-excellence">&lt;/span>
+&lt;a href="#implementation-excellence" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Consistent Application&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Train all staff on proper scheme usage&lt;/li>
+&lt;li>Document pricing policies and procedures&lt;/li>
+&lt;li>Regular audits to ensure correct implementation&lt;/li>
+&lt;li>Customer communication about pricing structures&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>System Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Test pricing schemes across all platforms before deployment&lt;/li>
+&lt;li>Verify tax calculations and compliance requirements&lt;/li>
+&lt;li>Ensure data synchronization between modules&lt;/li>
+&lt;li>Regular backup of pricing scheme configurations&lt;/li>
+&lt;/ul>
+&lt;h3>Monitoring and Optimization&lt;span class="hx:absolute hx:-mt-20" id="monitoring-and-optimization">&lt;/span>
+&lt;a href="#monitoring-and-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Performance Tracking&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Monitor sales performance by pricing scheme&lt;/li>
+&lt;li>Analyze customer response to different price points&lt;/li>
+&lt;li>Track profitability by customer segment and product&lt;/li>
+&lt;li>Review competitive positioning regularly&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Continuous Improvement&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Regular scheme review and optimization&lt;/li>
+&lt;li>Customer feedback integration&lt;/li>
+&lt;li>Market trend adaptation&lt;/li>
+&lt;li>Technology enhancement adoption&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Troubleshooting Common Issues&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting-common-issues">&lt;/span>
+&lt;a href="#troubleshooting-common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Pricing Inconsistencies&lt;span class="hx:absolute hx:-mt-20" id="pricing-inconsistencies">&lt;/span>
+&lt;a href="#pricing-inconsistencies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Multi-Platform Synchronization&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Prices not updating across all platforms&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Check EcomSync configuration and API connections&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular synchronization testing and monitoring&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Tax Calculation Errors&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Incorrect tax amounts in pricing&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Verify tax code assignments and rate configurations&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular compliance reviews and updates&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Issues&lt;span class="hx:absolute hx:-mt-20" id="performance-issues">&lt;/span>
+&lt;a href="#performance-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Large Catalog Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Slow pricing updates with many items&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Implement batch processing and scheduled updates&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Optimize database indices and regular maintenance&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>User Experience Problems&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Staff confusion about scheme selection&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Provide comprehensive training and clear documentation&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Simplify scheme names and provide usage guidelines&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Integration with Other BigLedger Features&lt;span class="hx:absolute hx:-mt-20" id="integration-with-other-bigledger-features">&lt;/span>
+&lt;a href="#integration-with-other-bigledger-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Financial Accounting Integration&lt;span class="hx:absolute hx:-mt-20" id="financial-accounting-integration">&lt;/span>
+&lt;a href="#financial-accounting-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Revenue Recognition&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Automatic posting to appropriate revenue accounts&lt;/li>
+&lt;li>Margin analysis and profitability reporting&lt;/li>
+&lt;li>Cost accounting integration for accurate profit calculations&lt;/li>
+&lt;li>Budget planning with pricing scenario modeling&lt;/li>
+&lt;/ul>
+&lt;h3>Inventory Management Integration&lt;span class="hx:absolute hx:-mt-20" id="inventory-management-integration">&lt;/span>
+&lt;a href="#inventory-management-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Stock Valuation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Cost-plus pricing calculations&lt;/li>
+&lt;li>Margin analysis by item and customer&lt;/li>
+&lt;li>Slow-moving inventory pricing strategies&lt;/li>
+&lt;li>Automated reorder level adjustments based on pricing&lt;/li>
+&lt;/ul>
+&lt;h3>Customer Relationship Management&lt;span class="hx:absolute hx:-mt-20" id="customer-relationship-management">&lt;/span>
+&lt;a href="#customer-relationship-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Customer Segmentation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Automatic pricing based on customer classification&lt;/li>
+&lt;li>Purchase history analysis for pricing optimization&lt;/li>
+&lt;li>Customer lifetime value calculations&lt;/li>
+&lt;li>Loyalty program integration with special pricing&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Next Steps and Advanced Features&lt;span class="hx:absolute hx:-mt-20" id="next-steps-and-advanced-features">&lt;/span>
+&lt;a href="#next-steps-and-advanced-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering basic pricing schemes, explore:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a>&lt;/strong> - Detailed price lists and management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Apply pricing to specific items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a>&lt;/strong> - Implement pricing in retail operations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel pricing strategies&lt;/li>
+&lt;/ol>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pricing Success&lt;/strong>: Businesses using structured pricing schemes typically see 15-25% improvement in profit margins and 30% reduction in pricing errors.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Management Overview&lt;/a> - Complete financial integration&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and pricing management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Platforms&lt;/a> - Online pricing and synchronization&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/dashboard/" >Business Analytics&lt;/a> - Pricing performance analysis&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Getting Help&lt;span class="hx:absolute hx:-mt-20" id="getting-help">&lt;/span>
+&lt;a href="#getting-help" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Support Resources&lt;span class="hx:absolute hx:-mt-20" id="support-resources">&lt;/span>
+&lt;a href="#support-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>For pricing scheme questions and support:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Technical Support&lt;/strong>: &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Business Consulting&lt;/strong>: &lt;a href="mailto:sales@bigledger.com" >sales@bigledger.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Documentation&lt;/strong>: Complete user guides and video tutorials&lt;/li>
+&lt;li>&lt;strong>Training&lt;/strong>: Comprehensive pricing strategy training programs&lt;/li>
+&lt;/ul>
+&lt;h3>Professional Services&lt;span class="hx:absolute hx:-mt-20" id="professional-services">&lt;/span>
+&lt;a href="#professional-services" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Consider professional services for:&lt;/p>
+&lt;ul>
+&lt;li>Complex pricing strategy development&lt;/li>
+&lt;li>Market analysis and competitive positioning&lt;/li>
+&lt;li>Custom pricing scheme development&lt;/li>
+&lt;li>Advanced integration and automation setup&lt;/li>
+&lt;/ul></description></item><item><title>Price Set Configuration &amp; Advanced Pricing</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/price-set/</guid><description>
+&lt;h1>Price Set Configuration &amp;amp; Advanced Pricing&lt;/h1>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;p>&lt;strong>🚧 Content Under Development&lt;/strong>: This page contains basic functionality notes and requires comprehensive documentation. Critical areas needing development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Rule-Based Pricing Logic&lt;/strong>: Detailed explanation of pricing rules and conditions&lt;/li>
+&lt;li>&lt;strong>Multi-Level Pricing&lt;/strong>: Complex pricing hierarchies and inheritance&lt;/li>
+&lt;li>&lt;strong>Business Rule Examples&lt;/strong>: Real-world scenarios and use cases&lt;/li>
+&lt;li>&lt;strong>Integration Workflows&lt;/strong>: How price sets work with other pricing components&lt;/li>
+&lt;li>&lt;strong>Performance Optimization&lt;/strong>: Managing large-scale pricing configurations&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price sets in BigLedger provide advanced pricing configuration capabilities that go beyond basic pricing schemes. They enable complex, rule-based pricing logic that can adapt to various business conditions, customer segments, and operational scenarios.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Foundation Required&lt;/strong>: Price sets work in conjunction with &lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Books&lt;/a> and &lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>. Ensure you understand these concepts before configuring price sets.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>TODO: Comprehensive Documentation Needed&lt;span class="hx:absolute hx:-mt-20" id="todo-comprehensive-documentation-needed">&lt;/span>
+&lt;a href="#todo-comprehensive-documentation-needed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Priority 1: Core Concepts&lt;span class="hx:absolute hx:-mt-20" id="priority-1-core-concepts">&lt;/span>
+&lt;a href="#priority-1-core-concepts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Price Set Architecture&lt;/strong>: How price sets fit into BigLedger&amp;rsquo;s pricing ecosystem&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Rule Logic System&lt;/strong>: Understanding AND/OR logic, negation, and complex conditions&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Priority Management&lt;/strong>: How multiple price sets interact and override each other&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Performance Impact&lt;/strong>: Optimizing price set configurations for large catalogs&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 2: Rule Configuration&lt;span class="hx:absolute hx:-mt-20" id="priority-2-rule-configuration">&lt;/span>
+&lt;a href="#priority-2-rule-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Document Header Rules&lt;/strong>: Customer, date, and entity-based pricing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Line Item Rules&lt;/strong>: Product-specific and category-based pricing logic&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Treatment Options&lt;/strong>: Discount, markup, fixed price, and percentage adjustments&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Validation Systems&lt;/strong>: Ensuring pricing rules don&amp;rsquo;t conflict&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 3: Advanced Implementation&lt;span class="hx:absolute hx:-mt-20" id="priority-3-advanced-implementation">&lt;/span>
+&lt;a href="#priority-3-advanced-implementation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Complex Scenarios&lt;/strong>: Multi-tier distributor pricing, seasonal adjustments&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Integration Examples&lt;/strong>: POS, e-commerce, and B2B portal configurations&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Troubleshooting Guide&lt;/strong>: Common issues and resolution strategies&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Best Practices&lt;/strong>: Performance optimization and maintenance strategies&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Current Basic Functionality&lt;span class="hx:absolute hx:-mt-20" id="current-basic-functionality">&lt;/span>
+&lt;a href="#current-basic-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Creating Price Sets&lt;span class="hx:absolute hx:-mt-20" id="creating-price-sets">&lt;/span>
+&lt;a href="#creating-price-sets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Required Information&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Price Book Name&lt;/strong>: Select from existing price books (must be created first)&lt;/li>
+&lt;li>&lt;strong>Price Set Code&lt;/strong>: System-generated, cannot be modified&lt;/li>
+&lt;li>&lt;strong>Price Set Name&lt;/strong>: Descriptive identifier&lt;/li>
+&lt;li>&lt;strong>Priority Level&lt;/strong>: Determines rule application order&lt;/li>
+&lt;/ul>
+&lt;h3>Basic Configuration Tabs&lt;span class="hx:absolute hx:-mt-20" id="basic-configuration-tabs">&lt;/span>
+&lt;a href="#basic-configuration-tabs" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Details Tab&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Edit price set name and priority level&lt;/li>
+&lt;li>Manage active/inactive status&lt;/li>
+&lt;li>Delete unused price sets&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Rules - Document Header&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Configure customer-level pricing rules&lt;/li>
+&lt;li>Set date range validations&lt;/li>
+&lt;li>Apply entity-specific pricing&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Rules - Multi Line &amp;amp; Single Line&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Item-specific pricing conditions&lt;/li>
+&lt;li>Category-based rule application&lt;/li>
+&lt;li>Regular expression matching for complex criteria&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Treatment Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Define pricing adjustments (discounts, markups)&lt;/li>
+&lt;li>Set calculation methods and values&lt;/li>
+&lt;li>Configure rule application behavior&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Immediate Next Steps&lt;span class="hx:absolute hx:-mt-20" id="immediate-next-steps">&lt;/span>
+&lt;a href="#immediate-next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While comprehensive documentation is being developed:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Start Simple&lt;/strong>: Begin with basic price sets using single rules&lt;/li>
+&lt;li>&lt;strong>Test Thoroughly&lt;/strong>: Verify pricing calculations in a test environment&lt;/li>
+&lt;li>&lt;strong>Document Decisions&lt;/strong>: Keep records of your pricing logic for future reference&lt;/li>
+&lt;li>&lt;strong>Monitor Performance&lt;/strong>: Watch for any slowdowns with complex rule sets&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Explore these foundational topics while this page is under development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> - Foundation pricing template system&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Core price list management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
+&lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Immediate): Rule logic documentation and examples&lt;br>
+&lt;strong>Phase 2&lt;/strong> (Short-term): Advanced scenarios and integration guides&lt;br>
+&lt;strong>Phase 3&lt;/strong> (Medium-term): Performance optimization and troubleshooting&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Need Help Now?&lt;/strong> For immediate assistance with price set configuration, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> with specific details about your pricing requirements.&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

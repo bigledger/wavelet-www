@@ -1,0 +1,351 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Services</title><link>https://wiki.bigledger.com/tags/services/</link><description>Recent content in Services on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Document Item Maintenance Applet</title><link>https://wiki.bigledger.com/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/doc-item-maintenance-applet/</guid><description>
+&lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
+&lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Document Item Maintenance Applet is a crucial Core Module component that manages all non-physical items in BigLedger. This includes services, consulting fees, digital products, licenses, subscriptions, and any other document-based or non-inventory items that your business sells or purchases.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Core Module Applet&lt;/strong>: This is one of the 13 essential Core Module applets, particularly important for service-based businesses and companies that sell both products and services.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>Primary Functions&lt;span class="hx:absolute hx:-mt-20" id="primary-functions">&lt;/span>
+&lt;a href="#primary-functions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Service Item Management&lt;/strong> - Professional services, consulting, labor&lt;/li>
+&lt;li>&lt;strong>Digital Product Management&lt;/strong> - Software, licenses, subscriptions&lt;/li>
+&lt;li>&lt;strong>Document Templates&lt;/strong> - Standardized service descriptions&lt;/li>
+&lt;li>&lt;strong>Billing Item Configuration&lt;/strong> - Non-inventory billing items&lt;/li>
+&lt;li>&lt;strong>Service Pricing&lt;/strong> - Flexible pricing models for services&lt;/li>
+&lt;/ul>
+&lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
+&lt;a href="#key-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Document Item Types&lt;span class="hx:absolute hx:-mt-20" id="document-item-types">&lt;/span>
+&lt;a href="#document-item-types" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Professional Services&lt;/strong> - Consulting, legal, accounting services&lt;/li>
+&lt;li>&lt;strong>Labor Services&lt;/strong> - Installation, maintenance, repair services&lt;/li>
+&lt;li>&lt;strong>Digital Products&lt;/strong> - Software licenses, digital downloads&lt;/li>
+&lt;li>&lt;strong>Subscriptions&lt;/strong> - Recurring service agreements&lt;/li>
+&lt;li>&lt;strong>Fees and Charges&lt;/strong> - Processing fees, service charges&lt;/li>
+&lt;li>&lt;strong>Miscellaneous Items&lt;/strong> - Other non-inventory items&lt;/li>
+&lt;/ul>
+&lt;h3>Item Configuration&lt;span class="hx:absolute hx:-mt-20" id="item-configuration">&lt;/span>
+&lt;a href="#item-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Detailed item descriptions and specifications&lt;/li>
+&lt;li>Service category classification&lt;/li>
+&lt;li>Units of measure (hours, days, licenses, etc.)&lt;/li>
+&lt;li>Tax category assignment&lt;/li>
+&lt;li>Account mapping for revenue/expense&lt;/li>
+&lt;li>Pricing structure configuration&lt;/li>
+&lt;/ul>
+&lt;h3>Service Specifications&lt;span class="hx:absolute hx:-mt-20" id="service-specifications">&lt;/span>
+&lt;a href="#service-specifications" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Service delivery parameters&lt;/li>
+&lt;li>Skill requirements and qualifications&lt;/li>
+&lt;li>Duration and time estimates&lt;/li>
+&lt;li>Resource requirements&lt;/li>
+&lt;li>Quality standards and SLAs&lt;/li>
+&lt;li>Deliverable definitions&lt;/li>
+&lt;/ul>
+&lt;h3>Pricing Models&lt;span class="hx:absolute hx:-mt-20" id="pricing-models">&lt;/span>
+&lt;a href="#pricing-models" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Fixed Price&lt;/strong> - Flat rate for service&lt;/li>
+&lt;li>&lt;strong>Time-based&lt;/strong> - Hourly, daily, weekly rates&lt;/li>
+&lt;li>&lt;strong>Tiered Pricing&lt;/strong> - Volume-based pricing&lt;/li>
+&lt;li>&lt;strong>Subscription&lt;/strong> - Recurring billing models&lt;/li>
+&lt;li>&lt;strong>Custom Pricing&lt;/strong> - Project-specific pricing&lt;/li>
+&lt;/ul>
+&lt;h3>Document Integration&lt;span class="hx:absolute hx:-mt-20" id="document-integration">&lt;/span>
+&lt;a href="#document-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Service contract templates&lt;/li>
+&lt;li>Statement of work (SOW) generation&lt;/li>
+&lt;li>Service level agreement (SLA) templates&lt;/li>
+&lt;li>Invoice line item descriptions&lt;/li>
+&lt;li>Proposal and quote templates&lt;/li>
+&lt;/ul>
+&lt;h2>Technical Specifications&lt;span class="hx:absolute hx:-mt-20" id="technical-specifications">&lt;/span>
+&lt;a href="#technical-specifications" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>System Requirements&lt;span class="hx:absolute hx:-mt-20" id="system-requirements">&lt;/span>
+&lt;a href="#system-requirements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Minimum Access Level&lt;/strong>: Item Administrator&lt;/li>
+&lt;li>&lt;strong>Database Dependencies&lt;/strong>: Item master tables&lt;/li>
+&lt;li>&lt;strong>Integration Points&lt;/strong>: Sales, purchasing, financial modules&lt;/li>
+&lt;li>&lt;strong>API Availability&lt;/strong>: Full CRUD operations&lt;/li>
+&lt;li>&lt;strong>Template Engine&lt;/strong>: Document generation capabilities&lt;/li>
+&lt;/ul>
+&lt;h3>Item Configuration Options&lt;span class="hx:absolute hx:-mt-20" id="item-configuration-options">&lt;/span>
+&lt;a href="#item-configuration-options" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Item Code Length&lt;/strong>: 3-50 characters&lt;/li>
+&lt;li>&lt;strong>Description Length&lt;/strong>: Up to 2,000 characters&lt;/li>
+&lt;li>&lt;strong>Category Levels&lt;/strong>: Up to 5 hierarchy levels&lt;/li>
+&lt;li>&lt;strong>Custom Fields&lt;/strong>: Up to 15 custom fields&lt;/li>
+&lt;li>&lt;strong>Attachment Support&lt;/strong>: Multiple file types&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Parameters&lt;span class="hx:absolute hx:-mt-20" id="performance-parameters">&lt;/span>
+&lt;a href="#performance-parameters" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Item Capacity&lt;/strong>: Up to 50,000 document items&lt;/li>
+&lt;li>&lt;strong>Search Performance&lt;/strong>: &amp;lt;2 seconds for complex queries&lt;/li>
+&lt;li>&lt;strong>Template Generation&lt;/strong>: &amp;lt;5 seconds for standard templates&lt;/li>
+&lt;li>&lt;strong>Concurrent Users&lt;/strong>: 200+ simultaneous users&lt;/li>
+&lt;li>&lt;strong>Bulk Operations&lt;/strong>: Process 1,000+ items per batch&lt;/li>
+&lt;/ul>
+&lt;h2>Integration Points&lt;span class="hx:absolute hx:-mt-20" id="integration-points">&lt;/span>
+&lt;a href="#integration-points" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Dependencies&lt;span class="hx:absolute hx:-mt-20" id="core-module-dependencies">&lt;/span>
+&lt;a href="#core-module-dependencies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Tax Configuration Applet&lt;/strong> - Service tax mapping&lt;/li>
+&lt;li>&lt;strong>Chart of Account Applet&lt;/strong> - Revenue/expense accounts&lt;/li>
+&lt;li>&lt;strong>Customer Maintenance Applet&lt;/strong> - Service delivery setup&lt;/li>
+&lt;li>&lt;strong>Supplier Maintenance Applet&lt;/strong> - Service procurement&lt;/li>
+&lt;/ul>
+&lt;h3>Module Integration&lt;span class="hx:absolute hx:-mt-20" id="module-integration">&lt;/span>
+&lt;a href="#module-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Module&lt;/th>
+&lt;th>Integration Purpose&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Sales &amp;amp; CRM&lt;/strong>&lt;/td>
+&lt;td>Service quotations and sales orders&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Project Management&lt;/strong>&lt;/td>
+&lt;td>Project-based service delivery&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Financial Accounting&lt;/strong>&lt;/td>
+&lt;td>Service revenue and expense tracking&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>HR &amp;amp; Payroll&lt;/strong>&lt;/td>
+&lt;td>Resource allocation and costing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Time Tracking&lt;/strong>&lt;/td>
+&lt;td>Service time recording&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Purchasing&lt;/strong>&lt;/td>
+&lt;td>Service procurement and subcontracting&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3>External Integrations&lt;span class="hx:absolute hx:-mt-20" id="external-integrations">&lt;/span>
+&lt;a href="#external-integrations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Professional Services Platforms&lt;/strong> - Service marketplaces&lt;/li>
+&lt;li>&lt;strong>Time Tracking Systems&lt;/strong> - External time capture&lt;/li>
+&lt;li>&lt;strong>Document Management&lt;/strong> - Template repositories&lt;/li>
+&lt;li>&lt;strong>CRM Systems&lt;/strong> - Customer service history&lt;/li>
+&lt;li>&lt;strong>Accounting Software&lt;/strong> - Service revenue integration&lt;/li>
+&lt;/ul>
+&lt;h2>Configuration Requirements&lt;span class="hx:absolute hx:-mt-20" id="configuration-requirements">&lt;/span>
+&lt;a href="#configuration-requirements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Initial Setup Requirements&lt;span class="hx:absolute hx:-mt-20" id="initial-setup-requirements">&lt;/span>
+&lt;a href="#initial-setup-requirements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Service Categories&lt;/strong> - Define service classifications&lt;/li>
+&lt;li>&lt;strong>Units of Measure&lt;/strong> - Set up service units (hours, days, etc.)&lt;/li>
+&lt;li>&lt;strong>Account Mapping&lt;/strong> - Link to chart of accounts&lt;/li>
+&lt;li>&lt;strong>Tax Configuration&lt;/strong> - Assign appropriate tax codes&lt;/li>
+&lt;li>&lt;strong>Pricing Structure&lt;/strong> - Define pricing methodologies&lt;/li>
+&lt;/ol>
+&lt;h3>Essential Configurations&lt;span class="hx:absolute hx:-mt-20" id="essential-configurations">&lt;/span>
+&lt;a href="#essential-configurations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Standard Services&lt;/strong>: Common services offered&lt;/li>
+&lt;li>&lt;strong>Service Packages&lt;/strong>: Bundled service offerings&lt;/li>
+&lt;li>&lt;strong>Resource Requirements&lt;/strong>: Skills and equipment needed&lt;/li>
+&lt;li>&lt;strong>Delivery Methods&lt;/strong>: How services are delivered&lt;/li>
+&lt;li>&lt;strong>Quality Standards&lt;/strong>: Service level expectations&lt;/li>
+&lt;/ul>
+&lt;h3>Advanced Configurations&lt;span class="hx:absolute hx:-mt-20" id="advanced-configurations">&lt;/span>
+&lt;a href="#advanced-configurations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Contract Templates&lt;/strong> - Standardized service agreements&lt;/li>
+&lt;li>&lt;strong>SLA Definitions&lt;/strong> - Service level agreements&lt;/li>
+&lt;li>&lt;strong>Milestone Tracking&lt;/strong> - Project milestone management&lt;/li>
+&lt;li>&lt;strong>Resource Planning&lt;/strong> - Capacity and scheduling&lt;/li>
+&lt;li>&lt;strong>Performance Metrics&lt;/strong> - Service KPI tracking&lt;/li>
+&lt;/ul>
+&lt;h2>Use Cases&lt;span class="hx:absolute hx:-mt-20" id="use-cases">&lt;/span>
+&lt;a href="#use-cases" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Professional Services Firm&lt;span class="hx:absolute hx:-mt-20" id="professional-services-firm">&lt;/span>
+&lt;a href="#professional-services-firm" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scenario&lt;/strong>: Legal or consulting firm&lt;/p>
+&lt;ul>
+&lt;li>Legal consultation services&lt;/li>
+&lt;li>Document review and preparation&lt;/li>
+&lt;li>Court representation fees&lt;/li>
+&lt;li>Retainer and hourly billing&lt;/li>
+&lt;li>Specialized legal research services&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits&lt;/strong>: Comprehensive professional service management&lt;/p>
+&lt;h3>IT Services Company&lt;span class="hx:absolute hx:-mt-20" id="it-services-company">&lt;/span>
+&lt;a href="#it-services-company" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scenario&lt;/strong>: Technology services provider&lt;/p>
+&lt;ul>
+&lt;li>Software implementation services&lt;/li>
+&lt;li>System maintenance contracts&lt;/li>
+&lt;li>Training and consultation&lt;/li>
+&lt;li>Software licenses and subscriptions&lt;/li>
+&lt;li>Technical support services&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits&lt;/strong>: Complete IT service portfolio management&lt;/p>
+&lt;h3>Healthcare Practice&lt;span class="hx:absolute hx:-mt-20" id="healthcare-practice">&lt;/span>
+&lt;a href="#healthcare-practice" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scenario&lt;/strong>: Medical clinic or dental practice&lt;/p>
+&lt;ul>
+&lt;li>Consultation and examination services&lt;/li>
+&lt;li>Specialized procedures and treatments&lt;/li>
+&lt;li>Diagnostic services&lt;/li>
+&lt;li>Wellness programs&lt;/li>
+&lt;li>Medical report preparation&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits&lt;/strong>: Comprehensive healthcare service tracking&lt;/p>
+&lt;h3>Educational Institution&lt;span class="hx:absolute hx:-mt-20" id="educational-institution">&lt;/span>
+&lt;a href="#educational-institution" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scenario&lt;/strong>: Training center or university&lt;/p>
+&lt;ul>
+&lt;li>Course and program offerings&lt;/li>
+&lt;li>Certification services&lt;/li>
+&lt;li>Online learning subscriptions&lt;/li>
+&lt;li>Educational consulting&lt;/li>
+&lt;li>Assessment and testing services&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits&lt;/strong>: Complete educational service management&lt;/p>
+&lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
+&lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
+&lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Physical inventory items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Service tax setup&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Service customers&lt;/li>
+&lt;/ul>
+&lt;h3>Service-Related Applets&lt;span class="hx:absolute hx:-mt-20" id="service-related-applets">&lt;/span>
+&lt;a href="#service-related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/time-tracking-applet/" >Time Tracking Applet&lt;/a>&lt;/strong> - Service time recording&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/project-management-applet/" >Project Management Applet&lt;/a>&lt;/strong> - Project-based services&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/resource-planning-applet/" >Resource Planning Applet&lt;/a>&lt;/strong> - Service resource management&lt;/li>
+&lt;/ul>
+&lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
+&lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/pricing-management-applet/" >Pricing Management Applet&lt;/a>&lt;/strong> - Service pricing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/invoice-generation-applet/" >Invoice Generation Applet&lt;/a>&lt;/strong> - Service billing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/revenue-recognition-applet/" >Revenue Recognition Applet&lt;/a>&lt;/strong> - Service revenue&lt;/li>
+&lt;/ul>
+&lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
+&lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
+&lt;a href="#quick-start" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Access Document Item Maintenance&lt;/strong> - Navigate to the applet&lt;/li>
+&lt;li>&lt;strong>Define Service Categories&lt;/strong> - Set up service classifications&lt;/li>
+&lt;li>&lt;strong>Create Standard Services&lt;/strong> - Add common services&lt;/li>
+&lt;li>&lt;strong>Configure Pricing&lt;/strong> - Set up pricing models&lt;/li>
+&lt;li>&lt;strong>Test Service Creation&lt;/strong> - Create sample service items&lt;/li>
+&lt;/ol>
+&lt;h3>Advanced Setup&lt;span class="hx:absolute hx:-mt-20" id="advanced-setup">&lt;/span>
+&lt;a href="#advanced-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Template Configuration&lt;/strong> - Set up service templates&lt;/li>
+&lt;li>&lt;strong>Integration Setup&lt;/strong> - Connect with other modules&lt;/li>
+&lt;li>&lt;strong>Workflow Configuration&lt;/strong> - Set up approval processes&lt;/li>
+&lt;li>&lt;strong>Reporting Setup&lt;/strong> - Configure service reports&lt;/li>
+&lt;li>&lt;strong>Performance Optimization&lt;/strong> - Optimize for high volume&lt;/li>
+&lt;/ol>
+&lt;h2>Service Item Templates&lt;span class="hx:absolute hx:-mt-20" id="service-item-templates">&lt;/span>
+&lt;a href="#service-item-templates" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Consulting Services Template&lt;span class="hx:absolute hx:-mt-20" id="consulting-services-template">&lt;/span>
+&lt;a href="#consulting-services-template" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Item Code&lt;/span>: &lt;span style="color:#ae81ff">CONS-001&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Description&lt;/span>: &lt;span style="color:#ae81ff">Management Consulting Services&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Category&lt;/span>: &lt;span style="color:#ae81ff">Professional Services&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Unit of Measure&lt;/span>: &lt;span style="color:#ae81ff">Hours&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Default Rate&lt;/span>: &lt;span style="color:#ae81ff">$150/hour&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Tax Category&lt;/span>: &lt;span style="color:#ae81ff">Professional Services Tax&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Account&lt;/span>: &lt;span style="color:#ae81ff">4100&lt;/span> - &lt;span style="color:#ae81ff">Professional Service Revenue&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Skills Required&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">Business Analysis&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">Project Management&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Deliverables&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">Analysis Report&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">Recommendations Document&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>Software Services Template&lt;span class="hx:absolute hx:-mt-20" id="software-services-template">&lt;/span>
+&lt;a href="#software-services-template" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Item Code&lt;/span>: &lt;span style="color:#ae81ff">SOFT-001&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Description&lt;/span>: &lt;span style="color:#ae81ff">Software Implementation Service&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Category&lt;/span>: &lt;span style="color:#ae81ff">IT Services&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Unit of Measure&lt;/span>: &lt;span style="color:#ae81ff">Project&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Default Rate&lt;/span>: &lt;span style="color:#ae81ff">$5,000/project&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Tax Category&lt;/span>: &lt;span style="color:#ae81ff">IT Services Tax&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Account&lt;/span>: &lt;span style="color:#ae81ff">4200&lt;/span> - &lt;span style="color:#ae81ff">IT Service Revenue&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Duration&lt;/span>: &lt;span style="color:#ae81ff">30&lt;/span> &lt;span style="color:#ae81ff">days&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Resources Required&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">Software Developer&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">Project Manager&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Deliverables&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">Implemented System&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">User Training&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">Documentation&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h2>Best Practices&lt;span class="hx:absolute hx:-mt-20" id="best-practices">&lt;/span>
+&lt;a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Item Management Best Practices&lt;span class="hx:absolute hx:-mt-20" id="item-management-best-practices">&lt;/span>
+&lt;a href="#item-management-best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Standardization&lt;/strong> - Use consistent naming conventions&lt;/li>
+&lt;li>&lt;strong>Classification&lt;/strong> - Proper service categorization&lt;/li>
+&lt;li>&lt;strong>Documentation&lt;/strong> - Detailed service descriptions&lt;/li>
+&lt;li>&lt;strong>Regular Updates&lt;/strong> - Keep service information current&lt;/li>
+&lt;li>&lt;strong>Version Control&lt;/strong> - Track service definition changes&lt;/li>
+&lt;/ul>
+&lt;h3>Pricing Best Practices&lt;span class="hx:absolute hx:-mt-20" id="pricing-best-practices">&lt;/span>
+&lt;a href="#pricing-best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Market Research&lt;/strong> - Competitive pricing analysis&lt;/li>
+&lt;li>&lt;strong>Cost Analysis&lt;/strong> - Understand service delivery costs&lt;/li>
+&lt;li>&lt;strong>Value Pricing&lt;/strong> - Price based on customer value&lt;/li>
+&lt;li>&lt;strong>Regular Review&lt;/strong> - Periodic pricing adjustments&lt;/li>
+&lt;li>&lt;strong>Profitability Analysis&lt;/strong> - Monitor service profitability&lt;/li>
+&lt;/ul>
+&lt;h3>Service Delivery Best Practices&lt;span class="hx:absolute hx:-mt-20" id="service-delivery-best-practices">&lt;/span>
+&lt;a href="#service-delivery-best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Clear Specifications&lt;/strong> - Well-defined service scope&lt;/li>
+&lt;li>&lt;strong>Quality Standards&lt;/strong> - Consistent service quality&lt;/li>
+&lt;li>&lt;strong>Resource Planning&lt;/strong> - Adequate resource allocation&lt;/li>
+&lt;li>&lt;strong>Performance Monitoring&lt;/strong> - Track service metrics&lt;/li>
+&lt;li>&lt;strong>Customer Feedback&lt;/strong> - Regular quality assessment&lt;/li>
+&lt;/ul>
+&lt;h2>Troubleshooting&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting">&lt;/span>
+&lt;a href="#troubleshooting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Common Issues&lt;span class="hx:absolute hx:-mt-20" id="common-issues">&lt;/span>
+&lt;a href="#common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Cannot create service items&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Check user permissions for item creation&lt;/li>
+&lt;li>Verify required fields are completed&lt;/li>
+&lt;li>Ensure service categories are defined&lt;/li>
+&lt;li>Check account mapping configuration&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Pricing issues in quotes/invoices&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Verify pricing model configuration&lt;/li>
+&lt;li>Check customer-specific pricing rules&lt;/li>
+&lt;li>Ensure tax calculations are correct&lt;/li>
+&lt;li>Review discount and markup settings&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Service delivery problems&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Check resource availability&lt;/li>
+&lt;li>Verify skill requirements&lt;/li>
+&lt;li>Review delivery timeline settings&lt;/li>
+&lt;li>Confirm quality standards&lt;/li>
+&lt;/ul>
+&lt;h3>Support Resources&lt;span class="hx:absolute hx:-mt-20" id="support-resources">&lt;/span>
+&lt;a href="#support-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Service item setup guide&lt;/li>
+&lt;li>Pricing configuration documentation&lt;/li>
+&lt;li>Integration troubleshooting guide&lt;/li>
+&lt;li>Best practices documentation&lt;/li>
+&lt;/ul>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pro Tip&lt;/strong>: Document items should be as detailed as inventory items. Clear descriptions and specifications prevent billing disputes and ensure consistent service delivery.&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

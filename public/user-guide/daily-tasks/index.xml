@@ -1,0 +1,484 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Daily Tasks</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/</link><description>Recent content in Daily Tasks on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/user-guide/daily-tasks/index.xml" rel="self" type="application/rss+xml"/><item><title>Price book</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/price-book/</guid><description>
+&lt;p>&lt;strong>Page ID&lt;/strong>: 3317434109
+&lt;strong>Last Updated&lt;/strong>: 2025-01-01T18:15:27.759Z&lt;/p>
+&lt;h1>3.0 Pricebook Listing&lt;/h1>&lt;p>Please click the &amp;ldquo;+&amp;rdquo;&amp;quot; button to Create a new Pricebook.
+Please fill up the compulsory * sign information for creating the Pricebook. After filled up all Compulsory (*) information, Please click &amp;ldquo;Create&amp;rdquo; to add a new Pricebook.
+Compulsory information:
+Pricebook code - the code cannot be modified after creation.
+Pricebook Name
+Edit a pricebook by clicking on one of the records in the table.
+The following details can be edited on the pricebook:
+Pricebook Name
+Calculation Logic
+Status
+Description&lt;/p></description></item><item><title>Pricing Schemes &amp; Strategy Management</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/</guid><description>
+&lt;h1>Pricing Schemes &amp;amp; Strategy Management&lt;/h1>&lt;p>Master BigLedger&amp;rsquo;s flexible pricing system to create sophisticated pricing strategies that adapt to different customers, markets, and business scenarios while maintaining profitability and competitive positioning.&lt;/p>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pricing schemes in BigLedger are powerful templates that define pricing structures for your products and services. These schemes can be applied across multiple business modules including POS, sales orders, quotations, and e-commerce platforms, providing consistent pricing while allowing for customer-specific and scenario-based flexibility.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Key Concept&lt;/strong>: Pricing schemes create the framework, while actual item prices are set in the &lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> module. This separation allows for flexible pricing strategies across different customer segments and sales channels.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Understanding Pricing Schemes&lt;span class="hx:absolute hx:-mt-20" id="understanding-pricing-schemes">&lt;/span>
+&lt;a href="#understanding-pricing-schemes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>What Are Pricing Schemes?&lt;span class="hx:absolute hx:-mt-20" id="what-are-pricing-schemes">&lt;/span>
+&lt;a href="#what-are-pricing-schemes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Pricing schemes are templates that define how different types of prices are calculated and applied:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Price Types&lt;/strong>: Retail, wholesale, member, promotional, minimum, maximum prices&lt;/li>
+&lt;li>&lt;strong>Customer Segments&lt;/strong>: Different pricing for different customer categories&lt;/li>
+&lt;li>&lt;strong>Channel-Specific&lt;/strong>: Unique pricing for POS, e-commerce, B2B portals&lt;/li>
+&lt;li>&lt;strong>Time-Sensitive&lt;/strong>: Seasonal, promotional, or time-based pricing&lt;/li>
+&lt;li>&lt;strong>Volume-Based&lt;/strong>: Quantity breaks and bulk pricing structures&lt;/li>
+&lt;/ul>
+&lt;h3>Integration Across Modules&lt;span class="hx:absolute hx:-mt-20" id="integration-across-modules">&lt;/span>
+&lt;a href="#integration-across-modules" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Pricing schemes integrate seamlessly with:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>POS Systems&lt;/strong>: Automatic price selection based on customer type&lt;/li>
+&lt;li>&lt;strong>E-Commerce Platforms&lt;/strong>: Dynamic pricing for online channels&lt;/li>
+&lt;li>&lt;strong>Sales Orders&lt;/strong>: Customer-specific pricing application&lt;/li>
+&lt;li>&lt;strong>Quotation Systems&lt;/strong>: Professional pricing presentation&lt;/li>
+&lt;li>&lt;strong>Procurement&lt;/strong>: Cost-plus pricing calculations&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Accessing Pricing Scheme Management&lt;span class="hx:absolute hx:-mt-20" id="accessing-pricing-scheme-management">&lt;/span>
+&lt;a href="#accessing-pricing-scheme-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Navigation and Interface&lt;span class="hx:absolute hx:-mt-20" id="navigation-and-interface">&lt;/span>
+&lt;a href="#navigation-and-interface" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Navigate to &lt;strong>Pricing Scheme&lt;/strong> from your main menu&lt;/li>
+&lt;li>Access the comprehensive listing page with advanced search capabilities&lt;/li>
+&lt;li>Use the AG-Grid interface for efficient scheme management&lt;/li>
+&lt;li>Leverage fuzzy search for quick scheme location&lt;/li>
+&lt;/ol>
+&lt;h3>Listing Page Features&lt;span class="hx:absolute hx:-mt-20" id="listing-page-features">&lt;/span>
+&lt;a href="#listing-page-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Search and Filter Capabilities&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>General Search&lt;/strong>: Quick text-based search across all scheme fields&lt;/li>
+&lt;li>&lt;strong>Advanced Search&lt;/strong>: Detailed filtering by status, type, date ranges&lt;/li>
+&lt;li>&lt;strong>Fuzzy Search&lt;/strong>: Find schemes even with partial or approximate terms&lt;/li>
+&lt;li>&lt;strong>Sort Options&lt;/strong>: Organize by name, date created, last modified, usage frequency&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Visual Indicators&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Status Icons&lt;/strong>: Active, inactive, draft scheme indicators&lt;/li>
+&lt;li>&lt;strong>Usage Statistics&lt;/strong>: Show which schemes are most frequently used&lt;/li>
+&lt;li>&lt;strong>Integration Status&lt;/strong>: Indicate which modules are using each scheme&lt;/li>
+&lt;li>&lt;strong>Last Modified&lt;/strong>: Track recent changes and updates&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Creating Pricing Schemes&lt;span class="hx:absolute hx:-mt-20" id="creating-pricing-schemes">&lt;/span>
+&lt;a href="#creating-pricing-schemes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Scheme Creation Process&lt;span class="hx:absolute hx:-mt-20" id="scheme-creation-process">&lt;/span>
+&lt;a href="#scheme-creation-process" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>1. Initiate New Scheme Creation&lt;span class="hx:absolute hx:-mt-20" id="1-initiate-new-scheme-creation">&lt;/span>
+&lt;a href="#1-initiate-new-scheme-creation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>Click the &lt;strong>&amp;quot;+&amp;quot; button&lt;/strong> on the pricing scheme listing page&lt;/li>
+&lt;li>The creation dialog opens in a secondary container&lt;/li>
+&lt;li>Complete the required and optional information&lt;/li>
+&lt;li>Save to create your new pricing scheme template&lt;/li>
+&lt;/ol>
+&lt;h4>2. Essential Scheme Information&lt;span class="hx:absolute hx:-mt-20" id="2-essential-scheme-information">&lt;/span>
+&lt;a href="#2-essential-scheme-information" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>&lt;strong>System-Generated Code&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Automatically created by BigLedger&lt;/li>
+&lt;li>Unique identifier for internal tracking&lt;/li>
+&lt;li>Used in API calls and data exports&lt;/li>
+&lt;li>Cannot be modified after creation&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Scheme Name&lt;/strong> &lt;em>(Required)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Descriptive name for easy identification&lt;/li>
+&lt;li>Best practices: Include purpose and target market&lt;/li>
+&lt;li>Examples: &amp;ldquo;Retail Standard&amp;rdquo;, &amp;ldquo;Wholesale Bulk&amp;rdquo;, &amp;ldquo;Member Discount&amp;rdquo;&lt;/li>
+&lt;li>Keep names consistent and professional&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Description&lt;/strong> &lt;em>(Optional)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Detailed explanation of scheme purpose and usage&lt;/li>
+&lt;li>Include target customer segments&lt;/li>
+&lt;li>Note any special conditions or restrictions&lt;/li>
+&lt;li>Helpful for team understanding and training&lt;/li>
+&lt;/ul>
+&lt;h3>Scheme Configuration Examples&lt;span class="hx:absolute hx:-mt-20" id="scheme-configuration-examples">&lt;/span>
+&lt;a href="#scheme-configuration-examples" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Retail Pricing Scheme&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Name: &amp;ldquo;Retail Standard Pricing&amp;rdquo;&lt;/li>
+&lt;li>Description: &amp;ldquo;Standard retail prices for walk-in customers and online sales&amp;rdquo;&lt;/li>
+&lt;li>Usage: POS systems, e-commerce platforms, general quotations&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Wholesale Pricing Scheme&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Name: &amp;ldquo;Wholesale B2B Pricing&amp;rdquo;&lt;/li>
+&lt;li>Description: &amp;ldquo;Bulk pricing for business customers with volume discounts&amp;rdquo;&lt;/li>
+&lt;li>Usage: B2B portal, large order processing, distributor sales&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Member Pricing Scheme&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Name: &amp;ldquo;VIP Member Exclusive&amp;rdquo;&lt;/li>
+&lt;li>Description: &amp;ldquo;Special pricing for loyalty program members with additional discounts&amp;rdquo;&lt;/li>
+&lt;li>Usage: Member portal, POS with customer identification, special promotions&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Editing and Managing Pricing Schemes&lt;span class="hx:absolute hx:-mt-20" id="editing-and-managing-pricing-schemes">&lt;/span>
+&lt;a href="#editing-and-managing-pricing-schemes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Accessing Scheme Editing&lt;span class="hx:absolute hx:-mt-20" id="accessing-scheme-editing">&lt;/span>
+&lt;a href="#accessing-scheme-editing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Click on any pricing scheme from the main listing&lt;/li>
+&lt;li>Access the comprehensive editing interface&lt;/li>
+&lt;li>Navigate between different configuration tabs&lt;/li>
+&lt;li>Make changes and save updates&lt;/li>
+&lt;/ol>
+&lt;h3>Main Tab Configuration&lt;span class="hx:absolute hx:-mt-20" id="main-tab-configuration">&lt;/span>
+&lt;a href="#main-tab-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Core Information Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Pricing Code&lt;/strong>: View system code (read-only for reference)&lt;/li>
+&lt;li>&lt;strong>Scheme Name&lt;/strong>: Update naming for clarity and consistency&lt;/li>
+&lt;li>&lt;strong>Description&lt;/strong>: Modify detailed explanations and usage notes&lt;/li>
+&lt;li>&lt;strong>Status Management&lt;/strong>: Control active/inactive status for scheme availability&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Status Control Options&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Active&lt;/strong>: Scheme available for use in all integrated modules&lt;/li>
+&lt;li>&lt;strong>Inactive&lt;/strong>: Scheme hidden from selection but existing usage preserved&lt;/li>
+&lt;li>&lt;strong>Draft&lt;/strong>: Scheme under development, not available for operational use&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Scheme Management Actions&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Save Changes&lt;/strong>: Update scheme information&lt;/li>
+&lt;li>&lt;strong>Duplicate Scheme&lt;/strong>: Create copy for similar pricing strategies&lt;/li>
+&lt;li>&lt;strong>Delete Scheme&lt;/strong>: Remove unused schemes (with safety checks)&lt;/li>
+&lt;li>&lt;strong>Export Settings&lt;/strong>: Generate scheme configuration for backup or transfer&lt;/li>
+&lt;/ul>
+&lt;h3>Copy Tab Functionality&lt;span class="hx:absolute hx:-mt-20" id="copy-tab-functionality">&lt;/span>
+&lt;a href="#copy-tab-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Scheme Duplication and Templates&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Source Scheme Selection&lt;/strong>: Choose existing scheme as starting point&lt;/li>
+&lt;li>&lt;strong>Modification Options&lt;/strong>: Adjust pricing percentages, add/remove price types&lt;/li>
+&lt;li>&lt;strong>Bulk Updates&lt;/strong>: Apply changes across multiple price points&lt;/li>
+&lt;li>&lt;strong>Template Creation&lt;/strong>: Save as reusable template for future schemes&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Advanced Copy Features&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Selective Copying&lt;/strong>: Choose specific elements to duplicate&lt;/li>
+&lt;li>&lt;strong>Price Adjustments&lt;/strong>: Apply percentage increases or decreases during copy&lt;/li>
+&lt;li>&lt;strong>Customer Segment Mapping&lt;/strong>: Adapt schemes for different market segments&lt;/li>
+&lt;li>&lt;strong>Multi-Currency Support&lt;/strong>: Convert pricing for international markets&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Pricing Scheme Application&lt;span class="hx:absolute hx:-mt-20" id="pricing-scheme-application">&lt;/span>
+&lt;a href="#pricing-scheme-application" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>POS Integration&lt;span class="hx:absolute hx:-mt-20" id="pos-integration">&lt;/span>
+&lt;a href="#pos-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>POS Configuration Setup&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Access POS settings from your main navigation&lt;/li>
+&lt;li>Navigate to pricing configuration section&lt;/li>
+&lt;li>Select appropriate pricing schemes for different scenarios:
+&lt;ul>
+&lt;li>&lt;strong>Minimum Price&lt;/strong>: Lowest allowable selling price&lt;/li>
+&lt;li>&lt;strong>Maximum Price&lt;/strong>: Highest suggested selling price&lt;/li>
+&lt;li>&lt;strong>Retail Price&lt;/strong>: Standard customer pricing&lt;/li>
+&lt;li>&lt;strong>Member Price&lt;/strong>: Special pricing for loyalty members&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Dynamic Price Selection&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Customer Type Recognition&lt;/strong>: Automatic scheme selection based on customer profile&lt;/li>
+&lt;li>&lt;strong>Manual Override&lt;/strong>: Staff ability to select appropriate scheme when needed&lt;/li>
+&lt;li>&lt;strong>Promotion Integration&lt;/strong>: Apply promotional schemes during special events&lt;/li>
+&lt;li>&lt;strong>Tax Compliance&lt;/strong>: Ensure Malaysian GST/SST compliance in all pricing&lt;/li>
+&lt;/ul>
+&lt;h3>E-Commerce Platform Integration&lt;span class="hx:absolute hx:-mt-20" id="e-commerce-platform-integration">&lt;/span>
+&lt;a href="#e-commerce-platform-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Multi-Channel Pricing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Platform-Specific Schemes&lt;/strong>: Different pricing for Shopify, Lazada, Shopee&lt;/li>
+&lt;li>&lt;strong>Currency Adaptation&lt;/strong>: Automatic conversion for international sales&lt;/li>
+&lt;li>&lt;strong>Promotional Pricing&lt;/strong>: Time-sensitive pricing for marketing campaigns&lt;/li>
+&lt;li>&lt;strong>Inventory-Based Pricing&lt;/strong>: Price adjustments based on stock levels&lt;/li>
+&lt;/ul>
+&lt;h3>Sales Order and Quotation Integration&lt;span class="hx:absolute hx:-mt-20" id="sales-order-and-quotation-integration">&lt;/span>
+&lt;a href="#sales-order-and-quotation-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Professional Pricing Presentation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Customer-Specific Pricing&lt;/strong>: Automatic application based on customer classification&lt;/li>
+&lt;li>&lt;strong>Volume Discounting&lt;/strong>: Quantity-based pricing calculations&lt;/li>
+&lt;li>&lt;strong>Project Pricing&lt;/strong>: Special schemes for large projects or contracts&lt;/li>
+&lt;li>&lt;strong>Approval Workflows&lt;/strong>: Management approval for special pricing requests&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Advanced Pricing Strategies&lt;span class="hx:absolute hx:-mt-20" id="advanced-pricing-strategies">&lt;/span>
+&lt;a href="#advanced-pricing-strategies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Multi-Tier Pricing Systems&lt;span class="hx:absolute hx:-mt-20" id="multi-tier-pricing-systems">&lt;/span>
+&lt;a href="#multi-tier-pricing-systems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Customer Segmentation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Retail Customers&lt;/strong>: Standard pricing with full margins&lt;/li>
+&lt;li>&lt;strong>Wholesale Customers&lt;/strong>: Volume-based pricing with reduced margins&lt;/li>
+&lt;li>&lt;strong>VIP Members&lt;/strong>: Special pricing with loyalty discounts&lt;/li>
+&lt;li>&lt;strong>Staff/Employee&lt;/strong>: Internal pricing for employee purchases&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Geographic Pricing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Local Market&lt;/strong>: Standard regional pricing&lt;/li>
+&lt;li>&lt;strong>Export Market&lt;/strong>: International pricing with currency considerations&lt;/li>
+&lt;li>&lt;strong>Remote Areas&lt;/strong>: Adjusted pricing for delivery costs&lt;/li>
+&lt;li>&lt;strong>Urban vs Rural&lt;/strong>: Market-specific pricing strategies&lt;/li>
+&lt;/ul>
+&lt;h3>Time-Based Pricing&lt;span class="hx:absolute hx:-mt-20" id="time-based-pricing">&lt;/span>
+&lt;a href="#time-based-pricing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Seasonal Adjustments&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Peak Season&lt;/strong>: Higher prices during high-demand periods&lt;/li>
+&lt;li>&lt;strong>Off-Season&lt;/strong>: Promotional pricing to maintain sales volume&lt;/li>
+&lt;li>&lt;strong>Holiday Specials&lt;/strong>: Event-specific pricing schemes&lt;/li>
+&lt;li>&lt;strong>End-of-Season&lt;/strong>: Clearance pricing for inventory management&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Dynamic Pricing&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Real-time Adjustments&lt;/strong>: Market-responsive pricing changes&lt;/li>
+&lt;li>&lt;strong>Competitive Pricing&lt;/strong>: Adjust based on market conditions&lt;/li>
+&lt;li>&lt;strong>Inventory-Driven&lt;/strong>: Price adjustments based on stock levels&lt;/li>
+&lt;li>&lt;strong>Demand-Based&lt;/strong>: Higher prices for high-demand items&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Best Practices for Pricing Scheme Management&lt;span class="hx:absolute hx:-mt-20" id="best-practices-for-pricing-scheme-management">&lt;/span>
+&lt;a href="#best-practices-for-pricing-scheme-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Strategic Planning&lt;span class="hx:absolute hx:-mt-20" id="strategic-planning">&lt;/span>
+&lt;a href="#strategic-planning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Market Analysis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Research competitor pricing strategies&lt;/li>
+&lt;li>Understand customer price sensitivity&lt;/li>
+&lt;li>Analyze cost structures and margin requirements&lt;/li>
+&lt;li>Consider market positioning and brand image&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Profitability Focus&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Ensure all schemes maintain acceptable profit margins&lt;/li>
+&lt;li>Factor in all costs including overhead, shipping, taxes&lt;/li>
+&lt;li>Regular review and adjustment of pricing strategies&lt;/li>
+&lt;li>Monitor performance metrics and adjust accordingly&lt;/li>
+&lt;/ul>
+&lt;h3>Implementation Excellence&lt;span class="hx:absolute hx:-mt-20" id="implementation-excellence">&lt;/span>
+&lt;a href="#implementation-excellence" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Consistent Application&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Train all staff on proper scheme usage&lt;/li>
+&lt;li>Document pricing policies and procedures&lt;/li>
+&lt;li>Regular audits to ensure correct implementation&lt;/li>
+&lt;li>Customer communication about pricing structures&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>System Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Test pricing schemes across all platforms before deployment&lt;/li>
+&lt;li>Verify tax calculations and compliance requirements&lt;/li>
+&lt;li>Ensure data synchronization between modules&lt;/li>
+&lt;li>Regular backup of pricing scheme configurations&lt;/li>
+&lt;/ul>
+&lt;h3>Monitoring and Optimization&lt;span class="hx:absolute hx:-mt-20" id="monitoring-and-optimization">&lt;/span>
+&lt;a href="#monitoring-and-optimization" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Performance Tracking&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Monitor sales performance by pricing scheme&lt;/li>
+&lt;li>Analyze customer response to different price points&lt;/li>
+&lt;li>Track profitability by customer segment and product&lt;/li>
+&lt;li>Review competitive positioning regularly&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Continuous Improvement&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Regular scheme review and optimization&lt;/li>
+&lt;li>Customer feedback integration&lt;/li>
+&lt;li>Market trend adaptation&lt;/li>
+&lt;li>Technology enhancement adoption&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Troubleshooting Common Issues&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting-common-issues">&lt;/span>
+&lt;a href="#troubleshooting-common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Pricing Inconsistencies&lt;span class="hx:absolute hx:-mt-20" id="pricing-inconsistencies">&lt;/span>
+&lt;a href="#pricing-inconsistencies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Multi-Platform Synchronization&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Prices not updating across all platforms&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Check EcomSync configuration and API connections&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular synchronization testing and monitoring&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Tax Calculation Errors&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Incorrect tax amounts in pricing&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Verify tax code assignments and rate configurations&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular compliance reviews and updates&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Issues&lt;span class="hx:absolute hx:-mt-20" id="performance-issues">&lt;/span>
+&lt;a href="#performance-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Large Catalog Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Slow pricing updates with many items&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Implement batch processing and scheduled updates&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Optimize database indices and regular maintenance&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>User Experience Problems&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Staff confusion about scheme selection&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Provide comprehensive training and clear documentation&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Simplify scheme names and provide usage guidelines&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Integration with Other BigLedger Features&lt;span class="hx:absolute hx:-mt-20" id="integration-with-other-bigledger-features">&lt;/span>
+&lt;a href="#integration-with-other-bigledger-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Financial Accounting Integration&lt;span class="hx:absolute hx:-mt-20" id="financial-accounting-integration">&lt;/span>
+&lt;a href="#financial-accounting-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Revenue Recognition&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Automatic posting to appropriate revenue accounts&lt;/li>
+&lt;li>Margin analysis and profitability reporting&lt;/li>
+&lt;li>Cost accounting integration for accurate profit calculations&lt;/li>
+&lt;li>Budget planning with pricing scenario modeling&lt;/li>
+&lt;/ul>
+&lt;h3>Inventory Management Integration&lt;span class="hx:absolute hx:-mt-20" id="inventory-management-integration">&lt;/span>
+&lt;a href="#inventory-management-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Stock Valuation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Cost-plus pricing calculations&lt;/li>
+&lt;li>Margin analysis by item and customer&lt;/li>
+&lt;li>Slow-moving inventory pricing strategies&lt;/li>
+&lt;li>Automated reorder level adjustments based on pricing&lt;/li>
+&lt;/ul>
+&lt;h3>Customer Relationship Management&lt;span class="hx:absolute hx:-mt-20" id="customer-relationship-management">&lt;/span>
+&lt;a href="#customer-relationship-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Customer Segmentation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Automatic pricing based on customer classification&lt;/li>
+&lt;li>Purchase history analysis for pricing optimization&lt;/li>
+&lt;li>Customer lifetime value calculations&lt;/li>
+&lt;li>Loyalty program integration with special pricing&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Next Steps and Advanced Features&lt;span class="hx:absolute hx:-mt-20" id="next-steps-and-advanced-features">&lt;/span>
+&lt;a href="#next-steps-and-advanced-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering basic pricing schemes, explore:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a>&lt;/strong> - Detailed price lists and management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Apply pricing to specific items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a>&lt;/strong> - Implement pricing in retail operations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel pricing strategies&lt;/li>
+&lt;/ol>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pricing Success&lt;/strong>: Businesses using structured pricing schemes typically see 15-25% improvement in profit margins and 30% reduction in pricing errors.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Management Overview&lt;/a> - Complete financial integration&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and pricing management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Platforms&lt;/a> - Online pricing and synchronization&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/dashboard/" >Business Analytics&lt;/a> - Pricing performance analysis&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Getting Help&lt;span class="hx:absolute hx:-mt-20" id="getting-help">&lt;/span>
+&lt;a href="#getting-help" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Support Resources&lt;span class="hx:absolute hx:-mt-20" id="support-resources">&lt;/span>
+&lt;a href="#support-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>For pricing scheme questions and support:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Technical Support&lt;/strong>: &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Business Consulting&lt;/strong>: &lt;a href="mailto:sales@bigledger.com" >sales@bigledger.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Documentation&lt;/strong>: Complete user guides and video tutorials&lt;/li>
+&lt;li>&lt;strong>Training&lt;/strong>: Comprehensive pricing strategy training programs&lt;/li>
+&lt;/ul>
+&lt;h3>Professional Services&lt;span class="hx:absolute hx:-mt-20" id="professional-services">&lt;/span>
+&lt;a href="#professional-services" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Consider professional services for:&lt;/p>
+&lt;ul>
+&lt;li>Complex pricing strategy development&lt;/li>
+&lt;li>Market analysis and competitive positioning&lt;/li>
+&lt;li>Custom pricing scheme development&lt;/li>
+&lt;li>Advanced integration and automation setup&lt;/li>
+&lt;/ul></description></item><item><title>Price Set Configuration &amp; Advanced Pricing</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/price-set/</guid><description>
+&lt;h1>Price Set Configuration &amp;amp; Advanced Pricing&lt;/h1>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;p>&lt;strong>🚧 Content Under Development&lt;/strong>: This page contains basic functionality notes and requires comprehensive documentation. Critical areas needing development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Rule-Based Pricing Logic&lt;/strong>: Detailed explanation of pricing rules and conditions&lt;/li>
+&lt;li>&lt;strong>Multi-Level Pricing&lt;/strong>: Complex pricing hierarchies and inheritance&lt;/li>
+&lt;li>&lt;strong>Business Rule Examples&lt;/strong>: Real-world scenarios and use cases&lt;/li>
+&lt;li>&lt;strong>Integration Workflows&lt;/strong>: How price sets work with other pricing components&lt;/li>
+&lt;li>&lt;strong>Performance Optimization&lt;/strong>: Managing large-scale pricing configurations&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price sets in BigLedger provide advanced pricing configuration capabilities that go beyond basic pricing schemes. They enable complex, rule-based pricing logic that can adapt to various business conditions, customer segments, and operational scenarios.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Foundation Required&lt;/strong>: Price sets work in conjunction with &lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Books&lt;/a> and &lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>. Ensure you understand these concepts before configuring price sets.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>TODO: Comprehensive Documentation Needed&lt;span class="hx:absolute hx:-mt-20" id="todo-comprehensive-documentation-needed">&lt;/span>
+&lt;a href="#todo-comprehensive-documentation-needed" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Priority 1: Core Concepts&lt;span class="hx:absolute hx:-mt-20" id="priority-1-core-concepts">&lt;/span>
+&lt;a href="#priority-1-core-concepts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Price Set Architecture&lt;/strong>: How price sets fit into BigLedger&amp;rsquo;s pricing ecosystem&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Rule Logic System&lt;/strong>: Understanding AND/OR logic, negation, and complex conditions&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Priority Management&lt;/strong>: How multiple price sets interact and override each other&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Performance Impact&lt;/strong>: Optimizing price set configurations for large catalogs&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 2: Rule Configuration&lt;span class="hx:absolute hx:-mt-20" id="priority-2-rule-configuration">&lt;/span>
+&lt;a href="#priority-2-rule-configuration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Document Header Rules&lt;/strong>: Customer, date, and entity-based pricing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Line Item Rules&lt;/strong>: Product-specific and category-based pricing logic&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Treatment Options&lt;/strong>: Discount, markup, fixed price, and percentage adjustments&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Validation Systems&lt;/strong>: Ensuring pricing rules don&amp;rsquo;t conflict&lt;/li>
+&lt;/ul>
+&lt;h3>Priority 3: Advanced Implementation&lt;span class="hx:absolute hx:-mt-20" id="priority-3-advanced-implementation">&lt;/span>
+&lt;a href="#priority-3-advanced-implementation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Complex Scenarios&lt;/strong>: Multi-tier distributor pricing, seasonal adjustments&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Integration Examples&lt;/strong>: POS, e-commerce, and B2B portal configurations&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Troubleshooting Guide&lt;/strong>: Common issues and resolution strategies&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Best Practices&lt;/strong>: Performance optimization and maintenance strategies&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Current Basic Functionality&lt;span class="hx:absolute hx:-mt-20" id="current-basic-functionality">&lt;/span>
+&lt;a href="#current-basic-functionality" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Creating Price Sets&lt;span class="hx:absolute hx:-mt-20" id="creating-price-sets">&lt;/span>
+&lt;a href="#creating-price-sets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Required Information&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Price Book Name&lt;/strong>: Select from existing price books (must be created first)&lt;/li>
+&lt;li>&lt;strong>Price Set Code&lt;/strong>: System-generated, cannot be modified&lt;/li>
+&lt;li>&lt;strong>Price Set Name&lt;/strong>: Descriptive identifier&lt;/li>
+&lt;li>&lt;strong>Priority Level&lt;/strong>: Determines rule application order&lt;/li>
+&lt;/ul>
+&lt;h3>Basic Configuration Tabs&lt;span class="hx:absolute hx:-mt-20" id="basic-configuration-tabs">&lt;/span>
+&lt;a href="#basic-configuration-tabs" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Details Tab&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Edit price set name and priority level&lt;/li>
+&lt;li>Manage active/inactive status&lt;/li>
+&lt;li>Delete unused price sets&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Rules - Document Header&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Configure customer-level pricing rules&lt;/li>
+&lt;li>Set date range validations&lt;/li>
+&lt;li>Apply entity-specific pricing&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Rules - Multi Line &amp;amp; Single Line&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Item-specific pricing conditions&lt;/li>
+&lt;li>Category-based rule application&lt;/li>
+&lt;li>Regular expression matching for complex criteria&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Treatment Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Define pricing adjustments (discounts, markups)&lt;/li>
+&lt;li>Set calculation methods and values&lt;/li>
+&lt;li>Configure rule application behavior&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Immediate Next Steps&lt;span class="hx:absolute hx:-mt-20" id="immediate-next-steps">&lt;/span>
+&lt;a href="#immediate-next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While comprehensive documentation is being developed:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Start Simple&lt;/strong>: Begin with basic price sets using single rules&lt;/li>
+&lt;li>&lt;strong>Test Thoroughly&lt;/strong>: Verify pricing calculations in a test environment&lt;/li>
+&lt;li>&lt;strong>Document Decisions&lt;/strong>: Keep records of your pricing logic for future reference&lt;/li>
+&lt;li>&lt;strong>Monitor Performance&lt;/strong>: Watch for any slowdowns with complex rule sets&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Explore these foundational topics while this page is under development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> - Foundation pricing template system&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Core price list management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
+&lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Immediate): Rule logic documentation and examples&lt;br>
+&lt;strong>Phase 2&lt;/strong> (Short-term): Advanced scenarios and integration guides&lt;br>
+&lt;strong>Phase 3&lt;/strong> (Medium-term): Performance optimization and troubleshooting&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Need Help Now?&lt;/strong> For immediate assistance with price set configuration, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> with specific details about your pricing requirements.&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

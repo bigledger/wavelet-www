@@ -1,0 +1,249 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Catalog-Maintenance</title><link>https://wiki.bigledger.com/tags/catalog-maintenance/</link><description>Recent content in Catalog-Maintenance on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/catalog-maintenance/index.xml" rel="self" type="application/rss+xml"/><item><title>Editing Items &amp; Updating Product Information</title><link>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
+&lt;h1>Editing Items &amp;amp; Updating Product Information&lt;/h1>&lt;p>Learn how to efficiently modify existing items in your BigLedger catalog, update specifications, manage marketplace synchronization, and maintain accurate product information across all business operations.&lt;/p>
+&lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The item editing interface provides comprehensive access to all aspects of your product and service information. From basic details to complex marketplace integrations, this powerful editing environment ensures your catalog stays current, accurate, and optimized for all business scenarios.&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Before You Start&lt;/strong>: Ensure you have appropriate permissions to edit items. Changes to items may affect pricing, inventory, and marketplace listings across all integrated platforms.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Accessing Item Editing&lt;span class="hx:absolute hx:-mt-20" id="accessing-item-editing">&lt;/span>
+&lt;a href="#accessing-item-editing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Navigation to Edit Mode&lt;span class="hx:absolute hx:-mt-20" id="navigation-to-edit-mode">&lt;/span>
+&lt;a href="#navigation-to-edit-mode" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Navigate to Item Management&lt;/strong> from your main menu&lt;/li>
+&lt;li>&lt;strong>Browse or search&lt;/strong> for the item you want to modify&lt;/li>
+&lt;li>&lt;strong>Click on the item&lt;/strong> from the listings to open the editing interface&lt;/li>
+&lt;li>&lt;strong>Access comprehensive tabs&lt;/strong> for different aspects of item management&lt;/li>
+&lt;/ol>
+&lt;h3>Edit Interface Overview&lt;span class="hx:absolute hx:-mt-20" id="edit-interface-overview">&lt;/span>
+&lt;a href="#edit-interface-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>The editing interface provides organized access to all item information through specialized tabs:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Main Details&lt;/strong>: Core item information and business settings&lt;/li>
+&lt;li>&lt;strong>Item Categories&lt;/strong>: Organizational structure and classification&lt;/li>
+&lt;li>&lt;strong>Dimension Details&lt;/strong>: Physical specifications and handling requirements&lt;/li>
+&lt;li>&lt;strong>Manage Images&lt;/strong>: Visual assets and multimedia content&lt;/li>
+&lt;li>&lt;strong>Marketplace Integration&lt;/strong>: E-commerce platform synchronization&lt;/li>
+&lt;li>&lt;strong>Stock Management&lt;/strong>: Inventory allocation and availability tracking&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Comprehensive Editing Capabilities&lt;span class="hx:absolute hx:-mt-20" id="comprehensive-editing-capabilities">&lt;/span>
+&lt;a href="#comprehensive-editing-capabilities" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Main Details Tab&lt;span class="hx:absolute hx:-mt-20" id="main-details-tab">&lt;/span>
+&lt;a href="#main-details-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Core Information Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Item Code&lt;/strong>: View system-generated identifier (read-only)&lt;/li>
+&lt;li>&lt;strong>Item Name&lt;/strong>: Update product or service names for clarity&lt;/li>
+&lt;li>&lt;strong>Description&lt;/strong>: Modify detailed descriptions and specifications&lt;/li>
+&lt;li>&lt;strong>Type Configuration&lt;/strong>: Adjust item type classifications as needed&lt;/li>
+&lt;li>&lt;strong>Status Management&lt;/strong>: Control active/inactive/discontinued status&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Business Configuration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Unit of Measure&lt;/strong>: View base UOM (established during creation)&lt;/li>
+&lt;li>&lt;strong>Tax Settings&lt;/strong>: Update tax codes and compliance requirements&lt;/li>
+&lt;li>&lt;strong>GL Integration&lt;/strong>: Modify accounting integration settings&lt;/li>
+&lt;li>&lt;strong>Vendor Management&lt;/strong>: Update supplier information and relationships&lt;/li>
+&lt;/ul>
+&lt;h3>Item Categories Tab&lt;span class="hx:absolute hx:-mt-20" id="item-categories-tab">&lt;/span>
+&lt;a href="#item-categories-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Organizational Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Category Assignment&lt;/strong>: Update primary and secondary categories&lt;/li>
+&lt;li>&lt;strong>Tag Management&lt;/strong>: Add, remove, or modify organizational tags&lt;/li>
+&lt;li>&lt;strong>Search Optimization&lt;/strong>: Update keywords and search terms&lt;/li>
+&lt;li>&lt;strong>Classification Updates&lt;/strong>: Refine item classifications for better organization&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Benefits of Proper Categorization&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Improved searchability and navigation&lt;/li>
+&lt;li>Better reporting and analytics&lt;/li>
+&lt;li>Enhanced e-commerce organization&lt;/li>
+&lt;li>Streamlined inventory management&lt;/li>
+&lt;/ul>
+&lt;h3>Dimension Details Tab&lt;span class="hx:absolute hx:-mt-20" id="dimension-details-tab">&lt;/span>
+&lt;a href="#dimension-details-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Physical Specifications&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Weight Management&lt;/strong>: Update item weight for shipping calculations&lt;/li>
+&lt;li>&lt;strong>Dimension Updates&lt;/strong>: Modify length, width, height measurements&lt;/li>
+&lt;li>&lt;strong>Volume Configuration&lt;/strong>: Adjust cubic measurements and space requirements&lt;/li>
+&lt;li>&lt;strong>Special Handling&lt;/strong>: Update flags for fragile, hazardous, or special items&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Operational Settings&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Storage Requirements&lt;/strong>: Modify environmental storage needs&lt;/li>
+&lt;li>&lt;strong>Shelf Life&lt;/strong>: Update expiration tracking for perishable items&lt;/li>
+&lt;li>&lt;strong>Batch Tracking&lt;/strong>: Enable or modify lot number tracking&lt;/li>
+&lt;li>&lt;strong>Serial Numbers&lt;/strong>: Configure individual item tracking requirements&lt;/li>
+&lt;/ul>
+&lt;h3>Manage Images Tab&lt;span class="hx:absolute hx:-mt-20" id="manage-images-tab">&lt;/span>
+&lt;a href="#manage-images-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Visual Asset Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Primary Image&lt;/strong>: Update main product photo for all platforms&lt;/li>
+&lt;li>&lt;strong>Additional Images&lt;/strong>: Add, remove, or replace supplementary images&lt;/li>
+&lt;li>&lt;strong>Image Optimization&lt;/strong>: Automatic sizing for different platforms and uses&lt;/li>
+&lt;li>&lt;strong>Alt Text Management&lt;/strong>: Update descriptions for accessibility and SEO&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>E-Commerce Integration&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Marketplace Sync&lt;/strong>: Distribute images to all connected sales channels&lt;/li>
+&lt;li>&lt;strong>Quality Standards&lt;/strong>: Ensure images meet platform requirements&lt;/li>
+&lt;li>&lt;strong>Version Control&lt;/strong>: Track image changes and updates&lt;/li>
+&lt;/ul>
+&lt;h3>Marketplace Tab&lt;span class="hx:absolute hx:-mt-20" id="marketplace-tab">&lt;/span>
+&lt;a href="#marketplace-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Multi-Channel Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Platform Configuration&lt;/strong>: Update settings for Shopify, Lazada, Shopee, and other platforms&lt;/li>
+&lt;li>&lt;strong>Channel-Specific Pricing&lt;/strong>: Modify prices for different marketplaces&lt;/li>
+&lt;li>&lt;strong>Inventory Allocation&lt;/strong>: Adjust stock distribution across channels&lt;/li>
+&lt;li>&lt;strong>Shipping Configuration&lt;/strong>: Update platform-specific shipping options&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Synchronization Control&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>EcomSync Integration&lt;/strong>: Manage central synchronization settings&lt;/li>
+&lt;li>&lt;strong>Real-Time Updates&lt;/strong>: Configure automatic sync preferences&lt;/li>
+&lt;li>&lt;strong>Conflict Resolution&lt;/strong>: Handle discrepancies between platforms&lt;/li>
+&lt;li>&lt;strong>Performance Monitoring&lt;/strong>: Track sync status and success rates&lt;/li>
+&lt;/ul>
+&lt;h3>Stock Allocation Tab&lt;span class="hx:absolute hx:-mt-20" id="stock-allocation-tab">&lt;/span>
+&lt;a href="#stock-allocation-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Inventory Management&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Current Stock Levels&lt;/strong>: View real-time inventory across all locations&lt;/li>
+&lt;li>&lt;strong>Reserved Quantities&lt;/strong>: Manage stock allocated to specific orders or customers&lt;/li>
+&lt;li>&lt;strong>Reorder Management&lt;/strong>: Update minimum stock levels and reorder points&lt;/li>
+&lt;li>&lt;strong>Multi-Location&lt;/strong>: Distribute and manage stock across warehouses&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Advanced Stock Features&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Transfer Management&lt;/strong>: Move stock between locations&lt;/li>
+&lt;li>&lt;strong>Adjustment Tracking&lt;/strong>: Record and track inventory corrections&lt;/li>
+&lt;li>&lt;strong>Valuation Methods&lt;/strong>: Configure cost tracking and valuation approaches&lt;/li>
+&lt;li>&lt;strong>Analytics Integration&lt;/strong>: Connect with inventory reporting and forecasting&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Best Practices for Item Editing&lt;span class="hx:absolute hx:-mt-20" id="best-practices-for-item-editing">&lt;/span>
+&lt;a href="#best-practices-for-item-editing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Data Consistency&lt;span class="hx:absolute hx:-mt-20" id="data-consistency">&lt;/span>
+&lt;a href="#data-consistency" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Maintain Standards&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Use consistent naming conventions across all items&lt;/li>
+&lt;li>Keep descriptions clear, accurate, and up-to-date&lt;/li>
+&lt;li>Ensure categorization follows your established system&lt;/li>
+&lt;li>Regular review and cleanup of item information&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Integration Considerations&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Verify changes sync properly across all platforms&lt;/li>
+&lt;li>Test marketplace integration after significant updates&lt;/li>
+&lt;li>Monitor accounting integration for GL and tax changes&lt;/li>
+&lt;li>Confirm inventory tracking accuracy after modifications&lt;/li>
+&lt;/ul>
+&lt;h3>Change Management&lt;span class="hx:absolute hx:-mt-20" id="change-management">&lt;/span>
+&lt;a href="#change-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Planning Updates&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Review impact of changes on existing orders and quotations&lt;/li>
+&lt;li>Consider seasonal or promotional timing for updates&lt;/li>
+&lt;li>Plan bulk updates during low-activity periods&lt;/li>
+&lt;li>Document significant changes for audit trails&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Testing and Validation&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Test changes in non-production environment when possible&lt;/li>
+&lt;li>Verify marketplace synchronization after updates&lt;/li>
+&lt;li>Check pricing calculations and tax compliance&lt;/li>
+&lt;li>Confirm inventory tracking and reporting accuracy&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Common Editing Scenarios&lt;span class="hx:absolute hx:-mt-20" id="common-editing-scenarios">&lt;/span>
+&lt;a href="#common-editing-scenarios" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Seasonal Updates&lt;span class="hx:absolute hx:-mt-20" id="seasonal-updates">&lt;/span>
+&lt;a href="#seasonal-updates" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Update descriptions for seasonal relevance&lt;/li>
+&lt;li>Modify images for current marketing campaigns&lt;/li>
+&lt;li>Adjust categories for seasonal organization&lt;/li>
+&lt;li>Update dimensions if packaging changes&lt;/li>
+&lt;/ul>
+&lt;h3>Price and Cost Changes&lt;span class="hx:absolute hx:-mt-20" id="price-and-cost-changes">&lt;/span>
+&lt;a href="#price-and-cost-changes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Coordinate with &lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
+&lt;li>Update vendor costs and margin calculations&lt;/li>
+&lt;li>Modify marketplace-specific pricing&lt;/li>
+&lt;li>Review and update tax classifications&lt;/li>
+&lt;/ul>
+&lt;h3>Marketplace Expansion&lt;span class="hx:absolute hx:-mt-20" id="marketplace-expansion">&lt;/span>
+&lt;a href="#marketplace-expansion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Configure new platform integrations&lt;/li>
+&lt;li>Optimize images for new marketplace requirements&lt;/li>
+&lt;li>Update descriptions for different audiences&lt;/li>
+&lt;li>Set up platform-specific inventory allocation&lt;/li>
+&lt;/ul>
+&lt;h3>Compliance Updates&lt;span class="hx:absolute hx:-mt-20" id="compliance-updates">&lt;/span>
+&lt;a href="#compliance-updates" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Update tax codes for regulatory changes&lt;/li>
+&lt;li>Modify descriptions for compliance requirements&lt;/li>
+&lt;li>Update dimensions for shipping regulations&lt;/li>
+&lt;li>Revise categories for industry standards&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Integration Impact&lt;span class="hx:absolute hx:-mt-20" id="integration-impact">&lt;/span>
+&lt;a href="#integration-impact" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Accounting Integration&lt;span class="hx:absolute hx:-mt-20" id="accounting-integration">&lt;/span>
+&lt;a href="#accounting-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>GL Accounts&lt;/strong>: Changes affect financial reporting&lt;/li>
+&lt;li>&lt;strong>Tax Codes&lt;/strong>: Updates impact tax calculations and compliance&lt;/li>
+&lt;li>&lt;strong>Cost Tracking&lt;/strong>: Modifications influence profitability reporting&lt;/li>
+&lt;li>&lt;strong>Budget Planning&lt;/strong>: Updates affect financial planning and forecasting&lt;/li>
+&lt;/ul>
+&lt;h3>Sales Operations&lt;span class="hx:absolute hx:-mt-20" id="sales-operations">&lt;/span>
+&lt;a href="#sales-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>CRM Integration&lt;/strong>: Changes reflect in customer-facing documents&lt;/li>
+&lt;li>&lt;strong>Quotation Systems&lt;/strong>: Updates appear in new quotes automatically&lt;/li>
+&lt;li>&lt;strong>Order Processing&lt;/strong>: Modifications affect order management and fulfillment&lt;/li>
+&lt;li>&lt;strong>Customer Communications&lt;/strong>: Changes impact customer-facing information&lt;/li>
+&lt;/ul>
+&lt;h3>Inventory Management&lt;span class="hx:absolute hx:-mt-20" id="inventory-management">&lt;/span>
+&lt;a href="#inventory-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Stock Tracking&lt;/strong>: Updates affect inventory management systems&lt;/li>
+&lt;li>&lt;strong>Warehouse Operations&lt;/strong>: Changes impact picking, packing, and shipping&lt;/li>
+&lt;li>&lt;strong>Procurement&lt;/strong>: Modifications influence purchase order generation&lt;/li>
+&lt;li>&lt;strong>Forecasting&lt;/strong>: Updates affect demand planning and inventory optimization&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Troubleshooting Common Issues&lt;span class="hx:absolute hx:-mt-20" id="troubleshooting-common-issues">&lt;/span>
+&lt;a href="#troubleshooting-common-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Synchronization Problems&lt;span class="hx:absolute hx:-mt-20" id="synchronization-problems">&lt;/span>
+&lt;a href="#synchronization-problems" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Changes not appearing on marketplaces&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Check EcomSync status and force synchronization if needed&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular monitoring of sync status and error logs&lt;/li>
+&lt;/ul>
+&lt;h3>Data Validation Errors&lt;span class="hx:absolute hx:-mt-20" id="data-validation-errors">&lt;/span>
+&lt;a href="#data-validation-errors" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Unable to save changes due to validation failures&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Review required fields and data format requirements&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Understand field requirements before making changes&lt;/li>
+&lt;/ul>
+&lt;h3>Performance Issues&lt;span class="hx:absolute hx:-mt-20" id="performance-issues">&lt;/span>
+&lt;a href="#performance-issues" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Issue&lt;/strong>: Slow loading or saving of item updates&lt;/li>
+&lt;li>&lt;strong>Solution&lt;/strong>: Optimize image sizes and remove unnecessary data&lt;/li>
+&lt;li>&lt;strong>Prevention&lt;/strong>: Regular maintenance and cleanup of item information&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
+&lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item editing, explore these related capabilities:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
+&lt;/ol>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Edit Success&lt;/strong>: Efficient item editing reduces data inconsistencies by 70% and improves marketplace performance by maintaining accurate, up-to-date product information.&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
+&lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
+&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
+&lt;/ul></description></item></channel></rss>
