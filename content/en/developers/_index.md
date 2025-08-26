@@ -194,7 +194,7 @@ Enterprise plans include higher limits and dedicated infrastructure.
 
 {{< card link="./webhooks" title="Webhooks" icon="bell" subtitle="Real-time event notifications with comprehensive event types and security features." >}}
 
-{{< card link="./api-reference/batch" title="Batch Operations" icon="layers" subtitle="High-volume data processing with bulk operations and error handling." >}}
+{{< card link="./api-reference/batch" title="Batch Operations" icon="archive" subtitle="High-volume data processing with bulk operations and error handling." >}}
 
 {{< card link="./api-reference/integrations" title="Integration APIs" icon="link" subtitle="Third-party connectors for Shopify, Amazon, QuickBooks, and custom systems." >}}
 {{< /cards >}}
@@ -214,7 +214,7 @@ Enterprise plans include higher limits and dedicated infrastructure.
 ## Ready to Get Started?
 
 {{< cards >}}
-{{< card link="./getting-started" title="Start Building Now" icon="rocket" subtitle="Set up your first integration in under 5 minutes with our quickstart guide." >}}
+{{< card link="./getting-started" title="Start Building Now" icon="arrow-circle-right" subtitle="Set up your first integration in under 5 minutes with our quickstart guide." >}}
 
 {{< card link="./tutorials" title="Follow Tutorials" icon="academic-cap" subtitle="Learn through hands-on tutorials covering real-world integration scenarios." >}}
 

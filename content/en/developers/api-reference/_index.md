@@ -464,7 +464,7 @@ Download our OpenAPI (Swagger) specification:
 
 {{< card link="../webhooks" title="Webhooks API" icon="bell" subtitle="Real-time event notifications and webhook management." >}}
 
-{{< card link="./batch" title="Batch Operations" icon="layers" subtitle="Bulk operations for high-volume data processing." >}}
+{{< card link="./batch" title="Batch Operations" icon="archive" subtitle="Bulk operations for high-volume data processing." >}}
 
 {{< card link="./integrations" title="Integration APIs" icon="link" subtitle="Third-party integrations and data synchronization." >}}
 
