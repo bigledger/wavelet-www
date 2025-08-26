@@ -5,7 +5,7 @@ tags:
 - solutions
 - case-studies
 title: Industry Solutions
-weight: 1
+weight: 80
 ---
 
 

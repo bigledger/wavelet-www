@@ -230,7 +230,7 @@ Track these metrics to measure BigLedger success:
 Continue your BigLedger journey:
 
 1. **[Developer Resources](/developers/)** - Extend BigLedger with custom development
-2. **[Industry Solutions](/industry-solutions/)** - Industry-specific optimizations
+2. **[Industry Solutions](/user-guide/industry-solutions/)** - Industry-specific optimizations
 3. **[AI Intelligence](/ai-intelligence/)** - Leverage AI-powered features
 4. **[Advanced Training](https://academy.bigledger.com)** - Specialized training programs
 

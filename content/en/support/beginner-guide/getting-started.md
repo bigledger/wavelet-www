@@ -355,7 +355,7 @@ If you're feeling more confident about BigLedger but still have questions, that'
 
 1. **[Schedule a personalized demo](https://bigledger.com/demo)** - See BigLedger with your type of business
 2. **[Try the free trial](https://bigledger.com/trial)** - Experience BigLedger with your actual data
-3. **[Read success stories](/industry-solutions/)** - Learn from businesses like yours
+3. **[Read success stories](/user-guide/industry-solutions/)** - Learn from businesses like yours
 4. **[Speak with an expert](https://bigledger.com/contact)** - Get answers to your specific questions
 
 {{< callout >}}

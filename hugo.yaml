@@ -125,22 +125,16 @@ params:
 # Menu configuration
 menu:
   main:
-    # 1. Industry - Industry solutions and case studies
-    - identifier: industry
-      name: Industry
-      weight: 1
-      pageRef: /industry-solutions
-      
-    # 2. User Guide - Comprehensive user documentation
+    # 1. User Guide - Comprehensive user documentation
     - identifier: user-guide
       name: User Guide
-      weight: 2
+      weight: 1
       pageRef: /user-guide
       
-    # 3. Modules - Complete list of all modules
+    # 2. Modules - Complete list of all modules
     - identifier: modules
       name: Modules
-      weight: 3
+      weight: 2
       hasChildren: true
       pageRef: /modules
       
@@ -214,22 +208,22 @@ menu:
       pageRef: /modules/drop-shipping
       weight: 100
       
-    # 4. Applets - Complete list of applets with data sheets
+    # 3. Applets - Complete list of applets with data sheets
     - identifier: applets
       name: Applets
-      weight: 4
+      weight: 3
       pageRef: /applets
       
-    # 5. Developers - All developer resources
+    # 4. Developers - All developer resources
     - identifier: developers
       name: Developers
-      weight: 5
+      weight: 4
       pageRef: /developers
       
-    # 6. Search - Keep existing search functionality
+    # 5. Search - Keep existing search functionality
     - identifier: search
       name: Search
-      weight: 6
+      weight: 5
       pageRef: /search
 
 outputs:

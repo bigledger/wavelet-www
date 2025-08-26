@@ -117,12 +117,12 @@ Pre-configured templates and best practices for your specific business needs
 {{< /callout >}}
 
 {{< cards >}}
-  {{< card link="/industry-solutions/retail" title="Retail & F&B" subtitle="Multi-store, loyalty, kitchen display" >}}
-  {{< card link="/industry-solutions/wholesale" title="Wholesale & Distribution" subtitle="B2B portal, route sales, van sales" >}}
-  {{< card link="/industry-solutions/manufacturing" title="Manufacturing" subtitle="Discrete, process, job shop" >}}
-  {{< card link="/industry-solutions/automotive" title="Automotive" subtitle="Dealership, workshop, spare parts" >}}
-  {{< card link="/industry-solutions/services" title="Professional Services" subtitle="Time billing, project tracking" >}}
-  {{< card link="/industry-solutions/healthcare" title="Healthcare" subtitle="Clinic, pharmacy, medical supplies" >}}
+  {{< card link="/user-guide/industry-solutions/" title="Retail & F&B" subtitle="Multi-store, loyalty, kitchen display" >}}
+  {{< card link="/user-guide/industry-solutions/" title="Wholesale & Distribution" subtitle="B2B portal, route sales, van sales" >}}
+  {{< card link="/user-guide/industry-solutions/" title="Manufacturing" subtitle="Discrete, process, job shop" >}}
+  {{< card link="/user-guide/industry-solutions/automotive-and-workshop-industry" title="Automotive" subtitle="Dealership, workshop, spare parts" >}}
+  {{< card link="/user-guide/industry-solutions/" title="Professional Services" subtitle="Time billing, project tracking" >}}
+  {{< card link="/user-guide/industry-solutions/" title="Healthcare" subtitle="Clinic, pharmacy, medical supplies" >}}
 {{< /cards >}}
 
 ---

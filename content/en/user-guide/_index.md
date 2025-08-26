@@ -18,8 +18,9 @@ This guide is organized into logical sections that build upon each other. We rec
 3. **[Daily Tasks](/user-guide/daily-tasks/)** - Common business operations and routine workflows
 4. **[Administration](/user-guide/administration/)** - System management and advanced configuration
 5. **[Reports & Analytics](/user-guide/reports-analytics/)** - Business intelligence and data analysis
-6. **[Troubleshooting](/user-guide/troubleshooting/)** - Problem resolution and support
-7. **[Best Practices](/user-guide/best-practices/)** - Expert tips and optimization strategies
+6. **[Industry Solutions](/user-guide/industry-solutions/)** - Sector-specific implementations and best practices
+7. **[Troubleshooting](/user-guide/troubleshooting/)** - Problem resolution and support
+8. **[Best Practices](/user-guide/best-practices/)** - Expert tips and optimization strategies
 
 {{< callout type="info" >}}
 **New to BigLedger?** Start with [Getting Started](/user-guide/getting-started/) to understand the platform fundamentals before exploring specific features.
@@ -119,6 +120,20 @@ Expert tips and optimization strategies for maximum BigLedger effectiveness.
 
 ---
 
+## 🏭 Industry Solutions
+
+Industry-specific implementations, best practices, and success stories tailored for your business sector.
+
+{{< cards >}}
+{{< card link="/user-guide/industry-solutions/" title="Industry Solutions Overview" subtitle="Discover solutions tailored for your specific industry" >}}
+{{< card link="/user-guide/industry-solutions/automotive-and-workshop-industry" title="Automotive & Workshop" subtitle="Vehicle service management and parts inventory" >}}
+{{< card link="/user-guide/industry-solutions/food-and-beverage-fb-industry" title="Food & Beverage" subtitle="Restaurant operations and multi-branch management" >}}
+{{< /cards >}}
+
+**Key Topics**: Industry-specific workflows, success stories, specialized features, implementation case studies
+
+---
+
 ## 💼 Core Business Modules
 
 Explore BigLedger's comprehensive business functionality organized by operational area.
@@ -150,11 +165,6 @@ Optimize your inventory levels and streamline supply chain operations:
 - **[E-Commerce Overview](/modules/ecommerce/)** - Multi-channel selling and online store management
 - **[EcomSync Platform](/modules/ecommerce/introduction-to-ecomsync/)** - Centralized sales channel synchronization
 - **[Shopify Integration](/modules/ecommerce/integration-with-shopify/)** - Seamless online store management
-
-#### Industry Solutions
-- **[Industry Guide](/industry-solutions/industry-guide/)** - Sector-specific features and best practices
-- **[Automotive & Workshop](/industry-solutions/automotive-and-workshop-industry/)** - Vehicle service management
-- **[Food & Beverage](/industry-solutions/food-and-beverage-fb-industry/)** - Restaurant and F&B operations
 
 #### AI & Automation
 - **[AI Intelligence](/ai-intelligence/)** - AI-powered insights and automation
