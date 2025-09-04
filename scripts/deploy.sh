@@ -101,11 +101,7 @@ commit_changes() {
             git add -A
             echo "Enter commit message:"
             read -r commit_message
-            git commit -m "$commit_message
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude <noreply@anthropic.com>"
+            git commit -m "$commit_message"
             print_status "Changes committed"
         else
             print_warning "Continuing without committing local changes"
