@@ -21,7 +21,8 @@ Comprehensive tutorials and integration guides covering common scenarios, best p
 
 ### Tutorial 1: Your First Integration (15 minutes)
 
-Build a simple invoice management system from scratch.
+Build a simple invoice management system from scratch. 
+Practice makes perfect.
 
 **What you'll learn:**
 - API authentication
