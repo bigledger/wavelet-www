@@ -14,6 +14,8 @@ weight: 20
 
 Complete reference documentation for all BigLedger REST APIs. Since all BigLedger applets are built with Angular, every feature in the BigLedger interface has a corresponding API endpoint, ensuring 100% programmatic access to all functionality.
 
+We will continuously improve this documentation, suggestions are welcome.
+
 {{< callout type="info" >}}
 **Interactive Documentation**: This reference includes live examples, sample requests/responses, and interactive testing capabilities. Use our [API Explorer](https://developers.bigledger.com/explorer) to test endpoints directly.
 {{< /callout >}}
