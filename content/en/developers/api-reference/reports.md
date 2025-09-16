@@ -9,8 +9,6 @@ title: Reporting APIs
 weight: 70
 ---
 
-# Reporting APIs
-
 Generate financial reports, analytics dashboards, and business intelligence data programmatically. Access the same reporting capabilities available in BigLedger's Angular interface through REST APIs.
 
 {{< callout type="info" >}}

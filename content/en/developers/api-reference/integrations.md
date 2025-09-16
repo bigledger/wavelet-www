@@ -9,8 +9,6 @@ title: Integration APIs
 weight: 100
 ---
 
-# Integration APIs
-
 Connect BigLedger with external systems, marketplaces, and business applications through our comprehensive integration APIs. Built for seamless data synchronization and workflow automation.
 
 {{< callout type="info" >}}

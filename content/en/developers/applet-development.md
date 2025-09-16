@@ -9,8 +9,6 @@ title: Applet Development Guide
 weight: 60
 ---
 
-# Applet Development Guide
-
 Build custom Angular applets that integrate seamlessly with the BigLedger platform. This comprehensive guide covers everything from development setup to deployment and distribution.
 
 {{< callout type="info" >}}

@@ -6,8 +6,6 @@ weight: 20
 bookCollapseSection: false
 ---
 
-# Basic Operations
-
 Master the fundamental daily tasks that form the backbone of your business operations in BigLedger. This section covers essential data management, item handling, and document processing tasks.
 
 ## Core Data Management

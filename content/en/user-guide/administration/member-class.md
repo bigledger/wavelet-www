@@ -9,8 +9,6 @@ title: Member Classifications & Access Control
 weight: 40
 ---
 
-# Member Classifications & Access Control
-
 {{< callout type="warning" >}}
 **🚧 Content Under Development**: This page contains placeholder content and requires comprehensive documentation. Priority areas needing development:
 

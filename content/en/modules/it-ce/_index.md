@@ -4,8 +4,6 @@ description: "Information Technology and Customer Engagement solutions for moder
 weight: 45
 ---
 
-# IT & CE Module
-
 The IT & CE (Information Technology & Customer Engagement) Module provides specialized technology solutions and customer engagement capabilities designed for modern businesses requiring advanced IT infrastructure and superior customer experience management.
 
 ## Overview

@@ -4,7 +4,7 @@ description: "Product management and merchandising strategies guide"
 weight: 60
 ---
 
-# Merchandising Manager - BigLedger Product Planning & Optimization Questions
+# Strategic Merchandising and Product Planning Excellence
 
 ## Role Profile
 **Position:** Merchandising Manager  

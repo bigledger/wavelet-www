@@ -9,8 +9,6 @@ title: Workflow Automation Guide
 weight: 80
 ---
 
-# Workflow Automation Guide
-
 Design and implement sophisticated automated business processes using BigLedger's comprehensive automation tools. Perfect for DevOps engineers, process automation experts, and workflow designers.
 
 {{< callout type="info" >}}

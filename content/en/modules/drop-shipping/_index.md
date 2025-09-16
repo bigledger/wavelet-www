@@ -4,8 +4,6 @@ description: "Specialized solution for drop shipping businesses with supplier in
 weight: 60
 ---
 
-# Drop Shipping Module
-
 The Drop Shipping Module provides specialized capabilities for businesses operating in the drop shipping model, where products are sold without holding physical inventory, and orders are fulfilled directly by suppliers or third-party partners.
 
 ## Overview

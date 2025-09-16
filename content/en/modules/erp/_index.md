@@ -4,8 +4,6 @@ description: "Complete Enterprise Resource Planning solution combining Accountin
 weight: 40
 ---
 
-# ERP Module
-
 The ERP (Enterprise Resource Planning) Module represents BigLedger's most comprehensive business solution, combining the complete Accounting Module, Point of Sales Module, and additional specialized applets to provide a unified enterprise-wide system for managing all business operations.
 
 ## Overview

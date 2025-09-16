@@ -9,8 +9,6 @@ title: Editing Items & Updating Product Information
 weight: 25
 ---
 
-# Editing Items & Updating Product Information
-
 Learn how to efficiently modify existing items in your BigLedger catalog, update specifications, manage marketplace synchronization, and maintain accurate product information across all business operations.
 
 ## Overview

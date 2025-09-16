@@ -6,8 +6,6 @@ weight: 30
 bookCollapseSection: false
 ---
 
-# Daily Tasks
-
 Master the routine business operations that keep your organization running smoothly. This section covers the most common tasks you'll perform regularly in BigLedger.
 
 ## Pricing & Financial Operations

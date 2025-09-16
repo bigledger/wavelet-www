@@ -6,8 +6,6 @@ weight: 40
 bookCollapseSection: false
 ---
 
-# Administration
-
 Comprehensive system administration and configuration tools for BigLedger administrators. This section covers user management, system settings, security, and organizational structure.
 
 ## User & Team Management

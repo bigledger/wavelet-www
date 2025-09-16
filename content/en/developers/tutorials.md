@@ -9,8 +9,6 @@ title: Tutorials & Integration Guides
 weight: 40
 ---
 
-# Tutorials & Integration Guides
-
 Comprehensive tutorials and integration guides covering common scenarios, best practices, and real-world implementations with BigLedger APIs.
 
 {{< callout type="info" >}}

@@ -9,8 +9,6 @@ title: Purchasing APIs
 weight: 60
 ---
 
-# Purchasing APIs
-
 Complete API reference for BigLedger's purchasing and procurement module. Manage suppliers, purchase orders, bills, and streamline your procurement workflows.
 
 {{< callout type="info" >}}

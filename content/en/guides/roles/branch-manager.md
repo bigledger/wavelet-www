@@ -4,7 +4,7 @@ description: "Complete guide for branch managers using BigLedger ERP"
 weight: 10
 ---
 
-# Branch Manager - BigLedger ERP Questions & Scenarios
+# Branch Manager Operations and Performance Guide
 
 ## Background Profile
 **Role:** Branch Manager  

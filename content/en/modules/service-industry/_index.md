@@ -4,8 +4,6 @@ description: "Specialized solution for service-based businesses including profes
 weight: 55
 ---
 
-# Service Industry Module
-
 The Service Industry Module provides specialized capabilities designed for service-based businesses, including professional services, consulting firms, field service operations, and other organizations where human expertise and service delivery are the primary value proposition.
 
 ## Overview

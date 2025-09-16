@@ -9,8 +9,6 @@ title: Member Label Configuration & Management
 weight: 47
 ---
 
-# Member Label Configuration & Management
-
 {{< callout type="warning" >}}
 **🚧 Content Under Development**: This page contains basic functionality notes and requires comprehensive documentation. Essential areas needing development:
 

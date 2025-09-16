@@ -4,8 +4,6 @@ description: "Advanced Customer Relationship Management with digital-first capab
 weight: 50
 ---
 
-# Digital CRM Module
-
 The Digital CRM Module provides advanced Customer Relationship Management capabilities designed for the digital era, featuring AI-powered insights, omnichannel customer engagement, and modern sales automation tools that help businesses build stronger, more profitable customer relationships.
 
 ## Overview

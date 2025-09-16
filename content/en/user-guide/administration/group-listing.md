@@ -9,8 +9,6 @@ title: Group Listings & Organizational Management
 weight: 45
 ---
 
-# Group Listings & Organizational Management
-
 {{< callout type="warning" >}}
 **🚧 Content Under Development**: This page contains basic functionality notes and requires comprehensive documentation. Key areas needing development:
 

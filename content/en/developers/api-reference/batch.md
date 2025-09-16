@@ -9,8 +9,6 @@ title: Batch Operations API
 weight: 90
 ---
 
-# Batch Operations API
-
 Process large volumes of data efficiently with BigLedger's batch operation APIs. Perfect for data migrations, bulk imports, mass updates, and high-volume integrations.
 
 {{< callout type="info" >}}

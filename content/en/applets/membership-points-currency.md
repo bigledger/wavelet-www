@@ -4,7 +4,7 @@ description: "Set up and manage loyalty points currency for membership programs"
 weight: 85
 ---
 
-# Membership Points Currency Module
+# Points Currency Configuration Guide
 
 The PTS CCY (Points Currency) Module allows you to create and manage custom point currencies for your membership and loyalty programs.
 

@@ -9,7 +9,7 @@ readingTime: 12 minutes
 lastUpdated: 2024-08-18
 ---
 
-# Platform Overview: Your Business Operating System
+# BigLedger Business Operating System Architecture
 
 ## 🎯 TLDR (Too Long; Didn't Read)
 - **BigLedger is a Business Operating System (BOS)** - Think Android for your business operations

@@ -4,8 +4,6 @@ description: "Comprehensive accounting solution with extensive transaction proce
 weight: 30
 ---
 
-# Accounting Module
-
 The Accounting Module provides a comprehensive accounting solution with an extensive collection of transaction processing applets designed to handle every aspect of financial operations. This module goes beyond basic financial accounting to offer specialized transaction processing capabilities for complex business scenarios.
 
 ## Overview
