@@ -1,7 +1,8 @@
 ---
-title: "Modules"
-description: "BigLedger's comprehensive business modules - collections of applets working together"
+title: Modules
+description: BigLedger's comprehensive business modules - collections of applets working together
 weight: 30
+bookCollapseSection: false
 ---
 
 BigLedger is organized into functional modules, each containing a collection of applets that work together to deliver specific business capabilities. Understanding the module-applet relationship is key to maximizing BigLedger's potential.

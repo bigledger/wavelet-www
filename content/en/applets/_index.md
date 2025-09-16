@@ -1,15 +1,14 @@
 ---
+title: Applets and Workflows
 description: Comprehensive guide to BigLedger applets and workflow automation
+weight: 1
+bookCollapseSection: false
 tags:
 - applets
 - workflows
 - automation
-title: Applets and Workflows
-weight: 1
 ---
 
-
-# Applets Library
 
 BigLedger's modular architecture is built on applets - reusable components that provide specific business functionality. Each applet can be used by multiple modules, ensuring consistency across your entire system.
 

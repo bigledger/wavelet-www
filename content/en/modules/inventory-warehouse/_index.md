@@ -4,8 +4,6 @@ description: "Advanced warehouse management and inventory control for complex di
 weight: 45
 ---
 
-# Inventory & Warehouse Module
-
 The Inventory & Warehouse Module provides advanced warehouse management capabilities that extend beyond basic inventory control to sophisticated distribution operations. This module is designed for businesses with complex warehousing requirements, multiple locations, and advanced logistics needs.
 
 ## Overview

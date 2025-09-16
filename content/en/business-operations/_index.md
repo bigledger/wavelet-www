@@ -1,11 +1,12 @@
 ---
+title: Business Operations
 description: Day-to-day business operations and workflow management with BigLedger
+weight: 1
+bookCollapseSection: false
 tags:
 - business
 - operations
 - workflow
-title: Business Operations
-weight: 1
 ---
 
 

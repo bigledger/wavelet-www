@@ -10,8 +10,6 @@ tags:
 weight: 1
 ---
 
-# BigLedger Applet Catalog
-
 This comprehensive catalog lists all applets available in the BigLedger ecosystem, organized by module and functionality. Each applet is described with its primary purpose, key features, and integration points.
 
 {{< callout type="info" >}}

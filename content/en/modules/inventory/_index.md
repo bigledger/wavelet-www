@@ -4,8 +4,6 @@ description: "Comprehensive inventory management solution for stock control, val
 weight: 40
 ---
 
-# Inventory Module
-
 The Inventory Module provides a comprehensive inventory management solution designed to handle all aspects of stock control, from basic item tracking to advanced inventory optimization. This module supports businesses with simple to complex inventory requirements across single or multiple locations.
 
 ## Overview

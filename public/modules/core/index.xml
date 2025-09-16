@@ -1,18 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>BigLedger Documentation – Core Module</title>
-    <link>http://localhost:1313/modules/core/</link>
-    <description>Recent content in Core Module on BigLedger Documentation</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:1313/modules/core/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Core Module</title><link>https://wiki.bigledger.com/modules/core/</link><description>Recent content in Core Module on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/modules/core/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

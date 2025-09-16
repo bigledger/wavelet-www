@@ -1,10 +1,10 @@
 ---
-description: Comprehensive step-by-step guides for implementing and using BigLedger's
-  features.
+title: Implementation Guides
+description: Comprehensive step-by-step guides for implementing and using BigLedger's features
+weight: 25
+bookCollapseSection: false
 tags:
 - user-guide
-title: Implementation Guides
-weight: 25
 ---
 
 

@@ -10,8 +10,6 @@ title: Document Item Types & Classifications
 weight: 10
 ---
 
-# Document Item Types & Classifications
-
 Understanding BigLedger's document item types is fundamental to effective inventory management, sales processing, and business operations. Each item type serves specific business scenarios and offers unique functionality for managing complex inventory relationships.
 
 ## Overview

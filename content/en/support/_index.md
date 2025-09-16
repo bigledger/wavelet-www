@@ -1,7 +1,8 @@
 ---
-title: "Support & Troubleshooting"
-description: "Get help with BigLedger ERP - FAQs, troubleshooting guides, and support resources"
+title: Support & Troubleshooting
+description: Get help with BigLedger ERP - FAQs, troubleshooting guides, and support resources
 weight: 90
+bookCollapseSection: false
 ---
 
 

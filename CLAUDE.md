@@ -234,6 +234,79 @@ If deployment fails:
    - Wait 5-10 minutes for propagation
    - Check CloudFront distribution status in AWS Console
 
+## CRITICAL: Navigation and Title Guidelines
+
+### ⚠️ MANDATORY RULES TO PREVENT NAVIGATION AND TITLE ISSUES
+
+#### 1. Navigation Structure Requirements
+**EVERY directory MUST have an _index.md file:**
+- Check EVERY directory in `content/en/` for _index.md
+- Use this exact template for ALL _index.md files:
+```markdown
+---
+title: "Section Title"
+description: "Clear description of this section"
+weight: [number for ordering]
+bookCollapseSection: false  # For top-level sections
+---
+
+[Content here]
+```
+
+#### 2. Preventing Duplicate Titles
+**NEVER add an H1 heading that duplicates the front matter title:**
+```markdown
+# BAD Example:
+---
+title: "Module Overview"
+---
+
+# Module Overview  ← DELETE THIS! It duplicates the title above
+
+Content starts here...
+
+# GOOD Example:
+---
+title: "Module Overview"
+---
+
+Content starts here directly without repeating the title...
+```
+
+#### 3. Systematic Verification Checklist
+Before EVERY commit, run these checks:
+
+```bash
+# Check for missing _index.md files
+find content/en -type d | while read dir; do
+  if [ ! -f "$dir/_index.md" ]; then
+    echo "MISSING: $dir/_index.md"
+  fi
+done
+
+# Check for duplicate titles
+find content/en -name "*.md" | while read file; do
+  title=$(grep "^title:" "$file" | head -1 | sed 's/title: *//' | tr -d '"')
+  h1=$(grep "^# " "$file" | head -1 | sed 's/^# *//')
+  if [ "$title" = "$h1" ]; then
+    echo "DUPLICATE TITLE: $file"
+  fi
+done
+```
+
+#### 4. When Adding New Content
+- **ALWAYS create _index.md FIRST** before adding any content to a directory
+- **NEVER use an H1 heading** if it matches the front matter title
+- **TEST navigation locally** with `hugo server` before committing
+- **Verify left menu appears** on ALL pages
+
+#### 5. Common Mistakes to Avoid
+- ❌ Creating content files without parent _index.md
+- ❌ Adding H1 headings that duplicate front matter titles
+- ❌ Missing bookCollapseSection in section _index.md files
+- ❌ Forgetting to test navigation after changes
+- ❌ Assuming navigation works without verification
+
 ## Remember
 
 1. **When authoring content, focus exclusively on the English version in `content/en/`. Translations will be handled separately.**
@@ -244,3 +317,4 @@ If deployment fails:
    - `🤖 Generated with [Claude Code](https://claude.ai/code)`
    - `Co-Authored-By: Claude <noreply@anthropic.com>`
    - Keep commit messages clean and professional without attribution tags
+6. **ALWAYS verify navigation and titles before committing - use the verification checklist above**

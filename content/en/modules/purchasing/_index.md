@@ -4,8 +4,6 @@ description: "Comprehensive procurement and supplier management solution for str
 weight: 35
 ---
 
-# Purchasing Module
-
 The Purchasing Module provides a comprehensive procurement solution that covers the complete purchase-to-pay process from strategic sourcing to vendor payment. This module is designed for organizations that need sophisticated procurement capabilities, supplier relationship management, and purchasing optimization.
 
 ## Overview

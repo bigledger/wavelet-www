@@ -4,8 +4,6 @@ description: "Comprehensive customer relationship management and sales automatio
 weight: 25
 ---
 
-# Sales & CRM Module
-
 The Sales & CRM Module provides a comprehensive customer relationship management and sales automation solution designed to drive revenue growth through effective customer engagement, sales process optimization, and relationship management. This module covers the complete customer lifecycle from lead generation to customer retention.
 
 ## Overview

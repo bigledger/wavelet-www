@@ -4,8 +4,6 @@ description: "Comprehensive human resources and payroll management solution for 
 weight: 60
 ---
 
-# HR & Payroll Module
-
 The HR & Payroll Module provides a comprehensive human resources management solution that covers the complete employee lifecycle from recruitment to retirement. This module integrates personnel management with payroll processing, benefits administration, and compliance reporting.
 
 ## Overview

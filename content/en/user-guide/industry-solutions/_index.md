@@ -1,11 +1,12 @@
 ---
+title: Industry Solutions
 description: Industry-specific implementations and success stories with BigLedger
+weight: 80
+bookCollapseSection: false
 tags:
 - industry
 - solutions
 - case-studies
-title: Industry Solutions
-weight: 80
 ---
 
 # Industry-Specific BigLedger Solutions

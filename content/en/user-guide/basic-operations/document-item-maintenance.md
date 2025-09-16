@@ -11,8 +11,6 @@ title: Document Item Maintenance & Workflow Management
 weight: 35
 ---
 
-# Document Item Maintenance & Workflow Management
-
 Document item maintenance in BigLedger provides comprehensive tools for managing business documents throughout their entire lifecycle, ensuring proper workflow integration, compliance tracking, and seamless coordination across all business operations and departments.
 
 ## Overview

@@ -10,8 +10,6 @@ title: Price Book Management & Customer Pricing
 weight: 10
 ---
 
-# Price Book Management & Customer Pricing
-
 Price books in BigLedger serve as the foundation for organized price list management, enabling businesses to maintain structured pricing for different customer segments, sales channels, and market conditions while ensuring consistency across all commercial operations.
 
 ## Overview

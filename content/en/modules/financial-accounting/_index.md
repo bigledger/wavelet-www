@@ -4,8 +4,6 @@ description: "Complete financial accounting solution for comprehensive financial
 weight: 20
 ---
 
-# Financial Accounting Module
-
 The Financial Accounting Module provides a complete financial management solution designed for businesses that require comprehensive accounting capabilities, detailed financial reporting, and regulatory compliance. This module covers all aspects of financial accounting from basic bookkeeping to advanced financial analysis.
 
 ## Overview

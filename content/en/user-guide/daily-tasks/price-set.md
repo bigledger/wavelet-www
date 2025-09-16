@@ -11,8 +11,6 @@ title: Price Set Configuration & Advanced Pricing Logic
 weight: 60
 ---
 
-# Price Set Configuration & Advanced Pricing Logic
-
 Price sets in BigLedger provide sophisticated, rule-based pricing capabilities that enable complex pricing strategies adaptable to diverse business conditions, customer segments, and operational scenarios. This advanced pricing system supports enterprise-level requirements with powerful logic engines and flexible configuration options.
 
 ## Overview

@@ -1,7 +1,8 @@
 ---
-title: "Applications"
-description: "Specialized business applications built on BigLedger platform"
+title: Applications
+description: Specialized business applications built on BigLedger platform
 weight: 25
+bookCollapseSection: false
 ---
 
 

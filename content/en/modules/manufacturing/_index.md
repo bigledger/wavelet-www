@@ -4,8 +4,6 @@ description: "Complete manufacturing execution system for production planning, c
 weight: 50
 ---
 
-# Manufacturing Module
-
 The Manufacturing Module provides a comprehensive manufacturing execution system (MES) that covers the complete production lifecycle from planning to execution. This module is designed for discrete and process manufacturers who need sophisticated production control, quality management, and manufacturing optimization capabilities.
 
 ## Overview
