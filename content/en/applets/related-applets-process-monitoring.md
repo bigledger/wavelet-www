@@ -1,12 +1,12 @@
 ---
-description: Related Applets - Process Monitoring 3325940988 2021-08-02T08:57:04.
+title: "Related Applets - Process Monitoring"
+description: "Integration details for Process Monitoring with other business process applets"
+weight: 155
 tags:
 - applets
-title: Related Applets - Process Monitoring
-weight: 10
+- process-monitoring
+- integration
+- workflow
 ---
-
-**Page ID**: 3325940988
-**Last Updated**: 2021-08-02T08:57:04.570Z
 ### The process monitoring applet can import Lines from the following Applets:
 ### The information in process monitoring applet, is used by which applets:

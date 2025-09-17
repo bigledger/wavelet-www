@@ -1,13 +1,13 @@
 ---
-description: Related Applets - Internal Stock Adjustment 3325941230 2021-10-18T06:03:41.
+title: "Related Applets - Internal Stock Adjustment"
+description: "Integration overview for Internal Stock Adjustment with other inventory applets"
+weight: 150
 tags:
 - applets
-title: Related Applets - Internal Stock Adjustment
-weight: 10
+- stock-adjustment
+- integration
+- inventory
 ---
-
-**Page ID**: 3325941230
-**Last Updated**: 2021-10-18T06:03:41.108Z
 ### The Internal Stock Adjustment applet can import Lines from the following Applets:
 Organisation Applet
 Item (inv) Maintenance Applet

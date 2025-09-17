@@ -1,10 +1,10 @@
 ---
-description: Process Monitoring Applet 3325940977 2021-08-02T07:55:26.
+title: "Process Monitoring Applet"
+description: "Monitor and track business processes and workflow activities within the platform"
+weight: 40
 tags:
 - applets
-title: Process Monitoring Applet
-weight: 10
+- process-monitoring
+- workflow
+- business-processes
 ---
-
-**Page ID**: 3325940977
-**Last Updated**: 2021-08-02T07:55:26.716Z

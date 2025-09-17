@@ -1,7 +1,7 @@
 ---
 title: "Membership Points Currency Configuration"
 description: "Set up and manage loyalty points currency for membership programs"
-weight: 85
+weight: 160
 ---
 
 # Points Currency Configuration Guide

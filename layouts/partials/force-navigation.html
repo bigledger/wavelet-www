@@ -1,0 +1,27 @@
+{{/*
+  Force navigation partial
+  This partial ensures that navigation (sidebar) is always enabled
+  regardless of page type or front matter settings.
+
+  Usage: {{ partial "force-navigation.html" . }}
+*/}}
+
+{{/* Override any sidebar disable settings from front matter */}}
+{{ .Scratch.Set "forceNavigation" true }}
+{{ .Scratch.Set "disableSidebar" false }}
+
+{{/* Set default sidebar configuration if not already set */}}
+{{ if not (isset .Params "sidebar") }}
+  {{ .Scratch.Set "sidebarConfig" (dict "enable" true "fold" false) }}
+{{ else }}
+  {{ $sidebarConfig := .Params.sidebar }}
+  {{ $sidebarConfig = merge $sidebarConfig (dict "enable" true) }}
+  {{ .Scratch.Set "sidebarConfig" $sidebarConfig }}
+{{ end }}
+
+{{/* Ensure TOC is enabled for better navigation */}}
+{{ if not (isset .Params "toc") }}
+  {{ .Scratch.Set "tocEnabled" true }}
+{{ else }}
+  {{ .Scratch.Set "tocEnabled" .Params.toc }}
+{{ end }}

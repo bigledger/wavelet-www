@@ -432,462 +432,7 @@
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Implementation Strategy&lt;/strong>: Start with the Core Module applets, then gradually add specialized applets based on your business requirements. The modular architecture allows for flexible implementation and growth.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>9.0 EcomSync Related Applets</title><link>https://wiki.bigledger.com/applets/90-ecomsync-related-applets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/90-ecomsync-related-applets/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 2944958608
-&lt;strong>Last Updated&lt;/strong>: 2024-11-16T19:11:46.763Z
-Ecomsync Organization Applet
-Ecomsync - Organisation Applet - Create Company
-Ecomsync - Organisation Applet : Create Virtual Branch (Marketplace)
-Ecomsync - Organisation Applet - Marketplace : Stock and Sale Order Configuration by Branch
-Ecomsync - Doc Item Maintenance Applet : Create Single Item
-Ecomsync - Doc Item Maintenance Applet : Create Bundle Item
-Ecomsync - Doc Item Maintenance Applet : Create Grouped Item
-Ecomsync - Doc Item Maintenance Applet : Configure single/bundle item to marketplace
-Ecomsync - Doc Item Maintenance Applet : Configure grouped item to marketplace
-Ecomsync - Doc Item Maintenance Applet : Configure stock balance and sale order
-Ecomsync - Internal Sale Order Applet : Update marketplace order status&lt;/p></description></item><item><title>Applet Directory</title><link>https://wiki.bigledger.com/applets/applet-directory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/applet-directory/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 2944893173
-&lt;strong>Last Updated&lt;/strong>: 2025-07-06T12:35:44.630Z
-Applet Store is the marketplace for the distribution of applets that are designed for use with the Akaun products. It allows the subscribers to the Akaun products to browse and install the applets. Some applets in the store are free of charge but some are charged for a required fee.
-Steps: Accept Marketplace Terms of Use &amp;gt; Install Applets &amp;gt; Open Applet
-Permission Settings of Applets: Create Permission Set &amp;gt; Create and Assign Role
-Personalization of Applets: Personalization of Applet&lt;/p>
-&lt;h2>Need to find an Applet?&lt;span class="hx:absolute hx:-mt-20" id="need-to-find-an-applet">&lt;/span>
-&lt;a href="#need-to-find-an-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Search for an Applet
-true&lt;/p></description></item><item><title>Applet Store</title><link>https://wiki.bigledger.com/applets/applet-store/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/applet-store/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3153985735
-&lt;strong>Last Updated&lt;/strong>: 2024-11-12T20:56:19.341Z&lt;/p>
-&lt;h2>1.0 Introduction﻿&lt;span class="hx:absolute hx:-mt-20" id="10-introduction">&lt;/span>
-&lt;a href="#10-introduction" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Applet Store is the marketplace for the distribution of applets that are designed for use with the Akaun products. It allows the subscribers to the Akaun products to browse and install the applets. Some applets in the store are free of charge but some are charged for a required fee.&lt;/p>
-&lt;p>Steps: Accept Marketplace Terms of Use &amp;gt; Install Applets &amp;gt; Open Applet&lt;/p>
-&lt;p>Permission Settings of Applets: Create Permission Set &amp;gt; Create and Assign Role&lt;/p>
-&lt;p>Personalization of Applets: Personalization of Applet.&lt;/p>
-&lt;h1>2.0 Entering the Applet Store&lt;/h1>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-192150_placeholder.svg" alt="Applet Store Interface" loading="lazy" />
-&lt;em>Figure 1: BigLedger Applet Store - Main Interface Overview&lt;/em>&lt;/p>
-&lt;h2>2.1 Applet Store icon in the Akaun Platform&lt;span class="hx:absolute hx:-mt-20" id="21-applet-store-icon-in-the-akaun-platform">&lt;/span>
-&lt;a href="#21-applet-store-icon-in-the-akaun-platform" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When users first register and log in to the website, they will be directed to a page as shown in the interface above. Before installing any applet in the Applet Store, there is only one icon in the platform, which is the Applet Store icon. Then, users can proceed by clicking on the Applet Store to start browsing their desired applets.&lt;/p>
-&lt;p>Additionally, in the Akaun Platform page, a Search bar feature is implemented to enable the users to filter and search the installed applets in the Akaun Platform page.&lt;/p>
-&lt;h2>2.2 Terms of Use of the Applets in the Applet Store﻿&lt;span class="hx:absolute hx:-mt-20" id="22-terms-of-use-of-the-applets-in-the-applet-store">&lt;/span>
-&lt;a href="#22-terms-of-use-of-the-applets-in-the-applet-store" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-192239_placeholder.svg" alt="Marketplace Terms of Use" loading="lazy" />
-&lt;em>Figure 2: Akaun Platform - Marketplace Terms of Use&lt;/em>&lt;/p>
-&lt;p>After clicking on the Applet Store icon, a page will appear, listing the terms of use of the applets in the Applet Store. Some of the essential information that is shown in this page includes:&lt;/p>
-&lt;ul>
-&lt;li>Types of applets&lt;/li>
-&lt;li>Details of placing order for applets&lt;/li>
-&lt;li>Correct use of marketplace applets&lt;/li>
-&lt;li>Data collection, Data usage, and Data sharing&lt;/li>
-&lt;li>Users&amp;rsquo; responsibilities&lt;/li>
-&lt;li>Term and Termination&lt;/li>
-&lt;li>Important disclaimers and limitations of liability&lt;/li>
-&lt;li>Third-party applets and third-party use of the applets&lt;/li>
-&lt;li>Dispute Resolution; Governing Law&lt;/li>
-&lt;/ul>
-&lt;p>Users have to patiently peruse the terms of use of the applets in the Applet Store to understand the responsibilities of every party who accesses and uses the applets.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-192321_placeholder.svg" alt="Accept or Decline Terms" loading="lazy" />
-&lt;em>Figure 3: Akaun Platform - Accept or decline the terms and conditions&lt;/em>&lt;/p>
-&lt;p>At the end of the page, users have to tick the square box as shown above to indicate that they have read all the terms and conditions for using the marketplace applets. Then, the &amp;ldquo;Accept&amp;rdquo; button will turn blue and users can click on the &amp;ldquo;Accept&amp;rdquo; button to indicate that they agree to the terms of use of the marketplace applets. By doing that, users can successfully enter the Applet Store and start installing their desired applets.&lt;/p>
-&lt;h1>3.0 Layout in Applet Store﻿&lt;/h1>&lt;h2>3.1 Desktop Layout﻿&lt;span class="hx:absolute hx:-mt-20" id="31-desktop-layout">&lt;/span>
-&lt;a href="#31-desktop-layout" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-192431_placeholder.svg" alt="Desktop Layout" loading="lazy" />
-&lt;em>Figure 4: Desktop Layout of Applet Store - Light Theme&lt;/em>&lt;/p>
-&lt;h2>3.2 Mobile Layout﻿&lt;span class="hx:absolute hx:-mt-20" id="32-mobile-layout">&lt;/span>
-&lt;a href="#32-mobile-layout" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-192920_placeholder.svg" alt="Mobile Layout" loading="lazy" />
-&lt;em>Figure 5: Mobile Layout of Applet Store - Dark Theme&lt;/em>&lt;/p>
-&lt;p>The theme of the Applet Store in the mobile layout is a dark theme by default.&lt;/p>
-&lt;h1>4.0 Catalog﻿&lt;/h1>&lt;h2>4.1 What is a catalog?﻿&lt;span class="hx:absolute hx:-mt-20" id="41-what-is-a-catalog">&lt;/span>
-&lt;a href="#41-what-is-a-catalog" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Generally, a catalog in the Applet Store is a collection of applets that are suited for use by a tenant. Every tenant in the Akaun Platform requires different applets for their own operations. Thus, every tenant in the Akaun Platform will be given access to his own unique catalog of applets which are designed for his own use.&lt;/p>
-&lt;p>Next, the Applet Store consists of both public and private catalogs. The details of these catalogs are described below.&lt;/p>
-&lt;h2>4.2 Public Catalog﻿&lt;span class="hx:absolute hx:-mt-20" id="42-public-catalog">&lt;/span>
-&lt;a href="#42-public-catalog" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-193055_placeholder.svg" alt="Public Catalog Page" loading="lazy" />
-&lt;em>Figure 6: Public Catalog Page&lt;/em>&lt;/p>
-&lt;p>When the users enter the Applet Store after accepting the terms of use of applets, they will be directed to the Public page that shows all the public catalogs with their associated applets. Public catalogs are catalogs that can be accessed by all parties. These catalogs store applets that are commonly used by all parties to perform their operations.&lt;/p>
-&lt;p>For instance, the screenshot above shows that the MLM Admin applet is an applet under the Public Catalog.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-193148_placeholder.svg" alt="Applet Information" loading="lazy" />
-&lt;em>Figure 7: Applet Information Display&lt;/em>&lt;/p>
-&lt;p>Additionally, every individual applet in the Applet Store has its own specific icon, name and average user ratings.&lt;/p>
-&lt;p>Next, every individual applet has its tenant code. For example, staging_tenant. The tenant code identifies the tenant to which the applet belongs. This is because some applets are required by many different tenants. For instance, the Cashbook Applet is needed by many tenants to manage their cash book and settlement methods. However, every tenant needs their version of the Cashbook Applet because they would like to store their private data in the applet. Thus, we have Cashbook Applets with different tenant codes in which each tenant code identifies a specific tenant user. Every tenant user can only access the applet which is associated with his tenant code.&lt;/p>
-&lt;p>Apart from that, every individual applet has its rank. The rank type includes OWNER, ADMIN and MEMBER. This is because users with different ranks have different roles in managing and using the applets. For instance, users with the ADMIN and OWNER rank have the read and write access in assigning permissions to other users in using an applet whereas the users with MEMBER rank can only have read access to the permissions in an applet.&lt;/p>
-&lt;h2>4.3 Private Catalog﻿&lt;span class="hx:absolute hx:-mt-20" id="43-private-catalog">&lt;/span>
-&lt;a href="#43-private-catalog" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/catalogs/image-20241110-193437_placeholder.svg" alt="Private Catalog Page" loading="lazy" />
-&lt;em>Figure 8: Private Catalog Page - Install All&lt;/em>&lt;/p>
-&lt;p>Next, when users click on the &amp;ldquo;Private&amp;rdquo; tab, they will be directed to the page that shows all the private catalogs as shown in the screenshot above. Private Catalogs are catalogs that can only be accessed by users who are given specific permission by the admin.&lt;/p>
-&lt;p>The admin of the Platform Sysadmin Applet can use this applet to assign permission for users to access their catalog of applets in the Applet Store. As mentioned previously, different clients will gain access to their own catalogs in order to use the relevant applets to carry out their particular operations. Thus, the catalogs and applets shown in this page vary by users.&lt;/p>
-&lt;p>Apart from that, a search bar is implemented on every catalog page for users to filter and search their desired applets easily. Users can search for their desired applets by typing the name of the applets in the search bar. The search function will be executed automatically once the users start typing words on the bar.&lt;/p>
-&lt;p>Next, users can click on the &amp;ldquo;Install All&amp;rdquo; green button to install all the applets in the &amp;ldquo;Private&amp;rdquo; tab page at once. This can save their time from installing the applets individually.&lt;/p>
-&lt;h2>4.4 My Applets﻿&lt;span class="hx:absolute hx:-mt-20" id="44-my-applets">&lt;/span>
-&lt;a href="#44-my-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-193742_placeholder.svg" alt="My Applets Tab" loading="lazy" />
-&lt;em>Figure 9: My Applets Tab - Installed Applications&lt;/em>&lt;/p>
-&lt;p>Next, when users click on the &amp;ldquo;My Applets&amp;rdquo; tab, they will be directed to a page that shows all the applets they have installed.&lt;/p>
-&lt;h1>5.0 Installing Applets﻿&lt;/h1>&lt;h2>5.1 Applet Installation Page﻿&lt;span class="hx:absolute hx:-mt-20" id="51-applet-installation-page">&lt;/span>
-&lt;a href="#51-applet-installation-page" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/installation/image-20241110-194005_placeholder.svg" alt="Applet Installation Page" loading="lazy" />
-&lt;em>Figure 10: Applet Installation Page - Overview&lt;/em>&lt;/p>
-&lt;p>When users click on an applet icon in the catalog page, users will be able to read the details of the applet as shown in the screenshot above. The basic information of the applet that are displayed in this page includes:&lt;/p>
-&lt;ul>
-&lt;li>Name of the applet&lt;/li>
-&lt;li>Icon of the applet&lt;/li>
-&lt;li>Platform location where the applet is stored&lt;/li>
-&lt;li>Rank of the users in using the applet&lt;/li>
-&lt;li>Tenant Code of the applet&lt;/li>
-&lt;li>Compatibility of the applet to the users&amp;rsquo; device&lt;/li>
-&lt;li>Average ratings of the applet&lt;/li>
-&lt;li>Number of users who rate the applet&lt;/li>
-&lt;/ul>
-&lt;p>In order to install the particular applet, users can click on the green &amp;ldquo;Install&amp;rdquo; button in the applet page to perform the installation.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/installation/image-20241110-194026_placeholder.svg" alt="Applet Descriptions" loading="lazy" />
-&lt;em>Figure 11: Applet Installation Page - Applet Descriptions&lt;/em>&lt;/p>
-&lt;p>Apart from that, users can view the images and videos that illustrate the features and functionalities of the applet. They can also read the description of the applet from the applet page. By doing that, the users can understand the functions of the applet and the mechanism of using the applet.&lt;/p>
-&lt;p>Additionally, they are able to know the type of the applet and the ranking of the applet in the Applet Store. For instance, the Stock Transfer applet shown in the screenshot above is labeled as the Business type applet. It is also ranked as the second top grossing applet, meaning the second top applet that generates the highest profit among all the available applets.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/installation/image-20241110-194045_placeholder.svg" alt="Ratings and Reviews" loading="lazy" />
-&lt;em>Figure 12: Applet Installation Page - Ratings and Reviews&lt;/em>&lt;/p>
-&lt;p>Moreover, users are able to see the rating and reviews of each applet in the installation page of the respective applet. Firstly, the platform will calculate and generate the average user ratings of the applet besides showing the statistics of rating in the form of a horizontal bar chart. It also shows the total number of users who have given the rating.&lt;/p>
-&lt;p>Next, users can also read the reviews of other users who comment on the applet. Additionally, users can also write their reviews under the reviews section and update their own reviews from time to time.&lt;/p>
-&lt;p>The applet installation page is still under development.&lt;/p>
-&lt;h2>5.2 Open or Uninstall Applets﻿&lt;span class="hx:absolute hx:-mt-20" id="52-open-or-uninstall-applets">&lt;/span>
-&lt;a href="#52-open-or-uninstall-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/installation/image-20241110-194139_placeholder.svg" alt="Open or Uninstall" loading="lazy" />
-&lt;em>Figure 13: Applet Installation Page - Open or Uninstall the Applet&lt;/em>&lt;/p>
-&lt;p>After that, users can open the applet by clicking on the green &amp;ldquo;Open&amp;rdquo; button.&lt;/p>
-&lt;p>On the other hand, users can choose to uninstall the applet by clicking on the &amp;ldquo;Uninstall&amp;rdquo; button in the applet page.&lt;/p>
-&lt;h2>5.3 Access Installed Applets﻿&lt;span class="hx:absolute hx:-mt-20" id="53-access-installed-applets">&lt;/span>
-&lt;a href="#53-access-installed-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/installation/image-20241110-194200_placeholder.svg" alt="My Applets Page" loading="lazy" />
-&lt;em>Figure 14: My Applets Page - Installed Applets&lt;/em>&lt;/p>
-&lt;p>As mentioned previously, users can check their installed applets in the &amp;ldquo;My Applets&amp;rdquo; page in the Applet Store as shown in the screenshot above. This helps users to find and manage their installed applets easily. Additionally, applets that are successfully installed by the users will show a small green tick label at the bottom right of its layout as shown in the screenshot above.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/installation/image-20241110-194216_placeholder.svg" alt="Akaun Platform" loading="lazy" />
-&lt;em>Figure 15: Akaun Platform - Installed Applets&lt;/em>&lt;/p>
-&lt;p>Apart from that, users can directly access their installed applets when they log in to the &lt;a href="http://akaun.com" target="_blank" rel="noopener">http://akaun.com&lt;/a> website as shown in the screenshot above. This helps the users to conveniently access their installed applets without entering the Applet Store.&lt;/p>
-&lt;h1>6.0 Applet Permission Settings﻿&lt;/h1>&lt;p>Generally, all applets in the Applet Store share some common features. One of the essential features is the permission setting for an applet. This is because a client who uses the applets may want to set specific permissions to regulate the access control of his employees in using the applets.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194553_placeholder.svg" alt="Settings Tab" loading="lazy" />
-&lt;em>Figure 16: Settings Tab&lt;/em>&lt;/p>
-&lt;p>Firstly, users can navigate to the &amp;ldquo;Settings&amp;rdquo; tab which is located at the bottom left of every opened applet as shown in the screenshot above to configure their applet settings.&lt;/p>
-&lt;h2>6.1 Permission Set﻿&lt;span class="hx:absolute hx:-mt-20" id="61-permission-set">&lt;/span>
-&lt;a href="#61-permission-set" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A permission template is a template that consists of one or multiple permission lines. Every permission line refers to a specific defined permission. For example, permission to create internal sales order invoices.&lt;/p>
-&lt;p>A permission set is a permission template in which the permission lines are configured to targets. The target can be a branch, company, or location, depending on the permission template. By doing that, the targets are permitted to perform certain operations.&lt;/p>
-&lt;p>Only users with the ADMIN or OWNER rank in the applet can have read and write access in assigning the permissions to the applet users. Users with MEMBER rank have only read access to the permissions settings in the applet.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194612_placeholder.svg" alt="Permission Set Page" loading="lazy" />
-&lt;em>Figure 17: Permission Set Page&lt;/em>&lt;/p>
-&lt;h3>6.1.1 Create Permission Set﻿&lt;span class="hx:absolute hx:-mt-20" id="611-create-permission-set">&lt;/span>
-&lt;a href="#611-create-permission-set" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194627_placeholder.svg" alt="Create Permission Set" loading="lazy" />
-&lt;em>Figure 18: Permission Set - Create a Permission Set&lt;/em>&lt;/p>
-&lt;p>Users click on the &amp;ldquo;+&amp;rdquo; button to start creating the permission set. After clicking on the button, the Add Permission Set page will appear from the right. Users then fill in the information of the permission set. The information to be filled includes:&lt;/p>
-&lt;ul>
-&lt;li>Perm Set Name*: The name of the permission set.&lt;/li>
-&lt;li>Perm Set Code*: The code of the permission set. The code value should be unique and is immutable once it is saved.&lt;/li>
-&lt;li>Perm Template*: The permission template. A permission template consists of many defined permission lines.&lt;/li>
-&lt;li>Status*: Users should select the status &amp;ldquo;ACTIVE&amp;rdquo; to use the permission set.&lt;/li>
-&lt;/ul>
-&lt;p>The * symbol indicates information that is compulsory to be filled.&lt;/p>
-&lt;p>Next, the users have to click on the &amp;ldquo;Configure Permission Targets&amp;rdquo; box in order to start linking the permission lines in the selected permission template to the available targets.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194646_placeholder.svg" alt="Configure Permission Set Lines" loading="lazy" />
-&lt;em>Figure 19: Permission Set - Configure Permission Set Lines&lt;/em>&lt;/p>
-&lt;p>A permission template consists of many permission lines. Thus, in the Configure Permission Set Lines page, users can select the permission set lines and assign each of them to a target. The users can proceed by clicking on the permission set line record they want to configure.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194705_placeholder.svg" alt="Edit Permission Set Line" loading="lazy" />
-&lt;em>Figure 20: Permission Set - Edit Permission Set Line&lt;/em>&lt;/p>
-&lt;p>Then, users will be directed to the Edit Permission Set Line page as shown above.&lt;/p>
-&lt;p>Under this page, the Permission Code, Permission Targets and Default Target information of the selected permission line are already filled and cannot be modified. The value of the Default Target information varies between Company, Location and Branch, depending on the permission template that is selected.&lt;/p>
-&lt;p>Users can provide some description for the permission set line. Then, users have to click on the &amp;ldquo;Select Target&amp;rdquo; box in order to assign the permission set line to a target.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194722_placeholder.svg" alt="Add Target" loading="lazy" />
-&lt;em>Figure 21: Permission Set - Add Target&lt;/em>&lt;/p>
-&lt;p>Then, users are directed to the Add Target page. In this example, the default target is the company. Thus, the Add Target page shows the information of the available companies. The information includes the Company Code and Company Name. Users can tick only one of the available companies and click the &amp;ldquo;SAVE&amp;rdquo; button to link it to the permission set line.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194756_placeholder.svg" alt="Save Edited Permission Set Line" loading="lazy" />
-&lt;em>Figure 22: Permission Set - Save Edited Permission Set Line&lt;/em>&lt;/p>
-&lt;p>Then, the users will be directed back to the previous page, which is the Edit Permission Set Line page. The target is selected successfully. They can continue to click the &amp;ldquo;SAVE&amp;rdquo; button to save the changes.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194815_placeholder.svg" alt="Save Configured Permission Set" loading="lazy" />
-&lt;em>Figure 23: Permission Set - Save the Configured Permission Set&lt;/em>&lt;/p>
-&lt;p>Then, the users will be directed back to the previous page, which is the Configure Permission Set Lines page. Users can repeat the process for the other permission set lines to assign the target to the permission lines respectively.&lt;/p>
-&lt;p>When all the permissions targets are configured as desired, users can click on the &amp;ldquo;SAVE&amp;rdquo; button in the Add Permission Set page to save the changes.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-194836_placeholder.svg" alt="Successfully Created" loading="lazy" />
-&lt;em>Figure 24: Permission Set - Successfully Created&lt;/em>&lt;/p>
-&lt;p>The permission set that is successfully created will appear in the Permission Set page as shown in the screenshot above.&lt;/p>
-&lt;p>In order to assign the same permission set to multiple targets, the users have to create multiple permission sets. Every permissions set consists of the same permission lines but different naming. Then, users assign each permission set to the respective target.&lt;/p>
-&lt;p>For example:&lt;/p>
-&lt;ul>
-&lt;li>Permission_Set_Target_A to Target A.&lt;/li>
-&lt;li>Permission_Set_Target_B to Target B.&lt;/li>
-&lt;/ul>
-&lt;h3>6.1.2 Edit and Delete Permission Set﻿&lt;span class="hx:absolute hx:-mt-20" id="612-edit-and-delete-permission-set">&lt;/span>
-&lt;a href="#612-edit-and-delete-permission-set" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>If the users want to edit or delete a created permission set, users have to click on that permission set record in the Permission Set page. Then, the Edit Permission Set page will appear from the right as shown in the screenshot below, showing the details of the permission set.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195035_placeholder.svg" alt="Edit/Delete Permission Set" loading="lazy" />
-&lt;em>Figure 25: Permission Set - Edit / Delete Permission Set&lt;/em>&lt;/p>
-&lt;p>&lt;strong>Edit the Permission Set:&lt;/strong>
-The process flow of editing a permission set is similar to the process flow of creating the permission set. Users have to click the &amp;ldquo;SAVE&amp;rdquo; button in order to save the changes.&lt;/p>
-&lt;p>&lt;strong>Delete the Permission Set:&lt;/strong>
-Users click on the permission set row in the Permission Set page and then click on the &amp;ldquo;DELETE&amp;rdquo; button in the Edit Permission Set page to delete the permission set.&lt;/p>
-&lt;h2>6.2 User Permission﻿&lt;span class="hx:absolute hx:-mt-20" id="62-user-permission">&lt;/span>
-&lt;a href="#62-user-permission" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195050_placeholder.svg" alt="User Permission Page" loading="lazy" />
-&lt;em>Figure 26: User Permission Page&lt;/em>&lt;/p>
-&lt;p>The User Permission page stores the information of the users who can access and use the particular applet. These information include the email address, mobile phone number and the rank of the user in using the applet.&lt;/p>
-&lt;p>Once the users have successfully installed an applet, their information will appear as a new record under the User Permission page of that applet.&lt;/p>
-&lt;h2>6.3 Team Permission﻿&lt;span class="hx:absolute hx:-mt-20" id="63-team-permission">&lt;/span>
-&lt;a href="#63-team-permission" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195116_placeholder.svg" alt="Team Permission Page" loading="lazy" />
-&lt;em>Figure 27: Team Permission Page&lt;/em>&lt;/p>
-&lt;p>The Team Permission page stores the information of the teams who can access and use the particular applet. This information includes the team name, team code and number of members in the team.&lt;/p>
-&lt;h3>6.3.1 Read the Details of the Team﻿&lt;span class="hx:absolute hx:-mt-20" id="631-read-the-details-of-the-team">&lt;/span>
-&lt;a href="#631-read-the-details-of-the-team" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195144_placeholder.svg" alt="Edit Team Details" loading="lazy" />
-&lt;em>Figure 28: Team Permission - Edit Team (Details)&lt;/em>&lt;/p>
-&lt;p>Users can read the details of the team by clicking on the row that represents the team in the Team Permission page. Then, the Edit Team page will appear from the right. Users can read the details of the team from the Edit Team page. However, users cannot edit the information of the team in this page.&lt;/p>
-&lt;h3>6.3.2 Read the Members of the Team﻿&lt;span class="hx:absolute hx:-mt-20" id="632-read-the-members-of-the-team">&lt;/span>
-&lt;a href="#632-read-the-members-of-the-team" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195201_placeholder.svg" alt="Edit Team Members" loading="lazy" />
-&lt;em>Figure 29: Permission Set - Edit Team (Members)&lt;/em>&lt;/p>
-&lt;p>Next, under the Members tab in the Edit Team page, users can see the information of the members that belong to the team. The information of the members include the email address, mobile phone number and the rank of the members in using the applet.&lt;/p>
-&lt;p>However, users cannot create new members or edit the information of current members for the team in this page.&lt;/p>
-&lt;h3>6.3.3 Read and Edit the Role for the Team﻿&lt;span class="hx:absolute hx:-mt-20" id="633-read-and-edit-the-role-for-the-team">&lt;/span>
-&lt;a href="#633-read-and-edit-the-role-for-the-team" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195225_placeholder.svg" alt="Edit Team Role" loading="lazy" />
-&lt;em>Figure 30: Permission Set - Edit Team (Role)&lt;/em>&lt;/p>
-&lt;p>Next, under the Role tab in the Edit Team page, users can see the roles that are assigned to the team. The information of the role includes role code, role name and number of permission sets that are assigned to the role.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195241_placeholder.svg" alt="Edit Role for Team" loading="lazy" />
-&lt;em>Figure 31: Team Permission - Edit Role (For Team)&lt;/em>&lt;/p>
-&lt;p>Users are allowed to edit some basic information of the role that is assigned to the team. Firstly, users click onto the role record that they want to edit under the Role tab in the Edit Team page. Then, the Edit Role page will appear from the right as shown in the screenshot above.&lt;/p>
-&lt;p>Users can edit the role of the team by changing the name and status of the role in the Edit Role page. Users cannot change the role code because the code value is fixed and immutable once it is set. Then, users have to click on the &amp;ldquo;SAVE&amp;rdquo; button to save the changes.&lt;/p>
-&lt;h2>6.4 Role Permission﻿&lt;span class="hx:absolute hx:-mt-20" id="64-role-permission">&lt;/span>
-&lt;a href="#64-role-permission" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>An organization consists of employees with different roles. For example, cashiers, managers, operators, officers and many others. Every role requires specific permissions in using an applet.&lt;/p>
-&lt;p>Under the Role Permission tab, the admin users can include multiple permissions to a role. Then, the users can assign the role to specific users or teams. By doing that, the admins do not have to manually assign permission to every individual.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195354_placeholder.svg" alt="Role Permission Page" loading="lazy" />
-&lt;em>Figure 32: Role Permission Page&lt;/em>&lt;/p>
-&lt;h3>6.4.1 Create a Role﻿&lt;span class="hx:absolute hx:-mt-20" id="641-create-a-role">&lt;/span>
-&lt;a href="#641-create-a-role" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195428_placeholder.svg" alt="Create a Role" loading="lazy" />
-&lt;em>Figure 33: Role Permission - Create a Role&lt;/em>&lt;/p>
-&lt;p>Firstly, users can click on the &amp;ldquo;+&amp;rdquo; button to create a role. Then, the users must input the following information:&lt;/p>
-&lt;ul>
-&lt;li>Name of the role.&lt;/li>
-&lt;li>Code of the role. The code of the role must be unique.&lt;/li>
-&lt;li>Status of the role. Users have to set the status to &amp;ldquo;ACTIVE&amp;rdquo; in order to use the role.&lt;/li>
-&lt;/ul>
-&lt;p>Lastly, the users have to click on the &amp;ldquo;SAVE&amp;rdquo; button to save the input information for the role. The role will then appear as a new record in the Role Permission tab.&lt;/p>
-&lt;h3>6.4.2 Edit Role Permissions﻿&lt;span class="hx:absolute hx:-mt-20" id="642-edit-role-permissions">&lt;/span>
-&lt;a href="#642-edit-role-permissions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Details Tab: Edit and Delete Role Information﻿&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195446_placeholder.svg" alt="Edit Role Details" loading="lazy" />
-&lt;em>Figure 34: Role Permission - Edit Role (Details)&lt;/em>&lt;/p>
-&lt;p>In order to edit the details of the role that is created, users have to click on that particular role record that appears in the Role Permission page. Then, the Edit Role Permissions page will pop out from the right as shown in the screenshot above. The users can then edit the role information under the Details tab of the page. However, the users cannot edit the role code because the code information is fixed and immutable.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195513_placeholder.svg" alt="Delete Role" loading="lazy" />
-&lt;em>Figure 35: Role Permission - Delete Role (Details)&lt;/em>&lt;/p>
-&lt;p>To delete a role, the users can click on the &amp;ldquo;DELETE&amp;rdquo; button under the Details tab to remove the row.&lt;/p>
-&lt;p>&lt;strong>Add or Remove Role to User﻿&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195605_placeholder.svg" alt="Load Users" loading="lazy" />
-&lt;em>Figure 36: Role Permission - Load Users&lt;/em>&lt;/p>
-&lt;p>Firstly, users have to navigate to the User tab under the Edit Role Permissions page. Under the User tab, the users can see the list of users that are assigned with the selected role. In order to add new users to the role, users can click on the &amp;ldquo;+&amp;rdquo; button to load the list of available users and proceed to assign the users to the particular role.&lt;/p>
-&lt;p>If users want to remove the existing users from the role, users can tick on the existing users that they want to remove in the Edit Role Permissions page and click the &amp;ldquo;REMOVE&amp;rdquo; button to remove the ticked users from the role.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195629_placeholder.svg" alt="Add/Remove Users to Role" loading="lazy" />
-&lt;em>Figure 37: Role Permission - Add / Remove Users To Role&lt;/em>&lt;/p>
-&lt;p>Then, they will be directed to the Add User page which shows the information of all the available users. They then tick on the users that they want to assign the role to in the Add User page. After selecting all the users, they can click on the &amp;ldquo;ADD&amp;rdquo; button to add the users to the particular role.&lt;/p>
-&lt;p>The users that are added successfully to the role will appear under the User Tab in the Edit Role Permissions page. If the admins want to remove the selected users from the role, they can tick on the users in the Edit Role Permissions page and click the &amp;ldquo;REMOVE&amp;rdquo; button to remove the ticked users from the role. Users can tick and remove only one user at a time.&lt;/p>
-&lt;p>&lt;strong>Add or Remove Team to Role﻿&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195650_placeholder.svg" alt="Load Teams" loading="lazy" />
-&lt;em>Figure 38: Role Permission - Load Teams&lt;/em>&lt;/p>
-&lt;p>Firstly, users have to navigate to the Team tab under the Edit Role Permissions page. Under the team tab, the users can see the list of teams that are assigned with the role. In order to add new teams to the role, users can click on the &amp;ldquo;+&amp;rdquo; button to load the list of available teams and proceed to assign the teams to the particular role.&lt;/p>
-&lt;p>If users want to remove the existing teams from the role, users can tick on the existing teams that they want to remove in the Edit Role Permissions page and click the &amp;ldquo;REMOVE&amp;rdquo; button to remove the ticked teams from the role. Users can tick and remove only one team at a time.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195708_placeholder.svg" alt="Add/Remove Teams to Role" loading="lazy" />
-&lt;em>Figure 39: Role Permission - Add / Remove Teams To Role&lt;/em>&lt;/p>
-&lt;p>After clicking on the &amp;ldquo;+&amp;rdquo; button, users can tick on the teams that they want to assign the role in the Add Team page. After selecting the teams, they can click on the &amp;ldquo;ADD&amp;rdquo; button to add the teams to the particular role.&lt;/p>
-&lt;p>The teams that are added successfully to the role will appear under the Team tab in the Edit Role Permissions page. If the admins want to remove the selected teams from the role, they can tick on the teams and click the &amp;ldquo;REMOVE&amp;rdquo; button to remove the ticked teams from the role.&lt;/p>
-&lt;p>&lt;strong>Add or Remove Permission Set to Role﻿&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195723_placeholder.svg" alt="Load Permission Sets" loading="lazy" />
-&lt;em>Figure 40: Role Permission - Load the Permission Sets&lt;/em>&lt;/p>
-&lt;p>Most importantly, every role has its own list of permissions. In order to assign the permission set to the created Role, users have to navigate to the Permission Set tab under the Edit Role Permissions page.&lt;/p>
-&lt;p>Under the Permission Set tab, the users can see the list of permission sets that are assigned with the role. In order to add new permission sets to the role, users can click on the &amp;ldquo;+&amp;rdquo; button to load the list of available permission sets and proceed to assign them to the particular role.&lt;/p>
-&lt;p>If users want to remove the existing permission sets from the role, users can tick on the existing permission sets that they want to remove in the Edit Role Permissions page and click the &amp;ldquo;REMOVE&amp;rdquo; button to remove the ticked permission sets from the role. Users can tick and remove only one permission set at a time.&lt;/p>
-&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/permissions/image-20241110-195739_placeholder.svg" alt="Add/Remove Permission Sets to Role" loading="lazy" />
-&lt;em>Figure 41: Role Permission - Add / Remove The Permission Sets To Role&lt;/em>&lt;/p>
-&lt;p>Then, they can tick on the permission sets that they want to assign to the role in the Add Permission Set page. After selecting all the permission sets, they can click on the &amp;ldquo;ADD&amp;rdquo; button to add the permission sets to the particular role.&lt;/p>
-&lt;p>The permission sets that are successfully added to the role will appear under the Permission Set tab in the Edit Role Permissions page. If the admins want to remove the selected permission sets from the role, they can tick on the permission sets and click the &amp;ldquo;REMOVE&amp;rdquo; button to remove the ticked permission sets from the role.&lt;/p>
-&lt;h1>7.0 Leaving the Applet Store﻿&lt;/h1>&lt;p>&lt;img src="https://wiki.bigledger.com/images/applet-store/interface/image-20241110-195843_placeholder.svg" alt="Leaving the Applet Store" loading="lazy" />
-&lt;em>Figure 42: Leaving the Applet Store&lt;/em>&lt;/p>
-&lt;p>Finally, users can leave the Applet Store by clicking on the &amp;ldquo;akaun&amp;rdquo; tab as indicated by the red square in the screenshot above. This feature performs a back function for users to leave the Applet Store from the Catalog page.&lt;/p></description></item><item><title>Branch - Organization Applet</title><link>https://wiki.bigledger.com/applets/branch-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/branch-organization-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3196191408
-&lt;strong>Last Updated&lt;/strong>: 2025-05-23T00:37:54.393Z
-noneThis section covers the second main tab in the sidebar, Branches, where users can create and edit details for their branches.
-A company can have multiple branches
-Users can either choose to create their branch from the second icon on the left sidebar or move to the Company Listing Edit Tab to create a branch.
-How to create a Branch from the Sidebar
-Create a Branch From the Company Listing Tab﻿﻿
-The second topic in this section provides an overview of each tab in the Edit Branch menu, highlighting its features to improve branch configuration.&lt;/p>
-&lt;h1>Create Branch﻿&lt;/h1>&lt;p>Users can create multiple branches, all linked to one company&lt;/p>
-&lt;h2>Create Branch From Sidebar﻿&lt;span class="hx:absolute hx:-mt-20" id="create-branch-from-sidebar">&lt;/span>
-&lt;a href="#create-branch-from-sidebar" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The second icon on the left menu bar is the Branch Tab, which allows users to create a new branch for a company manually. Users can press the &amp;lsquo;+&amp;rsquo; button to create a new branch.
-Fill in all required fields in the Details Tab as outlined below.
-Once completed, click &amp;lsquo;Save&amp;rsquo; to save the branch details.
-Users can choose between &amp;lsquo;Create Default Location&amp;rsquo; or &amp;lsquo;Choose From Existing Location&amp;rsquo; when setting up the branch.
-If you create the branch before setting up the location and select &amp;lsquo;Create Default Location&amp;rsquo; the system will automatically create one default location.
-The fields that need to be filled in the Details Tab are:
-Branch Code, Branch Name
-Company Name: Link the branch to your company. This will be displayed as the selected company name
-Company Registration No.: Displayed as filled in by the user
-Branch Commencement Date
-Currency: Different currencies can be selected from the drop-down list
-If the users created the location before the branch, then the users select &amp;lsquo;Choose From Existing Location&amp;rsquo;, the additional fields required in the Details Tab are:
-Location Code
-Default Location
-After filling in all necessary details, click &amp;lsquo;Save&amp;rsquo; to store the branch information.
-Fill in the details in the Address Tab as previously instructed.
-After confirming all the information, click the &amp;lsquo;Save&amp;rsquo; button to store the branch details.&lt;/p>
-&lt;h2>Create Branch From Company Listing Tab﻿﻿&lt;span class="hx:absolute hx:-mt-20" id="create-branch-from-company-listing-tab">&lt;/span>
-&lt;a href="#create-branch-from-company-listing-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>If the users choose to create a branch for the selected company in the Company Listing Page, they are directly linking the branch to that company. Click the &amp;lsquo;+&amp;rsquo; sign to start creating the branch.
-Navigate to the Branch Tab in the company edit and click the &amp;lsquo;+&amp;rsquo; button to create a new branch.
-Select the company you wish to create a branch for from the drop-down list. The Company Name and Company Registration No. will be auto-filled based on your selection.
-Fill in the mandatory fields that need to be filled in the Details Tab and Address&lt;/p>
-&lt;h1>Edit branch﻿&lt;/h1>&lt;p>From the Branch Listing page, click on your created Branch to view all the available tabs:
-Details: This section displays the main branch details created in section 2.1, where users can add or edit any information if needed.
-Default Pricing: is the configuration of default pricing. It can be set by branch or company. For example, if you have different pricing schemes for East and West Malaysia, you can apply the East branch pricing to branches in that area.
-Address: View and Edit branch addresses.
-Pick Pack: is used for resource orders. In case you use the delivery option, fill it in; otherwise, you can leave it blank.
-Marketplace: is for the EcomSync product, which is linked to your marketplaces like Shopee and Lazada. This is where you configure the settings.
-Location: This is where the default location, which was just created by the system when setting up the branch, is shown. Alternatively, you can choose from existing locations.
-Settlement:This is where you specify what kind of settlement each branch can see. Each branch can have different settlements
-For example: cash, credit card, or Maybank.
-Settlement is used for your cashbook or POS, including payment options like GrabPay or ShopeePay. This is where you configure it.
-Labels: are used for tagging the branch
-Extension: is used CP Commerce
-Customer and Supplier: link the branch to a specific customer/supplier. When configured here, transactions will be automatically recorded. This feature is part of the intercompany configuration details
-Intercompany: Set whether the system automatically finalizes intercompany transactions or leaves them as drafts for manual approval. You can also configure if creating a sales invoice should auto-create the purchase invoice. This is where auto-configuration settings are managed.&lt;/p></description></item><item><title>Company - Organization Applet,</title><link>https://wiki.bigledger.com/applets/company-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/company-organization-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3259374409
-&lt;strong>Last Updated&lt;/strong>: 2025-05-23T00:35:53.163Z
-noneWhen logging into the Organization Applet, the first page displayed to the user is the Company Listing page in the first icon on the left sidebar.
-In this section, we will cover two key topics:
-How to Create a Company: A step-by-step guide on setting up company details and adding the address.
-How to Edit a Company: An overview of each tab and its features to enhance company configuration&lt;/p>
-&lt;h1>Create Company﻿&lt;/h1>&lt;p>One company can have multiple sub-branches, and there&amp;rsquo;s no limit to this configuration
-To start creating a company, users can click on the &amp;lsquo;+&amp;rsquo; button located at the top left corner.&lt;/p>
-&lt;h2>Company Tab﻿&lt;span class="hx:absolute hx:-mt-20" id="company-tab">&lt;/span>
-&lt;a href="#company-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Create a Company﻿&lt;span class="hx:absolute hx:-mt-20" id="create-a-company">&lt;/span>
-&lt;a href="#create-a-company" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Click the &amp;lsquo;+&amp;rsquo; button at the top left corner.
-Fill in all required fields with the necessary information. Fields marked with a * are mandatory and cannot be modified later.
-Once completed, click &amp;lsquo;Save&amp;rsquo; in the top right corner.
-Please refer to the screenshots below for guidance.
-Step 1: Click the &amp;lsquo;+&amp;rsquo; button to create a company.
-Step 2 and 3: Fill in all required fields and click &amp;lsquo;Save&amp;rsquo;.
-In the Company Creation form, you will need to fill in the following fields:
-Company Code, Name, Registration No.: Enter these details
-Company Incorporation Date: When the company was established
-Tax ID, SST ID #: If applicable
-Fax Number: If applicable
-Phone Number: Mandatory
-Currency: Select from the drop-down list.
-Chart of Accounts: Create the chart of accounts before setting up the company. Follow the steps here. Once the chart of accounts is set up, select the appropriate one from the drop-down menu.
-Rounding Five Cent: If necessary - Choose which item code the system auto-fills for transactions.
-Group Discounts: You can apply a discount to the entire transaction, or the system can automatically select item codes.
-Default Purchase and Sales Return Options: For both Purchase Returns and Sales Returns, you can choose similar pricing options:
-Last Purchase Price: Select this option to use the price of the last purchase for returns.
-Moving Average Cost: Choose this option if you prefer the pricing to be based on the moving average cost.
-Invoice Price: The most commonly used option, applies the price from the relevant purchase or sales invoice for returns.
-Company Logo: Users can upload a company logo immediately or choose to upload it later.&lt;/p>
-&lt;h2>Address Tab﻿&lt;span class="hx:absolute hx:-mt-20" id="address-tab">&lt;/span>
-&lt;a href="#address-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When creating a company, users are required to fill in the address details. This information is essential for accurate record-keeping and correspondence purposes.&lt;/p>
-&lt;h3>Fill in the Company Address﻿&lt;span class="hx:absolute hx:-mt-20" id="fill-in-the-company-address">&lt;/span>
-&lt;a href="#fill-in-the-company-address" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Navigate to the Address Tab.
-Fill in all required fields, including postal details and country information. Fields marked with a * are mandatory.
-Once completed, click &amp;lsquo;Save&amp;rsquo; in the top right corner to store the address information.
-Please refer to the screenshot below for guidance.
-Step 1, 2: Fill in the required address details and click &amp;lsquo;Save&amp;rsquo;.
-The fields required in the Address Tab are as follows:
-Address Line 1: Primary address details
-Address Line 2: Additional address details
-Address Line 3: Optional additional line
-Address Line 4: Optional additional line
-Address Line 5: Optional additional line
-Postal Code: ZIP or postal code
-City: The city where the company is located
-Country: Different countries can be selected from the drop-down list
-Currency: Select the applicable currency from the drop-down list
-State: Select the relevant state or region from the drop-down list&lt;/p>
-&lt;h1>Edit Company﻿&lt;/h1>&lt;p>From the Company Listing page, click on your created company to view all the available tabs:
-Details: This section displays the main company details created in section 1.1, where users can add or edit any information if needed.
-E-invoice: Configure the company for E-invoicing to LHDN
-Peppol Config: If using Peppol, this tab is for configuring the intermediary.
-Tax: If the company has SSD, this tab is used for Tax Config.
-Address: Displays the address created in section 1.2. Users can edit or add additional information if needed.
-Branch: Lists all the branches created under the selected company.
-Location: Shows all locations under each branch for the company.
-Labels: Used for tagging the company, such as grouping by department.
-Employee: Displays the list of employees under the company. This is linked to the Employee Applet.&lt;/p>
-&lt;h2>Knock Off Config:﻿&lt;span class="hx:absolute hx:-mt-20" id="knock-off-config">&lt;/span>
-&lt;a href="#knock-off-config" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>What is KO (Knock Off)?&lt;span class="hx:absolute hx:-mt-20" id="what-is-ko-knock-off">&lt;/span>
-&lt;a href="#what-is-ko-knock-off" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>A Knock Off (KO) configuration is used when a company needs to manage document issuance tracking for transactions involving:
-✅ Customer invoices (e.g., tracking whether an invoice has been fully paid).
-✅ Supplier invoices (e.g., ensuring payments are properly recorded against supplier bills).
-Essentially, KO helps automate reconciliation between issued invoices and received payments, preventing discrepancies in financial records.&lt;/p>
-&lt;h3>When Should You Configure a KO?&lt;span class="hx:absolute hx:-mt-20" id="when-should-you-configure-a-ko">&lt;/span>
-&lt;a href="#when-should-you-configure-a-ko" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Configuring a KO is optional but may be necessary if:
-The company wants to track payments against invoices in an automated manner.
-The business requires document issuance verification before transactions are marked as completed.
-There is a need to link invoice issuance to supplier/customer transactions for internal processing.
-A critical setup for the company to configure the workflow. Click on the &amp;lsquo;+&amp;rsquo; button to begin setup.
-Server Doc Type Options: Essential for setting up the company&amp;rsquo;s workflow, such as configuring the process for purchase orders, converting them into purchase GRNs or invoices, or setting up the sales process (from sales orders to sales invoices). The configuration is based on document types.
-The user needs to select the server type. Server Type 1 refers to the source document, while Server Type 2 refers to the target document
-This is an example of a basic knock-off (KO) setup flow for the customer. For instance, when the user creates an invoice, there will be two knock-off options: Sales Order and Sales Quotation.
-This means that in the Sales Invoice applet, under the KO (knock-off) tab, the user will see two options: Sales Order and Sales Quotation.
-Users can enable or disable knock-off settings from the main tab page.
-The KO (knock-off) options depend on the customer configuration and the user&amp;rsquo;s needs. The user can add more options if needed by configuring them in the Organisation applet when creating or editing the company details.&lt;/p>
-&lt;h2>Advance Filter Search﻿&lt;span class="hx:absolute hx:-mt-20" id="advance-filter-search">&lt;/span>
-&lt;a href="#advance-filter-search" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The advanced filter allows you to search by company, company name, registration number, or status. Each sub-module includes this advanced filtering option.&lt;/p></description></item><item><title>Group Maintenance Applet</title><link>https://wiki.bigledger.com/applets/group-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/group-maintenance-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3284597324
-&lt;strong>Last Updated&lt;/strong>: 2024-11-18T05:14:31.039Z
-Group Maintenance applet is to add users into a Group, and assign permission to the user in Platform level. There is only one module in the Group Maintenance Applet which is Group Listing.&lt;/p></description></item><item><title>Ingram Micro MS ESD Applet</title><link>https://wiki.bigledger.com/applets/ingram-micro-ms-esd-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/ingram-micro-ms-esd-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3292921869
-&lt;strong>Last Updated&lt;/strong>: 2021-07-15T07:57:58.109Z&lt;/p></description></item><item><title>Installation of Group Maintenance Applet</title><link>https://wiki.bigledger.com/applets/installation-of-group-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/installation-of-group-maintenance-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3320746785
-&lt;strong>Last Updated&lt;/strong>: 2021-07-27T06:59:16.429Z
-1.Installation (Akaun Cloud): Applet Store &amp;gt; Search &amp;gt; Install &amp;gt; Akaun page &amp;gt; Search
-1.1. Please go to Akaun.cloud and find the Applet store.
-1.2. In the Applet store, Please search for the applet that you want to install and click on it.
-1.3. Please click the &amp;lsquo;Install&amp;rsquo; button to install the applet.
-1.4 Please click on &amp;lsquo;akaun&amp;rsquo; to go back to the Akaun.cloud page to search for the installed applet and click on it (Same as 1.1).&lt;/p></description></item><item><title>Installation of Pricebook Applet</title><link>https://wiki.bigledger.com/applets/installation-of-pricebook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/installation-of-pricebook-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3317538085
-&lt;strong>Last Updated&lt;/strong>: 2025-01-01T18:14:29.170Z
-Please go to Akaun.cloud and find the Applet store.
-In the Applet store, Please search for the applet that you want to install and click on it.
-Please click the &amp;ldquo;Install&amp;rdquo; button to install the applet.
-Please click on &amp;ldquo;akaun&amp;rdquo; to go back to the Akaun.cloud page to search for the installed applet and click on it.&lt;/p></description></item><item><title>Installation of Team Maintenance Applet</title><link>https://wiki.bigledger.com/applets/installation-of-team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/installation-of-team-maintenance-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3320324314
-&lt;strong>Last Updated&lt;/strong>: 2021-07-27T04:03:13.707Z
-1.Installation (Akaun Cloud): Applet Store &amp;gt; Search &amp;gt; Install &amp;gt; Akaun page &amp;gt; Search
-1.1. Please go to Akaun.cloud and find the Applet store.
-1.2. In the Applet store, Please search for the applet that you want to install and click on it.
-1.3. Please click the &amp;lsquo;Install&amp;rsquo; button to install the applet.
-1.4 Please click on &amp;lsquo;akaun&amp;rsquo; to go back to the Akaun.cloud page to search for the installed applet and click on it (Same as 1.1).&lt;/p></description></item><item><title>Internal Delivery Order Applet</title><link>https://wiki.bigledger.com/applets/internal-delivery-order-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/internal-delivery-order-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3325941105
-&lt;strong>Last Updated&lt;/strong>: 2024-11-19T14:06:31.723Z
-The Internal Delivery Order Applet is a versatile tool designed to streamline the process of managing delivery orders. It enables users to track items delivered, record customer details, and customize additional information such as vehicle and transport company details. This flexibility enhances the applet&amp;rsquo;s adaptability for various operational needs, making it an essential resource for efficient delivery management.&lt;/p></description></item><item><title>Internal Stock Adjustment Applet</title><link>https://wiki.bigledger.com/applets/internal-stock-adjustment-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/internal-stock-adjustment-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3325941223
-&lt;strong>Last Updated&lt;/strong>: 2024-11-20T10:17:44.792Z
-The Internal Stock Adjustment Applet simplifies stock management by allowing users to adjust stock levels to match actual quantities. It supports creating, viewing, and bulk importing stock adjustments, ensuring accurate inventory tracking. It integrates with other applets to enhance operational efficiency.&lt;/p></description></item><item><title>Introduction to Membership Admin Console Applet</title><link>https://wiki.bigledger.com/applets/introduction-to-membership-admin-console-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/introduction-to-membership-admin-console-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3314974838
-&lt;strong>Last Updated&lt;/strong>: 2021-08-05T02:05:18.124Z
-Introduction
-This applet is used to Configure and manage the Membership and the point currency, such as labeling, classifying the members and setting the different point currency with the conversion rate. There are seven modules in the applet which are Member listing, member class, member label, member label list, Point currency (PTS CCY), Point to Point currency configuration (PTS to PTS), and point to money currency configuration (PTS to CCY).
-Steps: Installation &amp;gt; Create Member &amp;gt; Create Member class &amp;gt; Create Member label list &amp;gt; Create or Edit Member label &amp;gt; Create Point currency &amp;gt; Create Point to Point Currency Configuration &amp;gt; Create Point to Money Currency Configuration &amp;gt; Edit Member (Class, Label and Point Transaction)&lt;/p></description></item><item><title>Introduction to Stock Take Applet</title><link>https://wiki.bigledger.com/applets/introduction-to-stock-take-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/introduction-to-stock-take-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3312746669
-&lt;strong>Last Updated&lt;/strong>: 2025-02-28T09:09:05.479Z
-The Stock Take Applet offers a one-stop solution for all your inventory management needs, providing everything you need for traceability and efficient stock control.
-Key Features:
-Centralized Solution: Manage all your inventory data in one place, reducing the complexity of handling multiple systems.
-Mobile-Friendly Interface: Perform stock counts and manage inventory on-the-go, anytime, anywhere.
-Fully Customizable: Easily process multi-UOM products with more detailed tracking of inventory levels in different units.
-Smart Stocking: Reduce human intervention and minimize errors.
-Serial Number Tracking: Track and trace inventory variances by batch or serial numbers.
-Real-Time Reporting: Any entered data are immediately reflected in real-time reports.&lt;/p>
-&lt;h3>Getting Started with the Stock Take Applet&lt;span class="hx:absolute hx:-mt-20" id="getting-started-with-the-stock-take-applet">&lt;/span>
-&lt;a href="#getting-started-with-the-stock-take-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>To begin using the Stock Take Applet, kindly ensure that all steps for creating catalogues, installing applets, and managing users have been completed. For detailed instructions, refer to the General Set Up Guide.
-Once installed, users can find the Stock Take Applet on their Home Page in Akaun and begin using it for stock management. Below is the icon for the Stock Take Applet.&lt;/p></description></item><item><title>Introduction to Team Maintenance Applet</title><link>https://wiki.bigledger.com/applets/introduction-to-team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/introduction-to-team-maintenance-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3320513762
-&lt;strong>Last Updated&lt;/strong>: 2021-07-27T06:19:21.679Z
-Introduction
-Team Maintenance applet is to manage the users and permissions of the team. There is only one module in the Applet which is &amp;lsquo;Team&amp;rsquo;.
-Steps: Installation&amp;gt; Create Team&amp;gt;Edit team(Add Members, Import user,Add permission)&lt;/p></description></item><item><title>Location - Organization Applet</title><link>https://wiki.bigledger.com/applets/location-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/location-organization-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3259374431
-&lt;strong>Last Updated&lt;/strong>: 2025-05-23T00:39:20.134Z
-Each branch can have multiple locations
-This is the third icon in the sidebar, &amp;ldquo;Location.&amp;rdquo; This section lists all the locations, and each branch can have multiple locations. Users can create new locations or edit existing ones here.
-The edit tabs are similar to those in &lt;a href="https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch&amp;#43;-&amp;#43;Organization&amp;#43;Applet#Edit-branch" target="_blank" rel="noopener">https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch+-+Organization+Applet#Edit-branch&lt;/a>&lt;/p></description></item><item><title>Membership Admin Console Applet</title><link>https://wiki.bigledger.com/applets/membership-admin-console-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/membership-admin-console-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3314483397
-&lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:37:55.594Z
-1&lt;/p></description></item><item><title>Membership Program</title><link>https://wiki.bigledger.com/applets/membership-program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/membership-program/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3153822171
-&lt;strong>Last Updated&lt;/strong>: 2022-04-18T04:38:40.607Z
-To use the membership Program
-Compulsory applets
-Organization applet
-Doc Item Maintenance applet
-Pricebook Applet
-Optional Applets
-cp-commerce admin applet, to allow your member to login and check your points.
-Point of sales applet&lt;/p></description></item><item><title>Platform Overview - BigLedger Business Operating System</title><link>https://wiki.bigledger.com/user-guide/getting-started/platform-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/getting-started/platform-overview/</guid><description>
+&lt;/div></description></item><item><title>Platform Overview - BigLedger Business Operating System</title><link>https://wiki.bigledger.com/user-guide/getting-started/platform-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/getting-started/platform-overview/</guid><description>
 &lt;h1>BigLedger Business Operating System Architecture&lt;/h1>&lt;h2>🎯 TLDR (Too Long; Didn&amp;rsquo;t Read)&lt;span class="hx:absolute hx:-mt-20" id="-tldr-too-long-didnt-read">&lt;/span>
 &lt;a href="#-tldr-too-long-didnt-read" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;strong>BigLedger is a Business Operating System (BOS)&lt;/strong> - Think Android for your business operations&lt;/li>
@@ -1321,33 +866,206 @@ Point of sales applet&lt;/p></description></item><item><title>Platform Overview 
 &lt;li>&lt;strong>Training Academy&lt;/strong>: &lt;a href="https://academy.bigledger.com" target="_blank" rel="noopener">academy.bigledger.com&lt;/a> - Free courses&lt;/li>
 &lt;li>&lt;strong>Community Forum&lt;/strong>: &lt;a href="https://forum.bigledger.com" target="_blank" rel="noopener">forum.bigledger.com&lt;/a> - User community&lt;/li>
 &lt;li>&lt;strong>Telegram Support&lt;/strong>: @leehongfay - Quick questions&lt;/li>
-&lt;/ul></description></item><item><title>Pricebook Applet</title><link>https://wiki.bigledger.com/applets/pricebook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/pricebook-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3317565050
-&lt;strong>Last Updated&lt;/strong>: 2025-01-01T18:13:11.882Z&lt;/p>
-&lt;h1>1.0 Introduction&lt;/h1>&lt;p>The Pricebook Applet is used to set up Promotion, Purchase with Purchase (PWP) and campaign for product selling based on Segment, Customer, Entity, Period and more. In the Applet, Please click on the &amp;ldquo;Menu&amp;rdquo; icon to list down the Modules of Applet. There are two modules in the Pricebook Applet which are &amp;ldquo;Price Book&amp;rdquo; and &amp;ldquo;Price Set&amp;rdquo;.&lt;/p></description></item><item><title>Process Monitoring Applet</title><link>https://wiki.bigledger.com/applets/process-monitoring-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/process-monitoring-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3325940977
-&lt;strong>Last Updated&lt;/strong>: 2021-08-02T07:55:26.716Z&lt;/p></description></item><item><title>Related Applets - Internal Job Order</title><link>https://wiki.bigledger.com/applets/related-applets-internal-job-order/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/related-applets-internal-job-order/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3325940946
-&lt;strong>Last Updated&lt;/strong>: 2021-08-02T08:55:10.844Z&lt;/p>
-&lt;h3>The internal job order applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-job-order-applet-can-import-lines-from-the-following-applets">&lt;/span>
-&lt;a href="#the-internal-job-order-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h3>The information in internal pecking order applet, is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-information-in-internal-pecking-order-applet-is-used-by-which-applets">&lt;/span>
-&lt;a href="#the-information-in-internal-pecking-order-applet-is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3></description></item><item><title>Related Applets - Internal Stock Adjustment</title><link>https://wiki.bigledger.com/applets/related-applets-internal-stock-adjustment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/related-applets-internal-stock-adjustment/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3325941230
-&lt;strong>Last Updated&lt;/strong>: 2021-10-18T06:03:41.108Z&lt;/p>
-&lt;h3>The Internal Stock Adjustment applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-stock-adjustment-applet-can-import-lines-from-the-following-applets">&lt;/span>
-&lt;a href="#the-internal-stock-adjustment-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Organisation Applet
-Item (inv) Maintenance Applet
-Doc Item Maintenance Applet
-Stock Balance Applet&lt;/p>
-&lt;h3>The Internal Stock Adjustment applet is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-stock-adjustment-applet--is-used-by-which-applets">&lt;/span>
-&lt;a href="#the-internal-stock-adjustment-applet--is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Stock Balance Applet&lt;/p></description></item><item><title>Related Applets - Process Monitoring</title><link>https://wiki.bigledger.com/applets/related-applets-process-monitoring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/related-applets-process-monitoring/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3325940988
-&lt;strong>Last Updated&lt;/strong>: 2021-08-02T08:57:04.570Z&lt;/p>
-&lt;h3>The process monitoring applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-process-monitoring-applet-can-import-lines-from-the-following-applets">&lt;/span>
-&lt;a href="#the-process-monitoring-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h3>The information in process monitoring applet, is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-information-in-process-monitoring-applet-is-used-by-which-applets">&lt;/span>
-&lt;a href="#the-information-in-process-monitoring-applet-is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3></description></item><item><title>Related Applets - Stock Balance</title><link>https://wiki.bigledger.com/applets/related-applets-stock-balance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/related-applets-stock-balance/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3325941210
-&lt;strong>Last Updated&lt;/strong>: 2021-10-18T06:35:35.008Z&lt;/p>
+&lt;/ul></description></item><item><title>Stock Take Applet</title><link>https://wiki.bigledger.com/applets/stock-take-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/stock-take-applet/</guid><description>
+&lt;p>The Stock Take Applet is a cutting-edge digital solution designed to revolutionize inventory management for businesses. In today&amp;rsquo;s era of digital stocking, maintaining accurate inventory levels is crucial for minimizing losses and optimizing operations. The Stock Take Applet provides a streamlined approach to stock counting, enabling businesses to perform real-time stock counts without interrupting daily operations, even during business hours.
+What Readers Are Expected to See:
+Introduction to Stock Take Applet
+1.0 Stock Take Applet Overview﻿
+2.0 Stock Take Session﻿
+3.0 Stock Take Devices﻿
+4.0 Stock Take Report﻿
+&lt;a href="https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3316809818/Stocktake&amp;#43;Applet&amp;#43;Settings" target="_blank" rel="noopener">https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3316809818/Stocktake+Applet+Settings&lt;/a>
+6.0 Stock Take Personalization&lt;/p></description></item><item><title>Team Maintenance Applet</title><link>https://wiki.bigledger.com/applets/team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/team-maintenance-applet/</guid><description>
+&lt;p>1&lt;/p></description></item><item><title>Pricebook Applet</title><link>https://wiki.bigledger.com/applets/pricebook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/pricebook-applet/</guid><description>
+&lt;h1>1.0 Introduction&lt;/h1>&lt;p>The Pricebook Applet is used to set up Promotion, Purchase with Purchase (PWP) and campaign for product selling based on Segment, Customer, Entity, Period and more. In the Applet, Please click on the &amp;ldquo;Menu&amp;rdquo; icon to list down the Modules of Applet. There are two modules in the Pricebook Applet which are &amp;ldquo;Price Book&amp;rdquo; and &amp;ldquo;Price Set&amp;rdquo;.&lt;/p></description></item><item><title>Group Maintenance Applet</title><link>https://wiki.bigledger.com/applets/group-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/group-maintenance-applet/</guid><description>
+&lt;p>Group Maintenance applet is to add users into a Group, and assign permission to the user in Platform level. There is only one module in the Group Maintenance Applet which is Group Listing.&lt;/p></description></item><item><title>Process Monitoring Applet</title><link>https://wiki.bigledger.com/applets/process-monitoring-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/process-monitoring-applet/</guid><description/></item><item><title>Applet Directory</title><link>https://wiki.bigledger.com/applets/applet-directory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/applet-directory/</guid><description>
+&lt;p>Applet Store is the marketplace for the distribution of applets that are designed for use with the Akaun products. It allows the subscribers to the Akaun products to browse and install the applets. Some applets in the store are free of charge but some are charged for a required fee.
+Steps: Accept Marketplace Terms of Use &amp;gt; Install Applets &amp;gt; Open Applet
+Permission Settings of Applets: Create Permission Set &amp;gt; Create and Assign Role
+Personalization of Applets: Personalization of Applet&lt;/p>
+&lt;h2>Need to find an Applet?&lt;span class="hx:absolute hx:-mt-20" id="need-to-find-an-applet">&lt;/span>
+&lt;a href="#need-to-find-an-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Search for an Applet
+true&lt;/p></description></item><item><title>Location Organization Applet</title><link>https://wiki.bigledger.com/applets/location-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/location-organization-applet/</guid><description>
+&lt;p>Each branch can have multiple locations
+This is the third icon in the sidebar, &amp;ldquo;Location.&amp;rdquo; This section lists all the locations, and each branch can have multiple locations. Users can create new locations or edit existing ones here.
+The edit tabs are similar to those in &lt;a href="https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch&amp;#43;-&amp;#43;Organization&amp;#43;Applet#Edit-branch" target="_blank" rel="noopener">https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch+-+Organization+Applet#Edit-branch&lt;/a>&lt;/p></description></item><item><title>Settings of Organization Applet</title><link>https://wiki.bigledger.com/applets/settings-of-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/settings-of-organization-applet/</guid><description>
+&lt;p>﻿This section covers all the settings used by Wavelet.
+The role permission allows you to set specific permissions if needed.&lt;/p></description></item><item><title>Branch Organization Applet</title><link>https://wiki.bigledger.com/applets/branch-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/branch-organization-applet/</guid><description>
+&lt;p>noneThis section covers the second main tab in the sidebar, Branches, where users can create and edit details for their branches.
+A company can have multiple branches
+Users can either choose to create their branch from the second icon on the left sidebar or move to the Company Listing Edit Tab to create a branch.
+How to create a Branch from the Sidebar
+Create a Branch From the Company Listing Tab﻿﻿
+The second topic in this section provides an overview of each tab in the Edit Branch menu, highlighting its features to improve branch configuration.&lt;/p>
+&lt;h1>Create Branch﻿&lt;/h1>&lt;p>Users can create multiple branches, all linked to one company&lt;/p>
+&lt;h2>Create Branch From Sidebar﻿&lt;span class="hx:absolute hx:-mt-20" id="create-branch-from-sidebar">&lt;/span>
+&lt;a href="#create-branch-from-sidebar" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The second icon on the left menu bar is the Branch Tab, which allows users to create a new branch for a company manually. Users can press the &amp;lsquo;+&amp;rsquo; button to create a new branch.
+Fill in all required fields in the Details Tab as outlined below.
+Once completed, click &amp;lsquo;Save&amp;rsquo; to save the branch details.
+Users can choose between &amp;lsquo;Create Default Location&amp;rsquo; or &amp;lsquo;Choose From Existing Location&amp;rsquo; when setting up the branch.
+If you create the branch before setting up the location and select &amp;lsquo;Create Default Location&amp;rsquo; the system will automatically create one default location.
+The fields that need to be filled in the Details Tab are:
+Branch Code, Branch Name
+Company Name: Link the branch to your company. This will be displayed as the selected company name
+Company Registration No.: Displayed as filled in by the user
+Branch Commencement Date
+Currency: Different currencies can be selected from the drop-down list
+If the users created the location before the branch, then the users select &amp;lsquo;Choose From Existing Location&amp;rsquo;, the additional fields required in the Details Tab are:
+Location Code
+Default Location
+After filling in all necessary details, click &amp;lsquo;Save&amp;rsquo; to store the branch information.
+Fill in the details in the Address Tab as previously instructed.
+After confirming all the information, click the &amp;lsquo;Save&amp;rsquo; button to store the branch details.&lt;/p>
+&lt;h2>Create Branch From Company Listing Tab﻿﻿&lt;span class="hx:absolute hx:-mt-20" id="create-branch-from-company-listing-tab">&lt;/span>
+&lt;a href="#create-branch-from-company-listing-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>If the users choose to create a branch for the selected company in the Company Listing Page, they are directly linking the branch to that company. Click the &amp;lsquo;+&amp;rsquo; sign to start creating the branch.
+Navigate to the Branch Tab in the company edit and click the &amp;lsquo;+&amp;rsquo; button to create a new branch.
+Select the company you wish to create a branch for from the drop-down list. The Company Name and Company Registration No. will be auto-filled based on your selection.
+Fill in the mandatory fields that need to be filled in the Details Tab and Address&lt;/p>
+&lt;h1>Edit branch﻿&lt;/h1>&lt;p>From the Branch Listing page, click on your created Branch to view all the available tabs:
+Details: This section displays the main branch details created in section 2.1, where users can add or edit any information if needed.
+Default Pricing: is the configuration of default pricing. It can be set by branch or company. For example, if you have different pricing schemes for East and West Malaysia, you can apply the East branch pricing to branches in that area.
+Address: View and Edit branch addresses.
+Pick Pack: is used for resource orders. In case you use the delivery option, fill it in; otherwise, you can leave it blank.
+Marketplace: is for the EcomSync product, which is linked to your marketplaces like Shopee and Lazada. This is where you configure the settings.
+Location: This is where the default location, which was just created by the system when setting up the branch, is shown. Alternatively, you can choose from existing locations.
+Settlement:This is where you specify what kind of settlement each branch can see. Each branch can have different settlements
+For example: cash, credit card, or Maybank.
+Settlement is used for your cashbook or POS, including payment options like GrabPay or ShopeePay. This is where you configure it.
+Labels: are used for tagging the branch
+Extension: is used CP Commerce
+Customer and Supplier: link the branch to a specific customer/supplier. When configured here, transactions will be automatically recorded. This feature is part of the intercompany configuration details
+Intercompany: Set whether the system automatically finalizes intercompany transactions or leaves them as drafts for manual approval. You can also configure if creating a sales invoice should auto-create the purchase invoice. This is where auto-configuration settings are managed.&lt;/p></description></item><item><title>Company Organization Applet</title><link>https://wiki.bigledger.com/applets/company-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/company-organization-applet/</guid><description>
+&lt;p>noneWhen logging into the Organization Applet, the first page displayed to the user is the Company Listing page in the first icon on the left sidebar.
+In this section, we will cover two key topics:
+How to Create a Company: A step-by-step guide on setting up company details and adding the address.
+How to Edit a Company: An overview of each tab and its features to enhance company configuration&lt;/p>
+&lt;h1>Create Company﻿&lt;/h1>&lt;p>One company can have multiple sub-branches, and there&amp;rsquo;s no limit to this configuration
+To start creating a company, users can click on the &amp;lsquo;+&amp;rsquo; button located at the top left corner.&lt;/p>
+&lt;h2>Company Tab﻿&lt;span class="hx:absolute hx:-mt-20" id="company-tab">&lt;/span>
+&lt;a href="#company-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Create a Company﻿&lt;span class="hx:absolute hx:-mt-20" id="create-a-company">&lt;/span>
+&lt;a href="#create-a-company" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Click the &amp;lsquo;+&amp;rsquo; button at the top left corner.
+Fill in all required fields with the necessary information. Fields marked with a * are mandatory and cannot be modified later.
+Once completed, click &amp;lsquo;Save&amp;rsquo; in the top right corner.
+Please refer to the screenshots below for guidance.
+Step 1: Click the &amp;lsquo;+&amp;rsquo; button to create a company.
+Step 2 and 3: Fill in all required fields and click &amp;lsquo;Save&amp;rsquo;.
+In the Company Creation form, you will need to fill in the following fields:
+Company Code, Name, Registration No.: Enter these details
+Company Incorporation Date: When the company was established
+Tax ID, SST ID #: If applicable
+Fax Number: If applicable
+Phone Number: Mandatory
+Currency: Select from the drop-down list.
+Chart of Accounts: Create the chart of accounts before setting up the company. Follow the steps here. Once the chart of accounts is set up, select the appropriate one from the drop-down menu.
+Rounding Five Cent: If necessary - Choose which item code the system auto-fills for transactions.
+Group Discounts: You can apply a discount to the entire transaction, or the system can automatically select item codes.
+Default Purchase and Sales Return Options: For both Purchase Returns and Sales Returns, you can choose similar pricing options:
+Last Purchase Price: Select this option to use the price of the last purchase for returns.
+Moving Average Cost: Choose this option if you prefer the pricing to be based on the moving average cost.
+Invoice Price: The most commonly used option, applies the price from the relevant purchase or sales invoice for returns.
+Company Logo: Users can upload a company logo immediately or choose to upload it later.&lt;/p>
+&lt;h2>Address Tab﻿&lt;span class="hx:absolute hx:-mt-20" id="address-tab">&lt;/span>
+&lt;a href="#address-tab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When creating a company, users are required to fill in the address details. This information is essential for accurate record-keeping and correspondence purposes.&lt;/p>
+&lt;h3>Fill in the Company Address﻿&lt;span class="hx:absolute hx:-mt-20" id="fill-in-the-company-address">&lt;/span>
+&lt;a href="#fill-in-the-company-address" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Navigate to the Address Tab.
+Fill in all required fields, including postal details and country information. Fields marked with a * are mandatory.
+Once completed, click &amp;lsquo;Save&amp;rsquo; in the top right corner to store the address information.
+Please refer to the screenshot below for guidance.
+Step 1, 2: Fill in the required address details and click &amp;lsquo;Save&amp;rsquo;.
+The fields required in the Address Tab are as follows:
+Address Line 1: Primary address details
+Address Line 2: Additional address details
+Address Line 3: Optional additional line
+Address Line 4: Optional additional line
+Address Line 5: Optional additional line
+Postal Code: ZIP or postal code
+City: The city where the company is located
+Country: Different countries can be selected from the drop-down list
+Currency: Select the applicable currency from the drop-down list
+State: Select the relevant state or region from the drop-down list&lt;/p>
+&lt;h1>Edit Company﻿&lt;/h1>&lt;p>From the Company Listing page, click on your created company to view all the available tabs:
+Details: This section displays the main company details created in section 1.1, where users can add or edit any information if needed.
+E-invoice: Configure the company for E-invoicing to LHDN
+Peppol Config: If using Peppol, this tab is for configuring the intermediary.
+Tax: If the company has SSD, this tab is used for Tax Config.
+Address: Displays the address created in section 1.2. Users can edit or add additional information if needed.
+Branch: Lists all the branches created under the selected company.
+Location: Shows all locations under each branch for the company.
+Labels: Used for tagging the company, such as grouping by department.
+Employee: Displays the list of employees under the company. This is linked to the Employee Applet.&lt;/p>
+&lt;h2>Knock Off Config:﻿&lt;span class="hx:absolute hx:-mt-20" id="knock-off-config">&lt;/span>
+&lt;a href="#knock-off-config" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>What is KO (Knock Off)?&lt;span class="hx:absolute hx:-mt-20" id="what-is-ko-knock-off">&lt;/span>
+&lt;a href="#what-is-ko-knock-off" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>A Knock Off (KO) configuration is used when a company needs to manage document issuance tracking for transactions involving:
+✅ Customer invoices (e.g., tracking whether an invoice has been fully paid).
+✅ Supplier invoices (e.g., ensuring payments are properly recorded against supplier bills).
+Essentially, KO helps automate reconciliation between issued invoices and received payments, preventing discrepancies in financial records.&lt;/p>
+&lt;h3>When Should You Configure a KO?&lt;span class="hx:absolute hx:-mt-20" id="when-should-you-configure-a-ko">&lt;/span>
+&lt;a href="#when-should-you-configure-a-ko" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Configuring a KO is optional but may be necessary if:
+The company wants to track payments against invoices in an automated manner.
+The business requires document issuance verification before transactions are marked as completed.
+There is a need to link invoice issuance to supplier/customer transactions for internal processing.
+A critical setup for the company to configure the workflow. Click on the &amp;lsquo;+&amp;rsquo; button to begin setup.
+Server Doc Type Options: Essential for setting up the company&amp;rsquo;s workflow, such as configuring the process for purchase orders, converting them into purchase GRNs or invoices, or setting up the sales process (from sales orders to sales invoices). The configuration is based on document types.
+The user needs to select the server type. Server Type 1 refers to the source document, while Server Type 2 refers to the target document
+This is an example of a basic knock-off (KO) setup flow for the customer. For instance, when the user creates an invoice, there will be two knock-off options: Sales Order and Sales Quotation.
+This means that in the Sales Invoice applet, under the KO (knock-off) tab, the user will see two options: Sales Order and Sales Quotation.
+Users can enable or disable knock-off settings from the main tab page.
+The KO (knock-off) options depend on the customer configuration and the user&amp;rsquo;s needs. The user can add more options if needed by configuring them in the Organisation applet when creating or editing the company details.&lt;/p>
+&lt;h2>Advance Filter Search﻿&lt;span class="hx:absolute hx:-mt-20" id="advance-filter-search">&lt;/span>
+&lt;a href="#advance-filter-search" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The advanced filter allows you to search by company, company name, registration number, or status. Each sub-module includes this advanced filtering option.&lt;/p></description></item><item><title>Membership Admin Console Applet</title><link>https://wiki.bigledger.com/applets/membership-admin-console-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/membership-admin-console-applet/</guid><description>
+&lt;p>1&lt;/p></description></item><item><title>Membership Program</title><link>https://wiki.bigledger.com/applets/membership-program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/membership-program/</guid><description>
+&lt;p>To use the membership Program
+Compulsory applets
+Organization applet
+Doc Item Maintenance applet
+Pricebook Applet
+Optional Applets
+cp-commerce admin applet, to allow your member to login and check your points.
+Point of sales applet&lt;/p></description></item><item><title>Internal Delivery Order Applet</title><link>https://wiki.bigledger.com/applets/internal-delivery-order-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/internal-delivery-order-applet/</guid><description>
+&lt;p>The Internal Delivery Order Applet is a versatile tool designed to streamline the process of managing delivery orders. It enables users to track items delivered, record customer details, and customize additional information such as vehicle and transport company details. This flexibility enhances the applet&amp;rsquo;s adaptability for various operational needs, making it an essential resource for efficient delivery management.&lt;/p></description></item><item><title>Stock Balance Applet</title><link>https://wiki.bigledger.com/applets/stock-balance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/stock-balance-applet/</guid><description/></item><item><title>Internal Stock Adjustment Applet</title><link>https://wiki.bigledger.com/applets/internal-stock-adjustment-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/internal-stock-adjustment-applet/</guid><description>
+&lt;p>The Internal Stock Adjustment Applet simplifies stock management by allowing users to adjust stock levels to match actual quantities. It supports creating, viewing, and bulk importing stock adjustments, ensuring accurate inventory tracking. It integrates with other applets to enhance operational efficiency.&lt;/p></description></item><item><title>EcomSync Related Applets</title><link>https://wiki.bigledger.com/applets/90-ecomsync-related-applets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/90-ecomsync-related-applets/</guid><description>
+&lt;p>Ecomsync Organization Applet
+Ecomsync - Organisation Applet - Create Company
+Ecomsync - Organisation Applet : Create Virtual Branch (Marketplace)
+Ecomsync - Organisation Applet - Marketplace : Stock and Sale Order Configuration by Branch
+Ecomsync - Doc Item Maintenance Applet : Create Single Item
+Ecomsync - Doc Item Maintenance Applet : Create Bundle Item
+Ecomsync - Doc Item Maintenance Applet : Create Grouped Item
+Ecomsync - Doc Item Maintenance Applet : Configure single/bundle item to marketplace
+Ecomsync - Doc Item Maintenance Applet : Configure grouped item to marketplace
+Ecomsync - Doc Item Maintenance Applet : Configure stock balance and sale order
+Ecomsync - Internal Sale Order Applet : Update marketplace order status&lt;/p></description></item><item><title>Ingram Micro MS ESD Applet</title><link>https://wiki.bigledger.com/applets/ingram-micro-ms-esd-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/ingram-micro-ms-esd-applet/</guid><description/></item><item><title>Installation of Pricebook Applet</title><link>https://wiki.bigledger.com/applets/installation-of-pricebook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/installation-of-pricebook-applet/</guid><description>
+&lt;p>Please go to Akaun.cloud and find the Applet store.
+In the Applet store, Please search for the applet that you want to install and click on it.
+Please click the &amp;ldquo;Install&amp;rdquo; button to install the applet.
+Please click on &amp;ldquo;akaun&amp;rdquo; to go back to the Akaun.cloud page to search for the installed applet and click on it.&lt;/p></description></item><item><title>Installation of Group Maintenance Applet</title><link>https://wiki.bigledger.com/applets/installation-of-group-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/installation-of-group-maintenance-applet/</guid><description>
+&lt;p>1.Installation (Akaun Cloud): Applet Store &amp;gt; Search &amp;gt; Install &amp;gt; Akaun page &amp;gt; Search
+1.1. Please go to Akaun.cloud and find the Applet store.
+1.2. In the Applet store, Please search for the applet that you want to install and click on it.
+1.3. Please click the &amp;lsquo;Install&amp;rsquo; button to install the applet.
+1.4 Please click on &amp;lsquo;akaun&amp;rsquo; to go back to the Akaun.cloud page to search for the installed applet and click on it (Same as 1.1).&lt;/p></description></item><item><title>Installation of Team Maintenance Applet</title><link>https://wiki.bigledger.com/applets/installation-of-team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/installation-of-team-maintenance-applet/</guid><description>
+&lt;p>1.Installation (Akaun Cloud): Applet Store &amp;gt; Search &amp;gt; Install &amp;gt; Akaun page &amp;gt; Search
+1.1. Please go to Akaun.cloud and find the Applet store.
+1.2. In the Applet store, Please search for the applet that you want to install and click on it.
+1.3. Please click the &amp;lsquo;Install&amp;rsquo; button to install the applet.
+1.4 Please click on &amp;lsquo;akaun&amp;rsquo; to go back to the Akaun.cloud page to search for the installed applet and click on it (Same as 1.1).&lt;/p></description></item><item><title>Introduction to Team Maintenance Applet</title><link>https://wiki.bigledger.com/applets/introduction-to-team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/introduction-to-team-maintenance-applet/</guid><description>
+&lt;p>Introduction
+Team Maintenance applet is to manage the users and permissions of the team. There is only one module in the Applet which is &amp;lsquo;Team&amp;rsquo;.
+Steps: Installation&amp;gt; Create Team&amp;gt;Edit team(Add Members, Import user,Add permission)&lt;/p></description></item><item><title>Introduction to Membership Admin Console Applet</title><link>https://wiki.bigledger.com/applets/introduction-to-membership-admin-console-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/introduction-to-membership-admin-console-applet/</guid><description>
+&lt;p>Introduction
+This applet is used to Configure and manage the Membership and the point currency, such as labeling, classifying the members and setting the different point currency with the conversion rate. There are seven modules in the applet which are Member listing, member class, member label, member label list, Point currency (PTS CCY), Point to Point currency configuration (PTS to PTS), and point to money currency configuration (PTS to CCY).
+Steps: Installation &amp;gt; Create Member &amp;gt; Create Member class &amp;gt; Create Member label list &amp;gt; Create or Edit Member label &amp;gt; Create Point currency &amp;gt; Create Point to Point Currency Configuration &amp;gt; Create Point to Money Currency Configuration &amp;gt; Edit Member (Class, Label and Point Transaction)&lt;/p></description></item><item><title>Introduction to Stock Take Applet</title><link>https://wiki.bigledger.com/applets/introduction-to-stock-take-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/introduction-to-stock-take-applet/</guid><description>
+&lt;p>The Stock Take Applet offers a one-stop solution for all your inventory management needs, providing everything you need for traceability and efficient stock control.
+Key Features:
+Centralized Solution: Manage all your inventory data in one place, reducing the complexity of handling multiple systems.
+Mobile-Friendly Interface: Perform stock counts and manage inventory on-the-go, anytime, anywhere.
+Fully Customizable: Easily process multi-UOM products with more detailed tracking of inventory levels in different units.
+Smart Stocking: Reduce human intervention and minimize errors.
+Serial Number Tracking: Track and trace inventory variances by batch or serial numbers.
+Real-Time Reporting: Any entered data are immediately reflected in real-time reports.&lt;/p>
+&lt;h3>Getting Started with the Stock Take Applet&lt;span class="hx:absolute hx:-mt-20" id="getting-started-with-the-stock-take-applet">&lt;/span>
+&lt;a href="#getting-started-with-the-stock-take-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>To begin using the Stock Take Applet, kindly ensure that all steps for creating catalogues, installing applets, and managing users have been completed. For detailed instructions, refer to the General Set Up Guide.
+Once installed, users can find the Stock Take Applet on their Home Page in Akaun and begin using it for stock management. Below is the icon for the Stock Take Applet.&lt;/p></description></item><item><title>Related Applets - Stock Balance</title><link>https://wiki.bigledger.com/applets/related-applets-stock-balance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/related-applets-stock-balance/</guid><description>
 &lt;h3>The stock balance applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-stock-balance-applet-can-import-lines-from-the-following-applets">&lt;/span>
 &lt;a href="#the-stock-balance-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Organisation Applet
 Item (inv) Maintenance Applet
@@ -1384,27 +1102,20 @@ Stock Adjustment Applet
 Internal Sales Goods Received Note Applet
 Internal Purchase Goods Received Note Applet
 Internal Sales Goods Issue Note Applet
-Internal Purchase Goods Issue Note Applet&lt;/p></description></item><item><title>Settings of Organization Applet</title><link>https://wiki.bigledger.com/applets/settings-of-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/settings-of-organization-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3259346305
-&lt;strong>Last Updated&lt;/strong>: 2025-05-23T00:39:52.631Z
-﻿This section covers all the settings used by Wavelet.
-The role permission allows you to set specific permissions if needed.&lt;/p></description></item><item><title>Stock Balance Applet</title><link>https://wiki.bigledger.com/applets/stock-balance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/stock-balance-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3325941199
-&lt;strong>Last Updated&lt;/strong>: 2021-08-02T08:59:25.470Z&lt;/p></description></item><item><title>Stock Take Applet</title><link>https://wiki.bigledger.com/applets/stock-take-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/stock-take-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3299246220
-&lt;strong>Last Updated&lt;/strong>: 2025-02-28T08:44:42.316Z
-The Stock Take Applet is a cutting-edge digital solution designed to revolutionize inventory management for businesses. In today&amp;rsquo;s era of digital stocking, maintaining accurate inventory levels is crucial for minimizing losses and optimizing operations. The Stock Take Applet provides a streamlined approach to stock counting, enabling businesses to perform real-time stock counts without interrupting daily operations, even during business hours.
-What Readers Are Expected to See:
-Introduction to Stock Take Applet
-1.0 Stock Take Applet Overview﻿
-2.0 Stock Take Session﻿
-3.0 Stock Take Devices﻿
-4.0 Stock Take Report﻿
-&lt;a href="https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3316809818/Stocktake&amp;#43;Applet&amp;#43;Settings" target="_blank" rel="noopener">https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3316809818/Stocktake+Applet+Settings&lt;/a>
-6.0 Stock Take Personalization&lt;/p></description></item><item><title>Team Maintenance Applet</title><link>https://wiki.bigledger.com/applets/team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/team-maintenance-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3286371018
-&lt;strong>Last Updated&lt;/strong>: 2021-07-27T04:56:24.668Z
-1&lt;/p></description></item><item><title>Unified Contact Center (UCC) Applet</title><link>https://wiki.bigledger.com/applets/unified-contact-center-ucc-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/unified-contact-center-ucc-applet/</guid><description>
+Internal Purchase Goods Issue Note Applet&lt;/p></description></item><item><title>Related Applets - Internal Job Order</title><link>https://wiki.bigledger.com/applets/related-applets-internal-job-order/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/related-applets-internal-job-order/</guid><description>
+&lt;h3>The internal job order applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-job-order-applet-can-import-lines-from-the-following-applets">&lt;/span>
+&lt;a href="#the-internal-job-order-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h3>The information in internal pecking order applet, is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-information-in-internal-pecking-order-applet-is-used-by-which-applets">&lt;/span>
+&lt;a href="#the-information-in-internal-pecking-order-applet-is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3></description></item><item><title>Related Applets - Internal Stock Adjustment</title><link>https://wiki.bigledger.com/applets/related-applets-internal-stock-adjustment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/related-applets-internal-stock-adjustment/</guid><description>
+&lt;h3>The Internal Stock Adjustment applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-stock-adjustment-applet-can-import-lines-from-the-following-applets">&lt;/span>
+&lt;a href="#the-internal-stock-adjustment-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Organisation Applet
+Item (inv) Maintenance Applet
+Doc Item Maintenance Applet
+Stock Balance Applet&lt;/p>
+&lt;h3>The Internal Stock Adjustment applet is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-stock-adjustment-applet--is-used-by-which-applets">&lt;/span>
+&lt;a href="#the-internal-stock-adjustment-applet--is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Stock Balance Applet&lt;/p></description></item><item><title>Related Applets - Process Monitoring</title><link>https://wiki.bigledger.com/applets/related-applets-process-monitoring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/related-applets-process-monitoring/</guid><description>
+&lt;h3>The process monitoring applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-process-monitoring-applet-can-import-lines-from-the-following-applets">&lt;/span>
+&lt;a href="#the-process-monitoring-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h3>The information in process monitoring applet, is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-information-in-process-monitoring-applet-is-used-by-which-applets">&lt;/span>
+&lt;a href="#the-information-in-process-monitoring-applet-is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3></description></item><item><title>Unified Contact Center (UCC) Applet</title><link>https://wiki.bigledger.com/applets/unified-contact-center-ucc-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/unified-contact-center-ucc-applet/</guid><description>
 &lt;h2>Executive Overview&lt;span class="hx:absolute hx:-mt-20" id="executive-overview">&lt;/span>
 &lt;a href="#executive-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Unified Contact Center (UCC) Applet is BigLedger&amp;rsquo;s flagship customer engagement solution that revolutionizes how businesses communicate with their customers. By consolidating all communication channels into a single, intelligent platform, UCC enables businesses to deliver exceptional customer service while dramatically improving operational efficiency.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -2226,9 +1937,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;/div>
 &lt;hr>
 &lt;p>&lt;em>Last updated: November 2024 | Version 3.0&lt;/em>&lt;/p></description></item><item><title>VSTECS MS ESD Order Applet</title><link>https://wiki.bigledger.com/applets/vstecs-ms-esd-order-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/vstecs-ms-esd-order-applet/</guid><description>
-&lt;p>&lt;strong>Page ID&lt;/strong>: 3176039738
-&lt;strong>Last Updated&lt;/strong>: 2021-07-15T07:57:41.735Z
-Attached User guide for MS ESD Order and Work Breakdown for implementation.
+&lt;p>Attached User guide for MS ESD Order and Work Breakdown for implementation.
 This Applet required integration from BLG to EMP &amp;amp; BLG to Distributor&amp;rsquo;s system to function correctly.
 API to check MS ESD Product SKU updated price.
 API to create an order to retrieve MS ESD product from distributors.

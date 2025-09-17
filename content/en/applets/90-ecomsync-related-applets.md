@@ -1,13 +1,13 @@
 ---
-description: '9.'
+title: "EcomSync Related Applets"
+description: "Collection of applets for e-commerce synchronization across marketplaces and platforms"
+weight: 95
 tags:
 - applets
-title: 9.0 EcomSync Related Applets
-weight: 10
+- ecommerce
+- marketplace
+- synchronization
 ---
-
-**Page ID**: 2944958608
-**Last Updated**: 2024-11-16T19:11:46.763Z
 Ecomsync Organization Applet 
 Ecomsync - Organisation Applet - Create Company 
 Ecomsync - Organisation Applet : Create Virtual Branch (Marketplace) 

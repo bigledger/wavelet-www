@@ -14,5 +14,5 @@
 - [Cari Dokumentasi](https://wiki.bigledger.com/ms/search/): Petua Pencarian Gunakan kata kunci dari topik yang anda cari Pencarian tidak sensitif huruf …
 
 ---
-Generated on 2025-09-17 02:13:28 UTC
+Generated on 2025-09-17 10:46:28 UTC
 Site: https://wiki.bigledger.com/

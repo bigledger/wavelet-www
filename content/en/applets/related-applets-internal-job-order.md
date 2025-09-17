@@ -1,12 +1,12 @@
 ---
-description: Related Applets - Internal Job Order 3325940946 2021-08-02T08:55:10.
+title: "Related Applets - Internal Job Order"
+description: "Applets that integrate with Internal Job Order for workflow management"
+weight: 145
 tags:
 - applets
-title: Related Applets - Internal Job Order
-weight: 10
+- job-order
+- integration
+- workflow
 ---
-
-**Page ID**: 3325940946
-**Last Updated**: 2021-08-02T08:55:10.844Z
 ### The internal job order applet can import Lines from the following Applets: 
 ### The information in internal pecking order applet, is used by which applets:

@@ -7,7 +7,7 @@ tags:
 - general-ledger
 - transaction-processing
 - financial-reporting
-weight: 100
+weight: 175
 ---
 
 ## Purpose and Overview

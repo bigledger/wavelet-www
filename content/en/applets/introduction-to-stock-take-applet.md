@@ -1,13 +1,13 @@
 ---
-description: Introduction to Stock Take Applet 3312746669 2025-02-28T09:09:05.
+title: "Introduction to Stock Take Applet"
+description: "Comprehensive guide to inventory management with mobile-friendly interface and real-time tracking"
+weight: 135
 tags:
 - applets
-title: Introduction to Stock Take Applet
-weight: 10
+- introduction
+- stock-take
+- inventory-management
 ---
-
-**Page ID**: 3312746669
-**Last Updated**: 2025-02-28T09:09:05.479Z
 The Stock Take Applet offers a one-stop solution for all your inventory management needs, providing everything you need for traceability and efficient stock control. 
 Key Features:
 Centralized Solution: Manage all your inventory data in one place, reducing the complexity of handling multiple systems.

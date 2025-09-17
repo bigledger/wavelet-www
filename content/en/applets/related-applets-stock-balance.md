@@ -1,13 +1,13 @@
 ---
-description: Related Applets - Stock Balance 3325941210 2021-10-18T06:35:35.
+title: "Related Applets - Stock Balance"
+description: "Overview of applets that integrate with Stock Balance for import/export functionality"
+weight: 140
 tags:
 - applets
-title: Related Applets - Stock Balance
-weight: 10
+- stock-balance
+- integration
+- related-applets
 ---
-
-**Page ID**: 3325941210
-**Last Updated**: 2021-10-18T06:35:35.008Z
 ### The stock balance applet can import Lines from the following Applets:
 Organisation Applet
 Item (inv) Maintenance Applet

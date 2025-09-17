@@ -1,13 +1,13 @@
 ---
-description: Installation of Pricebook Applet 3317538085 2025-01-01T18:14:29.
+title: "Installation of Pricebook Applet"
+description: "Step-by-step guide for installing the Pricebook Applet from the Applet Store"
+weight: 110
 tags:
 - applets
-title: Installation of Pricebook Applet
-weight: 10
+- installation
+- pricebook
+- setup-guide
 ---
-
-**Page ID**: 3317538085
-**Last Updated**: 2025-01-01T18:14:29.170Z
 Please go to Akaun.cloud and find the Applet store.
 In the Applet store, Please search for the applet that you want to install and click on it.
 Please click the "Install" button to install the applet.

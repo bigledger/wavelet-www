@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" false "displayPlaceholder" false) }}
+    {{ partial "toc.html" . }}
+    <article class='hx:w-full hx:break-words hx:flex-1 hx:min-w-0 hx:min-h-[calc(100vh-var(--nextra-navbar-height))] hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]'>
+      <main class='hx:flex-col hx:flex'>
+        <nav class="hx:mb-4 hx:text-sm">
+          <a href="/" class="hx:text-blue-600 hover:hx:underline">Home</a>
+          <span class="hx:mx-2">›</span>
+          <a href="/modules/" class="hx:text-blue-600 hover:hx:underline">Modules</a>
+          <span class="hx:mx-2">›</span>
+          <span class="hx:text-gray-600">{{ .Title }}</span>
+        </nav>
+        <h1 class='hx:mt-2 hx:text-4xl hx:tracking-tight hx:font-bold hx:text-slate-900 dark:hx:text-slate-100'>{{ .Title }}</h1>
+        <div class='hx:content hx:mt-6'>
+          {{ .Content }}
+        </div>
+      </main>
+    </article>
+  </div>
+{{ end }}

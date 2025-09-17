@@ -185,7 +185,18 @@ Marketplace Tab is used for the Users to Create, Edit, Update and Delete the Ite
 Click Save. - For this Module each time edit the Item detail throughout the tabs &amp;ldquo;MUST CLICK SAVE&amp;rdquo;.&lt;/p></description></item><item><title>Update and Delete Item</title><link>https://wiki.bigledger.com/modules/ecommerce/update-and-delete-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/ecommerce/update-and-delete-item/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191957
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T06:15:40.294Z
-Update/Delete Item - when user want to update or delete the item that was sync to the marketplace they will have to go to &amp;ldquo;Marketplace Tab&amp;rdquo; select the store from the current listing and update/delete the item:&lt;/p></description></item><item><title>E-Commerce Catalog Applet</title><link>https://wiki.bigledger.com/applets/ecommerce-catalog-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/ecommerce-catalog-applet/</guid><description>
+Update/Delete Item - when user want to update or delete the item that was sync to the marketplace they will have to go to &amp;ldquo;Marketplace Tab&amp;rdquo; select the store from the current listing and update/delete the item:&lt;/p></description></item><item><title>EcomSync Related Applets</title><link>https://wiki.bigledger.com/applets/90-ecomsync-related-applets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/90-ecomsync-related-applets/</guid><description>
+&lt;p>Ecomsync Organization Applet
+Ecomsync - Organisation Applet - Create Company
+Ecomsync - Organisation Applet : Create Virtual Branch (Marketplace)
+Ecomsync - Organisation Applet - Marketplace : Stock and Sale Order Configuration by Branch
+Ecomsync - Doc Item Maintenance Applet : Create Single Item
+Ecomsync - Doc Item Maintenance Applet : Create Bundle Item
+Ecomsync - Doc Item Maintenance Applet : Create Grouped Item
+Ecomsync - Doc Item Maintenance Applet : Configure single/bundle item to marketplace
+Ecomsync - Doc Item Maintenance Applet : Configure grouped item to marketplace
+Ecomsync - Doc Item Maintenance Applet : Configure stock balance and sale order
+Ecomsync - Internal Sale Order Applet : Update marketplace order status&lt;/p></description></item><item><title>E-Commerce Catalog Applet</title><link>https://wiki.bigledger.com/applets/ecommerce-catalog-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/ecommerce-catalog-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>

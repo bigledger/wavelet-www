@@ -6,7 +6,7 @@ tags:
 - financial-accounting
 - chart-of-accounts
 - master-data
-weight: 2
+weight: 185
 ---
 
 ## Purpose and Overview

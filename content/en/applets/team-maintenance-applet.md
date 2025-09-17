@@ -1,11 +1,10 @@
 ---
-description: Team Maintenance Applet 3286371018 2021-07-27T04:56:24.
+title: "Team Maintenance Applet"
+description: "Organize users into teams and manage team-based permissions and access control within the platform"
+weight: 20
 tags:
 - applets
-title: Team Maintenance Applet
-weight: 10
+- team-management
+- user-administration
 ---
-
-**Page ID**: 3286371018
-**Last Updated**: 2021-07-27T04:56:24.668Z
 1

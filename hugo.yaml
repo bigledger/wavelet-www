@@ -94,6 +94,7 @@ params:
     showPages: true      # Show all pages in sidebar
     showCategories: true # Show category organization
     showTags: false     # Hide tags in sidebar
+    forceEnable: true   # Force sidebar on all pages
     
   # Table of contents
   toc:

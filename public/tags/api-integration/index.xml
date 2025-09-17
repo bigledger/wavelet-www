@@ -381,4 +381,12 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Security Notice&lt;/strong>: Webhooks transmit sensitive business data to external systems. Always implement proper authentication, encryption, and access controls to protect your data.&lt;/div>
 &lt;/div>
-&lt;/div></description></item></channel></rss>
+&lt;/div></description></item><item><title>VSTECS MS ESD Order Applet</title><link>https://wiki.bigledger.com/applets/vstecs-ms-esd-order-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/vstecs-ms-esd-order-applet/</guid><description>
+&lt;p>Attached User guide for MS ESD Order and Work Breakdown for implementation.
+This Applet required integration from BLG to EMP &amp;amp; BLG to Distributor&amp;rsquo;s system to function correctly.
+API to check MS ESD Product SKU updated price.
+API to create an order to retrieve MS ESD product from distributors.
+**Note
+There is 2 workflow for this integration currently:
+Shortcut method : EMP integration to BLG (without T2T Admin Applet)
+Standard method : T2T admin applet to enable guest and host tenant connectivity , Doc-item-maintenance applet to do the item code mapping.&lt;/p></description></item></channel></rss>

@@ -1,13 +1,13 @@
 ---
-description: Company - Organization Applet, 3259374409 2025-05-23T00:35:53.
+title: "Company Organization Applet"
+description: "Create and configure companies with detailed settings, branches, and organizational structure"
+weight: 65
 tags:
 - applets
-title: Company - Organization Applet,
-weight: 10
+- organization
+- company-management
+- administration
 ---
-
-**Page ID**: 3259374409
-**Last Updated**: 2025-05-23T00:35:53.163Z
 noneWhen logging into the Organization Applet, the first page displayed to the user is the Company Listing page in the first icon on the left sidebar.
 In this section, we will cover two key topics:
 How to Create a Company: A step-by-step guide on setting up company details and adding the address.

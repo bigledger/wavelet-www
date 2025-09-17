@@ -1,13 +1,13 @@
 ---
-description: Installation of Group Maintenance Applet 3320746785 2021-07-27T06:59:16.
+title: "Installation of Group Maintenance Applet"
+description: "Complete installation guide for the Group Maintenance Applet from the Applet Store"
+weight: 115
 tags:
 - applets
-title: Installation of Group Maintenance Applet
-weight: 10
+- installation
+- group-maintenance
+- setup-guide
 ---
-
-**Page ID**: 3320746785
-**Last Updated**: 2021-07-27T06:59:16.429Z
 1.Installation (Akaun Cloud): Applet Store > Search > Install > Akaun page > Search
 1.1. Please go to Akaun.cloud and find the Applet store.
 1.2. In the Applet store, Please search for the applet that you want to install and click on it.

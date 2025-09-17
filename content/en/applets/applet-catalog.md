@@ -7,7 +7,7 @@ tags:
 - directory
 - modules
 - reference
-weight: 1
+weight: 2
 ---
 
 This comprehensive catalog lists all applets available in the BigLedger ecosystem, organized by module and functionality. Each applet is described with its primary purpose, key features, and integration points.

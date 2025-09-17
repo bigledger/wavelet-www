@@ -1,13 +1,13 @@
 ---
-description: Installation of Team Maintenance Applet 3320324314 2021-07-27T04:03:13.
+title: "Installation of Team Maintenance Applet"
+description: "Step-by-step installation instructions for the Team Maintenance Applet"
+weight: 120
 tags:
 - applets
-title: Installation of Team Maintenance Applet
-weight: 10
+- installation
+- team-maintenance
+- setup-guide
 ---
-
-**Page ID**: 3320324314
-**Last Updated**: 2021-07-27T04:03:13.707Z
 1.Installation (Akaun Cloud): Applet Store > Search > Install > Akaun page > Search
 1.1. Please go to Akaun.cloud and find the Applet store.
 1.2. In the Applet store, Please search for the applet that you want to install and click on it.

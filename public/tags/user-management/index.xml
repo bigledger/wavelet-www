@@ -299,4 +299,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Priority): Core role-based access control documentation&lt;br>
 &lt;strong>Phase 2&lt;/strong> (Follow-up): Advanced security features and integration guides&lt;br>
 &lt;strong>Phase 3&lt;/strong> (Enhancement): Analytics, reporting, and optimization strategies&lt;/p>
-&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item><item><title>Introduction to Team Maintenance Applet</title><link>https://wiki.bigledger.com/applets/introduction-to-team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/introduction-to-team-maintenance-applet/</guid><description>
+&lt;p>Introduction
+Team Maintenance applet is to manage the users and permissions of the team. There is only one module in the Applet which is &amp;lsquo;Team&amp;rsquo;.
+Steps: Installation&amp;gt; Create Team&amp;gt;Edit team(Add Members, Import user,Add permission)&lt;/p></description></item></channel></rss>

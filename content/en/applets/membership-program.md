@@ -1,13 +1,13 @@
 ---
-description: Membership Program 3153822171 2022-04-18T04:38:40.
+title: "Membership Program"
+description: "Comprehensive membership program management with points system and member benefits"
+weight: 75
 tags:
 - applets
-title: Membership Program
-weight: 10
+- membership
+- loyalty-program
+- points-system
 ---
-
-**Page ID**: 3153822171
-**Last Updated**: 2022-04-18T04:38:40.607Z
 To use the membership Program
 Compulsory applets
 Organization applet

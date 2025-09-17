@@ -1,13 +1,13 @@
 ---
-description: Branch - Organization Applet 3196191408 2025-05-23T00:37:54.
+title: "Branch Organization Applet"
+description: "Create and manage multiple branches under a company with comprehensive configuration options"
+weight: 60
 tags:
 - applets
-title: Branch - Organization Applet
-weight: 10
+- organization
+- branch-management
+- administration
 ---
-
-**Page ID**: 3196191408
-**Last Updated**: 2025-05-23T00:37:54.393Z
 noneThis section covers the second main tab in the sidebar, Branches, where users can create and edit details for their branches.
 A company can have multiple branches
 Users can either choose to create their branch from the second icon on the left sidebar or move to the Company Listing Edit Tab to create a branch.

@@ -1,10 +1,10 @@
 ---
-description: Stock Balance Applet 3325941199 2021-08-02T08:59:25.
+title: "Stock Balance Applet"
+description: "Monitor and manage inventory stock balance levels across locations and warehouses"
+weight: 85
 tags:
 - applets
-title: Stock Balance Applet
-weight: 10
+- inventory
+- stock-balance
+- warehouse-management
 ---
-
-**Page ID**: 3325941199
-**Last Updated**: 2021-08-02T08:59:25.470Z
