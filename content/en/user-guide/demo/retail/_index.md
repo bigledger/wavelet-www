@@ -1,65 +1,79 @@
 ---
-title: "Retail & E-Commerce Demo"
-description: "Complete retail business workflows: POS operations, inventory management, multi-channel sales, customer loyalty programs"
+title: "Consumer Electronics Retail Demo"
+description: "Complete consumer electronics retail workflows: multi-channel operations, serial number tracking, warranty management, service centers, bundle promotions"
 weight: 10
 bookCollapseSection: false
 ---
 
-Experience BigLedger's comprehensive retail capabilities through realistic scenarios that mirror actual retail operations. This demo covers everything from point-of-sale transactions to multi-channel inventory management.
+Experience BigLedger's specialized consumer electronics retail capabilities through realistic scenarios that address the unique challenges of electronics retailers. This comprehensive demo covers serial number tracking, warranty management, service center operations, and complex pricing strategies.
 
 {{< hextra/hero-badge >}}
-  🛍️ Complete Retail Solution Demo
+  📱 Consumer Electronics Focused
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-headline >}}
-  Master Retail Operations with BigLedger
+  Master Electronics Retail with BigLedger
 {{< /hextra/hero-headline >}}
 
 {{< hextra/hero-subtitle >}}
-  Point of Sale • Inventory Management • Multi-Channel Sales • Customer Loyalty • E-commerce Integration
+  Serial Number Tracking • Warranty Management • Service Centers • Bundle Promotions • Multi-Channel Integration
 {{< /hextra/hero-subtitle >}}
 
 ## 🎯 Demo Overview
 
-This retail demo simulates "Metro Fashion Store," a multi-location retail chain with both physical stores and online presence. You'll learn to handle daily operations, seasonal campaigns, and growth scenarios.
+This consumer electronics demo simulates "TechZone Electronics," a multi-location electronics retailer with physical stores, online presence, and authorized service centers. You'll master industry-specific challenges including warranty tracking, technical support, and complex product configurations.
+
+### Industry Context & Challenges
+
+**Consumer Electronics Retail Pain Points**:
+- Serial number and warranty tracking across thousands of SKUs
+- Managing technical specifications and compatibility
+- Service center coordination and repair workflows
+- Complex bundle pricing and promotional strategies
+- Multi-channel inventory synchronization
+- Customer technical support and product education
 
 ### What You'll Master
 
-{{< tabs items="Daily Operations,Inventory,Multi-Channel,Customer Management" >}}
+{{< tabs items="Electronics Operations,Serial & Warranty,Service Centers,Bundle Pricing" >}}
   {{< tab >}}
-  **Point of Sale Operations**
-  - Cash and card transactions
-  - Sales returns and exchanges
-  - Discount applications
-  - Gift card management
-  - Daily cash reconciliation
+  **Electronics-Specific Operations**
+  - Serial number capture at POS
+  - Warranty registration and tracking
+  - Technical specifications management
+  - Compatibility checking
+  - Extended warranty sales
+  - Trade-in value calculations
   {{< /tab >}}
 
   {{< tab >}}
-  **Inventory Management**
-  - Stock replenishment workflows
-  - Inter-store transfers
-  - Stock take procedures
-  - Low stock alerts
-  - Batch and serial tracking
+  **Serial Number & Warranty Management**
+  - Individual unit tracking
+  - Warranty claim processing
+  - Manufacturer warranty integration
+  - Extended warranty programs
+  - Repair history tracking
+  - Replacement unit management
   {{< /tab >}}
 
   {{< tab >}}
-  **Multi-Channel Sales**
-  - Online order processing
-  - Click & collect fulfillment
-  - Drop shipping management
-  - Channel performance analysis
-  - Unified inventory view
+  **Service Center Operations**
+  - Repair intake and diagnostics
+  - Technician scheduling
+  - Parts ordering and tracking
+  - Customer communication
+  - Warranty claim submissions
+  - Quality assurance processes
   {{< /tab >}}
 
   {{< tab >}}
-  **Customer Experience**
-  - Loyalty program setup
-  - Customer segmentation
-  - Personalized promotions
-  - Purchase history tracking
-  - Customer analytics
+  **Advanced Pricing Strategies**
+  - Bundle creation and pricing
+  - Dynamic pricing rules
+  - Competitor price monitoring
+  - Promotional campaign management
+  - Volume discount structures
+  - Customer-specific pricing
   {{< /tab >}}
 {{< /tabs >}}
 
@@ -77,58 +91,72 @@ This retail demo simulates "Metro Fashion Store," a multi-location retail chain 
 
 ### Sample Business Profile
 
-**Metro Fashion Store** - Our demo company setup:
-- **Industry**: Fashion Retail
-- **Locations**: 3 physical stores + online
-- **Products**: 500+ SKUs across clothing categories
-- **Customers**: 2,500+ loyalty members
-- **Monthly Transactions**: ~1,000 sales
+**TechZone Electronics** - Our demo company setup:
+- **Industry**: Consumer Electronics Retail
+- **Locations**: 5 retail stores + 2 service centers + online
+- **Products**: 2,000+ SKUs across electronics categories
+- **Serial Numbers**: 15,000+ tracked units
+- **Service Jobs**: 200+ monthly repairs
+- **Monthly Transactions**: ~3,500 sales
+- **Warranty Claims**: 150+ monthly processes
 
 ---
 
-## 📋 Core Retail Workflows
+## 📋 Core Electronics Retail Workflows
 
-### 1. Point of Sale Operations
+### 1. Electronics POS Operations with Serial Number Tracking
 
 {{< callout type="warning" >}}
 **Prerequisites**: Ensure you're logged in with POS access. Navigate to **POS Module** from the main dashboard.
 {{< /callout >}}
 
-#### Scenario A: Standard Cash Sale
+#### Scenario A: Smartphone Sale with Serial Number Capture
 
-**Objective**: Process a typical customer purchase with cash payment
+**Objective**: Process a smartphone sale with automatic serial number capture and warranty registration
 
-**Customer Story**: Sarah walks into your store and wants to buy a dress and matching accessories.
+**Customer Story**: Mike wants to purchase the latest iPhone along with accessories and extended warranty.
 
 **Step-by-Step Workflow**:
 
 1. **Open POS Terminal**
    - Click **POS** from main menu
-   - Select **Store Location**: "Downtown Branch"
+   - Select **Store Location**: "TechZone Main Store"
    - Click **New Sale** button
 
 2. **Add Products to Cart**
-   - Scan/Enter SKU: "DRESS-001" (Summer Floral Dress)
-   - **Expected Result**: Product appears with price $89.99
-   - Click **Add Item** → Search "Belt"
-   - Select "Leather Belt - Brown" (SKU: BELT-003)
-   - **Expected Result**: Belt added at $29.99
+   - Scan/Enter SKU: "IPH15-PRO-256-BLK" (iPhone 15 Pro 256GB Black)
+   - **Expected Result**: Product appears with price $1,199.99
+   - **Serial Number Prompt**: System requests serial number capture
+   - Scan device serial: "F2LVK3MNPQRS" or enter manually
+   - **Expected Result**: Serial number linked to transaction
 
-3. **Apply Discount (Optional)**
-   - Click **Discount** button
-   - Select "10% Weekend Special"
-   - **Expected Result**: Total shows discount applied
+3. **Add Accessories and Services**
+   - Add protective case: SKU "CASE-IPH15-LTR" - $79.99
+   - Add screen protector: SKU "SCRN-IPH15-GLASS" - $29.99
+   - Add extended warranty: SKU "WARR-2YR-PHONE" - $199.99
+   - **Expected Result**: Bundle discount automatically applied
 
-4. **Process Payment**
-   - Click **Cash Payment**
-   - Enter amount received: $130.00
-   - **Expected Result**: Change calculated as $10.01
-   - Click **Complete Sale**
+4. **Process Bundle Pricing and Trade-In**
+   - System detects accessory bundle, applies 10% discount
+   - Customer has iPhone 12 for trade-in
+   - Click **Trade-In Assessment**
+   - Enter device condition: "Good" (minor scratches)
+   - **Expected Result**: Trade-in value $350 applied to transaction
 
-5. **Generate Receipt**
-   - **Expected Result**: Receipt prints automatically
-   - Customer copy displays on screen
-   - Transaction saves to sales database
+5. **Process Payment and Warranty Registration**
+   - Final total: $1,159.96 ($1,509.96 - $350 trade-in)
+   - Click **Card Payment**
+   - Process payment via card reader
+   - **Warranty Registration**: System prompts for customer details
+   - Enter/verify customer info for warranty registration
+   - **Expected Result**: Payment processed, warranty registered
+
+6. **Generate Receipt and Documentation**
+   - **Expected Result**: Receipt prints with serial numbers
+   - Warranty certificate prints automatically
+   - Customer receives warranty registration email
+   - Trade-in receipt generated for tax purposes
+   - Transaction saves with full serial number traceability
 
 **Tips & Best Practices**:
 - Always verify product pricing before completing sale
@@ -140,96 +168,216 @@ This retail demo simulates "Metro Fashion Store," a multi-location retail chain 
 - If discount doesn't apply: Verify promotion is active and customer qualifies
 - If payment fails: Check cash drawer connection and receipt printer
 
-#### Scenario B: Credit Card Sale with Customer Lookup
+#### Scenario B: Laptop Sale with Business Customer and Volume Pricing
 
-**Objective**: Process sale for existing loyalty customer with card payment
+**Objective**: Process bulk laptop sale for business customer with corporate pricing
 
 **Step-by-Step Workflow**:
 
-1. **Customer Lookup**
+1. **Business Customer Lookup**
    - In POS screen, click **Customer Search**
-   - Enter phone: "555-0123" or email: "john.doe@email.com"
-   - **Expected Result**: Customer "John Doe" appears with loyalty status
+   - Enter business account: "ACME-CORP" or contact "purchasing@acmecorp.com"
+   - **Expected Result**: Corporate customer appears with B2B pricing tier
+   - Purchase history shows previous orders and credit terms
 
-2. **Add Products and Apply Loyalty Discount**
-   - Add items to cart (try SKU: "SHIRT-025", "JEANS-012")
-   - **Expected Result**: Loyalty discount automatically applies (5% for Silver member)
-   - Customer's purchase history visible in sidebar
+2. **Add Business Products with Volume Pricing**
+   - Add items: SKU "LPTOP-HP-I7-16GB" (Qty: 5 units)
+   - **Expected Result**: Volume discount automatically applies (8% for 5+ units)
+   - Each laptop serial number captured: "HPLPT001-005"
+   - Corporate pricing tier overrides retail pricing
 
-3. **Process Card Payment**
-   - Click **Card Payment**
-   - Select payment method: "Credit Card"
-   - **Expected Result**: Card reader interface appears
-   - Enter test card: 4111-1111-1111-1111
-   - **Expected Result**: Payment approved
+3. **Configure Laptop Specifications**
+   - For each unit, customize specifications:
+     - Additional RAM upgrade: +$200 per unit
+     - Microsoft Office license: +$150 per unit
+     - 3-year business warranty: +$299 per unit
+   - **Expected Result**: Configuration saved per serial number
 
-4. **Complete Transaction**
-   - Click **Finalize Sale**
-   - **Expected Result**: Loyalty points added to customer account
-   - Receipt shows loyalty points earned and current balance
+4. **Process Corporate Payment Terms**
+   - Select payment method: "Net 30 Terms"
+   - Credit limit check: Approved ($50,000 available)
+   - Generate purchase order: PO-ACME-2025-001
+   - **Expected Result**: Invoice generated with 30-day payment terms
 
-#### Scenario C: Sales Return Processing
+#### Scenario C: Warranty Claim and Device Exchange
 
-**Objective**: Handle customer return with original receipt
+**Objective**: Handle warranty claim for defective smartphone with replacement processing
 
 **Step-by-Step Workflow**:
 
-1. **Access Returns Module**
-   - From POS, click **Returns & Exchanges**
-   - Click **Process Return**
+1. **Access Warranty Claims Module**
+   - From POS, click **Service & Warranty**
+   - Click **Process Warranty Claim**
 
-2. **Locate Original Sale**
-   - Enter receipt number: "R240917-001"
-   - **Alternative**: Search by customer phone or date range
-   - **Expected Result**: Original transaction details load
+2. **Locate Product by Serial Number**
+   - Enter serial number: "F2LVK3MNPQRS" (from previous sale)
+   - **Expected Result**: Original sale details load with warranty status
+   - Warranty shows: "Active - 347 days remaining"
+   - Purchase date, customer info, and service history displayed
 
-3. **Select Return Items**
-   - Check items being returned: "Summer Dress"
-   - Enter return reason: "Size doesn't fit"
-   - **Expected Result**: Return amount calculated
+3. **Assess Warranty Claim**
+   - Issue reported: "Screen not responding to touch"
+   - Perform quick diagnostic test
+   - Determine: "Hardware defect - covered under warranty"
+   - **Expected Result**: Claim approved for replacement
 
-4. **Process Refund**
-   - Select refund method: "Original Payment Method"
-   - **Expected Result**: Refund processes to original card
-   - Print return receipt
-   - Update inventory levels automatically
+4. **Process Warranty Exchange**
+   - Select replacement option: "Same model, same color"
+   - New device serial: "F2LVK4ABCDEF"
+   - Transfer warranty to new device
+   - **Expected Result**: Warranty transferred, defective unit marked for return to manufacturer
+   - Customer receives replacement device with remaining warranty period
 
-**Troubleshooting Returns**:
-- If receipt not found: Try customer lookup or date range search
-- If return period expired: Escalate to manager override
-- If item condition issues: Document with photos in system
+**Warranty Claim Best Practices**:
+- Always verify warranty status before processing claims
+- Document device condition with photos for manufacturer claims
+- Update service history for future reference
+- Process manufacturer reimbursements for approved warranty exchanges
 
 ---
 
-### 2. Inventory Management Workflows
+### 2. Service Center Operations
 
-#### Scenario A: Stock Replenishment
+#### Scenario A: Repair Intake and Job Creation
 
-**Objective**: Reorder products when inventory falls below minimum levels
+**Objective**: Process a customer device for repair, create service job, and schedule technician
+
+**Customer Story**: Customer brings in a laptop with liquid damage that's no longer under warranty.
 
 **Step-by-Step Workflow**:
 
-1. **Review Low Stock Report**
-   - Navigate to **Inventory** → **Reports** → **Low Stock Alert**
-   - **Expected Result**: List shows items below reorder point
-   - Note critical items like "JEANS-005" (2 units remaining, min level: 10)
+1. **Create Service Intake**
+   - Navigate to **Service Center** → **New Repair Job**
+   - Scan customer device or enter serial: "LPTOP-DEL-987654"
+   - **Expected Result**: Device history loads showing purchase date and previous services
 
-2. **Create Purchase Order**
+2. **Assess Device and Create Estimate**
+   - Document device condition with photos
+   - Issue description: "Liquid spill damage, won't power on"
+   - Technician performs initial diagnostic
+   - **Expected Result**: Diagnostic report shows motherboard damage
+
+3. **Generate Repair Estimate**
+   - Required parts:
+     - Motherboard replacement: $450
+     - Keyboard replacement: $85
+     - Internal cleaning: $75
+   - Labor: 3 hours @ $95/hour = $285
+   - **Total Estimate**: $895
+   - Estimated completion: 5-7 business days
+
+4. **Customer Approval Process**
+   - Send estimate to customer via email/SMS
+   - Customer approves repair via customer portal
+   - **Expected Result**: Repair job activated, parts ordered automatically
+   - Service job status: "Approved - Parts Pending"
+
+#### Scenario B: Technician Workflow and Parts Management
+
+**Objective**: Complete repair work with proper parts tracking and quality assurance
+
+**Step-by-Step Workflow**:
+
+1. **Technician Assignment**
+   - Service manager assigns job to "Tech-Mike-Chen"
+   - Mike receives notification with job details
+   - Parts arrive and are allocated to job: JOB-SVC-2025-0157
+
+2. **Repair Execution**
+   - Technician updates job status: "In Progress"
+   - Logs work performed:
+     - "Disassembled laptop, confirmed motherboard damage"
+     - "Replaced motherboard, tested power-on sequence"
+     - "Replaced damaged keyboard, performed full cleaning"
+   - Time tracking: 3.5 hours actual vs 3 hours estimated
+
+3. **Quality Assurance Testing**
+   - Complete QA checklist:
+     - Power on/off cycles: ✓
+     - All ports functional: ✓
+     - Keyboard fully responsive: ✓
+     - Battery charging properly: ✓
+     - Stress test 2 hours: ✓
+   - **Expected Result**: Device passes all QA tests
+
+4. **Customer Notification and Pickup**
+   - Job status updated to "Completed - Ready for Pickup"
+   - Automated SMS/email sent to customer
+   - Customer arrival: POS processes service payment
+   - **Expected Result**: $895 payment collected, device returned with 90-day service warranty
+
+#### Scenario C: Manufacturer Warranty Claim Submission
+
+**Objective**: Submit warranty claim to manufacturer for covered repair
+
+**Step-by-Step Workflow**:
+
+1. **Warranty Verification**
+   - Device serial: "SMSNG-TAB-456789" (Samsung tablet)
+   - Warranty status: "Active - 89 days remaining"
+   - Issue: "Screen flickering, hardware defect"
+   - **Expected Result**: Covered under manufacturer warranty
+
+2. **Manufacturer Claim Submission**
+   - Generate warranty claim form with device photos
+   - Submit claim to Samsung warranty portal via API
+   - **Expected Result**: Claim reference SAM-WC-2025-7891 received
+
+3. **Claim Processing and Authorization**
+   - Manufacturer response within 24 hours: "Approved for replacement"
+   - Replacement device shipped to service center
+   - **Expected Result**: Customer notified of replacement approval
+
+4. **Device Exchange and Settlement**
+   - New device received: Serial "SMSNG-TAB-789012"
+   - Customer exchanges device at no charge
+   - Manufacturer credits account for device value
+   - **Expected Result**: Zero cost to customer, warranty transferred to new device
+
+---
+
+### 3. Inventory Management for Electronics
+
+#### Scenario A: Electronics Stock Replenishment with Seasonal Demand
+
+**Objective**: Reorder electronics products considering seasonal demand and lead times
+
+**Step-by-Step Workflow**:
+
+1. **Review Electronics Stock Report**
+   - Navigate to **Inventory** → **Reports** → **Electronics Stock Analysis**
+   - **Expected Result**: Dashboard shows critical items with demand forecasting
+   - Note critical items:
+     - "EARBUDS-APPLE-PRO" (5 units, min level: 25) - High demand item
+     - "CHARGER-USB-C-65W" (8 units, min level: 50) - Fast-moving accessory
+     - "WEBCAM-LOGITECH-4K" (2 units, min level: 15) - Back-to-school season spike
+
+2. **Create Smart Purchase Order**
    - Click **Create PO** next to low stock item
-   - **Expected Result**: PO form pre-fills with supplier info
-   - Adjust quantity: Order 50 units
-   - Set delivery date: +7 days from today
+   - **Expected Result**: AI-powered PO form considers:
+     - Historical sales velocity
+     - Upcoming promotional campaigns
+     - Seasonal demand patterns (Q4 holiday season approaching)
+     - Supplier lead times and minimum order quantities
+   - Suggested order: 100 AirPods Pro (vs normal 25) due to holiday demand
+   - Set delivery date: +14 days (Apple lead time)
 
-3. **Submit for Approval**
+3. **Multi-Level Approval Process**
+   - Orders >$10,000 require manager approval
+   - Orders >$25,000 require regional manager approval
    - Click **Submit for Approval**
-   - **Expected Result**: PO routed to manager for approval
-   - Status shows "Pending Approval"
+   - **Expected Result**: PO routed based on value thresholds
+   - Approval includes budget impact analysis
 
-4. **Receive Goods (Simulate Next Week)**
+4. **Advanced Goods Receipt**
    - Go to **Purchasing** → **Receive Goods**
-   - Enter PO number or scan barcode
-   - Confirm quantities received
-   - **Expected Result**: Stock levels update automatically
+   - Scan PO barcode to load expected items
+   - For each received item:
+     - Scan product barcode
+     - Capture serial numbers individually
+     - Verify model numbers match exactly
+     - Check for any shipping damage
+   - **Expected Result**: Individual unit tracking established, stock levels updated with full traceability
 
 **Best Practices**:
 - Set reorder points based on lead times and sales velocity
@@ -430,37 +578,77 @@ This retail demo simulates "Metro Fashion Store," a multi-location retail chain 
 
 ---
 
-### 5. Promotional Campaigns
+### 5. Bundle Pricing and Electronics Promotions
 
-#### Scenario A: Seasonal Sale Setup
+#### Scenario A: Smart Bundle Creation
 
-**Objective**: Create and manage a "Summer Clearance" campaign
+**Objective**: Create intelligent product bundles that increase average transaction value
 
 **Step-by-Step Workflow**:
 
-1. **Campaign Planning**
-   - Navigate to **Marketing** → **Promotions** → **New Campaign**
-   - Campaign name: "Summer Clearance 2024"
-   - Duration: 2 weeks
-   - Target: Clear 80% of summer inventory
+1. **Bundle Strategy Planning**
+   - Navigate to **Marketing** → **Bundle Management** → **Create Smart Bundle**
+   - Bundle name: "Gaming Setup Pro"
+   - Target: Increase average transaction by 35%
+   - Season: Back-to-school gaming promotion
 
-2. **Configure Discount Rules**
-   - **Rule 1**: 30% off all "Summer" category items
-   - **Rule 2**: Buy 2 get 1 free on "Sandals"
-   - **Rule 3**: Additional 10% for loyalty members
-   - Set maximum discount limits per transaction
+2. **Configure Bundle Components**
+   - **Core Product**: Gaming Laptop (MSI Gaming 15") - $1,299
+   - **Essential Accessories**:
+     - Gaming mouse: $79 → Bundle price: $59
+     - Gaming headset: $149 → Bundle price: $119
+     - Laptop cooling pad: $49 → Bundle price: $39
+   - **Optional Add-ons**:
+     - Extended warranty (2yr): $299 → Bundle price: $199
+     - Gaming chair: $399 → Bundle price: $349
 
-3. **Inventory Selection**
-   - Use **Product Selector** to choose items
-   - Filter by category: "Summer Wear"
-   - Include items with stock > 10 units
-   - Exclude new arrivals (purchased in last 30 days)
+3. **Dynamic Pricing Rules**
+   - **Rule 1**: Core + 2 accessories = 12% total discount
+   - **Rule 2**: Core + 3+ accessories = 18% total discount
+   - **Rule 3**: Add extended warranty = Additional 5% off accessories
+   - **Rule 4**: Student ID verification = Extra $50 off bundle
 
-4. **Launch and Monitor**
-   - Activate campaign
-   - Monitor real-time performance dashboard
-   - Track: Sales volume, margin impact, inventory movement
-   - Adjust pricing if needed mid-campaign
+4. **Cross-Platform Deployment**
+   - Deploy bundle across all channels:
+     - In-store POS systems
+     - E-commerce website
+     - Mobile app
+     - Social media advertising
+   - **Expected Result**: Bundle appears consistently across all touchpoints
+
+#### Scenario B: Competitor Price Monitoring
+
+**Objective**: Implement dynamic pricing based on competitor analysis
+
+**Step-by-Step Workflow**:
+
+1. **Price Monitoring Setup**
+   - Navigate to **Pricing** → **Competitor Analysis**
+   - Configure monitoring for key products:
+     - iPhone 15 Pro: Monitor Best Buy, Amazon, Costco
+     - PlayStation 5: Monitor GameStop, Target, Walmart
+     - Samsung 4K TV 65": Monitor Best Buy, B&H, Amazon
+
+2. **Automated Price Alerts**
+   - Set alert thresholds:
+     - If competitor drops price >5%: Immediate alert
+     - If competitor matches our promotion: Alert within 1 hour
+     - If we're >10% higher than market average: Daily alert
+
+3. **Dynamic Pricing Response**
+   - Competitor drops iPhone 15 Pro to $1,149 (was $1,199)
+   - System alert triggers pricing review
+   - Options presented:
+     - **Match price**: Set to $1,149
+     - **Beat by $20**: Set to $1,129
+     - **Bundle response**: Keep price but add $100 gift card
+   - **Decision**: Implement bundle response to maintain margin
+
+4. **Price Change Execution**
+   - Update prices across all channels simultaneously
+   - Staff receive notification of price changes
+   - Customer communication for existing quotes updated
+   - **Expected Result**: Competitive positioning maintained with better margins
 
 #### Scenario B: Flash Sale Management
 
@@ -559,49 +747,76 @@ This retail demo simulates "Metro Fashion Store," a multi-location retail chain 
 
 ---
 
-## 📊 Advanced Analytics & Reporting
+## 📊 Electronics Retail Analytics & KPIs
 
-### Customer Analytics Dashboard
+### Consumer Electronics Dashboard
 
-**Key Metrics to Monitor**:
+**Electronics-Specific Metrics**:
 
-{{< tabs items="Customer Insights,Sales Performance,Inventory Analytics,Financial KPIs" >}}
+{{< tabs items="Product Performance,Service Metrics,Warranty Analytics,Technology KPIs" >}}
   {{< tab >}}
-  **Customer Behavior Analysis**
-  - Customer lifetime value (CLV)
-  - Purchase frequency patterns
-  - Seasonal buying preferences
-  - Channel preference analysis
-  - Loyalty program effectiveness
+  **Product Performance Analysis**
+  - Average selling price (ASP) trends by category
+  - Margin analysis by brand and model
+  - Product lifecycle management
+  - New product introduction success rates
+  - Seasonal demand forecasting accuracy
+  - Bundle attachment rates and profitability
   {{< /tab >}}
 
   {{< tab >}}
-  **Sales Performance Metrics**
-  - Sales by category, brand, and season
-  - Sales associate performance
-  - Conversion rates by channel
-  - Average transaction value trends
-  - Promotion effectiveness analysis
+  **Service Center Performance**
+  - Service job completion times
+  - First-time fix rates by technician
+  - Customer satisfaction scores (post-repair)
+  - Parts inventory turnover
+  - Warranty claim approval rates
+  - Service revenue per square foot
   {{< /tab >}}
 
   {{< tab >}}
-  **Inventory Intelligence**
-  - Stock turnover rates
-  - Slow-moving inventory identification
-  - Demand forecasting
-  - Supplier performance metrics
-  - Markdown optimization
+  **Warranty & Quality Metrics**
+  - Warranty claim rates by product/brand
+  - Defect rates within warranty period
+  - Manufacturer reimbursement processing time
+  - Extended warranty attach rates
+  - Quality issues trending analysis
+  - Customer retention post-warranty service
   {{< /tab >}}
 
   {{< tab >}}
-  **Financial Performance**
-  - Gross margin by category
-  - Operating expense ratios
-  - Cash flow analysis
-  - Profitability by store location
-  - ROI on marketing campaigns
+  **Technology & Digital Performance**
+  - Online vs in-store sales mix
+  - Click-and-collect adoption rates
+  - Mobile app engagement metrics
+  - Serial number tracking accuracy
+  - Inventory synchronization efficiency
+  - Customer self-service portal usage
   {{< /tab >}}
 {{< /tabs >}}
+
+### Industry-Specific Success Metrics
+
+**Operational Excellence**:
+- Serial number tracking accuracy: >99.5%
+- Warranty registration rate: >85%
+- Service job completion on-time: >90%
+- Inventory shrinkage: <0.8%
+- Product knowledge test scores: >85%
+
+**Financial Performance**:
+- Gross margin improvement: +2-3% annually
+- Service revenue contribution: 15-20% of total
+- Extended warranty attach rate: >40%
+- Inventory turnover: 6-8x annually
+- Working capital optimization: +5%
+
+**Customer Experience**:
+- Net Promoter Score (NPS): >60
+- Service satisfaction rating: >4.7/5
+- Warranty claim resolution time: <5 days
+- Technical support first-call resolution: >75%
+- Customer retention rate: >80%
 
 ---
 
@@ -654,41 +869,47 @@ This retail demo simulates "Metro Fashion Store," a multi-location retail chain 
 
 ---
 
-## 🎯 Success Metrics & KPIs
+## 🎯 Electronics Retail ROI & Business Outcomes
 
-### Operational Efficiency Targets
+### Expected ROI from BigLedger Implementation
 
-**Daily Operations**:
-- Transaction processing time: < 2 minutes average
-- POS system uptime: 99.5%
-- Cash reconciliation variance: < 0.1%
-- Customer service response: < 30 seconds
+**Year 1 Financial Impact**:
+- **Inventory Optimization**: 15-20% reduction in carrying costs
+- **Service Revenue Growth**: 25-30% increase from improved workflows
+- **Warranty Cost Reduction**: 12-18% through better claim management
+- **Labor Efficiency**: 10-15% productivity gain from automation
+
+**Operational Improvements**:
+- **Serial Number Accuracy**: From 85% to 99.5%
+- **Service Completion Time**: 35% faster turnaround
+- **Customer Satisfaction**: +1.2 points improvement
+- **Inventory Shrinkage**: 40% reduction through better tracking
+
+**Competitive Advantages**:
+- **Multi-channel Integration**: Unified inventory across all channels
+- **Real-time Pricing**: Dynamic pricing based on market conditions
+- **Predictive Analytics**: AI-driven demand forecasting
+- **Customer Intelligence**: 360-degree customer view with purchase history
+
+### Industry Benchmarks Achievement
 
 **Inventory Management**:
-- Stock accuracy: > 98%
-- Stockout incidents: < 2% of transactions
-- Inventory turnover: 4-6x annually
-- Order fulfillment time: < 24 hours
+- Inventory turnover: 8-10x annually (industry avg: 6x)
+- Stockout reduction: 65% fewer missed sales
+- Dead stock reduction: 45% less obsolete inventory
+- Forecast accuracy: >90% for fast-moving items
 
-**Customer Experience**:
-- Customer satisfaction: > 4.5/5
-- Loyalty program participation: > 60%
-- Return rate: < 8%
-- Cross-sell success: > 25%
+**Service Operations**:
+- First-time fix rate: >85% (industry avg: 70%)
+- Customer wait time: <30 minutes for walk-ins
+- Parts availability: >95% for common repairs
+- Technician utilization: 80-85% billable time
 
-### Growth Indicators
-
-**Sales Performance**:
-- Same-store sales growth: 5-10% annually
-- Online sales contribution: Target 30%
-- Average transaction value: +3% year-over-year
-- Customer retention rate: > 75%
-
-**Profitability Metrics**:
-- Gross margin: Maintain 50%+
-- Operating margin: Target 12-15%
-- Marketing ROI: > 4:1
-- Loyalty program ROI: > 3:1
+**Financial Performance**:
+- Service margin: 35-45% vs 25% industry average
+- Extended warranty attachment: 60%+ vs 35% average
+- Customer lifetime value: +40% improvement
+- Working capital efficiency: 15% improvement
 
 ---
 
@@ -722,15 +943,18 @@ Complete these scenarios to master BigLedger's retail capabilities:
 ### Ready for Implementation?
 
 {{< callout type="success" >}}
-**Schedule Your Implementation Consultation**
+**Schedule Your Electronics Retail Implementation**
 
-Ready to implement BigLedger for your retail business? Our implementation specialists will help you:
-- Configure systems for your specific retail model
-- Migrate your existing data safely
-- Train your team on all workflows
-- Set up integrations with your current tools
+Ready to transform your electronics retail operations? Our specialized implementation team will help you:
+- Configure serial number tracking and warranty management
+- Set up service center workflows and technician scheduling
+- Integrate with manufacturer warranty systems
+- Implement dynamic pricing and bundle management
+- Train your team on electronics-specific workflows
+- Migrate your existing product catalog and customer data
 
-**Contact**: sales@bigledger.com | **Mention**: "RETAIL-DEMO-2024"
+**Contact**: sales@bigledger.com | **Mention**: "ELECTRONICS-DEMO-2025"
+**ROI Guarantee**: Achieve measurable improvements within 90 days or consultation extension at no cost
 {{< /callout >}}
 
 ---

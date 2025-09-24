@@ -57,13 +57,75 @@ Welcome to BigLedger's Interactive Demo Platform! This hands-on learning environ
 
 ## 🎯 Choose Your Industry Path
 
-Select your industry below to access tailored demo scenarios and workflows designed specifically for your business sector:
+Select your industry below to access tailored demo scenarios and workflows designed specifically for your business sector. Each demo addresses industry-specific challenges with practical, executive-focused workflows that demonstrate clear ROI and business outcomes.
+
+### 🏆 Featured Industry Demos
+
+**NEW: Comprehensive industry-specific journeys with detailed workflows, key pain points, expected ROI, and success metrics:**
 
 {{< cards >}}
-  {{< card link="/user-guide/demo/retail/" title="🛍️ Retail & E-Commerce" subtitle="Multi-channel retail, POS operations, inventory management" >}}
+  {{< card link="/user-guide/demo/retail/" title="📱 Consumer Electronics Retail" subtitle="Serial number tracking, warranty management, service centers, bundle pricing" >}}
+  {{< card link="/user-guide/demo/distributors/" title="🚚 Distributors & Wholesalers" subtitle="B2B order management, multi-tier pricing, credit limits, logistics optimization" >}}
+  {{< card link="/user-guide/demo/apparel/" title="👗 Apparel & Fashion Retail" subtitle="Size/color matrix, seasonal planning, trend analytics, visual merchandising" >}}
+  {{< card link="/user-guide/demo/education/" title="🎓 Universities & Education" subtitle="Student fee management, department procurement, grant tracking, campus operations" >}}
+{{< /cards >}}
+
+### Industry-Specific Benefits Summary
+
+{{< tabs items="Electronics Retail,Distributors,Apparel,Education" >}}
+  {{< tab >}}
+  **Consumer Electronics Retail Benefits**
+  - Serial number tracking with 99.5% accuracy
+  - Warranty management reducing claim processing by 60%
+  - Service center integration increasing revenue 25-30%
+  - Bundle pricing optimization improving margins 2-3%
+  - Multi-channel synchronization across all touchpoints
+  {{< /tab >}}
+
+  {{< tab >}}
+  **B2B Distribution Benefits**
+  - Multi-tier pricing with customer-specific rates
+  - Credit management reducing losses by 45%
+  - Drop-ship coordination with vendor integration
+  - Logistics optimization reducing shipping costs 15-20%
+  - EDI automation for high-volume customers
+  {{< /tab >}}
+
+  {{< tab >}}
+  **Fashion Retail Benefits**
+  - Size/color matrix optimization reducing stockouts 75%
+  - Seasonal planning improving forecast accuracy 35%
+  - Visual merchandising coordination across locations
+  - Consignment program management
+  - Trend analytics for better buying decisions
+  {{< /tab >}}
+
+  {{< tab >}}
+  **Higher Education Benefits**
+  - Student billing automation reducing processing time 65%
+  - Grant compliance with 100% federal requirement adherence
+  - Campus operations integration (dining, bookstore, facilities)
+  - Department budget control with real-time monitoring
+  - Board reporting with full transparency and compliance
+  {{< /tab >}}
+{{< /tabs >}}
+
+### Additional Industry Demos
+
+{{< cards >}}
   {{< card link="/user-guide/demo/manufacturing/" title="🏭 Manufacturing" subtitle="Production planning, BOM management, quality control" >}}
   {{< card link="/user-guide/demo/services/" title="💼 Professional Services" subtitle="Project management, time tracking, service billing" >}}
   {{< card link="/user-guide/demo/food-beverage/" title="🍽️ Food & Beverage" subtitle="Restaurant operations, multi-outlet management, recipe costing" >}}
+{{< /cards >}}
+
+---
+
+## 🎯 Role-Based Executive Demos
+
+Strategic demonstrations designed for key decision makers focusing on business outcomes and ROI:
+
+{{< cards >}}
+  {{< card link="/user-guide/demo/role-based/" title="🎯 Executive Demo Journeys" subtitle="Finance managers, operations managers, CEOs - strategic focus" >}}
 {{< /cards >}}
 
 ---
@@ -207,10 +269,13 @@ Each industry demo includes:
 
 - 🎯 [Getting Started Guide](/user-guide/demo/getting-started-demo/) - Begin here for orientation
 - 💰 [Common Financial Workflows](/user-guide/demo/common-workflows/) - Essential accounting processes
-- 🛍️ [Retail Demo](/user-guide/demo/retail/) - Complete retail scenarios
+- 📱 [Consumer Electronics Demo](/user-guide/demo/retail/) - Electronics retail workflows
+- 🚚 [Distributors Demo](/user-guide/demo/distributors/) - B2B wholesale operations
+- 👗 [Apparel Retail Demo](/user-guide/demo/apparel/) - Fashion retail workflows
+- 🎓 [University Demo](/user-guide/demo/education/) - Higher education management
 - 🏭 [Manufacturing Demo](/user-guide/demo/manufacturing/) - Production workflows
-- 💼 [Services Demo](/user-guide/demo/services/) - Service business processes
-- 🍽️ [F&B Demo](/user-guide/demo/food-beverage/) - Restaurant operations
+- 💼 [Professional Services Demo](/user-guide/demo/services/) - Service business processes
+- 🍽️ [Food & Beverage Demo](/user-guide/demo/food-beverage/) - Restaurant operations
 
 ---
 
