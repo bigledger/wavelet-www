@@ -101,12 +101,7 @@ params:
   analytics:
     enable: false
     
-  # Social links
-  socialLinks:
-    - icon: github
-      link: https://github.com/wavelet
-    - icon: twitter
-      link: https://twitter.com/wavelet
+  # Social links - removed as per request
       
   # Custom CSS for high-tech theme
   custom_css:

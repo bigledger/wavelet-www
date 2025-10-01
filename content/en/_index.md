@@ -1,4 +1,4 @@
 ---
-title: BigLedger - Complete Business Management Platform
-description: Cloud-native ERP platform powering businesses across Southeast Asia
+title: Wavelet - Complete ERP & POS Solution
+description: Cloud-based ERP and Point of Sale system for growing businesses across Southeast Asia
 ---
