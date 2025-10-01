@@ -7,7 +7,7 @@ set -e
 
 echo "🔧 Fixing CloudFront to work like a normal website..."
 
-DISTRIBUTION_ID="E3FOFD9ZXC2QVT"
+DISTRIBUTION_ID="CLOUDFRONT_ID_TBD"
 REGION="us-east-1"  # Lambda@Edge must be in us-east-1
 
 # Create the Lambda function code
@@ -133,9 +133,9 @@ echo "✅ CloudFront distribution updated!"
 echo ""
 echo "The changes will take 5-15 minutes to deploy globally."
 echo "Once deployed, all directory URLs will work normally:"
-echo "  ✅ https://wiki.bigledger.com/"
-echo "  ✅ https://wiki.bigledger.com/tutorials/"
-echo "  ✅ https://wiki.bigledger.com/modules/"
+echo "  ✅ https://www.wavelet.net/"
+echo "  ✅ https://www.wavelet.net/about/"
+echo "  ✅ https://www.wavelet.net/solutions/"
 echo ""
 echo "No more index.html needed!"
 

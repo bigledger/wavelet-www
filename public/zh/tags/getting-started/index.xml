@@ -1,16 +1,16 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Getting-Started</title><link>https://www.bigledger.com/zh/tags/getting-started/</link><description>Recent content in Getting-Started on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/getting-started/index.xml" rel="self" type="application/rss+xml"/><item><title>入门指南</title><link>https://www.bigledger.com/zh/user-guide/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/user-guide/getting-started/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Getting-Started</title><link>https://www.wavelet.net/zh/tags/getting-started/</link><description>Recent content in Getting-Started on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/getting-started/index.xml" rel="self" type="application/rss+xml"/><item><title>入门指南</title><link>https://www.wavelet.net/zh/user-guide/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/user-guide/getting-started/</guid><description>
 &lt;p>欢迎使用BigLedger商业操作系统！本节涵盖了快速高效启动和运行所需了解的一切。&lt;/p>
 &lt;h2>快速入门指南&lt;span class="hx:absolute hx:-mt-20" id="快速入门指南">&lt;/span>
 &lt;a href="#%e5%bf%ab%e9%80%9f%e5%85%a5%e9%97%a8%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger新手？按照这个路径获得最快的入门体验：&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/zh/user-guide/getting-started/introduction"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/zh/user-guide/getting-started/introduction"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">BigLedger介绍&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">平台概述、核心概念和系统导向&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/zh/user-guide/getting-started/platform-overview"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/zh/user-guide/getting-started/platform-overview"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">平台架构&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">了解BigLedger基于applet的商业操作系统&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/zh/user-guide/getting-started/navigation"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/zh/user-guide/getting-started/navigation"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">导航指南&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">掌握界面、快捷键和高效导航模式&lt;/div>&lt;/a>
 &lt;/div>
 &lt;h2>首次设置清单&lt;span class="hx:absolute hx:-mt-20" id="首次设置清单">&lt;/span>
@@ -26,24 +26,24 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h2>学习路径建议&lt;span class="hx:absolute hx:-mt-20" id="学习路径建议">&lt;/span>
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e8%b7%af%e5%be%84%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>面向企业主和高管&lt;span class="hx:absolute hx:-mt-20" id="面向企业主和高管">&lt;/span>
 &lt;a href="#%e9%9d%a2%e5%90%91%e4%bc%81%e4%b8%9a%e4%b8%bb%e5%92%8c%e9%ab%98%e7%ae%a1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>从&lt;a href="https://www.bigledger.com/zh/user-guide/getting-started/introduction" >BigLedger介绍&lt;/a>开始&lt;/li>
-&lt;li>查看&lt;a href="https://www.bigledger.com/zh/user-guide/getting-started/platform-overview" >平台架构&lt;/a>&lt;/li>
-&lt;li>探索&lt;a href="https://www.bigledger.com/zh/modules/" >核心业务模块&lt;/a>&lt;/li>
+&lt;li>从&lt;a href="https://www.wavelet.net/zh/user-guide/getting-started/introduction" >BigLedger介绍&lt;/a>开始&lt;/li>
+&lt;li>查看&lt;a href="https://www.wavelet.net/zh/user-guide/getting-started/platform-overview" >平台架构&lt;/a>&lt;/li>
+&lt;li>探索&lt;a href="https://www.wavelet.net/zh/modules/" >核心业务模块&lt;/a>&lt;/li>
 &lt;li>规划您的实施策略&lt;/li>
 &lt;/ol>
 &lt;h3>面向系统管理员&lt;span class="hx:absolute hx:-mt-20" id="面向系统管理员">&lt;/span>
 &lt;a href="#%e9%9d%a2%e5%90%91%e7%b3%bb%e7%bb%9f%e7%ae%a1%e7%90%86%e5%91%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>完成&lt;a href="https://www.bigledger.com/zh/user-guide/getting-started/platform-overview" >平台概述&lt;/a>&lt;/li>
-&lt;li>掌握&lt;a href="https://www.bigledger.com/zh/user-guide/getting-started/navigation" >导航指南&lt;/a>&lt;/li>
-&lt;li>设置&lt;a href="https://www.bigledger.com/zh/user-guide/administration/" >用户管理&lt;/a>&lt;/li>
-&lt;li>配置&lt;a href="https://www.bigledger.com/zh/user-guide/administration/" >系统设置&lt;/a>&lt;/li>
+&lt;li>完成&lt;a href="https://www.wavelet.net/zh/user-guide/getting-started/platform-overview" >平台概述&lt;/a>&lt;/li>
+&lt;li>掌握&lt;a href="https://www.wavelet.net/zh/user-guide/getting-started/navigation" >导航指南&lt;/a>&lt;/li>
+&lt;li>设置&lt;a href="https://www.wavelet.net/zh/user-guide/administration/" >用户管理&lt;/a>&lt;/li>
+&lt;li>配置&lt;a href="https://www.wavelet.net/zh/user-guide/administration/" >系统设置&lt;/a>&lt;/li>
 &lt;/ol>
 &lt;h3>面向最终用户&lt;span class="hx:absolute hx:-mt-20" id="面向最终用户">&lt;/span>
 &lt;a href="#%e9%9d%a2%e5%90%91%e6%9c%80%e7%bb%88%e7%94%a8%e6%88%b7" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>从&lt;a href="https://www.bigledger.com/zh/user-guide/getting-started/introduction" >介绍&lt;/a>开始&lt;/li>
-&lt;li>学习&lt;a href="https://www.bigledger.com/zh/user-guide/getting-started/navigation" >导航基础&lt;/a>&lt;/li>
-&lt;li>练习&lt;a href="https://www.bigledger.com/zh/user-guide/basic-operations/" >基本操作&lt;/a>&lt;/li>
-&lt;li>探索相关的&lt;a href="https://www.bigledger.com/zh/user-guide/daily-tasks/" >日常任务&lt;/a>&lt;/li>
+&lt;li>从&lt;a href="https://www.wavelet.net/zh/user-guide/getting-started/introduction" >介绍&lt;/a>开始&lt;/li>
+&lt;li>学习&lt;a href="https://www.wavelet.net/zh/user-guide/getting-started/navigation" >导航基础&lt;/a>&lt;/li>
+&lt;li>练习&lt;a href="https://www.wavelet.net/zh/user-guide/basic-operations/" >基本操作&lt;/a>&lt;/li>
+&lt;li>探索相关的&lt;a href="https://www.wavelet.net/zh/user-guide/daily-tasks/" >日常任务&lt;/a>&lt;/li>
 &lt;/ol>
 &lt;h2>预期时间表&lt;span class="hx:absolute hx:-mt-20" id="预期时间表">&lt;/span>
 &lt;a href="#%e9%a2%84%e6%9c%9f%e6%97%b6%e9%97%b4%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>第1周：基础&lt;/strong>&lt;/p>
@@ -79,10 +79,10 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h2>下一步&lt;span class="hx:absolute hx:-mt-20" id="下一步">&lt;/span>
 &lt;a href="#%e4%b8%8b%e4%b8%80%e6%ad%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>完成入门指南部分后：&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/basic-operations/" >基本操作&lt;/a>&lt;/strong> - 学习基本的日常任务&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/daily-tasks/" >日常任务&lt;/a>&lt;/strong> - 掌握常规业务操作&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/administration/" >管理&lt;/a>&lt;/strong> - 配置高级系统设置&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/best-practices/" >最佳实践&lt;/a>&lt;/strong> - 优化您的BigLedger使用&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/basic-operations/" >基本操作&lt;/a>&lt;/strong> - 学习基本的日常任务&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/daily-tasks/" >日常任务&lt;/a>&lt;/strong> - 掌握常规业务操作&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/administration/" >管理&lt;/a>&lt;/strong> - 配置高级系统设置&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/best-practices/" >最佳实践&lt;/a>&lt;/strong> - 优化您的BigLedger使用&lt;/li>
 &lt;/ol>
 &lt;h2>需要帮助？&lt;span class="hx:absolute hx:-mt-20" id="需要帮助">&lt;/span>
 &lt;a href="#%e9%9c%80%e8%a6%81%e5%b8%ae%e5%8a%a9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>

@@ -1,5 +1,5 @@
-baseURL: https://www.bigledger.com/
-title: BigLedger - Complete Business Management Platform
+baseURL: https://www.wavelet.net/
+title: Wavelet - Business Management Platform
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 theme: hextra
@@ -16,38 +16,38 @@ languages:
     languageName: English
     languageCode: en
     contentDir: content/en
-    title: BigLedger - Complete Business Management Platform
+    title: Wavelet - Business Management Platform
     weight: 1
     params:
-      description: Complete Business Management Platform - ERP, POS, E-Commerce & More
+      description: Business Management Platform - ERP, POS, E-Commerce & More
   
   zh:
     languageName: 中文
     languageCode: zh-CN
     contentDir: content/zh
-    title: BigLedger 文档
+    title: Wavelet 文档
     weight: 2
     params:
-      description: BigLedger 文档 - 下一代区块链平台
+      description: Wavelet 文档 - 商业管理平台
   
   ms:
     languageName: Bahasa Melayu
     languageCode: ms
     contentDir: content/ms
-    title: Dokumentasi BigLedger
+    title: Dokumentasi Wavelet
     weight: 3
     params:
-      description: Dokumentasi BigLedger - Platform Blockchain Generasi Seterusnya
+      description: Dokumentasi Wavelet - Platform Pengurusan Perniagaan
   
   ar:
     languageName: العربية
     languageCode: ar
     contentDir: content/ar
-    title: وثائق BigLedger
+    title: وثائق Wavelet
     weight: 4
     languageDirection: rtl
     params:
-      description: وثائق BigLedger - منصة البلوك تشين من الجيل التالي
+      description: وثائق Wavelet - منصة إدارة الأعمال
 
 params:
   # Theme settings
@@ -60,8 +60,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/bigledger-logo-cropped.png
-      dark: images/bigledger-logo-cropped.png
+      path: images/wavelet-logo.png
+      dark: images/wavelet-logo.png
       width: 200
       height: 40
       link: /
@@ -104,9 +104,9 @@ params:
   # Social links
   socialLinks:
     - icon: github
-      link: https://github.com/bigledger
+      link: https://github.com/wavelet
     - icon: twitter
-      link: https://twitter.com/bigledger
+      link: https://twitter.com/wavelet
       
   # Custom CSS for high-tech theme
   custom_css:
@@ -153,8 +153,8 @@ outputs:
 deployment:
   targets:
     - name: production
-      URL: s3://bigledger.com?region=ap-southeast-5
-      cloudFrontDistributionID: ELHXIGVKWA8XV
+      URL: s3://wavelet.net?region=ap-southeast-5
+      cloudFrontDistributionID: E1SSLXGWCLEAZW
 
 # Permalink configuration to ensure consistent URLs
 permalinks:

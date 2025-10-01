@@ -1,27 +1,25 @@
-# BigLedger Documentation Wiki
+# Wavelet Website
 
-This repository contains the source for BigLedger's documentation website, built with Hugo and hosted at https://wiki.bigledger.com
+This repository contains the source for Wavelet's corporate website, built with Hugo and hosted at https://www.wavelet.net
 
 ## ⚠️ CRITICAL: GitHub File Paths
 
-### **ALL documentation files are located under `content/en/` NOT just `en/`**
+### **ALL content files are located under `content/en/` NOT just `en/`**
 
-❌ **WRONG**: `https://github.com/bigledger/blg-wiki/blob/main/en/user-guide/_index.md`  
-✅ **CORRECT**: `https://github.com/bigledger/blg-wiki/blob/main/content/en/user-guide/_index.md`
+❌ **WRONG**: `https://github.com/wavelet/wavelet-www/blob/main/en/about/_index.md`
+✅ **CORRECT**: `https://github.com/wavelet/wavelet-www/blob/main/content/en/about/_index.md`
 
 **The `content/` prefix is REQUIRED for all GitHub paths!**
 
 ## Overview
 
-The documentation is organized into sections under `content/en/`:
-- **User Guide** (`content/en/user-guide/`) - Comprehensive guides for end users
-- **Developer Documentation** (`content/en/developers/`) - Technical documentation for developers
-- **API Reference** (`content/en/developers/api-reference/`) - Complete API documentation
-- **Modules** (`content/en/modules/`) - Core module documentation
-- **Applets** (`content/en/applets/`) - Applet documentation
-- **Business Operations** (`content/en/business-operations/`) - Operational workflows
-- **E-Commerce** (`content/en/ecommerce/`) - E-commerce features
-- **Industry Solutions** (`content/en/industry-solutions/`) - Industry-specific guides
+The website is organized into sections under `content/en/`:
+- **Home** (`content/en/_index.md`) - Homepage
+- **About** (`content/en/about/`) - Company information
+- **Solutions** (`content/en/solutions/`) - Product solutions
+- **Pricing** (`content/en/pricing/`) - Pricing information
+- **Contact** (`content/en/contact/`) - Contact page
+- **Developers** (`content/en/developers/`) - Developer resources
 
 ## Local Development
 
@@ -33,8 +31,8 @@ The documentation is organized into sections under `content/en/`:
 
 1. Clone the repository with submodules:
 ```bash
-git clone --recurse-submodules https://github.com/[your-org]/blg-wiki.git
-cd blg-wiki
+git clone --recurse-submodules https://github.com/wavelet/wavelet-www.git
+cd wavelet-www
 ```
 
 2. Start the Hugo development server:
@@ -61,15 +59,15 @@ hugo deploy --target=production
 ```
 content/
 ├── _index.md                 # Homepage
-├── user-guide/               # End user documentation
-│   ├── _index.md
-│   └── getting-started.md
-├── developer-docs/           # Developer documentation
-│   ├── _index.md
-│   └── installation.md
-├── api-reference/           # API documentation
+├── about/                    # About page
 │   └── _index.md
-└── tutorials/               # Tutorials
+├── solutions/                # Solutions
+│   └── _index.md
+├── pricing/                  # Pricing
+│   └── _index.md
+├── contact/                  # Contact
+│   └── _index.md
+└── developers/               # Developer resources
     └── _index.md
 ```
 
@@ -78,22 +76,24 @@ content/
 Create new content using Hugo's `new` command:
 
 ```bash
-# User guide page
-hugo new user-guide/new-feature.md
+# About page
+hugo new about/team.md
+
+# Solutions page
+hugo new solutions/enterprise.md
 
 # Developer documentation
-hugo new developer-docs/integration-guide.md
-
-# Tutorial
-hugo new tutorials/how-to-integrate.md
+hugo new developers/api-guide.md
 ```
 
 ## Configuration
 
 Site configuration is in `hugo.yaml`:
-- Base URL: https://wiki.bigledger.com
-- Theme: Geekdoc
-- AWS Region: ap-southeast-5
+- Base URL: https://www.wavelet.net
+- Theme: Hextra
+- AWS Region: ap-southeast-1
+- S3 Bucket: wavelet.net
+- CloudFront Distribution: CLOUDFRONT_ID_TBD (to be updated)
 
 ## GitHub Actions
 
@@ -116,4 +116,4 @@ Required secrets (already configured):
 
 ## License
 
-Copyright BigLedger. All rights reserved.
+Copyright Wavelet. All rights reserved.

@@ -1,15 +1,15 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – E-Commerce Module</title><link>https://www.bigledger.com/modules/ecommerce/</link><description>Recent content in E-Commerce Module on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/modules/ecommerce/index.xml" rel="self" type="application/rss+xml"/><item><title>2.0 Website Configuration﻿</title><link>https://www.bigledger.com/modules/ecommerce/20-website-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/20-website-configuration/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – E-Commerce Module</title><link>https://www.wavelet.net/modules/ecommerce/</link><description>Recent content in E-Commerce Module on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/modules/ecommerce/index.xml" rel="self" type="application/rss+xml"/><item><title>2.0 Website Configuration﻿</title><link>https://www.wavelet.net/modules/ecommerce/20-website-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/20-website-configuration/</guid><description>
 &lt;h1>2.0 Website Configuration﻿&lt;/h1>&lt;p>&lt;strong>Page ID&lt;/strong>: 3187343370
 &lt;strong>Last Updated&lt;/strong>: 2024-11-17T11:07:01.283Z&lt;/p>
 &lt;h2>2.1 Setting Up Your Website﻿&lt;span class="hx:absolute hx:-mt-20" id="21-setting-up-your-website">&lt;/span>
 &lt;a href="#21-setting-up-your-website" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>CP-Commerce offers a user-friendly interface for configuring your website. Refer to the Website Configuration section for detailed instructions on setting up and customizing your website.&lt;/p>
 &lt;h2>2.2 Customizing Website Content﻿&lt;span class="hx:absolute hx:-mt-20" id="22-customizing-website-content">&lt;/span>
-&lt;a href="#22-customizing-website-content" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Learn how to tailor your website&amp;rsquo;s content, including product listings, images, descriptions, and pricing, to create an appealing online shopping experience for your customers.&lt;/p></description></item><item><title>B2B</title><link>https://www.bigledger.com/modules/ecommerce/b2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/b2b/</guid><description>
+&lt;a href="#22-customizing-website-content" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Learn how to tailor your website&amp;rsquo;s content, including product listings, images, descriptions, and pricing, to create an appealing online shopping experience for your customers.&lt;/p></description></item><item><title>B2B</title><link>https://www.wavelet.net/modules/ecommerce/b2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/b2b/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3153822181
-&lt;strong>Last Updated&lt;/strong>: 2021-06-05T09:01:05.690Z&lt;/p></description></item><item><title>CP-Commerce</title><link>https://www.bigledger.com/modules/ecommerce/cp-commerce/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/cp-commerce/</guid><description>
+&lt;strong>Last Updated&lt;/strong>: 2021-06-05T09:01:05.690Z&lt;/p></description></item><item><title>CP-Commerce</title><link>https://www.wavelet.net/modules/ecommerce/cp-commerce/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/cp-commerce/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3153887626
 &lt;strong>Last Updated&lt;/strong>: 2024-11-17T11:04:53.671Z
-The CP-Commerce Module is a powerful solution designed to help businesses offer products and services online. It serves as an integrated platform that combines eCommerce capabilities with central data management and seamless integration with various other business systems. By eliminating duplicated data entry and providing operational data lake functionality, CP-Commerce empowers businesses to establish a robust online presence and grow their operations.&lt;/p></description></item><item><title>Create Single Tab</title><link>https://www.bigledger.com/modules/ecommerce/create-single-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/create-single-tab/</guid><description>
+The CP-Commerce Module is a powerful solution designed to help businesses offer products and services online. It serves as an integrated platform that combines eCommerce capabilities with central data management and seamless integration with various other business systems. By eliminating duplicated data entry and providing operational data lake functionality, CP-Commerce empowers businesses to establish a robust online presence and grow their operations.&lt;/p></description></item><item><title>Create Single Tab</title><link>https://www.wavelet.net/modules/ecommerce/create-single-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/create-single-tab/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191946
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T06:09:58.079Z
 Create - used for syncing the chosen item into a marketplace store. Create consist of 2 types :
@@ -20,7 +20,7 @@ Once the Store is chosen user will have to choose category:
 2. Item Tab - is used to select the current item that you are editing and want to sync to marketplace:
 Once the store and the category has been chosen user has to press &amp;ldquo;start listing&amp;rdquo; button which will bring to the summary page :
 User must click on the item and fill up all the attribute details:
-Once user complete filling up attribute details they may click on &amp;ldquo;Submit&amp;rdquo; button in order to sync to the marketplace.&lt;/p></description></item><item><title>EcomSync Applet</title><link>https://www.bigledger.com/modules/ecommerce/ecomsync-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/ecomsync-applet/</guid><description>
+Once user complete filling up attribute details they may click on &amp;ldquo;Submit&amp;rdquo; button in order to sync to the marketplace.&lt;/p></description></item><item><title>EcomSync Applet</title><link>https://www.wavelet.net/modules/ecommerce/ecomsync-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/ecomsync-applet/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3259346357
 &lt;strong>Last Updated&lt;/strong>: 2021-07-23T05:51:22.732Z
 Table of Content
@@ -36,7 +36,7 @@ Main Dashboard
 Sales Dashboard
 Order Dashboard
 Settings
-Integration with Shopify&lt;/p></description></item><item><title>Ecomsync Features</title><link>https://www.bigledger.com/modules/ecommerce/ecomsync-features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/ecomsync-features/</guid><description>
+Integration with Shopify&lt;/p></description></item><item><title>Ecomsync Features</title><link>https://www.wavelet.net/modules/ecommerce/ecomsync-features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/ecomsync-features/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3299247174
 &lt;strong>Last Updated&lt;/strong>: 2021-07-19T02:40:30.908Z
 Readiness Status: 5 - Best possibleGreen 4 - optimalYellow 3 - averageBlue 2 - sub optimalPurple 1 - worst possibleRed
@@ -155,15 +155,15 @@ Attributes and category management from Magento to Ecomsync
 Stock / order fulfilment
 Order management (Create Consignment Note, invoice etc)
 44Audit Trail
-45Stock fulfillment&lt;/p></description></item><item><title>Integration with Shopify</title><link>https://www.bigledger.com/modules/ecommerce/integration-with-shopify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/integration-with-shopify/</guid><description>
+45Stock fulfillment&lt;/p></description></item><item><title>Integration with Shopify</title><link>https://www.wavelet.net/modules/ecommerce/integration-with-shopify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/integration-with-shopify/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3292758065
 &lt;strong>Last Updated&lt;/strong>: 2021-07-15T07:56:28.266Z
-steps,..&lt;/p></description></item><item><title>Introduction to EcomSync</title><link>https://www.bigledger.com/modules/ecommerce/introduction-to-ecomsync/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/introduction-to-ecomsync/</guid><description>
+steps,..&lt;/p></description></item><item><title>Introduction to EcomSync</title><link>https://www.wavelet.net/modules/ecommerce/introduction-to-ecomsync/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/introduction-to-ecomsync/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196485958
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T01:46:53.953Z&lt;/p>
 &lt;h2>Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction">&lt;/span>
 &lt;a href="#introduction" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>EcomSync Applet is an applet whereby users can organize and manage their items/products, orders and view their marketplace performances. The aim of EcomSync Applet is to equip users with the understanding of managing their marketplace aspects.&lt;/p>
-&lt;p>&lt;img src="https://www.bigledger.com/diagrams/ecomsync-integration-flow.svg" alt="EcomSync Integration Flow" loading="lazy" />
+&lt;p>&lt;img src="https://www.wavelet.net/diagrams/ecomsync-integration-flow.svg" alt="EcomSync Integration Flow" loading="lazy" />
 &lt;em>Figure 1: EcomSync Integration Architecture - connecting BigLedger with major Malaysian marketplaces&lt;/em>&lt;/p>
 &lt;p>You are able to experience many benefits from the applet such as from a management perspective, EcomSync provides better and feasible control of your seller shops. You are able to simultaneously sync items into multiple seller accounts. Other than that, EcomSync acts as a pacemaker which you can manage order and its status and can link with your Enterprise Management Portal (EMP) that makes your product management process easier.&lt;/p>
 &lt;h2>Prerequisites&lt;span class="hx:absolute hx:-mt-20" id="prerequisites">&lt;/span>
@@ -174,18 +174,18 @@ steps,..&lt;/p></description></item><item><title>Introduction to EcomSync</title
 &lt;li>&lt;strong>Real-time Synchronization&lt;/strong>: Inventory, prices, and orders sync automatically&lt;/li>
 &lt;li>&lt;strong>Malaysian E-commerce Support&lt;/strong>: Built for local payment methods and shipping&lt;/li>
 &lt;li>&lt;strong>Centralized Control&lt;/strong>: Manage all your online sales from one dashboard&lt;/li>
-&lt;/ul></description></item><item><title>Listing</title><link>https://www.bigledger.com/modules/ecommerce/listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/listing/</guid><description>
+&lt;/ul></description></item><item><title>Listing</title><link>https://www.wavelet.net/modules/ecommerce/listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/listing/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196846319
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T02:06:35.534Z
 Listing shows all your Items that are synced from EMP and Marketplace. Inside the listing the item can be 2 levels, where by the first level is the one that is synced from EMP or the one that user created themselves, and the 2nd level shows the items that were synced to marketplace:
-User may customize the AG-Grid listing, where by they can move around and filter the headers of the listing.&lt;/p></description></item><item><title>Marketplace Tab</title><link>https://www.bigledger.com/modules/ecommerce/marketplace-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/marketplace-tab/</guid><description>
+User may customize the AG-Grid listing, where by they can move around and filter the headers of the listing.&lt;/p></description></item><item><title>Marketplace Tab</title><link>https://www.wavelet.net/modules/ecommerce/marketplace-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/marketplace-tab/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191832
 &lt;strong>Last Updated&lt;/strong>: 2021-07-23T05:24:07.943Z
 Marketplace Tab is used for the Users to Create, Edit, Update and Delete the Items to be sync into the marketplace. This section will let you select the Item Type to be displayed in the Marketplace.
-Click Save. - For this Module each time edit the Item detail throughout the tabs &amp;ldquo;MUST CLICK SAVE&amp;rdquo;.&lt;/p></description></item><item><title>Update and Delete Item</title><link>https://www.bigledger.com/modules/ecommerce/update-and-delete-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/update-and-delete-item/</guid><description>
+Click Save. - For this Module each time edit the Item detail throughout the tabs &amp;ldquo;MUST CLICK SAVE&amp;rdquo;.&lt;/p></description></item><item><title>Update and Delete Item</title><link>https://www.wavelet.net/modules/ecommerce/update-and-delete-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/update-and-delete-item/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191957
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T06:15:40.294Z
-Update/Delete Item - when user want to update or delete the item that was sync to the marketplace they will have to go to &amp;ldquo;Marketplace Tab&amp;rdquo; select the store from the current listing and update/delete the item:&lt;/p></description></item><item><title>CP-Commerce Menu &amp; Pages Configuration</title><link>https://www.bigledger.com/modules/ecommerce/cp-commerce-menu-pages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/cp-commerce-menu-pages/</guid><description>
+Update/Delete Item - when user want to update or delete the item that was sync to the marketplace they will have to go to &amp;ldquo;Marketplace Tab&amp;rdquo; select the store from the current listing and update/delete the item:&lt;/p></description></item><item><title>CP-Commerce Menu &amp; Pages Configuration</title><link>https://www.wavelet.net/modules/ecommerce/cp-commerce-menu-pages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/cp-commerce-menu-pages/</guid><description>
 &lt;p>CP-Commerce provides flexible tools for managing your e-commerce website&amp;rsquo;s navigation menus and static content pages. This guide covers the Menu Module and Pages Module configuration.&lt;/p>
 &lt;h2>Menu Module&lt;span class="hx:absolute hx:-mt-20" id="menu-module">&lt;/span>
 &lt;a href="#menu-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Menu Module controls the navigation structure of your CP-Commerce website, allowing you to create hierarchical menus with various link types.&lt;/p>
@@ -522,8 +522,8 @@ title="Copy code"
 &lt;/ul>
 &lt;h2>Related Documentation&lt;span class="hx:absolute hx:-mt-20" id="related-documentation">&lt;/span>
 &lt;a href="#related-documentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/cp-commerce/" >CP-Commerce Overview&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/website-configuration/" >Website Configuration&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/" >Content Management Best Practices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/ecommerce/cp-commerce/" >CP-Commerce Overview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/ecommerce/website-configuration/" >Website Configuration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/" >Content Management Best Practices&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

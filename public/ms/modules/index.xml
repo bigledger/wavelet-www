@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dokumentasi BigLedger – Modul BigLedger</title><link>https://www.bigledger.com/ms/modules/</link><description>Recent content in Modul BigLedger on Dokumentasi BigLedger</description><generator>Hugo -- gohugo.io</generator><language>ms</language><atom:link href="https://www.bigledger.com/ms/modules/index.xml" rel="self" type="application/rss+xml"/><item><title>Perakaunan Kewangan</title><link>https://www.bigledger.com/ms/modules/financial-accounting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ms/modules/financial-accounting/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dokumentasi Wavelet – Modul BigLedger</title><link>https://www.wavelet.net/ms/modules/</link><description>Recent content in Modul BigLedger on Dokumentasi Wavelet</description><generator>Hugo -- gohugo.io</generator><language>ms</language><atom:link href="https://www.wavelet.net/ms/modules/index.xml" rel="self" type="application/rss+xml"/><item><title>Perakaunan Kewangan</title><link>https://www.wavelet.net/ms/modules/financial-accounting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/ms/modules/financial-accounting/</guid><description>
 &lt;h1>Modul Perakaunan Kewangan&lt;/h1>&lt;h2>Gambaran Keseluruhan&lt;span class="hx:absolute hx:-mt-20" id="gambaran-keseluruhan">&lt;/span>
 &lt;a href="#gambaran-keseluruhan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Modul Perakaunan Kewangan BigLedger menyediakan sistem perakaunan komprehensif yang mematuhi piawaian untuk perniagaan dari semua saiz. Dibina dengan mengambil kira GAAP, IFRS, dan piawaian perakaunan tempatan, ia menawarkan wawasan kewangan masa nyata sambil mengekalkan ketegasan yang diperlukan untuk pematuhan audit.&lt;/p>
 &lt;h2>Ciri-ciri Utama&lt;span class="hx:absolute hx:-mt-20" id="ciri-ciri-utama">&lt;/span>
@@ -275,12 +275,12 @@ title="Copy code"
 &lt;/ol>
 &lt;h2>Sokongan &amp;amp; Sumber&lt;span class="hx:absolute hx:-mt-20" id="sokongan--sumber">&lt;/span>
 &lt;a href="#sokongan--sumber" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📚 &lt;a href="https://www.bigledger.com/docs/best-practices/accounting/" >Panduan Amalan Terbaik Perakaunan&lt;/a>&lt;/li>
-&lt;li>🎥 &lt;a href="https://www.bigledger.com/tutorials/financial-accounting/" >Tutorial Video&lt;/a>&lt;/li>
-&lt;li>📊 &lt;a href="https://www.bigledger.com/templates/financial/" >Perpustakaan Templat Laporan&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://www.wavelet.net/docs/best-practices/accounting/" >Panduan Amalan Terbaik Perakaunan&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://www.wavelet.net/tutorials/financial-accounting/" >Tutorial Video&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://www.wavelet.net/templates/financial/" >Perpustakaan Templat Laporan&lt;/a>&lt;/li>
 &lt;li>🤝 &lt;a href="https://forum.bigledger.com/finance" target="_blank" rel="noopener">Forum Komuniti&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:finance@bigledger.com" >Sokongan Pakar&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Tempat Jualan (POS)</title><link>https://www.bigledger.com/ms/modules/pos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ms/modules/pos/</guid><description>
+&lt;/ul></description></item><item><title>Tempat Jualan (POS)</title><link>https://www.wavelet.net/ms/modules/pos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/ms/modules/pos/</guid><description>
 &lt;h1>Modul Tempat Jualan (POS)&lt;/h1>&lt;h2>Gambaran Keseluruhan&lt;span class="hx:absolute hx:-mt-20" id="gambaran-keseluruhan">&lt;/span>
 &lt;a href="#gambaran-keseluruhan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Modul Tempat Jualan (POS) BigLedger adalah penyelesaian pengurusan runcit komprehensif yang direka untuk perniagaan moden. Dibina dengan kelajuan, kebolehpercayaan, dan kemudahan pengguna sebagai tumpuan, ia bersepadu dengan lancar dengan semua modul BigLedger lain sambil menyediakan keupayaan berdiri sendiri untuk operasi runcit.&lt;/p>
 &lt;h2>Ciri-ciri Utama&lt;span class="hx:absolute hx:-mt-20" id="ciri-ciri-utama">&lt;/span>
@@ -605,11 +605,11 @@ title="Copy code"
 &lt;/ul>
 &lt;h2>Sokongan &amp;amp; Sumber&lt;span class="hx:absolute hx:-mt-20" id="sokongan--sumber">&lt;/span>
 &lt;a href="#sokongan--sumber" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📖 &lt;a href="https://www.bigledger.com/tutorials/pos/" >Tutorial Video&lt;/a>&lt;/li>
+&lt;li>📖 &lt;a href="https://www.wavelet.net/tutorials/pos/" >Tutorial Video&lt;/a>&lt;/li>
 &lt;li>💬 &lt;a href="https://forum.bigledger.com/pos" target="_blank" rel="noopener">Forum Komuniti&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:pos-support@bigledger.com" >Sokongan E-mel&lt;/a>&lt;/li>
 &lt;li>📞 Sokongan 24/7: +60-3-POS-HELP&lt;/li>
-&lt;/ul></description></item><item><title>Pengurusan Hubungan Pelanggan (CRM)</title><link>https://www.bigledger.com/ms/modules/crm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ms/modules/crm/</guid><description>
+&lt;/ul></description></item><item><title>Pengurusan Hubungan Pelanggan (CRM)</title><link>https://www.wavelet.net/ms/modules/crm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/ms/modules/crm/</guid><description>
 &lt;h1>Modul Pengurusan Hubungan Pelanggan (CRM)&lt;/h1>&lt;h2>Gambaran Keseluruhan&lt;span class="hx:absolute hx:-mt-20" id="gambaran-keseluruhan">&lt;/span>
 &lt;a href="#gambaran-keseluruhan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Modul CRM BigLedger menyediakan penyelesaian komprehensif untuk mengurus hubungan pelanggan, pipeline jualan, dan kempen pemasaran. Dibina untuk membantu perniagaan memahami, melibatkan, dan mengekalkan pelanggan dengan lebih berkesan, ia bersepadu dengan lancar dengan semua modul BigLedger lain.&lt;/p>
 &lt;h2>Ciri-ciri Utama&lt;span class="hx:absolute hx:-mt-20" id="ciri-ciri-utama">&lt;/span>
@@ -882,12 +882,12 @@ title="Copy code"
 &lt;/ul>
 &lt;h2>Sokongan &amp;amp; Latihan&lt;span class="hx:absolute hx:-mt-20" id="sokongan--latihan">&lt;/span>
 &lt;a href="#sokongan--latihan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📚 &lt;a href="https://www.bigledger.com/docs/best-practices/crm/" >Panduan Amalan Terbaik CRM&lt;/a>&lt;/li>
-&lt;li>🎥 &lt;a href="https://www.bigledger.com/tutorials/crm/" >Tutorial Video&lt;/a>&lt;/li>
-&lt;li>📊 &lt;a href="https://www.bigledger.com/templates/crm/" >Templat Laporan&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://www.wavelet.net/docs/best-practices/crm/" >Panduan Amalan Terbaik CRM&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://www.wavelet.net/tutorials/crm/" >Tutorial Video&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://www.wavelet.net/templates/crm/" >Templat Laporan&lt;/a>&lt;/li>
 &lt;li>💬 &lt;a href="https://forum.bigledger.com/crm" target="_blank" rel="noopener">Forum Komuniti&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:crm-support@bigledger.com" >Sokongan&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Pengurusan Inventori</title><link>https://www.bigledger.com/ms/modules/inventory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ms/modules/inventory/</guid><description>
+&lt;/ul></description></item><item><title>Pengurusan Inventori</title><link>https://www.wavelet.net/ms/modules/inventory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/ms/modules/inventory/</guid><description>
 &lt;h1>Modul Pengurusan Inventori&lt;/h1>&lt;h2>Gambaran Keseluruhan&lt;span class="hx:absolute hx:-mt-20" id="gambaran-keseluruhan">&lt;/span>
 &lt;a href="#gambaran-keseluruhan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Modul Pengurusan Inventori BigLedger menyediakan kawalan komprehensif ke atas keseluruhan rantaian bekalan anda, dari perolehan hingga pengurusan gudang hingga pemenuhan pesanan. Dengan penjejakan masa nyata, ramalan pintar, dan integrasi yang lancar merentasi semua saluran, ia memastikan tahap stok optimum sambil meminimumkan kos pembawaan.&lt;/p>
 &lt;h2>Ciri-ciri Utama&lt;span class="hx:absolute hx:-mt-20" id="ciri-ciri-utama">&lt;/span>
@@ -1345,9 +1345,9 @@ title="Copy code"
 &lt;/table>
 &lt;h2>Sokongan &amp;amp; Sumber&lt;span class="hx:absolute hx:-mt-20" id="sokongan--sumber">&lt;/span>
 &lt;a href="#sokongan--sumber" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📚 &lt;a href="https://www.bigledger.com/docs/best-practices/inventory/" >Amalan Terbaik Inventori&lt;/a>&lt;/li>
-&lt;li>🎥 &lt;a href="https://www.bigledger.com/tutorials/inventory/" >Video Latihan&lt;/a>&lt;/li>
-&lt;li>📊 &lt;a href="https://www.bigledger.com/templates/inventory/" >Templat Laporan&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://www.wavelet.net/docs/best-practices/inventory/" >Amalan Terbaik Inventori&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://www.wavelet.net/tutorials/inventory/" >Video Latihan&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://www.wavelet.net/templates/inventory/" >Templat Laporan&lt;/a>&lt;/li>
 &lt;li>💬 &lt;a href="https://forum.bigledger.com/inventory" target="_blank" rel="noopener">Forum Komuniti&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:inventory-support@bigledger.com" >Sokongan&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

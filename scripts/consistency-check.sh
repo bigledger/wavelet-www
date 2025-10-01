@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# BigLedger Wiki Consistency Check Script
+# Wavelet Website Consistency Check Script
 # This script runs the consistency checker and integrates it with the build process
 
 set -e
 
-echo "🔍 Running BigLedger Wiki consistency checks..."
+echo "🔍 Running Wavelet Website consistency checks..."
 
 # Colors
 RED='\033[0;31m'
@@ -19,7 +19,7 @@ exit_code=$?
 
 # Check the results
 if [ $exit_code -eq 0 ]; then
-    echo -e "${GREEN}✅ Consistency check passed! Wiki is ready for deployment.${NC}"
+    echo -e "${GREEN}✅ Consistency check passed! Website is ready for deployment.${NC}"
 else
     echo -e "${RED}❌ Consistency check failed. Please review and fix the issues above.${NC}"
     echo ""

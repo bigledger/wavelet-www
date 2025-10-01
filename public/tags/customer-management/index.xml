@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Customer-Management</title><link>https://www.bigledger.com/tags/customer-management/</link><description>Recent content in Customer-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/customer-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Customer Maintenance Applet</title><link>https://www.bigledger.com/applets/customer-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/customer-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Customer-Management</title><link>https://www.wavelet.net/tags/customer-management/</link><description>Recent content in Customer-Management on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/customer-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Customer Maintenance Applet</title><link>https://www.wavelet.net/applets/customer-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/customer-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Customer Maintenance Applet is the central repository for all customer information in BigLedger, providing comprehensive customer master data management that supports sales, CRM, accounts receivable, and customer-facing operations across all modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -211,21 +211,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor master data&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;/strong> - Sales team assignment&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor master data&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;/strong> - Sales team assignment&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
 &lt;/ul>
 &lt;h3>Sales and CRM Applets&lt;span class="hx:absolute hx:-mt-20" id="sales-and-crm-applets">&lt;/span>
 &lt;a href="#sales-and-crm-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Customer order processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/quotation-management-applet/" >Quotation Management Applet&lt;/a>&lt;/strong> - Customer quotations&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-portal-applet/" >Customer Portal Applet&lt;/a>&lt;/strong> - Self-service customer access&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Customer order processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/quotation-management-applet/" >Quotation Management Applet&lt;/a>&lt;/strong> - Customer quotations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/customer-portal-applet/" >Customer Portal Applet&lt;/a>&lt;/strong> - Self-service customer access&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/accounts-receivable-applet/" >Accounts Receivable Applet&lt;/a>&lt;/strong> - Customer payments&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/credit-management-applet/" >Credit Management Applet&lt;/a>&lt;/strong> - Credit control&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/collection-management-applet/" >Collection Management Applet&lt;/a>&lt;/strong> - Overdue accounts&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/accounts-receivable-applet/" >Accounts Receivable Applet&lt;/a>&lt;/strong> - Customer payments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/credit-management-applet/" >Credit Management Applet&lt;/a>&lt;/strong> - Credit control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/collection-management-applet/" >Collection Management Applet&lt;/a>&lt;/strong> - Overdue accounts&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -390,7 +390,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pro Tip&lt;/strong>: Invest time in setting up proper customer categories and data quality rules from the beginning. Clean, well-organized customer data is the foundation of effective sales and marketing operations.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Price Book Management &amp; Customer Pricing</title><link>https://www.bigledger.com/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/price-book/</guid><description>
+&lt;/div></description></item><item><title>Price Book Management &amp; Customer Pricing</title><link>https://www.wavelet.net/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/daily-tasks/price-book/</guid><description>
 &lt;p>Price books in BigLedger serve as the foundation for organized price list management, enabling businesses to maintain structured pricing for different customer segments, sales channels, and market conditions while ensuring consistency across all commercial operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price books are centralized repositories that organize and manage pricing information for your products and services. They work in conjunction with pricing schemes to provide flexible, scalable pricing solutions that adapt to various business scenarios and customer requirements.&lt;/p>
@@ -899,12 +899,12 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your pricing management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Advanced pricing templates and strategies&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/price-set/" >Price Set Configuration&lt;/a> - Rule-based pricing logic and conditions&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Advanced pricing templates and strategies&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/price-set/" >Price Set Configuration&lt;/a> - Rule-based pricing logic and conditions&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>

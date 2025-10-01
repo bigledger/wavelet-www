@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Gst</title><link>https://www.bigledger.com/tags/gst/</link><description>Recent content in Gst on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/gst/index.xml" rel="self" type="application/rss+xml"/><item><title>Tax Configuration Applet</title><link>https://www.bigledger.com/applets/tax-configuration-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/tax-configuration-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Gst</title><link>https://www.wavelet.net/tags/gst/</link><description>Recent content in Gst on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/gst/index.xml" rel="self" type="application/rss+xml"/><item><title>Tax Configuration Applet</title><link>https://www.wavelet.net/applets/tax-configuration-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/tax-configuration-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Tax Configuration Applet is a critical Core Module component that manages all tax-related configurations in BigLedger. This applet provides comprehensive tax setup, compliance management, and automated tax calculations that support all taxable transactions across every BigLedger module.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -215,21 +215,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/chart-of-account-applet/" >Chart of Account Applet&lt;/a>&lt;/strong> - Tax account mapping&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor tax configurations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/chart-of-account-applet/" >Chart of Account Applet&lt;/a>&lt;/strong> - Tax account mapping&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor tax configurations&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-reporting-applet/" >Tax Reporting Applet&lt;/a>&lt;/strong> - Statutory tax reports&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-payment-applet/" >Tax Payment Applet&lt;/a>&lt;/strong> - Tax payment processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-reconciliation-applet/" >Tax Reconciliation Applet&lt;/a>&lt;/strong> - Tax account reconciliation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-reporting-applet/" >Tax Reporting Applet&lt;/a>&lt;/strong> - Statutory tax reports&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-payment-applet/" >Tax Payment Applet&lt;/a>&lt;/strong> - Tax payment processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-reconciliation-applet/" >Tax Reconciliation Applet&lt;/a>&lt;/strong> - Tax account reconciliation&lt;/li>
 &lt;/ul>
 &lt;h3>Transaction Applets&lt;span class="hx:absolute hx:-mt-20" id="transaction-applets">&lt;/span>
 &lt;a href="#transaction-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-tax-applet/" >Sales Tax Applet&lt;/a>&lt;/strong> - Sales transaction taxation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-tax-applet/" >Purchase Tax Applet&lt;/a>&lt;/strong> - Purchase transaction taxation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/ecommerce-tax-applet/" >E-Commerce Tax Applet&lt;/a>&lt;/strong> - Online transaction taxation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/sales-tax-applet/" >Sales Tax Applet&lt;/a>&lt;/strong> - Sales transaction taxation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/purchase-tax-applet/" >Purchase Tax Applet&lt;/a>&lt;/strong> - Purchase transaction taxation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/ecommerce-tax-applet/" >E-Commerce Tax Applet&lt;/a>&lt;/strong> - Online transaction taxation&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>

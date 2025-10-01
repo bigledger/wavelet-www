@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Services</title><link>https://www.bigledger.com/zh/tags/services/</link><description>Recent content in Services on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/services/index.xml" rel="self" type="application/rss+xml"/><item><title>文档项目维护小程序</title><link>https://www.bigledger.com/zh/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/doc-item-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Services</title><link>https://www.wavelet.net/zh/tags/services/</link><description>Recent content in Services on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/services/index.xml" rel="self" type="application/rss+xml"/><item><title>文档项目维护小程序</title><link>https://www.wavelet.net/zh/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/doc-item-maintenance-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>文档项目维护小程序是一个关键的核心模块组件，管理BigLedger中的所有非物理项目。这包括服务、咨询费、数字产品、许可证、订阅以及您的企业销售或购买的任何其他基于文档或非库存项目。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -204,21 +204,21 @@
 &lt;h2>相关小程序&lt;span class="hx:absolute hx:-mt-20" id="相关小程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块小程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块小程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/inv-item-maintenance-applet/" >库存项目维护小程序&lt;/a>&lt;/strong> - 物理库存项目&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 服务税务设置&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护小程序&lt;/a>&lt;/strong> - 服务客户&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/inv-item-maintenance-applet/" >库存项目维护小程序&lt;/a>&lt;/strong> - 物理库存项目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 服务税务设置&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-maintenance-applet/" >客户维护小程序&lt;/a>&lt;/strong> - 服务客户&lt;/li>
 &lt;/ul>
 &lt;h3>服务相关小程序&lt;span class="hx:absolute hx:-mt-20" id="服务相关小程序">&lt;/span>
 &lt;a href="#%e6%9c%8d%e5%8a%a1%e7%9b%b8%e5%85%b3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/time-tracking-applet/" >时间跟踪小程序&lt;/a>&lt;/strong> - 服务时间记录&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/project-management-applet/" >项目管理小程序&lt;/a>&lt;/strong> - 基于项目的服务&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/resource-planning-applet/" >资源规划小程序&lt;/a>&lt;/strong> - 服务资源管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/time-tracking-applet/" >时间跟踪小程序&lt;/a>&lt;/strong> - 服务时间记录&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/project-management-applet/" >项目管理小程序&lt;/a>&lt;/strong> - 基于项目的服务&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/resource-planning-applet/" >资源规划小程序&lt;/a>&lt;/strong> - 服务资源管理&lt;/li>
 &lt;/ul>
 &lt;h3>财务小程序&lt;span class="hx:absolute hx:-mt-20" id="财务小程序">&lt;/span>
 &lt;a href="#%e8%b4%a2%e5%8a%a1%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/pricing-management-applet/" >定价管理小程序&lt;/a>&lt;/strong> - 服务定价&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/invoice-generation-applet/" >发票生成小程序&lt;/a>&lt;/strong> - 服务计费&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/revenue-recognition-applet/" >收入确认小程序&lt;/a>&lt;/strong> - 服务收入&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/pricing-management-applet/" >定价管理小程序&lt;/a>&lt;/strong> - 服务定价&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/invoice-generation-applet/" >发票生成小程序&lt;/a>&lt;/strong> - 服务计费&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/revenue-recognition-applet/" >收入确认小程序&lt;/a>&lt;/strong> - 服务收入&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>

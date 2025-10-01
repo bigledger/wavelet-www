@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Employee-Management</title><link>https://www.bigledger.com/tags/employee-management/</link><description>Recent content in Employee-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/employee-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Employee Maintenance Applet</title><link>https://www.bigledger.com/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/employee-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Employee-Management</title><link>https://www.wavelet.net/tags/employee-management/</link><description>Recent content in Employee-Management on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/employee-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Employee Maintenance Applet</title><link>https://www.wavelet.net/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/employee-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Employee Maintenance Applet is the foundational HR component in BigLedger&amp;rsquo;s Core Module, providing comprehensive employee master records management that supports human resources, payroll, organizational structure, and employee-related operations across all modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -211,21 +211,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/organization-applet/" >Organization Applet&lt;/a>&lt;/strong> - Company and department structure&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - User access management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Sales representative assignments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/organization-applet/" >Organization Applet&lt;/a>&lt;/strong> - Company and department structure&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - User access management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Sales representative assignments&lt;/li>
 &lt;/ul>
 &lt;h3>HR and Payroll Applets&lt;span class="hx:absolute hx:-mt-20" id="hr-and-payroll-applets">&lt;/span>
 &lt;a href="#hr-and-payroll-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/payroll-processing-applet/" >Payroll Processing Applet&lt;/a>&lt;/strong> - Employee compensation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/time-attendance-applet/" >Time and Attendance Applet&lt;/a>&lt;/strong> - Work time tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/leave-management-applet/" >Leave Management Applet&lt;/a>&lt;/strong> - Employee leave tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/payroll-processing-applet/" >Payroll Processing Applet&lt;/a>&lt;/strong> - Employee compensation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/time-attendance-applet/" >Time and Attendance Applet&lt;/a>&lt;/strong> - Work time tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/leave-management-applet/" >Leave Management Applet&lt;/a>&lt;/strong> - Employee leave tracking&lt;/li>
 &lt;/ul>
 &lt;h3>Operational Applets&lt;span class="hx:absolute hx:-mt-20" id="operational-applets">&lt;/span>
 &lt;a href="#operational-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/project-team-applet/" >Project Team Applet&lt;/a>&lt;/strong> - Project assignments&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-team-applet/" >Sales Team Applet&lt;/a>&lt;/strong> - Sales force management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/asset-custody-applet/" >Asset Custody Applet&lt;/a>&lt;/strong> - Asset responsibility&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/project-team-applet/" >Project Team Applet&lt;/a>&lt;/strong> - Project assignments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/sales-team-applet/" >Sales Team Applet&lt;/a>&lt;/strong> - Sales force management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/asset-custody-applet/" >Asset Custody Applet&lt;/a>&lt;/strong> - Asset responsibility&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>

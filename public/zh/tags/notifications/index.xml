@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Notifications</title><link>https://www.bigledger.com/zh/tags/notifications/</link><description>Recent content in Notifications on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/notifications/index.xml" rel="self" type="application/rss+xml"/><item><title>Webhook 小程序</title><link>https://www.bigledger.com/zh/applets/webhook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/webhook-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Notifications</title><link>https://www.wavelet.net/zh/tags/notifications/</link><description>Recent content in Notifications on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/notifications/index.xml" rel="self" type="application/rss+xml"/><item><title>Webhook 小程序</title><link>https://www.wavelet.net/zh/applets/webhook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/webhook-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Webhook 小程序是一个关键的核心模块集成组件，支持实时事件通知和 BigLedger 与外部系统之间的无缝通信。此小程序提供全面的 webhook 管理、事件驱动通知和 API 集成功能，支持自动化工作流程和系统同步。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -211,21 +211,21 @@
 &lt;h2>相关小程序&lt;span class="hx:absolute hx:-mt-20" id="相关小程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块小程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块小程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/workflow-design-applet/" >工作流设计小程序&lt;/a>&lt;/strong> - 工作流触发的 webhooks&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tenant-admin-applet/" >租户管理员小程序&lt;/a>&lt;/strong> - 安全和访问管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/process-monitoring-applet/" >过程监控小程序&lt;/a>&lt;/strong> - 集成监控&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/workflow-design-applet/" >工作流设计小程序&lt;/a>&lt;/strong> - 工作流触发的 webhooks&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tenant-admin-applet/" >租户管理员小程序&lt;/a>&lt;/strong> - 安全和访问管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/process-monitoring-applet/" >过程监控小程序&lt;/a>&lt;/strong> - 集成监控&lt;/li>
 &lt;/ul>
 &lt;h3>集成小程序&lt;span class="hx:absolute hx:-mt-20" id="集成小程序">&lt;/span>
 &lt;a href="#%e9%9b%86%e6%88%90%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/api-management-applet/" >API 管理小程序&lt;/a>&lt;/strong> - API 端点管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/data-sync-applet/" >数据同步小程序&lt;/a>&lt;/strong> - 数据同步&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/external-system-applet/" >外部系统小程序&lt;/a>&lt;/strong> - 第三方系统管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/api-management-applet/" >API 管理小程序&lt;/a>&lt;/strong> - API 端点管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/data-sync-applet/" >数据同步小程序&lt;/a>&lt;/strong> - 数据同步&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/external-system-applet/" >外部系统小程序&lt;/a>&lt;/strong> - 第三方系统管理&lt;/li>
 &lt;/ul>
 &lt;h3>通信小程序&lt;span class="hx:absolute hx:-mt-20" id="通信小程序">&lt;/span>
 &lt;a href="#%e9%80%9a%e4%bf%a1%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/notification-applet/" >通知小程序&lt;/a>&lt;/strong> - 内部通知&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/email-integration-applet/" >电子邮件集成小程序&lt;/a>&lt;/strong> - 电子邮件系统集成&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/sms-gateway-applet/" >短信网关小程序&lt;/a>&lt;/strong> - 短信通知&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/notification-applet/" >通知小程序&lt;/a>&lt;/strong> - 内部通知&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/email-integration-applet/" >电子邮件集成小程序&lt;/a>&lt;/strong> - 电子邮件系统集成&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/sms-gateway-applet/" >短信网关小程序&lt;/a>&lt;/strong> - 短信通知&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>

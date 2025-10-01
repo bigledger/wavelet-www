@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Vendor-Management</title><link>https://www.bigledger.com/zh/tags/vendor-management/</link><description>Recent content in Vendor-Management on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/vendor-management/index.xml" rel="self" type="application/rss+xml"/><item><title>供应商维护应用程序</title><link>https://www.bigledger.com/zh/applets/supplier-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/supplier-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Vendor-Management</title><link>https://www.wavelet.net/zh/tags/vendor-management/</link><description>Recent content in Vendor-Management on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/vendor-management/index.xml" rel="self" type="application/rss+xml"/><item><title>供应商维护应用程序</title><link>https://www.wavelet.net/zh/applets/supplier-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/supplier-maintenance-applet/</guid><description>
 &lt;h2>执行摘要&lt;span class="hx:absolute hx:-mt-20" id="执行摘要">&lt;/span>
 &lt;a href="#%e6%89%a7%e8%a1%8c%e6%91%98%e8%a6%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>供应商维护应用程序是BigLedger中所有供应商和采购商信息的中央存储库，是一个关键核心模块组件。这个综合供应商主数据管理系统支持采购运营、应付账款流程和跨所有业务模块的供应商关系管理。凭借管理多达500,000个供应商、实时同步和广泛集成点的能力，这个应用程序构成了高效供应链运营的骨干。&lt;/p>
 &lt;p>&lt;strong>关键业务收益：&lt;/strong>&lt;/p>
@@ -223,21 +223,21 @@
 &lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 客户主数据&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/inv-item-maintenance-applet/" >库存项目维护应用程序&lt;/a>&lt;/strong> - 供应商产品关系&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 供应商税务设置&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 客户主数据&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/inv-item-maintenance-applet/" >库存项目维护应用程序&lt;/a>&lt;/strong> - 供应商产品关系&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 供应商税务设置&lt;/li>
 &lt;/ul>
 &lt;h3>采购应用程序&lt;span class="hx:absolute hx:-mt-20" id="采购应用程序">&lt;/span>
 &lt;a href="#%e9%87%87%e8%b4%ad%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/purchase-order-applet/" >采购订单应用程序&lt;/a>&lt;/strong> - 供应商订单处理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/purchase-requisition-applet/" >采购申请应用程序&lt;/a>&lt;/strong> - 采购请求&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/supplier-portal-applet/" >供应商门户应用程序&lt;/a>&lt;/strong> - 供应商自助服务&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/purchase-order-applet/" >采购订单应用程序&lt;/a>&lt;/strong> - 供应商订单处理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/purchase-requisition-applet/" >采购申请应用程序&lt;/a>&lt;/strong> - 采购请求&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/supplier-portal-applet/" >供应商门户应用程序&lt;/a>&lt;/strong> - 供应商自助服务&lt;/li>
 &lt;/ul>
 &lt;h3>财务应用程序&lt;span class="hx:absolute hx:-mt-20" id="财务应用程序">&lt;/span>
 &lt;a href="#%e8%b4%a2%e5%8a%a1%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/accounts-payable-applet/" >应付账款应用程序&lt;/a>&lt;/strong> - 供应商付款&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/payment-processing-applet/" >付款处理应用程序&lt;/a>&lt;/strong> - 供应商付款&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/expense-management-applet/" >费用管理应用程序&lt;/a>&lt;/strong> - 供应商费用&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/accounts-payable-applet/" >应付账款应用程序&lt;/a>&lt;/strong> - 供应商付款&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/payment-processing-applet/" >付款处理应用程序&lt;/a>&lt;/strong> - 供应商付款&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/expense-management-applet/" >费用管理应用程序&lt;/a>&lt;/strong> - 供应商费用&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>

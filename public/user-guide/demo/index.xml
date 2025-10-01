@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Interactive Demo Platform</title><link>https://www.bigledger.com/user-guide/demo/</link><description>Recent content in Interactive Demo Platform on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/user-guide/demo/index.xml" rel="self" type="application/rss+xml"/><item><title>Common Business Workflows</title><link>https://www.bigledger.com/user-guide/demo/common-workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/common-workflows/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Interactive Demo Platform</title><link>https://www.wavelet.net/user-guide/demo/</link><description>Recent content in Interactive Demo Platform on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/user-guide/demo/index.xml" rel="self" type="application/rss+xml"/><item><title>Common Business Workflows</title><link>https://www.wavelet.net/user-guide/demo/common-workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/common-workflows/</guid><description>
 &lt;p>This guide provides detailed, step-by-step workflows for the most common business processes in BigLedger. These workflows are industry-agnostic and apply to businesses of all sizes and types.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
@@ -1182,7 +1182,7 @@ role="tabpanel">&lt;p>&lt;strong>Step 3: Complete Reconciliation&lt;/strong>&lt;
 &lt;li>&lt;strong>Consult User Permissions&lt;/strong>: Verify you have access to required modules and functions&lt;/li>
 &lt;li>&lt;strong>Contact Support&lt;/strong>: Use the in-system help chat or submit a support ticket&lt;/li>
 &lt;/ol>
-&lt;p>For additional training materials and video demonstrations of these workflows, visit the &lt;a href="https://www.bigledger.com/user-guide/getting-started/" >Training Resources&lt;/a> section.&lt;/p></description></item><item><title>Consumer Electronics Retail Demo</title><link>https://www.bigledger.com/user-guide/demo/retail/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/retail/</guid><description>
+&lt;p>For additional training materials and video demonstrations of these workflows, visit the &lt;a href="https://www.wavelet.net/user-guide/getting-started/" >Training Resources&lt;/a> section.&lt;/p></description></item><item><title>Consumer Electronics Retail Demo</title><link>https://www.wavelet.net/user-guide/demo/retail/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/retail/</guid><description>
 &lt;p>Experience BigLedger&amp;rsquo;s specialized consumer electronics retail capabilities through realistic scenarios that address the unique challenges of electronics retailers. This comprehensive demo covers serial number tracking, warranty management, service center operations, and complex pricing strategies.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -2497,20 +2497,20 @@ role="tabpanel">&lt;p>&lt;strong>Technology &amp;amp; Digital Performance&lt;/st
 &lt;a href="#get-help" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
 &lt;li>&lt;strong>Live Chat&lt;/strong>: Available in demo environment&lt;/li>
 &lt;li>&lt;strong>Email Support&lt;/strong>: &lt;a href="mailto:demo@bigledger.com" >demo@bigledger.com&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Documentation&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/" >Full User Guide&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Documentation&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/" >Full User Guide&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Video Tutorials&lt;/strong>: &lt;a href="https://academy.bigledger.com" target="_blank" rel="noopener">BigLedger Academy&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>Continue Learning&lt;span class="hx:absolute hx:-mt-20" id="continue-learning">&lt;/span>
 &lt;a href="#continue-learning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>Advanced Inventory Management&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/inventory/" >Detailed Guide&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Customer Relationship Management&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/crm/" >CRM Documentation&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Financial Reporting&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/accounting/" >Accounting Guide&lt;/a>&lt;/li>
-&lt;li>&lt;strong>E-commerce Integration&lt;/strong>: &lt;a href="https://www.bigledger.com/developer-docs/integrations/" >Integration Docs&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Advanced Inventory Management&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/inventory/" >Detailed Guide&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Customer Relationship Management&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/crm/" >CRM Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Financial Reporting&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/accounting/" >Accounting Guide&lt;/a>&lt;/li>
+&lt;li>&lt;strong>E-commerce Integration&lt;/strong>: &lt;a href="https://www.wavelet.net/developer-docs/integrations/" >Integration Docs&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;a
-href="https://www.bigledger.com/user-guide/demo/manufacturing/"
+href="https://www.wavelet.net/user-guide/demo/manufacturing/"
 class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200"
->Continue with Manufacturing Demo&lt;/a></description></item><item><title>Getting Started with Demo</title><link>https://www.bigledger.com/user-guide/demo/getting-started-demo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/getting-started-demo/</guid><description>
+>Continue with Manufacturing Demo&lt;/a></description></item><item><title>Getting Started with Demo</title><link>https://www.wavelet.net/user-guide/demo/getting-started-demo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/getting-started-demo/</guid><description>
 &lt;p>Welcome to your BigLedger demo journey! This guide will help you get comfortable with the platform before exploring industry-specific workflows.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -3164,7 +3164,7 @@ A: Click the (?) icon on any page or press F1 for contextual help.&lt;/p>
 &lt;a href="#youve-completed-the-basics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Now you&amp;rsquo;re ready to explore:&lt;/p>
 &lt;ol>
 &lt;li>
-&lt;p>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/demo/common-workflows/" >Common Business Workflows&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/demo/common-workflows/" >Common Business Workflows&lt;/a>&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Learn standard business processes&lt;/li>
 &lt;li>Master financial operations&lt;/li>
@@ -3173,10 +3173,10 @@ A: Click the (?) icon on any page or press F1 for contextual help.&lt;/p>
 &lt;li>
 &lt;p>&lt;strong>Industry-Specific Demos&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/demo/retail/" >Retail&lt;/a> - POS and inventory&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/demo/manufacturing/" >Manufacturing&lt;/a> - Production workflows&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/demo/services/" >Services&lt;/a> - Project management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/demo/food-beverage/" >F&amp;amp;B&lt;/a> - Restaurant operations&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/demo/retail/" >Retail&lt;/a> - POS and inventory&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/demo/manufacturing/" >Manufacturing&lt;/a> - Production workflows&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/demo/services/" >Services&lt;/a> - Project management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/demo/food-beverage/" >F&amp;amp;B&lt;/a> - Restaurant operations&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -3256,7 +3256,7 @@ role="tabpanel">&lt;p>&lt;strong>Learning Materials&lt;/strong>&lt;/p>
 &lt;li>&lt;input disabled="" type="checkbox"> Completed practice exercises&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Ready for industry demos&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>Congratulations!&lt;/strong> You&amp;rsquo;re now ready to explore BigLedger&amp;rsquo;s full capabilities through our industry-specific demo guides.&lt;/p></description></item><item><title>Apparel &amp; Fashion Retail Demo</title><link>https://www.bigledger.com/user-guide/demo/apparel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/apparel/</guid><description>
+&lt;p>&lt;strong>Congratulations!&lt;/strong> You&amp;rsquo;re now ready to explore BigLedger&amp;rsquo;s full capabilities through our industry-specific demo guides.&lt;/p></description></item><item><title>Apparel &amp; Fashion Retail Demo</title><link>https://www.wavelet.net/user-guide/demo/apparel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/apparel/</guid><description>
 &lt;p>Master BigLedger&amp;rsquo;s specialized apparel and fashion retail capabilities through realistic scenarios that address the unique challenges of fashion retailers. This comprehensive demo covers size/color matrix management, seasonal inventory planning, trend analytics, and complex fashion-specific business processes.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -4131,15 +4131,15 @@ target="_blank" rel="noreferrer">Launch Fashion Demo&lt;/a>
 &lt;h2>📚 Continue Learning&lt;span class="hx:absolute hx:-mt-20" id="-continue-learning">&lt;/span>
 &lt;a href="#-continue-learning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Related Fashion Resources&lt;span class="hx:absolute hx:-mt-20" id="related-fashion-resources">&lt;/span>
 &lt;a href="#related-fashion-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>Advanced Inventory Management&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/inventory/" >Matrix and Seasonal Planning Guide&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Customer Experience&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/crm/" >Fashion CRM and Styling Services&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Financial Management&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/accounting/" >Open-to-Buy and Margin Optimization&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Visual Merchandising&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/operations/" >Store Operations and Planogram Management&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Advanced Inventory Management&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/inventory/" >Matrix and Seasonal Planning Guide&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Customer Experience&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/crm/" >Fashion CRM and Styling Services&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Financial Management&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/accounting/" >Open-to-Buy and Margin Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Visual Merchandising&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/operations/" >Store Operations and Planogram Management&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;a
-href="https://www.bigledger.com/user-guide/demo/services/"
+href="https://www.wavelet.net/user-guide/demo/services/"
 class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200"
->Explore University Demo&lt;/a></description></item><item><title>Distributors B2B Demo</title><link>https://www.bigledger.com/user-guide/demo/distributors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/distributors/</guid><description>
+>Explore University Demo&lt;/a></description></item><item><title>Distributors B2B Demo</title><link>https://www.wavelet.net/user-guide/demo/distributors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/distributors/</guid><description>
 &lt;p>Master BigLedger&amp;rsquo;s comprehensive distribution management capabilities through realistic B2B scenarios that address the complex challenges of wholesale operations. This demo covers multi-tier pricing, credit management, logistics optimization, and advanced vendor relationships.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -4995,15 +4995,15 @@ target="_blank" rel="noreferrer">Launch Distribution Demo&lt;/a>
 &lt;h2>📚 Continue Learning&lt;span class="hx:absolute hx:-mt-20" id="-continue-learning">&lt;/span>
 &lt;a href="#-continue-learning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>Advanced B2B Integration&lt;/strong>: &lt;a href="https://www.bigledger.com/developer-docs/integrations/" >EDI and API Documentation&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Financial Management&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/accounting/" >Accounting and Credit Control Guide&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Inventory Optimization&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/inventory/" >Warehouse Management Best Practices&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Customer Portal Setup&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/crm/" >B2B Portal Configuration Guide&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Advanced B2B Integration&lt;/strong>: &lt;a href="https://www.wavelet.net/developer-docs/integrations/" >EDI and API Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Financial Management&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/accounting/" >Accounting and Credit Control Guide&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Inventory Optimization&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/inventory/" >Warehouse Management Best Practices&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Customer Portal Setup&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/crm/" >B2B Portal Configuration Guide&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;a
-href="https://www.bigledger.com/user-guide/demo/apparel/"
+href="https://www.wavelet.net/user-guide/demo/apparel/"
 class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200"
->Explore Apparel Retail Demo&lt;/a></description></item><item><title>Role-Based Demo Journeys</title><link>https://www.bigledger.com/user-guide/demo/role-based/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/role-based/</guid><description>
+>Explore Apparel Retail Demo&lt;/a></description></item><item><title>Role-Based Demo Journeys</title><link>https://www.wavelet.net/user-guide/demo/role-based/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/role-based/</guid><description>
 &lt;p>Experience BigLedger&amp;rsquo;s strategic value through executive-focused demo journeys designed for key decision makers. Each journey demonstrates specific business outcomes, ROI metrics, and integration capabilities relevant to your role.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -5024,13 +5024,13 @@ Finance Management • Operations Excellence • Executive Dashboards • Strate
 &lt;a href="#-choose-your-role" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Select your role below to access tailored demo scenarios focusing on your specific objectives, pain points, and success metrics:&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/demo/role-based/finance-manager/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/demo/role-based/finance-manager/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">💰 Finance Manager&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Financial reporting, cash flow management, compliance, audit trails, multi-company consolidation&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/demo/role-based/operations-manager/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/demo/role-based/operations-manager/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">⚙️ Operations Manager&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Process optimization, inventory management, supply chain, performance metrics, resource allocation&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/demo/role-based/ceo-executive/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/demo/role-based/ceo-executive/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">📊 CEO &amp;amp; Executives&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Strategic dashboards, KPIs, business intelligence, growth analytics, profitability analysis&lt;/div>&lt;/a>
 &lt;/div>
 &lt;hr>
@@ -5213,9 +5213,9 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 target="_blank" rel="noreferrer">Access Demo Environment&lt;/a>
 &lt;h3>Quick Access Links&lt;span class="hx:absolute hx:-mt-20" id="quick-access-links">&lt;/span>
 &lt;a href="#quick-access-links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>💰 &lt;a href="https://www.bigledger.com/user-guide/demo/role-based/finance-manager/" >Finance Manager Journey&lt;/a> - Financial management and compliance focus&lt;/li>
-&lt;li>⚙️ &lt;a href="https://www.bigledger.com/user-guide/demo/role-based/operations-manager/" >Operations Manager Journey&lt;/a> - Process optimization and efficiency focus&lt;/li>
-&lt;li>📊 &lt;a href="https://www.bigledger.com/user-guide/demo/role-based/ceo-executive/" >CEO/Executive Journey&lt;/a> - Strategic dashboards and analytics focus&lt;/li>
+&lt;li>💰 &lt;a href="https://www.wavelet.net/user-guide/demo/role-based/finance-manager/" >Finance Manager Journey&lt;/a> - Financial management and compliance focus&lt;/li>
+&lt;li>⚙️ &lt;a href="https://www.wavelet.net/user-guide/demo/role-based/operations-manager/" >Operations Manager Journey&lt;/a> - Process optimization and efficiency focus&lt;/li>
+&lt;li>📊 &lt;a href="https://www.wavelet.net/user-guide/demo/role-based/ceo-executive/" >CEO/Executive Journey&lt;/a> - Strategic dashboards and analytics focus&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>🤝 Executive Demo Support&lt;span class="hx:absolute hx:-mt-20" id="-executive-demo-support">&lt;/span>
@@ -5233,7 +5233,7 @@ target="_blank" rel="noreferrer">Access Demo Environment&lt;/a>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Executive Package&lt;/strong>: Mention &amp;ldquo;EXEC-DEMO&amp;rdquo; for priority scheduling and dedicated solution architect support.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Manufacturing Industry Demo</title><link>https://www.bigledger.com/user-guide/demo/manufacturing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/manufacturing/</guid><description>
+&lt;/div></description></item><item><title>Manufacturing Industry Demo</title><link>https://www.wavelet.net/user-guide/demo/manufacturing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/manufacturing/</guid><description>
 &lt;p>Experience BigLedger&amp;rsquo;s manufacturing capabilities through realistic production scenarios. This demo covers the complete manufacturing lifecycle from BOM setup to finished goods delivery.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -6906,7 +6906,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Next Steps&lt;/strong>: After completing this demo, schedule a personalized consultation to discuss your specific manufacturing requirements and implementation timeline.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>University &amp; Education Demo</title><link>https://www.bigledger.com/user-guide/demo/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/education/</guid><description>
+&lt;/div></description></item><item><title>University &amp; Education Demo</title><link>https://www.wavelet.net/user-guide/demo/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/education/</guid><description>
 &lt;p>Transform your educational institution with BigLedger&amp;rsquo;s comprehensive academic and administrative management system. This demo showcases real-world scenarios for universities, colleges, schools, and educational organizations covering student services, academic operations, and institutional management.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -7690,15 +7690,15 @@ target="_blank" rel="noreferrer">Launch University Demo&lt;/a>
 &lt;h2>📚 Continue Learning&lt;span class="hx:absolute hx:-mt-20" id="-continue-learning">&lt;/span>
 &lt;a href="#-continue-learning" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Related Education Resources&lt;span class="hx:absolute hx:-mt-20" id="related-education-resources">&lt;/span>
 &lt;a href="#related-education-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>Advanced Grant Management&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/grants/" >Research Administration Guide&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Student Information Systems&lt;/strong>: &lt;a href="https://www.bigledger.com/developer-docs/integrations/" >SIS Integration Documentation&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Financial Reporting&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/accounting/" >Higher Education Accounting Standards&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Campus Operations&lt;/strong>: &lt;a href="https://www.bigledger.com/user-guide/operations/" >Auxiliary Services Management&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Advanced Grant Management&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/grants/" >Research Administration Guide&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Student Information Systems&lt;/strong>: &lt;a href="https://www.wavelet.net/developer-docs/integrations/" >SIS Integration Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Financial Reporting&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/accounting/" >Higher Education Accounting Standards&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Campus Operations&lt;/strong>: &lt;a href="https://www.wavelet.net/user-guide/operations/" >Auxiliary Services Management&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;a
-href="https://www.bigledger.com/user-guide/demo/"
+href="https://www.wavelet.net/user-guide/demo/"
 class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200"
->Back to Demo Overview&lt;/a></description></item><item><title>Professional Services Demo</title><link>https://www.bigledger.com/user-guide/demo/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/services/</guid><description>
+>Back to Demo Overview&lt;/a></description></item><item><title>Professional Services Demo</title><link>https://www.wavelet.net/user-guide/demo/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/services/</guid><description>
 &lt;p>Transform your professional services business with BigLedger&amp;rsquo;s comprehensive project-based workflow system. This demo showcases real-world scenarios for consulting firms, IT service providers, marketing agencies, and other professional service organizations.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -8994,7 +8994,7 @@ target="_blank" rel="noreferrer">Launch Services Demo&lt;/a>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Professional Services Package&lt;/strong>: Ask about our specialized implementation package designed specifically for consulting firms, agencies, and professional service providers.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Food &amp; Beverage Industry Demo</title><link>https://www.bigledger.com/user-guide/demo/food-beverage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/food-beverage/</guid><description>
+&lt;/div></description></item><item><title>Food &amp; Beverage Industry Demo</title><link>https://www.wavelet.net/user-guide/demo/food-beverage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/food-beverage/</guid><description>
 &lt;p>Experience BigLedger&amp;rsquo;s comprehensive Food &amp;amp; Beverage management capabilities through real restaurant scenarios. This demo covers everything from table reservations to kitchen operations, recipe costing, and multi-outlet management.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -11183,10 +11183,10 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 &lt;hr>
 &lt;h3>Additional Resources&lt;span class="hx:absolute hx:-mt-20" id="additional-resources">&lt;/span>
 &lt;a href="#additional-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>📚 &lt;a href="https://www.bigledger.com/user-guide/industries/food-beverage/" >F&amp;amp;B Best Practices Guide&lt;/a>&lt;/li>
-&lt;li>🎓 &lt;a href="https://www.bigledger.com/user-guide/training/" >Training Materials&lt;/a>&lt;/li>
-&lt;li>📞 &lt;a href="https://www.bigledger.com/support/" >Support Documentation&lt;/a>&lt;/li>
-&lt;li>💡 &lt;a href="https://www.bigledger.com/success-stories/food-beverage/" >F&amp;amp;B Case Studies&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://www.wavelet.net/user-guide/industries/food-beverage/" >F&amp;amp;B Best Practices Guide&lt;/a>&lt;/li>
+&lt;li>🎓 &lt;a href="https://www.wavelet.net/user-guide/training/" >Training Materials&lt;/a>&lt;/li>
+&lt;li>📞 &lt;a href="https://www.wavelet.net/support/" >Support Documentation&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://www.wavelet.net/success-stories/food-beverage/" >F&amp;amp;B Case Studies&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>

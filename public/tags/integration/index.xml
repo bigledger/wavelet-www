@@ -1,15 +1,15 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Integration</title><link>https://www.bigledger.com/tags/integration/</link><description>Recent content in Integration on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/integration/index.xml" rel="self" type="application/rss+xml"/><item><title>2.0 Website Configuration﻿</title><link>https://www.bigledger.com/modules/ecommerce/20-website-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/20-website-configuration/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Integration</title><link>https://www.wavelet.net/tags/integration/</link><description>Recent content in Integration on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/integration/index.xml" rel="self" type="application/rss+xml"/><item><title>2.0 Website Configuration﻿</title><link>https://www.wavelet.net/modules/ecommerce/20-website-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/20-website-configuration/</guid><description>
 &lt;h1>2.0 Website Configuration﻿&lt;/h1>&lt;p>&lt;strong>Page ID&lt;/strong>: 3187343370
 &lt;strong>Last Updated&lt;/strong>: 2024-11-17T11:07:01.283Z&lt;/p>
 &lt;h2>2.1 Setting Up Your Website﻿&lt;span class="hx:absolute hx:-mt-20" id="21-setting-up-your-website">&lt;/span>
 &lt;a href="#21-setting-up-your-website" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>CP-Commerce offers a user-friendly interface for configuring your website. Refer to the Website Configuration section for detailed instructions on setting up and customizing your website.&lt;/p>
 &lt;h2>2.2 Customizing Website Content﻿&lt;span class="hx:absolute hx:-mt-20" id="22-customizing-website-content">&lt;/span>
-&lt;a href="#22-customizing-website-content" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Learn how to tailor your website&amp;rsquo;s content, including product listings, images, descriptions, and pricing, to create an appealing online shopping experience for your customers.&lt;/p></description></item><item><title>B2B</title><link>https://www.bigledger.com/modules/ecommerce/b2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/b2b/</guid><description>
+&lt;a href="#22-customizing-website-content" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Learn how to tailor your website&amp;rsquo;s content, including product listings, images, descriptions, and pricing, to create an appealing online shopping experience for your customers.&lt;/p></description></item><item><title>B2B</title><link>https://www.wavelet.net/modules/ecommerce/b2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/b2b/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3153822181
-&lt;strong>Last Updated&lt;/strong>: 2021-06-05T09:01:05.690Z&lt;/p></description></item><item><title>CP-Commerce</title><link>https://www.bigledger.com/modules/ecommerce/cp-commerce/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/cp-commerce/</guid><description>
+&lt;strong>Last Updated&lt;/strong>: 2021-06-05T09:01:05.690Z&lt;/p></description></item><item><title>CP-Commerce</title><link>https://www.wavelet.net/modules/ecommerce/cp-commerce/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/cp-commerce/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3153887626
 &lt;strong>Last Updated&lt;/strong>: 2024-11-17T11:04:53.671Z
-The CP-Commerce Module is a powerful solution designed to help businesses offer products and services online. It serves as an integrated platform that combines eCommerce capabilities with central data management and seamless integration with various other business systems. By eliminating duplicated data entry and providing operational data lake functionality, CP-Commerce empowers businesses to establish a robust online presence and grow their operations.&lt;/p></description></item><item><title>Create Single Tab</title><link>https://www.bigledger.com/modules/ecommerce/create-single-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/create-single-tab/</guid><description>
+The CP-Commerce Module is a powerful solution designed to help businesses offer products and services online. It serves as an integrated platform that combines eCommerce capabilities with central data management and seamless integration with various other business systems. By eliminating duplicated data entry and providing operational data lake functionality, CP-Commerce empowers businesses to establish a robust online presence and grow their operations.&lt;/p></description></item><item><title>Create Single Tab</title><link>https://www.wavelet.net/modules/ecommerce/create-single-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/create-single-tab/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191946
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T06:09:58.079Z
 Create - used for syncing the chosen item into a marketplace store. Create consist of 2 types :
@@ -20,7 +20,7 @@ Once the Store is chosen user will have to choose category:
 2. Item Tab - is used to select the current item that you are editing and want to sync to marketplace:
 Once the store and the category has been chosen user has to press &amp;ldquo;start listing&amp;rdquo; button which will bring to the summary page :
 User must click on the item and fill up all the attribute details:
-Once user complete filling up attribute details they may click on &amp;ldquo;Submit&amp;rdquo; button in order to sync to the marketplace.&lt;/p></description></item><item><title>EcomSync Applet</title><link>https://www.bigledger.com/modules/ecommerce/ecomsync-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/ecomsync-applet/</guid><description>
+Once user complete filling up attribute details they may click on &amp;ldquo;Submit&amp;rdquo; button in order to sync to the marketplace.&lt;/p></description></item><item><title>EcomSync Applet</title><link>https://www.wavelet.net/modules/ecommerce/ecomsync-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/ecomsync-applet/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3259346357
 &lt;strong>Last Updated&lt;/strong>: 2021-07-23T05:51:22.732Z
 Table of Content
@@ -36,7 +36,7 @@ Main Dashboard
 Sales Dashboard
 Order Dashboard
 Settings
-Integration with Shopify&lt;/p></description></item><item><title>Ecomsync Features</title><link>https://www.bigledger.com/modules/ecommerce/ecomsync-features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/ecomsync-features/</guid><description>
+Integration with Shopify&lt;/p></description></item><item><title>Ecomsync Features</title><link>https://www.wavelet.net/modules/ecommerce/ecomsync-features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/ecomsync-features/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3299247174
 &lt;strong>Last Updated&lt;/strong>: 2021-07-19T02:40:30.908Z
 Readiness Status: 5 - Best possibleGreen 4 - optimalYellow 3 - averageBlue 2 - sub optimalPurple 1 - worst possibleRed
@@ -155,15 +155,15 @@ Attributes and category management from Magento to Ecomsync
 Stock / order fulfilment
 Order management (Create Consignment Note, invoice etc)
 44Audit Trail
-45Stock fulfillment&lt;/p></description></item><item><title>Integration with Shopify</title><link>https://www.bigledger.com/modules/ecommerce/integration-with-shopify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/integration-with-shopify/</guid><description>
+45Stock fulfillment&lt;/p></description></item><item><title>Integration with Shopify</title><link>https://www.wavelet.net/modules/ecommerce/integration-with-shopify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/integration-with-shopify/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3292758065
 &lt;strong>Last Updated&lt;/strong>: 2021-07-15T07:56:28.266Z
-steps,..&lt;/p></description></item><item><title>Introduction to EcomSync</title><link>https://www.bigledger.com/modules/ecommerce/introduction-to-ecomsync/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/introduction-to-ecomsync/</guid><description>
+steps,..&lt;/p></description></item><item><title>Introduction to EcomSync</title><link>https://www.wavelet.net/modules/ecommerce/introduction-to-ecomsync/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/introduction-to-ecomsync/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196485958
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T01:46:53.953Z&lt;/p>
 &lt;h2>Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction">&lt;/span>
 &lt;a href="#introduction" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>EcomSync Applet is an applet whereby users can organize and manage their items/products, orders and view their marketplace performances. The aim of EcomSync Applet is to equip users with the understanding of managing their marketplace aspects.&lt;/p>
-&lt;p>&lt;img src="https://www.bigledger.com/diagrams/ecomsync-integration-flow.svg" alt="EcomSync Integration Flow" loading="lazy" />
+&lt;p>&lt;img src="https://www.wavelet.net/diagrams/ecomsync-integration-flow.svg" alt="EcomSync Integration Flow" loading="lazy" />
 &lt;em>Figure 1: EcomSync Integration Architecture - connecting BigLedger with major Malaysian marketplaces&lt;/em>&lt;/p>
 &lt;p>You are able to experience many benefits from the applet such as from a management perspective, EcomSync provides better and feasible control of your seller shops. You are able to simultaneously sync items into multiple seller accounts. Other than that, EcomSync acts as a pacemaker which you can manage order and its status and can link with your Enterprise Management Portal (EMP) that makes your product management process easier.&lt;/p>
 &lt;h2>Prerequisites&lt;span class="hx:absolute hx:-mt-20" id="prerequisites">&lt;/span>
@@ -174,18 +174,18 @@ steps,..&lt;/p></description></item><item><title>Introduction to EcomSync</title
 &lt;li>&lt;strong>Real-time Synchronization&lt;/strong>: Inventory, prices, and orders sync automatically&lt;/li>
 &lt;li>&lt;strong>Malaysian E-commerce Support&lt;/strong>: Built for local payment methods and shipping&lt;/li>
 &lt;li>&lt;strong>Centralized Control&lt;/strong>: Manage all your online sales from one dashboard&lt;/li>
-&lt;/ul></description></item><item><title>Listing</title><link>https://www.bigledger.com/modules/ecommerce/listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/listing/</guid><description>
+&lt;/ul></description></item><item><title>Listing</title><link>https://www.wavelet.net/modules/ecommerce/listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/listing/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196846319
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T02:06:35.534Z
 Listing shows all your Items that are synced from EMP and Marketplace. Inside the listing the item can be 2 levels, where by the first level is the one that is synced from EMP or the one that user created themselves, and the 2nd level shows the items that were synced to marketplace:
-User may customize the AG-Grid listing, where by they can move around and filter the headers of the listing.&lt;/p></description></item><item><title>Marketplace Tab</title><link>https://www.bigledger.com/modules/ecommerce/marketplace-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/marketplace-tab/</guid><description>
+User may customize the AG-Grid listing, where by they can move around and filter the headers of the listing.&lt;/p></description></item><item><title>Marketplace Tab</title><link>https://www.wavelet.net/modules/ecommerce/marketplace-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/marketplace-tab/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191832
 &lt;strong>Last Updated&lt;/strong>: 2021-07-23T05:24:07.943Z
 Marketplace Tab is used for the Users to Create, Edit, Update and Delete the Items to be sync into the marketplace. This section will let you select the Item Type to be displayed in the Marketplace.
-Click Save. - For this Module each time edit the Item detail throughout the tabs &amp;ldquo;MUST CLICK SAVE&amp;rdquo;.&lt;/p></description></item><item><title>Update and Delete Item</title><link>https://www.bigledger.com/modules/ecommerce/update-and-delete-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/ecommerce/update-and-delete-item/</guid><description>
+Click Save. - For this Module each time edit the Item detail throughout the tabs &amp;ldquo;MUST CLICK SAVE&amp;rdquo;.&lt;/p></description></item><item><title>Update and Delete Item</title><link>https://www.wavelet.net/modules/ecommerce/update-and-delete-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/ecommerce/update-and-delete-item/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191957
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T06:15:40.294Z
-Update/Delete Item - when user want to update or delete the item that was sync to the marketplace they will have to go to &amp;ldquo;Marketplace Tab&amp;rdquo; select the store from the current listing and update/delete the item:&lt;/p></description></item><item><title>Webhook Applet</title><link>https://www.bigledger.com/applets/webhook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/webhook-applet/</guid><description>
+Update/Delete Item - when user want to update or delete the item that was sync to the marketplace they will have to go to &amp;ldquo;Marketplace Tab&amp;rdquo; select the store from the current listing and update/delete the item:&lt;/p></description></item><item><title>Webhook Applet</title><link>https://www.wavelet.net/applets/webhook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/webhook-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Webhook Applet is a critical Core Module integration component that enables real-time event notifications and seamless communication between BigLedger and external systems. This applet provides comprehensive webhook management, event-driven notifications, and API integration capabilities that support automated workflows and system synchronization.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -398,21 +398,21 @@ Update/Delete Item - when user want to update or delete the item that was sync t
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/workflow-design-applet/" >Workflow Design Applet&lt;/a>&lt;/strong> - Workflow-triggered webhooks&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - Security and access management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/process-monitoring-applet/" >Process Monitoring Applet&lt;/a>&lt;/strong> - Integration monitoring&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/workflow-design-applet/" >Workflow Design Applet&lt;/a>&lt;/strong> - Workflow-triggered webhooks&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - Security and access management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/process-monitoring-applet/" >Process Monitoring Applet&lt;/a>&lt;/strong> - Integration monitoring&lt;/li>
 &lt;/ul>
 &lt;h3>Integration Applets&lt;span class="hx:absolute hx:-mt-20" id="integration-applets">&lt;/span>
 &lt;a href="#integration-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/api-management-applet/" >API Management Applet&lt;/a>&lt;/strong> - API endpoint management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/data-sync-applet/" >Data Synchronization Applet&lt;/a>&lt;/strong> - Data synchronization&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/external-system-applet/" >External System Applet&lt;/a>&lt;/strong> - Third-party system management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/api-management-applet/" >API Management Applet&lt;/a>&lt;/strong> - API endpoint management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/data-sync-applet/" >Data Synchronization Applet&lt;/a>&lt;/strong> - Data synchronization&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/external-system-applet/" >External System Applet&lt;/a>&lt;/strong> - Third-party system management&lt;/li>
 &lt;/ul>
 &lt;h3>Communication Applets&lt;span class="hx:absolute hx:-mt-20" id="communication-applets">&lt;/span>
 &lt;a href="#communication-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/notification-applet/" >Notification Applet&lt;/a>&lt;/strong> - Internal notifications&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/email-integration-applet/" >Email Integration Applet&lt;/a>&lt;/strong> - Email system integration&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sms-gateway-applet/" >SMS Gateway Applet&lt;/a>&lt;/strong> - SMS notifications&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/notification-applet/" >Notification Applet&lt;/a>&lt;/strong> - Internal notifications&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/email-integration-applet/" >Email Integration Applet&lt;/a>&lt;/strong> - Email system integration&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/sms-gateway-applet/" >SMS Gateway Applet&lt;/a>&lt;/strong> - SMS notifications&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -568,7 +568,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Security Notice&lt;/strong>: Webhooks transmit sensitive business data to external systems. Always implement proper authentication, encryption, and access controls to protect your data.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Related Applets - Stock Balance</title><link>https://www.bigledger.com/applets/related-applets-stock-balance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/related-applets-stock-balance/</guid><description>
+&lt;/div></description></item><item><title>Related Applets - Stock Balance</title><link>https://www.wavelet.net/applets/related-applets-stock-balance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/related-applets-stock-balance/</guid><description>
 &lt;h3>The stock balance applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-stock-balance-applet-can-import-lines-from-the-following-applets">&lt;/span>
 &lt;a href="#the-stock-balance-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Organisation Applet
 Item (inv) Maintenance Applet
@@ -605,17 +605,17 @@ Stock Adjustment Applet
 Internal Sales Goods Received Note Applet
 Internal Purchase Goods Received Note Applet
 Internal Sales Goods Issue Note Applet
-Internal Purchase Goods Issue Note Applet&lt;/p></description></item><item><title>Related Applets - Internal Job Order</title><link>https://www.bigledger.com/applets/related-applets-internal-job-order/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/related-applets-internal-job-order/</guid><description>
+Internal Purchase Goods Issue Note Applet&lt;/p></description></item><item><title>Related Applets - Internal Job Order</title><link>https://www.wavelet.net/applets/related-applets-internal-job-order/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/related-applets-internal-job-order/</guid><description>
 &lt;h3>The internal job order applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-job-order-applet-can-import-lines-from-the-following-applets">&lt;/span>
 &lt;a href="#the-internal-job-order-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h3>The information in internal pecking order applet, is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-information-in-internal-pecking-order-applet-is-used-by-which-applets">&lt;/span>
-&lt;a href="#the-information-in-internal-pecking-order-applet-is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3></description></item><item><title>Related Applets - Internal Stock Adjustment</title><link>https://www.bigledger.com/applets/related-applets-internal-stock-adjustment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/related-applets-internal-stock-adjustment/</guid><description>
+&lt;a href="#the-information-in-internal-pecking-order-applet-is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3></description></item><item><title>Related Applets - Internal Stock Adjustment</title><link>https://www.wavelet.net/applets/related-applets-internal-stock-adjustment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/related-applets-internal-stock-adjustment/</guid><description>
 &lt;h3>The Internal Stock Adjustment applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-stock-adjustment-applet-can-import-lines-from-the-following-applets">&lt;/span>
 &lt;a href="#the-internal-stock-adjustment-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Organisation Applet
 Item (inv) Maintenance Applet
 Doc Item Maintenance Applet
 Stock Balance Applet&lt;/p>
 &lt;h3>The Internal Stock Adjustment applet is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-internal-stock-adjustment-applet--is-used-by-which-applets">&lt;/span>
-&lt;a href="#the-internal-stock-adjustment-applet--is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Stock Balance Applet&lt;/p></description></item><item><title>Related Applets - Process Monitoring</title><link>https://www.bigledger.com/applets/related-applets-process-monitoring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/related-applets-process-monitoring/</guid><description>
+&lt;a href="#the-internal-stock-adjustment-applet--is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Stock Balance Applet&lt;/p></description></item><item><title>Related Applets - Process Monitoring</title><link>https://www.wavelet.net/applets/related-applets-process-monitoring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/related-applets-process-monitoring/</guid><description>
 &lt;h3>The process monitoring applet can import Lines from the following Applets:&lt;span class="hx:absolute hx:-mt-20" id="the-process-monitoring-applet-can-import-lines-from-the-following-applets">&lt;/span>
 &lt;a href="#the-process-monitoring-applet-can-import-lines-from-the-following-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h3>The information in process monitoring applet, is used by which applets:&lt;span class="hx:absolute hx:-mt-20" id="the-information-in-process-monitoring-applet-is-used-by-which-applets">&lt;/span>
 &lt;a href="#the-information-in-process-monitoring-applet-is-used-by-which-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3></description></item></channel></rss>

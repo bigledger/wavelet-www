@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Notifications</title><link>https://www.bigledger.com/tags/notifications/</link><description>Recent content in Notifications on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/notifications/index.xml" rel="self" type="application/rss+xml"/><item><title>Webhook Applet</title><link>https://www.bigledger.com/applets/webhook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/webhook-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Notifications</title><link>https://www.wavelet.net/tags/notifications/</link><description>Recent content in Notifications on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/notifications/index.xml" rel="self" type="application/rss+xml"/><item><title>Webhook Applet</title><link>https://www.wavelet.net/applets/webhook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/webhook-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Webhook Applet is a critical Core Module integration component that enables real-time event notifications and seamless communication between BigLedger and external systems. This applet provides comprehensive webhook management, event-driven notifications, and API integration capabilities that support automated workflows and system synchronization.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -211,21 +211,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/workflow-design-applet/" >Workflow Design Applet&lt;/a>&lt;/strong> - Workflow-triggered webhooks&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - Security and access management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/process-monitoring-applet/" >Process Monitoring Applet&lt;/a>&lt;/strong> - Integration monitoring&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/workflow-design-applet/" >Workflow Design Applet&lt;/a>&lt;/strong> - Workflow-triggered webhooks&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - Security and access management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/process-monitoring-applet/" >Process Monitoring Applet&lt;/a>&lt;/strong> - Integration monitoring&lt;/li>
 &lt;/ul>
 &lt;h3>Integration Applets&lt;span class="hx:absolute hx:-mt-20" id="integration-applets">&lt;/span>
 &lt;a href="#integration-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/api-management-applet/" >API Management Applet&lt;/a>&lt;/strong> - API endpoint management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/data-sync-applet/" >Data Synchronization Applet&lt;/a>&lt;/strong> - Data synchronization&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/external-system-applet/" >External System Applet&lt;/a>&lt;/strong> - Third-party system management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/api-management-applet/" >API Management Applet&lt;/a>&lt;/strong> - API endpoint management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/data-sync-applet/" >Data Synchronization Applet&lt;/a>&lt;/strong> - Data synchronization&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/external-system-applet/" >External System Applet&lt;/a>&lt;/strong> - Third-party system management&lt;/li>
 &lt;/ul>
 &lt;h3>Communication Applets&lt;span class="hx:absolute hx:-mt-20" id="communication-applets">&lt;/span>
 &lt;a href="#communication-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/notification-applet/" >Notification Applet&lt;/a>&lt;/strong> - Internal notifications&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/email-integration-applet/" >Email Integration Applet&lt;/a>&lt;/strong> - Email system integration&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sms-gateway-applet/" >SMS Gateway Applet&lt;/a>&lt;/strong> - SMS notifications&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/notification-applet/" >Notification Applet&lt;/a>&lt;/strong> - Internal notifications&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/email-integration-applet/" >Email Integration Applet&lt;/a>&lt;/strong> - Email system integration&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/sms-gateway-applet/" >SMS Gateway Applet&lt;/a>&lt;/strong> - SMS notifications&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>

@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# BigLedger Wiki Link Checker Script
+# Wavelet Website Link Checker Script
 # This script validates all links in the built site
 
 set -e
 
-echo "🔍 Checking links in the BigLedger Wiki..."
+echo "🔍 Checking links in the Wavelet Website..."
 
 # Colors
 RED='\033[0;31m'

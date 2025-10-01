@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Financial-Accounting</title><link>https://www.bigledger.com/zh/tags/financial-accounting/</link><description>Recent content in Financial-Accounting on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/financial-accounting/index.xml" rel="self" type="application/rss+xml"/><item><title>现金簿小程序</title><link>https://www.bigledger.com/zh/applets/cashbook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/cashbook-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Financial-Accounting</title><link>https://www.wavelet.net/zh/tags/financial-accounting/</link><description>Recent content in Financial-Accounting on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/financial-accounting/index.xml" rel="self" type="application/rss+xml"/><item><title>现金簿小程序</title><link>https://www.wavelet.net/zh/applets/cashbook-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/cashbook-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>现金簿小程序是核心模块的基础组件，管理BigLedger中的所有现金和银行账户操作。此小程序提供全面的现金管理、银行账户配置、付款方式设置和现金流跟踪，支持所有BigLedger模块的财务交易。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -211,21 +211,21 @@
 &lt;h2>相关小程序&lt;span class="hx:absolute hx:-mt-20" id="相关小程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块小程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块小程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/chart-of-account-applet/" >会计科目表小程序&lt;/a>&lt;/strong> - 账户结构集成&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 付款税务处理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织小程序&lt;/a>&lt;/strong> - 多地点现金管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/chart-of-account-applet/" >会计科目表小程序&lt;/a>&lt;/strong> - 账户结构集成&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 付款税务处理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/organization-applet/" >组织小程序&lt;/a>&lt;/strong> - 多地点现金管理&lt;/li>
 &lt;/ul>
 &lt;h3>财务小程序&lt;span class="hx:absolute hx:-mt-20" id="财务小程序">&lt;/span>
 &lt;a href="#%e8%b4%a2%e5%8a%a1%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/accounts-receivable-applet/" >应收账款小程序&lt;/a>&lt;/strong> - 客户付款处理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/accounts-payable-applet/" >应付账款小程序&lt;/a>&lt;/strong> - 供应商付款处理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/bank-reconciliation-applet/" >银行对账小程序&lt;/a>&lt;/strong> - 自动化对账&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/accounts-receivable-applet/" >应收账款小程序&lt;/a>&lt;/strong> - 客户付款处理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/accounts-payable-applet/" >应付账款小程序&lt;/a>&lt;/strong> - 供应商付款处理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/bank-reconciliation-applet/" >银行对账小程序&lt;/a>&lt;/strong> - 自动化对账&lt;/li>
 &lt;/ul>
 &lt;h3>交易处理小程序&lt;span class="hx:absolute hx:-mt-20" id="交易处理小程序">&lt;/span>
 &lt;a href="#%e4%ba%a4%e6%98%93%e5%a4%84%e7%90%86%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/payment-processing-applet/" >付款处理小程序&lt;/a>&lt;/strong> - 高级付款处理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/cash-flow-management-applet/" >现金流管理小程序&lt;/a>&lt;/strong> - 现金流分析&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/treasury-management-applet/" >资金管理小程序&lt;/a>&lt;/strong> - 企业资金&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/payment-processing-applet/" >付款处理小程序&lt;/a>&lt;/strong> - 高级付款处理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/cash-flow-management-applet/" >现金流管理小程序&lt;/a>&lt;/strong> - 现金流分析&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/treasury-management-applet/" >资金管理小程序&lt;/a>&lt;/strong> - 企业资金&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>
@@ -363,7 +363,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>安全关键&lt;/strong>：现金和银行操作需要严格的安全控制。实施适当的职责分离、审批工作流和审计跟踪，以防止欺诈并确保准确性。&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>总账小程序</title><link>https://www.bigledger.com/zh/applets/general-ledger-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/general-ledger-applet/</guid><description>
+&lt;/div></description></item><item><title>总账小程序</title><link>https://www.wavelet.net/zh/applets/general-ledger-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/general-ledger-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
@@ -399,9 +399,9 @@ title="Copy code"
 &lt;h2>集成点&lt;span class="hx:absolute hx:-mt-20" id="集成点">&lt;/span>
 &lt;a href="#%e9%9b%86%e6%88%90%e7%82%b9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块依赖&lt;span class="hx:absolute hx:-mt-20" id="核心模块依赖">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e4%be%9d%e8%b5%96" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/chart-of-account-applet/" >会计科目表小程序&lt;/a>&lt;/strong> - 账户结构基础&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 税务计算&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织小程序&lt;/a>&lt;/strong> - 多实体支持&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/chart-of-account-applet/" >会计科目表小程序&lt;/a>&lt;/strong> - 账户结构基础&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 税务计算&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/organization-applet/" >组织小程序&lt;/a>&lt;/strong> - 多实体支持&lt;/li>
 &lt;/ul>
 &lt;h2>相关小程序&lt;span class="hx:absolute hx:-mt-20" id="相关小程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>待办事项：记录相关小程序&lt;span class="hx:absolute hx:-mt-20" id="待办事项记录相关小程序">&lt;/span>
@@ -416,7 +416,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>文档状态&lt;/strong>：此小程序需要全面的文档，包括详细功能、配置指南、用例和实施示例。&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>科目表应用程序</title><link>https://www.bigledger.com/zh/applets/chart-of-account-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/chart-of-account-applet/</guid><description>
+&lt;/div></description></item><item><title>科目表应用程序</title><link>https://www.wavelet.net/zh/applets/chart-of-account-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/chart-of-account-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>科目表应用程序是BigLedger的财务基础，提供组织完整科目表结构的综合管理。这个核心模块应用程序定义了科目类别、层次结构和财务报表映射，支持每个BigLedger模块中的所有财务交易。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -622,20 +622,20 @@ title="Copy code"
 &lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 税务科目映射&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/cashbook-applet/" >现金簿应用程序&lt;/a>&lt;/strong> - 现金和银行科目&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司结构&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 税务科目映射&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/cashbook-applet/" >现金簿应用程序&lt;/a>&lt;/strong> - 现金和银行科目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司结构&lt;/li>
 &lt;/ul>
 &lt;h3>财务应用程序&lt;span class="hx:absolute hx:-mt-20" id="财务应用程序">&lt;/span>
 &lt;a href="#%e8%b4%a2%e5%8a%a1%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/general-ledger-applet/" >总账应用程序&lt;/a>&lt;/strong> - 交易过账&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/financial-reports-applet/" >财务报告应用程序&lt;/a>&lt;/strong> - 报告生成&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/budget-management-applet/" >预算管理应用程序&lt;/a>&lt;/strong> - 预算分配&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/general-ledger-applet/" >总账应用程序&lt;/a>&lt;/strong> - 交易过账&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/financial-reports-applet/" >财务报告应用程序&lt;/a>&lt;/strong> - 报告生成&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/budget-management-applet/" >预算管理应用程序&lt;/a>&lt;/strong> - 预算分配&lt;/li>
 &lt;/ul>
 &lt;h3>主数据应用程序&lt;span class="hx:absolute hx:-mt-20" id="主数据应用程序">&lt;/span>
 &lt;a href="#%e4%b8%bb%e6%95%b0%e6%8d%ae%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 客户科目&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/supplier-maintenance-applet/" >供应商维护应用程序&lt;/a>&lt;/strong> - 供应商科目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 客户科目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/supplier-maintenance-applet/" >供应商维护应用程序&lt;/a>&lt;/strong> - 供应商科目&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>

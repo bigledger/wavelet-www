@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Case-Studies</title><link>https://www.bigledger.com/zh/tags/case-studies/</link><description>Recent content in Case-Studies on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/case-studies/index.xml" rel="self" type="application/rss+xml"/><item><title>行业解决方案</title><link>https://www.bigledger.com/zh/user-guide/industry-solutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/user-guide/industry-solutions/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Case-Studies</title><link>https://www.wavelet.net/zh/tags/case-studies/</link><description>Recent content in Case-Studies on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/case-studies/index.xml" rel="self" type="application/rss+xml"/><item><title>行业解决方案</title><link>https://www.wavelet.net/zh/user-guide/industry-solutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/user-guide/industry-solutions/</guid><description>
 &lt;p>BigLedger为多个行业的企业提供定制解决方案和专业工作流程。本综合指南展示了行业特定的实施、成功案例和提供可衡量业务成果的验证方法。&lt;/p>
 &lt;h2>概述&lt;span class="hx:absolute hx:-mt-20" id="概述">&lt;/span>
 &lt;a href="#%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>超过5,000家马来西亚企业信任BigLedger为其跨多个行业的运营提供动力。我们平台的灵活性允许深度定制，同时保持集成商业操作系统的核心优势。&lt;/p>
@@ -514,8 +514,8 @@ title="Copy code"
 &lt;h2>下一步&lt;span class="hx:absolute hx:-mt-20" id="下一步">&lt;/span>
 &lt;a href="#%e4%b8%8b%e4%b8%80%e6%ad%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>查看行业解决方案后：&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/implementation/" >实施指南&lt;/a>&lt;/strong> - 开始您的BigLedger之旅&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/best-practices/" >最佳实践&lt;/a>&lt;/strong> - 行业特定优化技巧&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/implementation/" >实施指南&lt;/a>&lt;/strong> - 开始您的BigLedger之旅&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/best-practices/" >最佳实践&lt;/a>&lt;/strong> - 行业特定优化技巧&lt;/li>
 &lt;li>&lt;strong>&lt;a href="https://bigledger.com/case-studies/" target="_blank" rel="noopener">案例研究&lt;/a>&lt;/strong> - 详细成功案例&lt;/li>
 &lt;li>&lt;strong>&lt;a href="https://bigledger.com/demo/" target="_blank" rel="noopener">演示请求&lt;/a>&lt;/strong> - 查看行业解决方案实际操作&lt;/li>
 &lt;/ol>

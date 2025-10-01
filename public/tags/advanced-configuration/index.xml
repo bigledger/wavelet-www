@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Advanced-Configuration</title><link>https://www.bigledger.com/tags/advanced-configuration/</link><description>Recent content in Advanced-Configuration on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/advanced-configuration/index.xml" rel="self" type="application/rss+xml"/><item><title>Price Set Configuration &amp; Advanced Pricing Logic</title><link>https://www.bigledger.com/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/price-set/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Advanced-Configuration</title><link>https://www.wavelet.net/tags/advanced-configuration/</link><description>Recent content in Advanced-Configuration on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/advanced-configuration/index.xml" rel="self" type="application/rss+xml"/><item><title>Price Set Configuration &amp; Advanced Pricing Logic</title><link>https://www.wavelet.net/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/daily-tasks/price-set/</guid><description>
 &lt;p>Price sets in BigLedger provide sophisticated, rule-based pricing capabilities that enable complex pricing strategies adaptable to diverse business conditions, customer segments, and operational scenarios. This advanced pricing system supports enterprise-level requirements with powerful logic engines and flexible configuration options.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price sets represent the most advanced tier of BigLedger&amp;rsquo;s pricing architecture, offering rule-based logic that can automatically apply different pricing strategies based on configurable conditions. They work seamlessly with price books and pricing schemes to create comprehensive, intelligent pricing solutions.&lt;/p>
@@ -777,12 +777,12 @@ title="Copy code"
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your advanced pricing expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Foundation pricing template system&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/price-book/" >Price Book Management &amp;amp; Customer Pricing&lt;/a> - Core price list management and customer assignment&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation and integration&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Foundation pricing template system&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/price-book/" >Price Book Management &amp;amp; Customer Pricing&lt;/a> - Core price list management and customer assignment&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation and integration&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>

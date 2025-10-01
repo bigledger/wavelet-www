@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Master-Data</title><link>https://www.bigledger.com/zh/tags/master-data/</link><description>Recent content in Master-Data on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/master-data/index.xml" rel="self" type="application/rss+xml"/><item><title>库存项目维护小程序</title><link>https://www.bigledger.com/zh/applets/inv-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/inv-item-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Master-Data</title><link>https://www.wavelet.net/zh/tags/master-data/</link><description>Recent content in Master-Data on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/master-data/index.xml" rel="self" type="application/rss+xml"/><item><title>库存项目维护小程序</title><link>https://www.wavelet.net/zh/applets/inv-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/inv-item-maintenance-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>库存项目维护小程序是BigLedger中管理所有物理产品和库存主数据的中央枢纽。这个核心模块小程序提供全面的产品信息管理、库存控制参数和多个模块间所有库存相关操作的集成基础。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -212,21 +212,21 @@
 &lt;h2>相关小程序&lt;span class="hx:absolute hx:-mt-20" id="相关小程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块小程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块小程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/doc-item-maintenance-applet/" >文档项目维护小程序&lt;/a>&lt;/strong> - 服务和非库存项目&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/supplier-maintenance-applet/" >供应商维护小程序&lt;/a>&lt;/strong> - 供应商产品关系&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 产品税务设置&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/doc-item-maintenance-applet/" >文档项目维护小程序&lt;/a>&lt;/strong> - 服务和非库存项目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/supplier-maintenance-applet/" >供应商维护小程序&lt;/a>&lt;/strong> - 供应商产品关系&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 产品税务设置&lt;/li>
 &lt;/ul>
 &lt;h3>库存管理小程序&lt;span class="hx:absolute hx:-mt-20" id="库存管理小程序">&lt;/span>
 &lt;a href="#%e5%ba%93%e5%ad%98%e7%ae%a1%e7%90%86%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/stock-balance-applet/" >库存余额小程序&lt;/a>&lt;/strong> - 实时库存水平&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/stock-take-applet/" >库存盘点小程序&lt;/a>&lt;/strong> - 实物库存盘点&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/internal-stock-adjustment-applet/" >内部库存调整小程序&lt;/a>&lt;/strong> - 库存调整&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/stock-balance-applet/" >库存余额小程序&lt;/a>&lt;/strong> - 实时库存水平&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/stock-take-applet/" >库存盘点小程序&lt;/a>&lt;/strong> - 实物库存盘点&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/internal-stock-adjustment-applet/" >内部库存调整小程序&lt;/a>&lt;/strong> - 库存调整&lt;/li>
 &lt;/ul>
 &lt;h3>定价和销售小程序&lt;span class="hx:absolute hx:-mt-20" id="定价和销售小程序">&lt;/span>
 &lt;a href="#%e5%ae%9a%e4%bb%b7%e5%92%8c%e9%94%80%e5%94%ae%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/pricebook-applet/" >价目表小程序&lt;/a>&lt;/strong> - 高级定价管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/sales-order-applet/" >销售订单小程序&lt;/a>&lt;/strong> - 产品订单处理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/purchase-order-applet/" >采购订单小程序&lt;/a>&lt;/strong> - 产品采购&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/pricebook-applet/" >价目表小程序&lt;/a>&lt;/strong> - 高级定价管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/sales-order-applet/" >销售订单小程序&lt;/a>&lt;/strong> - 产品订单处理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/purchase-order-applet/" >采购订单小程序&lt;/a>&lt;/strong> - 产品采购&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>
@@ -363,7 +363,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>重要&lt;/strong>：产品主数据更改可能影响定价、库存水平和财务报告。始终在开发环境中首先测试更改。&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>客户维护应用程序</title><link>https://www.bigledger.com/zh/applets/customer-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/customer-maintenance-applet/</guid><description>
+&lt;/div></description></item><item><title>客户维护应用程序</title><link>https://www.wavelet.net/zh/applets/customer-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/customer-maintenance-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>客户维护应用程序是BigLedger中所有客户信息的中央存储库，提供支持销售、CRM、应收账款和面向客户的运营的综合客户主数据管理，跨所有模块。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -576,21 +576,21 @@ title="Copy code"
 &lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/supplier-maintenance-applet/" >供应商维护应用程序&lt;/a>&lt;/strong> - 供应商主数据&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/employee-maintenance-applet/" >员工维护应用程序&lt;/a>&lt;/strong> - 销售团队分配&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 客户税务设置&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/supplier-maintenance-applet/" >供应商维护应用程序&lt;/a>&lt;/strong> - 供应商主数据&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/employee-maintenance-applet/" >员工维护应用程序&lt;/a>&lt;/strong> - 销售团队分配&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 客户税务设置&lt;/li>
 &lt;/ul>
 &lt;h3>销售和CRM应用程序&lt;span class="hx:absolute hx:-mt-20" id="销售和crm应用程序">&lt;/span>
 &lt;a href="#%e9%94%80%e5%94%ae%e5%92%8ccrm%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/sales-order-applet/" >销售订单应用程序&lt;/a>&lt;/strong> - 客户订单处理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/quotation-management-applet/" >报价管理应用程序&lt;/a>&lt;/strong> - 客户报价&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-portal-applet/" >客户门户应用程序&lt;/a>&lt;/strong> - 自助客户访问&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/sales-order-applet/" >销售订单应用程序&lt;/a>&lt;/strong> - 客户订单处理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/quotation-management-applet/" >报价管理应用程序&lt;/a>&lt;/strong> - 客户报价&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-portal-applet/" >客户门户应用程序&lt;/a>&lt;/strong> - 自助客户访问&lt;/li>
 &lt;/ul>
 &lt;h3>财务应用程序&lt;span class="hx:absolute hx:-mt-20" id="财务应用程序">&lt;/span>
 &lt;a href="#%e8%b4%a2%e5%8a%a1%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/accounts-receivable-applet/" >应收账款应用程序&lt;/a>&lt;/strong> - 客户付款&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/credit-management-applet/" >信用管理应用程序&lt;/a>&lt;/strong> - 信用控制&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/collection-management-applet/" >催收管理应用程序&lt;/a>&lt;/strong> - 逾期账户&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/accounts-receivable-applet/" >应收账款应用程序&lt;/a>&lt;/strong> - 客户付款&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/credit-management-applet/" >信用管理应用程序&lt;/a>&lt;/strong> - 信用控制&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/collection-management-applet/" >催收管理应用程序&lt;/a>&lt;/strong> - 逾期账户&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>
@@ -755,7 +755,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>专业提示&lt;/strong>：从一开始就投入时间设置适当的客户类别和数据质量规则。清洁、组织良好的客户数据是有效销售和营销运营的基础。&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>供应商维护应用程序</title><link>https://www.bigledger.com/zh/applets/supplier-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/supplier-maintenance-applet/</guid><description>
+&lt;/div></description></item><item><title>供应商维护应用程序</title><link>https://www.wavelet.net/zh/applets/supplier-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/supplier-maintenance-applet/</guid><description>
 &lt;h2>执行摘要&lt;span class="hx:absolute hx:-mt-20" id="执行摘要">&lt;/span>
 &lt;a href="#%e6%89%a7%e8%a1%8c%e6%91%98%e8%a6%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>供应商维护应用程序是BigLedger中所有供应商和采购商信息的中央存储库，是一个关键核心模块组件。这个综合供应商主数据管理系统支持采购运营、应付账款流程和跨所有业务模块的供应商关系管理。凭借管理多达500,000个供应商、实时同步和广泛集成点的能力，这个应用程序构成了高效供应链运营的骨干。&lt;/p>
 &lt;p>&lt;strong>关键业务收益：&lt;/strong>&lt;/p>
@@ -980,21 +980,21 @@ title="Copy code"
 &lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 客户主数据&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/inv-item-maintenance-applet/" >库存项目维护应用程序&lt;/a>&lt;/strong> - 供应商产品关系&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 供应商税务设置&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 客户主数据&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/inv-item-maintenance-applet/" >库存项目维护应用程序&lt;/a>&lt;/strong> - 供应商产品关系&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 供应商税务设置&lt;/li>
 &lt;/ul>
 &lt;h3>采购应用程序&lt;span class="hx:absolute hx:-mt-20" id="采购应用程序">&lt;/span>
 &lt;a href="#%e9%87%87%e8%b4%ad%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/purchase-order-applet/" >采购订单应用程序&lt;/a>&lt;/strong> - 供应商订单处理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/purchase-requisition-applet/" >采购申请应用程序&lt;/a>&lt;/strong> - 采购请求&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/supplier-portal-applet/" >供应商门户应用程序&lt;/a>&lt;/strong> - 供应商自助服务&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/purchase-order-applet/" >采购订单应用程序&lt;/a>&lt;/strong> - 供应商订单处理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/purchase-requisition-applet/" >采购申请应用程序&lt;/a>&lt;/strong> - 采购请求&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/supplier-portal-applet/" >供应商门户应用程序&lt;/a>&lt;/strong> - 供应商自助服务&lt;/li>
 &lt;/ul>
 &lt;h3>财务应用程序&lt;span class="hx:absolute hx:-mt-20" id="财务应用程序">&lt;/span>
 &lt;a href="#%e8%b4%a2%e5%8a%a1%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/accounts-payable-applet/" >应付账款应用程序&lt;/a>&lt;/strong> - 供应商付款&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/payment-processing-applet/" >付款处理应用程序&lt;/a>&lt;/strong> - 供应商付款&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/expense-management-applet/" >费用管理应用程序&lt;/a>&lt;/strong> - 供应商费用&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/accounts-payable-applet/" >应付账款应用程序&lt;/a>&lt;/strong> - 供应商付款&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/payment-processing-applet/" >付款处理应用程序&lt;/a>&lt;/strong> - 供应商付款&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/expense-management-applet/" >费用管理应用程序&lt;/a>&lt;/strong> - 供应商费用&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>
@@ -1473,7 +1473,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>重要&lt;/strong>：供应商主数据直接影响采购成本和供应链效率。确保数据准确性并为供应商变更实施适当的审批工作流。&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>员工维护应用程序</title><link>https://www.bigledger.com/zh/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/employee-maintenance-applet/</guid><description>
+&lt;/div></description></item><item><title>员工维护应用程序</title><link>https://www.wavelet.net/zh/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/employee-maintenance-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>员工维护应用程序是BigLedger核心模块的基础人力资源组件，提供支持人力资源、薪资、组织结构和跨所有模块的员工相关运营的综合员工主记录管理。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -1686,21 +1686,21 @@ title="Copy code"
 &lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司和部门结构&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tenant-admin-applet/" >租户管理应用程序&lt;/a>&lt;/strong> - 用户访问管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 销售代表分配&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司和部门结构&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tenant-admin-applet/" >租户管理应用程序&lt;/a>&lt;/strong> - 用户访问管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 销售代表分配&lt;/li>
 &lt;/ul>
 &lt;h3>人力资源和薪资应用程序&lt;span class="hx:absolute hx:-mt-20" id="人力资源和薪资应用程序">&lt;/span>
 &lt;a href="#%e4%ba%ba%e5%8a%9b%e8%b5%84%e6%ba%90%e5%92%8c%e8%96%aa%e8%b5%84%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/payroll-processing-applet/" >薪资处理应用程序&lt;/a>&lt;/strong> - 员工薪酬&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/time-attendance-applet/" >时间考勤应用程序&lt;/a>&lt;/strong> - 工作时间跟踪&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/leave-management-applet/" >假期管理应用程序&lt;/a>&lt;/strong> - 员工假期跟踪&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/payroll-processing-applet/" >薪资处理应用程序&lt;/a>&lt;/strong> - 员工薪酬&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/time-attendance-applet/" >时间考勤应用程序&lt;/a>&lt;/strong> - 工作时间跟踪&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/leave-management-applet/" >假期管理应用程序&lt;/a>&lt;/strong> - 员工假期跟踪&lt;/li>
 &lt;/ul>
 &lt;h3>运营应用程序&lt;span class="hx:absolute hx:-mt-20" id="运营应用程序">&lt;/span>
 &lt;a href="#%e8%bf%90%e8%90%a5%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/project-team-applet/" >项目团队应用程序&lt;/a>&lt;/strong> - 项目分配&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/sales-team-applet/" >销售团队应用程序&lt;/a>&lt;/strong> - 销售队伍管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/asset-custody-applet/" >资产保管应用程序&lt;/a>&lt;/strong> - 资产责任&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/project-team-applet/" >项目团队应用程序&lt;/a>&lt;/strong> - 项目分配&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/sales-team-applet/" >销售团队应用程序&lt;/a>&lt;/strong> - 销售队伍管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/asset-custody-applet/" >资产保管应用程序&lt;/a>&lt;/strong> - 资产责任&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>
@@ -1861,7 +1861,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>隐私声明&lt;/strong>：员工数据包含敏感个人信息。确保遵守当地隐私法并实施适当的安全措施来保护员工数据。&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>组织应用程序</title><link>https://www.bigledger.com/zh/applets/organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/organization-applet/</guid><description>
+&lt;/div></description></item><item><title>组织应用程序</title><link>https://www.wavelet.net/zh/applets/organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/organization-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>组织应用程序是BigLedger核心模块的基础组件，它定义和管理您在BigLedger中的完整组织结构。这个应用程序提供用于设置公司、分支机构、部门、地点以及构成业务运营骨干的层次关系的综合工具。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -1925,9 +1925,9 @@ title="Copy code"
 &lt;li>性能监控和优化&lt;/li>
 &lt;/ul>
 &lt;h2>组织设置工作流&lt;span class="hx:absolute hx:-mt-20" id="组织设置工作流">&lt;/span>
-&lt;a href="#%e7%bb%84%e7%bb%87%e8%ae%be%e7%bd%ae%e5%b7%a5%e4%bd%9c%e6%b5%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://www.bigledger.com/diagrams/organization-setup-workflow.svg" alt="组织设置工作流" loading="lazy" />
+&lt;a href="#%e7%bb%84%e7%bb%87%e8%ae%be%e7%bd%ae%e5%b7%a5%e4%bd%9c%e6%b5%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://www.wavelet.net/diagrams/organization-setup-workflow.svg" alt="组织设置工作流" loading="lazy" />
 &lt;em>图1：马来西亚企业完整组织设置流程&lt;/em>&lt;/p>
-&lt;p>无论您是管理单一公司还是多个分支机构，组织应用程序都能简化流程，提供用户友好的界面，确保所有运营详情都得到准确高效的配置。&lt;/p></description></item><item><title>科目表应用程序</title><link>https://www.bigledger.com/zh/applets/chart-of-account-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/chart-of-account-applet/</guid><description>
+&lt;p>无论您是管理单一公司还是多个分支机构，组织应用程序都能简化流程，提供用户友好的界面，确保所有运营详情都得到准确高效的配置。&lt;/p></description></item><item><title>科目表应用程序</title><link>https://www.wavelet.net/zh/applets/chart-of-account-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/chart-of-account-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>科目表应用程序是BigLedger的财务基础，提供组织完整科目表结构的综合管理。这个核心模块应用程序定义了科目类别、层次结构和财务报表映射，支持每个BigLedger模块中的所有财务交易。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -2133,20 +2133,20 @@ title="Copy code"
 &lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 税务科目映射&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/cashbook-applet/" >现金簿应用程序&lt;/a>&lt;/strong> - 现金和银行科目&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司结构&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置应用程序&lt;/a>&lt;/strong> - 税务科目映射&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/cashbook-applet/" >现金簿应用程序&lt;/a>&lt;/strong> - 现金和银行科目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司结构&lt;/li>
 &lt;/ul>
 &lt;h3>财务应用程序&lt;span class="hx:absolute hx:-mt-20" id="财务应用程序">&lt;/span>
 &lt;a href="#%e8%b4%a2%e5%8a%a1%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/general-ledger-applet/" >总账应用程序&lt;/a>&lt;/strong> - 交易过账&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/financial-reports-applet/" >财务报告应用程序&lt;/a>&lt;/strong> - 报告生成&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/budget-management-applet/" >预算管理应用程序&lt;/a>&lt;/strong> - 预算分配&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/general-ledger-applet/" >总账应用程序&lt;/a>&lt;/strong> - 交易过账&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/financial-reports-applet/" >财务报告应用程序&lt;/a>&lt;/strong> - 报告生成&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/budget-management-applet/" >预算管理应用程序&lt;/a>&lt;/strong> - 预算分配&lt;/li>
 &lt;/ul>
 &lt;h3>主数据应用程序&lt;span class="hx:absolute hx:-mt-20" id="主数据应用程序">&lt;/span>
 &lt;a href="#%e4%b8%bb%e6%95%b0%e6%8d%ae%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 客户科目&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/supplier-maintenance-applet/" >供应商维护应用程序&lt;/a>&lt;/strong> - 供应商科目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 客户科目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/supplier-maintenance-applet/" >供应商维护应用程序&lt;/a>&lt;/strong> - 供应商科目&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>
@@ -2254,7 +2254,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>重要&lt;/strong>：对科目表的更改可能会显著影响财务报告和系统集成。在生产环境中实施之前，始终彻底测试更改。&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>文档项目维护小程序</title><link>https://www.bigledger.com/zh/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/doc-item-maintenance-applet/</guid><description>
+&lt;/div></description></item><item><title>文档项目维护小程序</title><link>https://www.wavelet.net/zh/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/doc-item-maintenance-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>文档项目维护小程序是一个关键的核心模块组件，管理BigLedger中的所有非物理项目。这包括服务、咨询费、数字产品、许可证、订阅以及您的企业销售或购买的任何其他基于文档或非库存项目。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -2460,21 +2460,21 @@ title="Copy code"
 &lt;h2>相关小程序&lt;span class="hx:absolute hx:-mt-20" id="相关小程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块小程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块小程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/inv-item-maintenance-applet/" >库存项目维护小程序&lt;/a>&lt;/strong> - 物理库存项目&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 服务税务设置&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护小程序&lt;/a>&lt;/strong> - 服务客户&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/inv-item-maintenance-applet/" >库存项目维护小程序&lt;/a>&lt;/strong> - 物理库存项目&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 服务税务设置&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-maintenance-applet/" >客户维护小程序&lt;/a>&lt;/strong> - 服务客户&lt;/li>
 &lt;/ul>
 &lt;h3>服务相关小程序&lt;span class="hx:absolute hx:-mt-20" id="服务相关小程序">&lt;/span>
 &lt;a href="#%e6%9c%8d%e5%8a%a1%e7%9b%b8%e5%85%b3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/time-tracking-applet/" >时间跟踪小程序&lt;/a>&lt;/strong> - 服务时间记录&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/project-management-applet/" >项目管理小程序&lt;/a>&lt;/strong> - 基于项目的服务&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/resource-planning-applet/" >资源规划小程序&lt;/a>&lt;/strong> - 服务资源管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/time-tracking-applet/" >时间跟踪小程序&lt;/a>&lt;/strong> - 服务时间记录&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/project-management-applet/" >项目管理小程序&lt;/a>&lt;/strong> - 基于项目的服务&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/resource-planning-applet/" >资源规划小程序&lt;/a>&lt;/strong> - 服务资源管理&lt;/li>
 &lt;/ul>
 &lt;h3>财务小程序&lt;span class="hx:absolute hx:-mt-20" id="财务小程序">&lt;/span>
 &lt;a href="#%e8%b4%a2%e5%8a%a1%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/pricing-management-applet/" >定价管理小程序&lt;/a>&lt;/strong> - 服务定价&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/invoice-generation-applet/" >发票生成小程序&lt;/a>&lt;/strong> - 服务计费&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/revenue-recognition-applet/" >收入确认小程序&lt;/a>&lt;/strong> - 服务收入&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/pricing-management-applet/" >定价管理小程序&lt;/a>&lt;/strong> - 服务定价&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/invoice-generation-applet/" >发票生成小程序&lt;/a>&lt;/strong> - 服务计费&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/revenue-recognition-applet/" >收入确认小程序&lt;/a>&lt;/strong> - 服务收入&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>

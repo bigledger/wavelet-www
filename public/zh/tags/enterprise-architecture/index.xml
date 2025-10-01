@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Enterprise-Architecture</title><link>https://www.bigledger.com/zh/tags/enterprise-architecture/</link><description>Recent content in Enterprise-Architecture on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/enterprise-architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>租户管理应用程序</title><link>https://www.bigledger.com/zh/applets/tenant-admin-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/tenant-admin-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Enterprise-Architecture</title><link>https://www.wavelet.net/zh/tags/enterprise-architecture/</link><description>Recent content in Enterprise-Architecture on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/enterprise-architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>租户管理应用程序</title><link>https://www.wavelet.net/zh/applets/tenant-admin-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/tenant-admin-applet/</guid><description>
 &lt;h2>执行摘要&lt;span class="hx:absolute hx:-mt-20" id="执行摘要">&lt;/span>
 &lt;a href="#%e6%89%a7%e8%a1%8c%e6%91%98%e8%a6%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>租户管理应用程序代表BigLedger管理基础设施的基石，提供综合的系统级管理能力，使组织能够以企业级安全、合规和运营卓越管理复杂的多租户环境。作为基础性核心模块应用程序，它在整个BigLedger生态系统中编排用户管理、安全策略、系统配置和租户隔离。&lt;/p>
 &lt;p>&lt;strong>关键业务收益：&lt;/strong>&lt;/p>
@@ -209,18 +209,18 @@
 &lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 组织结构管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/employee-maintenance-applet/" >员工维护应用程序&lt;/a>&lt;/strong> - 用户-员工关系&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/workflow-design-applet/" >工作流设计应用程序&lt;/a>&lt;/strong> - 流程自动化&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 组织结构管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/employee-maintenance-applet/" >员工维护应用程序&lt;/a>&lt;/strong> - 用户-员工关系&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/workflow-design-applet/" >工作流设计应用程序&lt;/a>&lt;/strong> - 流程自动化&lt;/li>
 &lt;/ul>
 &lt;h3>安全相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="安全相关应用程序">&lt;/span>
 &lt;a href="#%e5%ae%89%e5%85%a8%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/webhook-applet/" >Webhook应用程序&lt;/a>&lt;/strong> - 外部系统通知&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/t2t-admin-applet/" >T2T管理应用程序&lt;/a>&lt;/strong> - 租户到租户管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/webhook-applet/" >Webhook应用程序&lt;/a>&lt;/strong> - 外部系统通知&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/t2t-admin-applet/" >T2T管理应用程序&lt;/a>&lt;/strong> - 租户到租户管理&lt;/li>
 &lt;/ul>
 &lt;h3>集成应用程序&lt;span class="hx:absolute hx:-mt-20" id="集成应用程序">&lt;/span>
 &lt;a href="#%e9%9b%86%e6%88%90%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/process-monitoring-applet/" >流程监控应用程序&lt;/a>&lt;/strong> - 系统流程监控&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/process-monitoring-applet/" >流程监控应用程序&lt;/a>&lt;/strong> - 系统流程监控&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>

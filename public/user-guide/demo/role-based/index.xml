@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Role-Based Demo Journeys</title><link>https://www.bigledger.com/user-guide/demo/role-based/</link><description>Recent content in Role-Based Demo Journeys on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/user-guide/demo/role-based/index.xml" rel="self" type="application/rss+xml"/><item><title>Finance Manager Demo Journey</title><link>https://www.bigledger.com/user-guide/demo/role-based/finance-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/role-based/finance-manager/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Role-Based Demo Journeys</title><link>https://www.wavelet.net/user-guide/demo/role-based/</link><description>Recent content in Role-Based Demo Journeys on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/user-guide/demo/role-based/index.xml" rel="self" type="application/rss+xml"/><item><title>Finance Manager Demo Journey</title><link>https://www.wavelet.net/user-guide/demo/role-based/finance-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/role-based/finance-manager/</guid><description>
 &lt;p>Experience how BigLedger transforms financial management through automation, real-time visibility, and comprehensive compliance capabilities. This demo addresses the critical challenges Finance Managers face daily.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -722,7 +722,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 >Schedule Executive Demo&lt;/a>
 &lt;h3>Quick Actions&lt;span class="hx:absolute hx:-mt-20" id="quick-actions">&lt;/span>
 &lt;a href="#quick-actions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/demo/role-based/finance-manager/#scenario-1-real-time-financial-dashboard" >Start Demo Now&lt;/a>&lt;/strong> - Begin with real-time dashboard&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/demo/role-based/finance-manager/#scenario-1-real-time-financial-dashboard" >Start Demo Now&lt;/a>&lt;/strong> - Begin with real-time dashboard&lt;/li>
 &lt;li>&lt;strong>&lt;a href="#roi-calculator-for-finance-teams" >Calculate Your ROI&lt;/a>&lt;/strong> - Estimate savings for your organization&lt;/li>
 &lt;li>&lt;strong>&lt;a href="mailto:sales@bigledger.com" >Contact Finance Specialist&lt;/a>&lt;/strong> - Discuss specific requirements&lt;/li>
 &lt;/ol>
@@ -731,7 +731,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Finance Manager Package&lt;/strong>: Mention &amp;ldquo;FINANCE-DEMO&amp;rdquo; for specialized demonstration focusing on your specific financial management challenges.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Operations Manager Demo Journey</title><link>https://www.bigledger.com/user-guide/demo/role-based/operations-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/role-based/operations-manager/</guid><description>
+&lt;/div></description></item><item><title>Operations Manager Demo Journey</title><link>https://www.wavelet.net/user-guide/demo/role-based/operations-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/role-based/operations-manager/</guid><description>
 &lt;p>Experience how BigLedger transforms operations management through intelligent automation, real-time visibility, and data-driven optimization. This demo addresses the critical operational challenges that drive efficiency and growth.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -1498,7 +1498,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 >Schedule Operations Demo&lt;/a>
 &lt;h3>Quick Actions&lt;span class="hx:absolute hx:-mt-20" id="quick-actions">&lt;/span>
 &lt;a href="#quick-actions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/demo/role-based/operations-manager/#scenario-1-automated-procurement-workflow" >Start Demo Now&lt;/a>&lt;/strong> - Begin with procurement automation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/demo/role-based/operations-manager/#scenario-1-automated-procurement-workflow" >Start Demo Now&lt;/a>&lt;/strong> - Begin with procurement automation&lt;/li>
 &lt;li>&lt;strong>&lt;a href="#roi-calculator-for-operations-teams" >Calculate Your ROI&lt;/a>&lt;/strong> - Estimate operational savings&lt;/li>
 &lt;li>&lt;strong>&lt;a href="mailto:sales@bigledger.com" >Contact Operations Specialist&lt;/a>&lt;/strong> - Discuss specific operational challenges&lt;/li>
 &lt;/ol>
@@ -1507,7 +1507,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Operations Excellence Package&lt;/strong>: Mention &amp;ldquo;OPS-DEMO&amp;rdquo; for specialized demonstration focusing on your specific operational optimization needs.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>CEO &amp; Executive Demo Journey</title><link>https://www.bigledger.com/user-guide/demo/role-based/ceo-executive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/demo/role-based/ceo-executive/</guid><description>
+&lt;/div></description></item><item><title>CEO &amp; Executive Demo Journey</title><link>https://www.wavelet.net/user-guide/demo/role-based/ceo-executive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/demo/role-based/ceo-executive/</guid><description>
 &lt;p>Experience how BigLedger transforms executive decision-making through comprehensive business intelligence, real-time strategic insights, and predictive analytics. This demo focuses on the strategic visibility and control CEOs need to drive growth.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -2282,7 +2282,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 >Schedule CEO Demo&lt;/a>
 &lt;h3>Strategic Quick Actions&lt;span class="hx:absolute hx:-mt-20" id="strategic-quick-actions">&lt;/span>
 &lt;a href="#strategic-quick-actions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/demo/role-based/ceo-executive/#scenario-1-real-time-executive-command-center" >Begin Executive Demo&lt;/a>&lt;/strong> - Start with command center overview&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/demo/role-based/ceo-executive/#scenario-1-real-time-executive-command-center" >Begin Executive Demo&lt;/a>&lt;/strong> - Start with command center overview&lt;/li>
 &lt;li>&lt;strong>&lt;a href="#strategic-roi-analysis-for-ceos" >Calculate Strategic ROI&lt;/a>&lt;/strong> - Estimate strategic value creation&lt;/li>
 &lt;li>&lt;strong>&lt;a href="mailto:sales@bigledger.com" >Contact Strategic Advisor&lt;/a>&lt;/strong> - Discuss strategic transformation&lt;/li>
 &lt;/ol>

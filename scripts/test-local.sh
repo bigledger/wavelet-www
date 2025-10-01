@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# BigLedger Wiki Local Testing Script
+# Wavelet Website Local Testing Script
 # This script builds and tests the site locally before deployment
 
 set -e

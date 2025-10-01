@@ -1,4 +1,4 @@
-name: Deploy BigLedger Website to S3
+name: Deploy Wavelet Website to S3
 
 on:
   push:
@@ -37,15 +37,15 @@ jobs:
       - name: Deploy to S3 and Invalidate CloudFront
         run: |
           # Hugo deploy handles both S3 upload and CloudFront invalidation
-          echo "Deploying to S3 and invalidating CloudFront distribution ELHXIGVKWA8XV"
+          echo "Deploying to S3 and invalidating CloudFront distribution E1SSLXGWCLEAZW"
           hugo deploy --target=production --maxDeletes -1 --invalidateCDN
-          
+
       - name: Verify CloudFront Invalidation
         if: success()
         run: |
           echo "Checking recent CloudFront invalidations..."
           aws cloudfront list-invalidations \
-            --distribution-id ELHXIGVKWA8XV \
+            --distribution-id E1SSLXGWCLEAZW \
             --max-items 3 \
             --query 'InvalidationList.Items[0].[Id,Status,CreateTime]' \
             --output table
@@ -53,6 +53,6 @@ jobs:
 
       - name: Verify deployment
         run: |
-          echo "Site deployed to: https://www.bigledger.com"
+          echo "Site deployed to: https://www.wavelet.net"
           echo "Checking if site is accessible..."
-          curl -I https://www.bigledger.com || true
+          curl -I https://www.wavelet.net || true

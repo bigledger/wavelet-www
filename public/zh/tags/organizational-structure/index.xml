@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Organizational-Structure</title><link>https://www.bigledger.com/zh/tags/organizational-structure/</link><description>Recent content in Organizational-Structure on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/organizational-structure/index.xml" rel="self" type="application/rss+xml"/><item><title>员工维护应用程序</title><link>https://www.bigledger.com/zh/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/employee-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Organizational-Structure</title><link>https://www.wavelet.net/zh/tags/organizational-structure/</link><description>Recent content in Organizational-Structure on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/organizational-structure/index.xml" rel="self" type="application/rss+xml"/><item><title>员工维护应用程序</title><link>https://www.wavelet.net/zh/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/employee-maintenance-applet/</guid><description>
 &lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
 &lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>员工维护应用程序是BigLedger核心模块的基础人力资源组件，提供支持人力资源、薪资、组织结构和跨所有模块的员工相关运营的综合员工主记录管理。&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -211,21 +211,21 @@
 &lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
 &lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
 &lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司和部门结构&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tenant-admin-applet/" >租户管理应用程序&lt;/a>&lt;/strong> - 用户访问管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 销售代表分配&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司和部门结构&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/tenant-admin-applet/" >租户管理应用程序&lt;/a>&lt;/strong> - 用户访问管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 销售代表分配&lt;/li>
 &lt;/ul>
 &lt;h3>人力资源和薪资应用程序&lt;span class="hx:absolute hx:-mt-20" id="人力资源和薪资应用程序">&lt;/span>
 &lt;a href="#%e4%ba%ba%e5%8a%9b%e8%b5%84%e6%ba%90%e5%92%8c%e8%96%aa%e8%b5%84%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/payroll-processing-applet/" >薪资处理应用程序&lt;/a>&lt;/strong> - 员工薪酬&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/time-attendance-applet/" >时间考勤应用程序&lt;/a>&lt;/strong> - 工作时间跟踪&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/leave-management-applet/" >假期管理应用程序&lt;/a>&lt;/strong> - 员工假期跟踪&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/payroll-processing-applet/" >薪资处理应用程序&lt;/a>&lt;/strong> - 员工薪酬&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/time-attendance-applet/" >时间考勤应用程序&lt;/a>&lt;/strong> - 工作时间跟踪&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/leave-management-applet/" >假期管理应用程序&lt;/a>&lt;/strong> - 员工假期跟踪&lt;/li>
 &lt;/ul>
 &lt;h3>运营应用程序&lt;span class="hx:absolute hx:-mt-20" id="运营应用程序">&lt;/span>
 &lt;a href="#%e8%bf%90%e8%90%a5%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/project-team-applet/" >项目团队应用程序&lt;/a>&lt;/strong> - 项目分配&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/sales-team-applet/" >销售团队应用程序&lt;/a>&lt;/strong> - 销售队伍管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/asset-custody-applet/" >资产保管应用程序&lt;/a>&lt;/strong> - 资产责任&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/project-team-applet/" >项目团队应用程序&lt;/a>&lt;/strong> - 项目分配&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/sales-team-applet/" >销售团队应用程序&lt;/a>&lt;/strong> - 销售队伍管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/applets/asset-custody-applet/" >资产保管应用程序&lt;/a>&lt;/strong> - 资产责任&lt;/li>
 &lt;/ul>
 &lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
 &lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>

@@ -7,7 +7,7 @@ set -e
 
 echo "🔧 Fixing CloudFront directory handling with CloudFront Functions..."
 
-DISTRIBUTION_ID="E3FOFD9ZXC2QVT"
+DISTRIBUTION_ID="CLOUDFRONT_ID_TBD"
 
 # Create the CloudFront function code
 cat > /tmp/cf-function.js << 'EOF'
@@ -64,7 +64,7 @@ ETAG=$(cat /tmp/cf-config.json | jq -r '.ETag')
 # Update to use S3 REST API endpoint and add the function
 cat /tmp/cf-config.json | jq '.DistributionConfig' | jq \
   --arg function_arn "$FUNCTION_ARN" \
-  '.Origins.Items[0].DomainName = "wiki.bigledger.com.s3.ap-southeast-5.amazonaws.com" |
+  '.Origins.Items[0].DomainName = "wavelet.net.s3.ap-southeast-1.amazonaws.com" |
    .Origins.Items[0].S3OriginConfig = {"OriginAccessIdentity": ""} |
    del(.Origins.Items[0].CustomOriginConfig) |
    .DefaultCacheBehavior.FunctionAssociations = {

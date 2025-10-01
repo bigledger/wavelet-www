@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Operations</title><link>https://www.bigledger.com/tags/operations/</link><description>Recent content in Operations on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/operations/index.xml" rel="self" type="application/rss+xml"/><item><title>Business Operations</title><link>https://www.bigledger.com/business-operations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Operations</title><link>https://www.wavelet.net/tags/operations/</link><description>Recent content in Operations on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/operations/index.xml" rel="self" type="application/rss+xml"/><item><title>Business Operations</title><link>https://www.wavelet.net/business-operations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/</guid><description>
 &lt;p>This section covers the day-to-day business operations and workflow management within BigLedger. Learn how to manage your core business processes efficiently and effectively.&lt;/p>
 &lt;h2>Core Business Processes&lt;span class="hx:absolute hx:-mt-20" id="core-business-processes">&lt;/span>
 &lt;a href="#core-business-processes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger streamlines your essential business operations through integrated modules and applets that work together seamlessly.&lt;/p>
@@ -10,7 +10,7 @@
 &lt;li>&lt;strong>Order Management&lt;/strong> - Process orders from creation to fulfillment&lt;/li>
 &lt;/ul>
 &lt;h2>Getting Started&lt;span class="hx:absolute hx:-mt-20" id="getting-started">&lt;/span>
-&lt;a href="#getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Navigate through the topics below to learn about specific business operations within BigLedger.&lt;/p></description></item><item><title>Account Receivable</title><link>https://www.bigledger.com/business-operations/account-receivable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/account-receivable/</guid><description>
+&lt;a href="#getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Navigate through the topics below to learn about specific business operations within BigLedger.&lt;/p></description></item><item><title>Account Receivable</title><link>https://www.wavelet.net/business-operations/account-receivable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/account-receivable/</guid><description>
 &lt;h2>Comprehensive AR Automation Platform&lt;span class="hx:absolute hx:-mt-20" id="comprehensive-ar-automation-platform">&lt;/span>
 &lt;a href="#comprehensive-ar-automation-platform" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger&amp;rsquo;s Account Receivable module revolutionizes cash flow management through intelligent automation, predictive analytics, and seamless integration with Malaysia&amp;rsquo;s banking ecosystem. Our unified entity architecture (&lt;code>bl_fi_mst_entity_hdr&lt;/code>) provides a 360-degree view of customer relationships, credit history, and payment patterns.&lt;/p>
 &lt;h2>Core Capabilities&lt;span class="hx:absolute hx:-mt-20" id="core-capabilities">&lt;/span>
@@ -307,7 +307,7 @@
 &lt;li>&lt;strong>Bad Debt Reduction&lt;/strong>: 30-40% decrease&lt;/li>
 &lt;li>&lt;strong>Cash Flow Improvement&lt;/strong>: 25-35% acceleration&lt;/li>
 &lt;li>&lt;strong>Customer Satisfaction&lt;/strong>: Maintained or improved despite collection efforts&lt;/li>
-&lt;/ul></description></item><item><title>Accounting</title><link>https://www.bigledger.com/business-operations/accounting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/accounting/</guid><description>
+&lt;/ul></description></item><item><title>Accounting</title><link>https://www.wavelet.net/business-operations/accounting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/accounting/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3153854863
 &lt;strong>Last Updated&lt;/strong>: 2024-11-17T18:06:34.270Z&lt;/p>
 &lt;h2>Set Up Company﻿&lt;span class="hx:absolute hx:-mt-20" id="set-up-company">&lt;/span>
@@ -346,7 +346,7 @@ Each branch is considered as primary ledger
 two branches are combined to create a consolidated ledger, it is a secondary ledger
 Set of Book 1 = Branch 1 only (Primary Ledger)
 Set of Book 2 = Branch 2 only (Primary Ledger)
-Set of Book 3 = Branch 1 and Branch 2 (Branch 1 Primary Ledger, Branch 2 Primary Ledger, and Branch 1 and 2 Consolidated/ Secondary Ledger)&lt;/p></description></item><item><title>Dashboard</title><link>https://www.bigledger.com/business-operations/dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/dashboard/</guid><description>
+Set of Book 3 = Branch 1 and Branch 2 (Branch 1 Primary Ledger, Branch 2 Primary Ledger, and Branch 1 and 2 Consolidated/ Secondary Ledger)&lt;/p></description></item><item><title>Dashboard</title><link>https://www.wavelet.net/business-operations/dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/dashboard/</guid><description>
 &lt;h2>Executive Command Center&lt;span class="hx:absolute hx:-mt-20" id="executive-command-center">&lt;/span>
 &lt;a href="#executive-command-center" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Dashboard transforms raw business data into actionable intelligence through real-time analytics and customizable KPI monitoring. Unlike traditional ERP dashboards, our AI-powered visualization engine learns from your business patterns and proactively highlights opportunities and risks.&lt;/p>
 &lt;h2>Dashboard Components&lt;span class="hx:absolute hx:-mt-20" id="dashboard-components">&lt;/span>
@@ -565,7 +565,7 @@ Set of Book 3 = Branch 1 and Branch 2 (Branch 1 Primary Ledger, Branch 2 Primary
 &lt;li>Audit trail for all dashboard modifications&lt;/li>
 &lt;li>GDPR and data privacy compliance&lt;/li>
 &lt;li>SOC 2 Type II certified infrastructure&lt;/li>
-&lt;/ul></description></item><item><title>Main Dashboard</title><link>https://www.bigledger.com/business-operations/main-dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/main-dashboard/</guid><description>
+&lt;/ul></description></item><item><title>Main Dashboard</title><link>https://www.wavelet.net/business-operations/main-dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/main-dashboard/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196486107
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T02:51:44.242Z
 Users able to see their selling performance of marketplace in a graph figures for an example.
@@ -578,7 +578,7 @@ Total Orders
 Total canceled Orders
 Top Selling Products
 Top Selling Categories
-Top Selling Branch&lt;/p></description></item><item><title>Order</title><link>https://www.bigledger.com/business-operations/order/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/order/</guid><description>
+Top Selling Branch&lt;/p></description></item><item><title>Order</title><link>https://www.wavelet.net/business-operations/order/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/order/</guid><description>
 &lt;h2>Unified Order Orchestration Platform&lt;span class="hx:absolute hx:-mt-20" id="unified-order-orchestration-platform">&lt;/span>
 &lt;a href="#unified-order-orchestration-platform" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger&amp;rsquo;s Order Management System (OMS) provides end-to-end visibility and control over your entire order lifecycle across all sales channels. Our intelligent order routing engine ensures optimal fulfillment while maintaining real-time inventory accuracy and customer satisfaction.&lt;/p>
 &lt;h2>Multi-Channel Order Processing&lt;span class="hx:absolute hx:-mt-20" id="multi-channel-order-processing">&lt;/span>
@@ -995,18 +995,18 @@ Top Selling Branch&lt;/p></description></item><item><title>Order</title><link>ht
 &lt;li>Proactive customer communication&lt;/li>
 &lt;li>Efficient exception handling&lt;/li>
 &lt;li>Data-driven decision making&lt;/li>
-&lt;/ul></description></item><item><title>Order Dashboard</title><link>https://www.bigledger.com/business-operations/order-dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/order-dashboard/</guid><description>
+&lt;/ul></description></item><item><title>Order Dashboard</title><link>https://www.wavelet.net/business-operations/order-dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/order-dashboard/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3197010418
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T02:58:45.100Z
 Order dashboard also show users on the summary of users performance throughout their business timeline and specifically focuses on orders via users&amp;rsquo; marketplace.
 For the Order page, Users can also filter by Custom Date , 7 Days and 30 Days.
 2. This Dashboard &amp;gt; Order page shows a summary of:
 Total Orders Tab (In-depth Report)
-Canceled Orders Tab (In-depth Report)&lt;/p></description></item><item><title>Order Details</title><link>https://www.bigledger.com/business-operations/order-details/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/order-details/</guid><description>
+Canceled Orders Tab (In-depth Report)&lt;/p></description></item><item><title>Order Details</title><link>https://www.wavelet.net/business-operations/order-details/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/order-details/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196486077
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T02:43:04.291Z
 When clicking on order, the details of order will be shown in each tab as shown in the interface below:&lt;/p>
-&lt;p>&lt;img src="https://www.bigledger.com/screenshots/placeholder-order-details.svg" alt="Order Details Interface" loading="lazy" />
+&lt;p>&lt;img src="https://www.wavelet.net/screenshots/placeholder-order-details.svg" alt="Order Details Interface" loading="lazy" />
 &lt;em>Figure 1: Order Details Interface showing the tabbed layout for comprehensive order information&lt;/em>&lt;/p>
 &lt;h2>Order Information Tabs&lt;span class="hx:absolute hx:-mt-20" id="order-information-tabs">&lt;/span>
 &lt;a href="#order-information-tabs" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Details Tab&lt;/strong> - allows to view full information about the Order and the price&lt;/p>
@@ -1043,7 +1043,7 @@ When clicking on order, the details of order will be shown in each tab as shown 
 &lt;li>Action history&lt;/li>
 &lt;li>User who performed each action&lt;/li>
 &lt;li>Timestamps for each status change&lt;/li>
-&lt;/ul></description></item><item><title>Order Filtering</title><link>https://www.bigledger.com/business-operations/order-filtering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/order-filtering/</guid><description>
+&lt;/ul></description></item><item><title>Order Filtering</title><link>https://www.wavelet.net/business-operations/order-filtering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/order-filtering/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3197010347
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T02:33:29.613Z&lt;/p>
 &lt;h1>Filter&lt;/h1>&lt;p>Order filtering help users to specify and focus on important detail of an order.
@@ -1064,12 +1064,12 @@ The Delivered - section reminds users of the delivery status of the order whethe
 Canceled - section is a section for users if their orders are in status of cancelled.&lt;/p>
 &lt;h1>Action&lt;/h1>&lt;p>Action feature is used for:
 Moving new orders that are &amp;ldquo;ready to fulfill&amp;rdquo; to &amp;ldquo;Ready to Ship&amp;rdquo;
-Allows to print consignment note for selected items&lt;/p></description></item><item><title>Order Listing</title><link>https://www.bigledger.com/business-operations/order-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/order-listing/</guid><description>
+Allows to print consignment note for selected items&lt;/p></description></item><item><title>Order Listing</title><link>https://www.wavelet.net/business-operations/order-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/order-listing/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191098
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T02:13:39.990Z
 The Order Listing shows all your orders that are synced from Marketplace to Ecomsync Applet.&lt;/p>
 &lt;h3>Search&lt;span class="hx:absolute hx:-mt-20" id="search">&lt;/span>
-&lt;a href="#search" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Users can click on the &amp;ldquo;Search&amp;rdquo; bar and use filters such as &amp;ldquo;Order ID&amp;rdquo; and click the &amp;ldquo;Search&amp;rdquo; button at the bottom of the filter to get the result.&lt;/p></description></item><item><title>Sales Dashboard</title><link>https://www.bigledger.com/business-operations/sales-dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/sales-dashboard/</guid><description>
+&lt;a href="#search" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Users can click on the &amp;ldquo;Search&amp;rdquo; bar and use filters such as &amp;ldquo;Order ID&amp;rdquo; and click the &amp;ldquo;Search&amp;rdquo; button at the bottom of the filter to get the result.&lt;/p></description></item><item><title>Sales Dashboard</title><link>https://www.wavelet.net/business-operations/sales-dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/sales-dashboard/</guid><description>
 &lt;h2>Comprehensive Sales Intelligence Platform&lt;span class="hx:absolute hx:-mt-20" id="comprehensive-sales-intelligence-platform">&lt;/span>
 &lt;a href="#comprehensive-sales-intelligence-platform" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger&amp;rsquo;s Sales Dashboard transforms raw transaction data into actionable sales intelligence, providing real-time visibility into revenue performance, customer behavior, and market trends across all channels. Our AI-enhanced analytics engine delivers predictive insights that drive strategic decision-making and revenue growth.&lt;/p>
 &lt;h2>Dashboard Overview&lt;span class="hx:absolute hx:-mt-20" id="dashboard-overview">&lt;/span>
@@ -1611,25 +1611,25 @@ The Order Listing shows all your orders that are synced from Marketplace to Ecom
 &lt;li>35% reduction in reporting time&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Sales Order Tab</title><link>https://www.bigledger.com/business-operations/sales-order-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/business-operations/sales-order-tab/</guid><description>
+&lt;/ul></description></item><item><title>Sales Order Tab</title><link>https://www.wavelet.net/business-operations/sales-order-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/business-operations/sales-order-tab/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3196191975
 &lt;strong>Last Updated&lt;/strong>: 2021-06-18T06:19:14.245Z
 Sales Order Tab - allows user to configure the sales order either:
 Active - all active Sales Order will be configured
 Inactive - none of the Sales Order will be configured
-Selective Active - if user wants to select Sales Order from specific branches&lt;/p></description></item><item><title>Daily Tasks</title><link>https://www.bigledger.com/user-guide/daily-tasks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/</guid><description>
+Selective Active - if user wants to select Sales Order from specific branches&lt;/p></description></item><item><title>Daily Tasks</title><link>https://www.wavelet.net/user-guide/daily-tasks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/daily-tasks/</guid><description>
 &lt;p>Master the routine business operations that keep your organization running smoothly. This section covers the most common tasks you&amp;rsquo;ll perform regularly in BigLedger.&lt;/p>
 &lt;h2>Pricing &amp;amp; Financial Operations&lt;span class="hx:absolute hx:-mt-20" id="pricing--financial-operations">&lt;/span>
 &lt;a href="#pricing--financial-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Manage your pricing strategies and financial processes:&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Pricing Strategies&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Create and manage flexible pricing schemes for different customer segments&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/daily-tasks/price-book"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/daily-tasks/price-book"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Price Book Management&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Maintain comprehensive price lists and manage pricing updates&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/daily-tasks/price-set"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/daily-tasks/price-set"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Price Set Configuration&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Advanced pricing configurations and bulk price management&lt;/div>&lt;/a>
 &lt;/div>
 &lt;h2>Transaction Processing&lt;span class="hx:absolute hx:-mt-20" id="transaction-processing">&lt;/span>
@@ -1753,14 +1753,14 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h2>Integration with Other Sections&lt;span class="hx:absolute hx:-mt-20" id="integration-with-other-sections">&lt;/span>
 &lt;a href="#integration-with-other-sections" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Daily Tasks build upon:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/" >Basic Operations&lt;/a>&lt;/strong> - Uses items and documents you&amp;rsquo;ve configured&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/administration/" >Administration&lt;/a>&lt;/strong> - Leverages user permissions and system settings&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/reports-analytics/" >Reports &amp;amp; Analytics&lt;/a>&lt;/strong> - Generates data for analysis&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/" >Basic Operations&lt;/a>&lt;/strong> - Uses items and documents you&amp;rsquo;ve configured&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/administration/" >Administration&lt;/a>&lt;/strong> - Leverages user permissions and system settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/reports-analytics/" >Reports &amp;amp; Analytics&lt;/a>&lt;/strong> - Generates data for analysis&lt;/li>
 &lt;/ul>
 &lt;p>Daily Tasks feed into:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Apply optimizations to routine work&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/troubleshooting/" >Troubleshooting&lt;/a>&lt;/strong> - Resolve issues that arise during daily operations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Apply optimizations to routine work&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/troubleshooting/" >Troubleshooting&lt;/a>&lt;/strong> - Resolve issues that arise during daily operations&lt;/li>
 &lt;/ul>
 &lt;h2>Common Scenarios&lt;span class="hx:absolute hx:-mt-20" id="common-scenarios">&lt;/span>
 &lt;a href="#common-scenarios" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>High-Volume Days&lt;span class="hx:absolute hx:-mt-20" id="high-volume-days">&lt;/span>
@@ -1788,9 +1788,9 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Once you master Daily Tasks:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/administration/" >Administration&lt;/a>&lt;/strong> - Learn system configuration and management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/reports-analytics/" >Reports &amp;amp; Analytics&lt;/a>&lt;/strong> - Analyze your operational data&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Optimize your daily workflows&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/administration/" >Administration&lt;/a>&lt;/strong> - Learn system configuration and management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/reports-analytics/" >Reports &amp;amp; Analytics&lt;/a>&lt;/strong> - Analyze your operational data&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Optimize your daily workflows&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>

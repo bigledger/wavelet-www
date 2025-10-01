@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – User-Guide</title><link>https://www.bigledger.com/tags/user-guide/</link><description>Recent content in User-Guide on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/user-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>E-Invoice &amp; PEPPOL</title><link>https://www.bigledger.com/e-invoice-peppol/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/e-invoice-peppol/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – User-Guide</title><link>https://www.wavelet.net/tags/user-guide/</link><description>Recent content in User-Guide on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/user-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>E-Invoice &amp; PEPPOL</title><link>https://www.wavelet.net/e-invoice-peppol/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/e-invoice-peppol/</guid><description>
 &lt;p>BigLedger is Malaysia&amp;rsquo;s &lt;strong>MDEC Fully Accredited PEPPOL Service Provider&lt;/strong>, offering comprehensive e-invoicing solutions designed for the MyInvois initiative and beyond.&lt;/p>
 &lt;h2>PEPPOL Accreditation&lt;span class="hx:absolute hx:-mt-20" id="peppol-accreditation">&lt;/span>
 &lt;a href="#peppol-accreditation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>What is PEPPOL?&lt;span class="hx:absolute hx:-mt-20" id="what-is-peppol">&lt;/span>
@@ -303,10 +303,10 @@ title="Copy code"
 &lt;h3>Resources&lt;span class="hx:absolute hx:-mt-20" id="resources">&lt;/span>
 &lt;a href="#resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Documentation&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/api-reference/einvoice/" >API Documentation&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/e-invoice-peppol/" >Integration Guides&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/e-invoice-peppol/" >Best Practices&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/e-invoice-peppol/" >FAQ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/api-reference/einvoice/" >API Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/e-invoice-peppol/" >Integration Guides&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/e-invoice-peppol/" >Best Practices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/e-invoice-peppol/" >FAQ&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Support&lt;/strong>&lt;/p>
 &lt;ul>
@@ -330,7 +330,7 @@ title="Copy code"
 &lt;li>&lt;strong>Implementation Support&lt;/strong>: Expert guidance&lt;/li>
 &lt;li>&lt;strong>Training&lt;/strong>: Comprehensive user training&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://www.bigledger.com/e-invoice-peppol/" >Request Demo&lt;/a> | &lt;a href="mailto:einvoice@bigledger.com" >Contact Sales&lt;/a> | &lt;a href="https://www.bigledger.com/e-invoice-peppol/" >Download Guide&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.wavelet.net/e-invoice-peppol/" >Request Demo&lt;/a> | &lt;a href="mailto:einvoice@bigledger.com" >Contact Sales&lt;/a> | &lt;a href="https://www.wavelet.net/e-invoice-peppol/" >Download Guide&lt;/a>&lt;/p>
 &lt;h2>Compliance &amp;amp; Certifications&lt;span class="hx:absolute hx:-mt-20" id="compliance--certifications">&lt;/span>
 &lt;a href="#compliance--certifications" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>MDEC PEPPOL Accreditation&lt;/li>
@@ -340,7 +340,7 @@ title="Copy code"
 &lt;li>SST/GST Ready&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>BigLedger - Your Trusted Partner for E-Invoice Transformation&lt;/em>&lt;/p></description></item><item><title>Applets &amp; Workflows</title><link>https://www.bigledger.com/applets-workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets-workflows/</guid><description>
+&lt;p>&lt;em>BigLedger - Your Trusted Partner for E-Invoice Transformation&lt;/em>&lt;/p></description></item><item><title>Applets &amp; Workflows</title><link>https://www.wavelet.net/applets-workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets-workflows/</guid><description>
 &lt;p>BigLedger&amp;rsquo;s modular applet architecture enables businesses to build customized solutions by combining specialized applets that work seamlessly together through our central data hub.&lt;/p>
 &lt;h2>Understanding Applets&lt;span class="hx:absolute hx:-mt-20" id="understanding-applets">&lt;/span>
 &lt;a href="#understanding-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>What are Applets?&lt;span class="hx:absolute hx:-mt-20" id="what-are-applets">&lt;/span>
@@ -1010,26 +1010,26 @@ title="Copy code"
 &lt;li>Plan implementation&lt;/li>
 &lt;li>Calculate ROI&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://www.bigledger.com/demos-resources/" >Schedule Consultation&lt;/a> | &lt;a href="https://www.bigledger.com/applets/applet-store/" >Browse Applets&lt;/a> | &lt;a href="https://www.bigledger.com/applets/" >Download Guide&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.wavelet.net/demos-resources/" >Schedule Consultation&lt;/a> | &lt;a href="https://www.wavelet.net/applets/applet-store/" >Browse Applets&lt;/a> | &lt;a href="https://www.wavelet.net/applets/" >Download Guide&lt;/a>&lt;/p>
 &lt;hr>
-&lt;p>&lt;em>BigLedger - Modular Business Solutions Through Intelligent Applets&lt;/em>&lt;/p></description></item><item><title>Business Operations Guide</title><link>https://www.bigledger.com/user-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/</guid><description>
+&lt;p>&lt;em>BigLedger - Modular Business Solutions Through Intelligent Applets&lt;/em>&lt;/p></description></item><item><title>Business Operations Guide</title><link>https://www.wavelet.net/user-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/</guid><description>
 &lt;p>Welcome to BigLedger&amp;rsquo;s comprehensive Business Operations Guide. This documentation will help you master BigLedger&amp;rsquo;s Business Operating System through a structured learning path designed for users at all levels - from first-time users to experienced administrators.&lt;/p>
 &lt;h2>How to Use This Guide&lt;span class="hx:absolute hx:-mt-20" id="how-to-use-this-guide">&lt;/span>
 &lt;a href="#how-to-use-this-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This guide is organized into logical sections that build upon each other. We recommend following this progression:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/getting-started/" >Getting Started&lt;/a>&lt;/strong> - Essential first steps and platform orientation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/" >Basic Operations&lt;/a>&lt;/strong> - Fundamental daily tasks and data management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/" >Daily Tasks&lt;/a>&lt;/strong> - Common business operations and routine workflows&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/administration/" >Administration&lt;/a>&lt;/strong> - System management and advanced configuration&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/reports-analytics/" >Reports &amp;amp; Analytics&lt;/a>&lt;/strong> - Business intelligence and data analysis&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/industry-solutions/" >Industry Solutions&lt;/a>&lt;/strong> - Sector-specific implementations and best practices&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/troubleshooting/" >Troubleshooting&lt;/a>&lt;/strong> - Problem resolution and support&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Expert tips and optimization strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/getting-started/" >Getting Started&lt;/a>&lt;/strong> - Essential first steps and platform orientation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/" >Basic Operations&lt;/a>&lt;/strong> - Fundamental daily tasks and data management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/" >Daily Tasks&lt;/a>&lt;/strong> - Common business operations and routine workflows&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/administration/" >Administration&lt;/a>&lt;/strong> - System management and advanced configuration&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/reports-analytics/" >Reports &amp;amp; Analytics&lt;/a>&lt;/strong> - Business intelligence and data analysis&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/industry-solutions/" >Industry Solutions&lt;/a>&lt;/strong> - Sector-specific implementations and best practices&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/troubleshooting/" >Troubleshooting&lt;/a>&lt;/strong> - Problem resolution and support&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Expert tips and optimization strategies&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>New to BigLedger?&lt;/strong> Start with &lt;a href="https://www.bigledger.com/user-guide/getting-started/" >Getting Started&lt;/a> to understand the platform fundamentals before exploring specific features.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>New to BigLedger?&lt;/strong> Start with &lt;a href="https://www.wavelet.net/user-guide/getting-started/" >Getting Started&lt;/a> to understand the platform fundamentals before exploring specific features.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;hr>
@@ -1037,13 +1037,13 @@ title="Copy code"
 &lt;a href="#-interactive-demo-platform" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Experience BigLedger hands-on with our comprehensive demo environment.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/demo/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/demo/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Interactive Demo Platform&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Hands-on guided workflows tailored to your industry&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/demo/getting-started-demo/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/demo/getting-started-demo/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Demo Quick Start&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">15-minute orientation to get you started&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/demo/common-workflows/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/demo/common-workflows/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Common Workflows&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Essential business processes for all industries&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Demo Features&lt;/strong>: Live environment, industry scenarios, step-by-step guides, sample data&lt;/p>
@@ -1052,13 +1052,13 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#-getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Your essential first steps with BigLedger&amp;rsquo;s Business Operating System.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/getting-started/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/getting-started/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Getting Started Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Complete orientation and setup for new BigLedger users&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/getting-started/introduction"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/getting-started/introduction"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Introduction to BigLedger&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Platform overview, key concepts, and getting oriented&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/getting-started/platform-overview"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/getting-started/platform-overview"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Platform Architecture&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Understanding BigLedger&amp;rsquo;s applet-based Business Operating System&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Key Topics&lt;/strong>: Account setup, platform concepts, navigation basics, first-time configuration&lt;/p>
@@ -1067,13 +1067,13 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#-basic-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Master fundamental data management and daily operational tasks.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/basic-operations/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/basic-operations/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Basic Operations Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Core data management and fundamental business tasks&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/basic-operations/creating-an-item"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/basic-operations/creating-an-item"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Creating Items&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Step-by-step guide to adding products and services&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/basic-operations/item-maintenance"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Item Management&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Comprehensive product catalog maintenance&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Key Topics&lt;/strong>: Item creation and editing, document types, data management fundamentals&lt;/p>
@@ -1082,13 +1082,13 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#-daily-tasks" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Common business operations performed regularly in BigLedger.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/daily-tasks/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/daily-tasks/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Daily Tasks Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Routine business operations and common workflows&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Pricing Strategies&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Flexible pricing schemes for customer segments&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/daily-tasks/price-book"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/daily-tasks/price-book"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Price Book Management&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Comprehensive price list maintenance&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Key Topics&lt;/strong>: Pricing management, transaction processing, inventory operations, customer management&lt;/p>
@@ -1097,13 +1097,13 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#-administration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>System administration, user management, and advanced configuration.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/administration/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/administration/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Administration Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">System management for BigLedger administrators&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/administration/member-listing"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/administration/member-listing"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">User Management&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Managing user accounts and permissions&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/administration/team"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/administration/team"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Team Configuration&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Organizational structure and role management&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Key Topics&lt;/strong>: User and team management, system configuration, security settings, organizational structure&lt;/p>
@@ -1112,7 +1112,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#-reports--analytics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Business intelligence, reporting, and data analysis capabilities.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/reports-analytics/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/reports-analytics/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Reports &amp;amp; Analytics&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Business intelligence and data-driven insights&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Key Topics&lt;/strong>: Standard reports, custom dashboards, data visualization, KPI tracking, automated reporting&lt;/p>
@@ -1121,7 +1121,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#-troubleshooting" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Problem resolution and support for common BigLedger issues.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/troubleshooting/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/troubleshooting/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Troubleshooting Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Quick solutions to common problems and issues&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Key Topics&lt;/strong>: Common error resolution, performance optimization, browser issues, escalation procedures&lt;/p>
@@ -1130,7 +1130,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#-best-practices" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expert tips and optimization strategies for maximum BigLedger effectiveness.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/best-practices/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/best-practices/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Best Practices Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Expert tips and proven optimization strategies&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Key Topics&lt;/strong>: Implementation best practices, operational excellence, security guidelines, performance optimization&lt;/p>
@@ -1139,13 +1139,13 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;a href="#-industry-solutions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Industry-specific implementations, best practices, and success stories tailored for your business sector.&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/industry-solutions/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/industry-solutions/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Industry Solutions Overview&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Discover solutions tailored for your specific industry&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/industry-solutions/automotive-and-workshop-industry"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/industry-solutions/automotive-and-workshop-industry"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Automotive &amp;amp; Workshop&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Vehicle service management and parts inventory&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/industry-solutions/food-and-beverage-fb-industry"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/industry-solutions/food-and-beverage-fb-industry"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Food &amp;amp; Beverage&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Restaurant operations and multi-branch management&lt;/div>&lt;/a>
 &lt;/div>
 &lt;p>&lt;strong>Key Topics&lt;/strong>: Industry-specific workflows, success stories, specialized features, implementation case studies&lt;/p>
@@ -1155,55 +1155,55 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h3>Financial Management&lt;span class="hx:absolute hx:-mt-20" id="financial-management">&lt;/span>
 &lt;a href="#financial-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Master your financial operations with integrated accounting and compliance features:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Complete double-entry accounting system&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/business-operations/account-receivable/" >Accounts Receivable&lt;/a>&lt;/strong> - Customer invoicing and payment tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/business-operations/accounting/" >Accounting Operations&lt;/a>&lt;/strong> - Daily bookkeeping and financial tasks&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Complete double-entry accounting system&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/business-operations/account-receivable/" >Accounts Receivable&lt;/a>&lt;/strong> - Customer invoicing and payment tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/business-operations/accounting/" >Accounting Operations&lt;/a>&lt;/strong> - Daily bookkeeping and financial tasks&lt;/li>
 &lt;/ul>
 &lt;h3>Sales &amp;amp; Customer Operations&lt;span class="hx:absolute hx:-mt-20" id="sales--customer-operations">&lt;/span>
 &lt;a href="#sales--customer-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Build strong customer relationships and optimize your sales processes:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/crm/" >CRM Module&lt;/a>&lt;/strong> - 360-degree customer relationship management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/business-operations/sales-dashboard/" >Sales Dashboard&lt;/a>&lt;/strong> - Real-time sales analytics and insights&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/business-operations/order/" >Order Management&lt;/a>&lt;/strong> - End-to-end order processing and fulfillment&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/crm/" >CRM Module&lt;/a>&lt;/strong> - 360-degree customer relationship management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/business-operations/sales-dashboard/" >Sales Dashboard&lt;/a>&lt;/strong> - Real-time sales analytics and insights&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/business-operations/order/" >Order Management&lt;/a>&lt;/strong> - End-to-end order processing and fulfillment&lt;/li>
 &lt;/ul>
 &lt;h3>Inventory &amp;amp; Supply Chain&lt;span class="hx:absolute hx:-mt-20" id="inventory--supply-chain">&lt;/span>
 &lt;a href="#inventory--supply-chain" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Optimize your inventory levels and streamline supply chain operations:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Multi-location stock control and tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/procurement/" >Procurement&lt;/a>&lt;/strong> - Purchase orders and vendor relationship management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/manufacturing/" >Manufacturing&lt;/a>&lt;/strong> - Production planning and manufacturing control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Multi-location stock control and tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/procurement/" >Procurement&lt;/a>&lt;/strong> - Purchase orders and vendor relationship management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/manufacturing/" >Manufacturing&lt;/a>&lt;/strong> - Production planning and manufacturing control&lt;/li>
 &lt;/ul>
 &lt;h3>Advanced Features &amp;amp; Integration&lt;span class="hx:absolute hx:-mt-20" id="advanced-features--integration">&lt;/span>
 &lt;a href="#advanced-features--integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>E-Commerce &amp;amp; Multi-Channel&lt;span class="hx:absolute hx:-mt-20" id="e-commerce--multi-channel">&lt;/span>
 &lt;a href="#e-commerce--multi-channel" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Overview&lt;/a>&lt;/strong> - Multi-channel selling and online store management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/introduction-to-ecomsync/" >EcomSync Platform&lt;/a>&lt;/strong> - Centralized sales channel synchronization&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/integration-with-shopify/" >Shopify Integration&lt;/a>&lt;/strong> - Seamless online store management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Overview&lt;/a>&lt;/strong> - Multi-channel selling and online store management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/ecommerce/introduction-to-ecomsync/" >EcomSync Platform&lt;/a>&lt;/strong> - Centralized sales channel synchronization&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/ecommerce/integration-with-shopify/" >Shopify Integration&lt;/a>&lt;/strong> - Seamless online store management&lt;/li>
 &lt;/ul>
 &lt;h4>AI &amp;amp; Automation&lt;span class="hx:absolute hx:-mt-20" id="ai--automation">&lt;/span>
 &lt;a href="#ai--automation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/ai-intelligence/" >AI Intelligence&lt;/a>&lt;/strong> - AI-powered insights and automation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/e-invoice-peppol/" >E-Invoice &amp;amp; PEPPOL&lt;/a>&lt;/strong> - Electronic invoicing compliance&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets-workflows/" >Applets &amp;amp; Workflows&lt;/a>&lt;/strong> - Custom automation and extensibility&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/ai-intelligence/" >AI Intelligence&lt;/a>&lt;/strong> - AI-powered insights and automation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/e-invoice-peppol/" >E-Invoice &amp;amp; PEPPOL&lt;/a>&lt;/strong> - Electronic invoicing compliance&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets-workflows/" >Applets &amp;amp; Workflows&lt;/a>&lt;/strong> - Custom automation and extensibility&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>🎯 Learning Path Recommendations&lt;span class="hx:absolute hx:-mt-20" id="-learning-path-recommendations">&lt;/span>
 &lt;a href="#-learning-path-recommendations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>For New Users (Week 1-2)&lt;span class="hx:absolute hx:-mt-20" id="for-new-users-week-1-2">&lt;/span>
 &lt;a href="#for-new-users-week-1-2" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>Complete &lt;a href="https://www.bigledger.com/user-guide/getting-started/" >Getting Started&lt;/a> section&lt;/li>
-&lt;li>Master &lt;a href="https://www.bigledger.com/user-guide/basic-operations/" >Basic Operations&lt;/a>&lt;/li>
-&lt;li>Practice with &lt;a href="https://www.bigledger.com/user-guide/daily-tasks/" >Daily Tasks&lt;/a>&lt;/li>
+&lt;li>Complete &lt;a href="https://www.wavelet.net/user-guide/getting-started/" >Getting Started&lt;/a> section&lt;/li>
+&lt;li>Master &lt;a href="https://www.wavelet.net/user-guide/basic-operations/" >Basic Operations&lt;/a>&lt;/li>
+&lt;li>Practice with &lt;a href="https://www.wavelet.net/user-guide/daily-tasks/" >Daily Tasks&lt;/a>&lt;/li>
 &lt;/ol>
 &lt;h3>For System Administrators (Week 2-4)&lt;span class="hx:absolute hx:-mt-20" id="for-system-administrators-week-2-4">&lt;/span>
 &lt;a href="#for-system-administrators-week-2-4" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>Study &lt;a href="https://www.bigledger.com/user-guide/administration/" >Administration&lt;/a> guide&lt;/li>
+&lt;li>Study &lt;a href="https://www.wavelet.net/user-guide/administration/" >Administration&lt;/a> guide&lt;/li>
 &lt;li>Configure user management and security&lt;/li>
-&lt;li>Set up &lt;a href="https://www.bigledger.com/user-guide/reports-analytics/" >Reports &amp;amp; Analytics&lt;/a>&lt;/li>
+&lt;li>Set up &lt;a href="https://www.wavelet.net/user-guide/reports-analytics/" >Reports &amp;amp; Analytics&lt;/a>&lt;/li>
 &lt;/ol>
 &lt;h3>For All Users (Ongoing)&lt;span class="hx:absolute hx:-mt-20" id="for-all-users-ongoing">&lt;/span>
 &lt;a href="#for-all-users-ongoing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>Apply &lt;a href="https://www.bigledger.com/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/li>
-&lt;li>Reference &lt;a href="https://www.bigledger.com/user-guide/troubleshooting/" >Troubleshooting&lt;/a> as needed&lt;/li>
+&lt;li>Apply &lt;a href="https://www.wavelet.net/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/li>
+&lt;li>Reference &lt;a href="https://www.wavelet.net/user-guide/troubleshooting/" >Troubleshooting&lt;/a> as needed&lt;/li>
 &lt;li>Explore relevant business modules&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
@@ -1231,16 +1231,16 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Quick Help&lt;/strong>: Use the in-app help system (?) available on every page, or start with our &lt;a href="https://www.bigledger.com/user-guide/troubleshooting/" >Troubleshooting Guide&lt;/a> for common issues.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Quick Help&lt;/strong>: Use the in-app help system (?) available on every page, or start with our &lt;a href="https://www.wavelet.net/user-guide/troubleshooting/" >Troubleshooting Guide&lt;/a> for common issues.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;h3>Developer Resources&lt;span class="hx:absolute hx:-mt-20" id="developer-resources">&lt;/span>
 &lt;a href="#developer-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>For technical users and system integrators:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/developers/" >Developer Documentation&lt;/a>&lt;/strong> - APIs, SDKs, and integration guides&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/developers/api-reference/" >API Reference&lt;/a>&lt;/strong> - Comprehensive technical documentation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/developers/applet-sdk/" >Custom Development&lt;/a>&lt;/strong> - Build custom applets and extensions&lt;/li>
-&lt;/ul></description></item><item><title>Chart of Accounts Setup Guide</title><link>https://www.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</guid><description>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/developers/" >Developer Documentation&lt;/a>&lt;/strong> - APIs, SDKs, and integration guides&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/developers/api-reference/" >API Reference&lt;/a>&lt;/strong> - Comprehensive technical documentation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/developers/applet-sdk/" >Custom Development&lt;/a>&lt;/strong> - Build custom applets and extensions&lt;/li>
+&lt;/ul></description></item><item><title>Chart of Accounts Setup Guide</title><link>https://www.wavelet.net/guides/accounting-guides/chart-of-accounts-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/accounting-guides/chart-of-accounts-setup/</guid><description>
 &lt;p>Complete guide for setting up your Chart of Accounts in BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Chart of Accounts (COA) is the foundation of your financial system in BigLedger. It defines the structure of your general ledger and determines how financial transactions are categorized and reported.&lt;/p>
@@ -1419,7 +1419,7 @@ title="Copy code"
 &lt;li>Test with sample transactions&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>For additional support, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Creating Your First Invoice</title><link>https://www.bigledger.com/tutorials/first-invoice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/tutorials/first-invoice/</guid><description>
+&lt;p>&lt;em>For additional support, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Creating Your First Invoice</title><link>https://www.wavelet.net/tutorials/first-invoice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/tutorials/first-invoice/</guid><description>
 &lt;p>Step-by-step guide to create and submit your first e-invoice.&lt;/p>
 &lt;h2>Prerequisites&lt;span class="hx:absolute hx:-mt-20" id="prerequisites">&lt;/span>
 &lt;a href="#prerequisites" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
@@ -1446,7 +1446,7 @@ title="Copy code"
 &lt;h2>Video Tutorial&lt;span class="hx:absolute hx:-mt-20" id="video-tutorial">&lt;/span>
 &lt;a href="#video-tutorial" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="#" >Watch video walkthrough&lt;/a>&lt;/p>
 &lt;hr>
-&lt;p>&lt;em>Need help? Contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Document Item Types &amp; Classifications</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-types/</guid><description>
+&lt;p>&lt;em>Need help? Contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Document Item Types &amp; Classifications</title><link>https://www.wavelet.net/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/basic-operations/document-item-types/</guid><description>
 &lt;p>Understanding BigLedger&amp;rsquo;s document item types is fundamental to effective inventory management, sales processing, and business operations. Each item type serves specific business scenarios and offers unique functionality for managing complex inventory relationships.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger supports five distinct document item types, each designed for specific business scenarios and inventory relationships. These types determine how items behave in transactions, inventory tracking, and financial reporting.&lt;/p>
@@ -1909,11 +1909,11 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your understanding of BigLedger&amp;rsquo;s item management:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance Procedures&lt;/a> - Creating and managing individual items&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Complete inventory control system&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes&lt;/a> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and sales management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/manufacturing/" >Manufacturing Integration&lt;/a> - Production and assembly workflows&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/item-maintenance/" >Item Maintenance Procedures&lt;/a> - Creating and managing individual items&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/inventory/" >Inventory Management&lt;/a> - Complete inventory control system&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes&lt;/a> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and sales management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/manufacturing/" >Manufacturing Integration&lt;/a> - Production and assembly workflows&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -1938,7 +1938,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Implementation Success&lt;/strong>: Businesses that properly implement BigLedger&amp;rsquo;s item type system see 40% improvement in inventory accuracy and 25% reduction in transaction processing time.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Installation</title><link>https://www.bigledger.com/developer-docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/developer-docs/installation/</guid><description>
+&lt;/div></description></item><item><title>Installation</title><link>https://www.wavelet.net/developer-docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/developer-docs/installation/</guid><description>
 &lt;p>Guide for installing and configuring BigLedger SDK.&lt;/p>
 &lt;h2>System Requirements&lt;span class="hx:absolute hx:-mt-20" id="system-requirements">&lt;/span>
 &lt;a href="#system-requirements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
@@ -2026,22 +2026,22 @@ title="Copy code"
 &lt;li>&lt;strong>Connection errors&lt;/strong>: Check your API key and network settings&lt;/li>
 &lt;li>&lt;strong>Version conflicts&lt;/strong>: Ensure you&amp;rsquo;re using compatible versions&lt;/li>
 &lt;li>&lt;strong>Permission issues&lt;/strong>: Verify your account has the necessary permissions&lt;/li>
-&lt;/ul></description></item><item><title>Introduction</title><link>https://www.bigledger.com/user-guide/getting-started/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/getting-started/introduction/</guid><description>
+&lt;/ul></description></item><item><title>Introduction</title><link>https://www.wavelet.net/user-guide/getting-started/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/getting-started/introduction/</guid><description>
 &lt;p>Welcome to BigLedger, your comprehensive gateway to streamlined business operations and valuable insights. BigLedger centralizes your data to provide real-time insights and streamlined management across all aspects of your business.&lt;/p>
 &lt;h2>Getting Started Resources&lt;span class="hx:absolute hx:-mt-20" id="getting-started-resources">&lt;/span>
 &lt;a href="#getting-started-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Explore our comprehensive resources to maximize your BigLedger experience:&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/platform-overview"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/platform-overview"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Platform Overview&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">First-time and existing users - registration and permissions guide&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/applets/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/applets/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Applet Directory&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">User guide on BigLedger Applets and automation tools&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/industry-solutions/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/user-guide/industry-solutions/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Industry Solutions&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Discover solutions tailored for your specific industry&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/modules/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.wavelet.net/modules/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Module Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Comprehensive guide to BigLedger&amp;rsquo;s business modules&lt;/div>&lt;/a>
 &lt;/div>
 &lt;h2>New to BigLedger?&lt;span class="hx:absolute hx:-mt-20" id="new-to-bigledger">&lt;/span>
@@ -2095,7 +2095,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pro Tip&lt;/strong>: Start with our most popular modules - Financial Accounting, Inventory Management, and CRM - to see immediate benefits in your daily operations.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Member Label List</title><link>https://www.bigledger.com/user-guide/administration/member-label-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-label-list/</guid><description>
+&lt;/div></description></item><item><title>Member Label List</title><link>https://www.wavelet.net/user-guide/administration/member-label-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/administration/member-label-list/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3317499439
 &lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:25:30.383Z
 5.Member label list: Create Member Label list&amp;gt;Compulsory information&amp;gt;Edit
@@ -2112,7 +2112,7 @@ After changing the details of the field, please click &amp;lsquo;save&amp;rsquo;
 Please click &amp;lsquo;delete&amp;rsquo; to remove the member label list from the list.
 5.3.2. In the labels tab, you can add labels to the label list.
 Please click &amp;lsquo;+&amp;rsquo; button to add labels.
-Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p></description></item><item><title>Member Listing</title><link>https://www.bigledger.com/user-guide/administration/member-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-listing/</guid><description>
+Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p></description></item><item><title>Member Listing</title><link>https://www.wavelet.net/user-guide/administration/member-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/administration/member-listing/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3317564816
 &lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:28:05.761Z
 2. Member Listing: Create New Member &amp;gt; Membership Edit
@@ -2143,7 +2143,7 @@ Please click &amp;lsquo;+&amp;rsquo; button to add point adjustment.
 The following fields are compulsory:
 Branch
 Point Currency
-Item code &amp;amp; name&lt;/p></description></item><item><title>MyInvois Setup Guide</title><link>https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/</guid><description>
+Item code &amp;amp; name&lt;/p></description></item><item><title>MyInvois Setup Guide</title><link>https://www.wavelet.net/guides/einvoice-guides/myinvois-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/einvoice-guides/myinvois-setup/</guid><description>
 &lt;p>Complete guide for MyInvois implementation with BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>MyInvois is Malaysia&amp;rsquo;s national e-invoicing initiative by LHDN. BigLedger provides seamless integration as an MDEC-accredited PEPPOL service provider.&lt;/p>
@@ -2228,7 +2228,7 @@ Item code &amp;amp; name&lt;/p></description></item><item><title>MyInvois Setup 
 &lt;li>&lt;input disabled="" type="checkbox"> Backup process ready&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>For MyInvois support, contact &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Price Book Management &amp; Customer Pricing</title><link>https://www.bigledger.com/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/price-book/</guid><description>
+&lt;p>&lt;em>For MyInvois support, contact &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Price Book Management &amp; Customer Pricing</title><link>https://www.wavelet.net/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/daily-tasks/price-book/</guid><description>
 &lt;p>Price books in BigLedger serve as the foundation for organized price list management, enabling businesses to maintain structured pricing for different customer segments, sales channels, and market conditions while ensuring consistency across all commercial operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price books are centralized repositories that organize and manage pricing information for your products and services. They work in conjunction with pricing schemes to provide flexible, scalable pricing solutions that adapt to various business scenarios and customer requirements.&lt;/p>
@@ -2737,12 +2737,12 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your pricing management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Advanced pricing templates and strategies&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/price-set/" >Price Set Configuration&lt;/a> - Rule-based pricing logic and conditions&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Advanced pricing templates and strategies&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/price-set/" >Price Set Configuration&lt;/a> - Rule-based pricing logic and conditions&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -2781,7 +2781,7 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pricing Success&lt;/strong>: Organizations implementing structured price book systems typically achieve 20-30% improvement in pricing consistency, 15-25% increase in profit margins, and 40% reduction in pricing-related errors.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Search Documentation</title><link>https://www.bigledger.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/search/</guid><description>
+&lt;/div></description></item><item><title>Search Documentation</title><link>https://www.wavelet.net/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/search/</guid><description>
 &lt;div class="search-container">
 &lt;div class="search-box">
 &lt;input
@@ -2975,23 +2975,23 @@ searchInput.blur();
 &lt;h2>Popular Topics&lt;span class="hx:absolute hx:-mt-20" id="popular-topics">&lt;/span>
 &lt;a href="#popular-topics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Platform &amp;amp; Operations&lt;span class="hx:absolute hx:-mt-20" id="platform--operations">&lt;/span>
 &lt;a href="#platform--operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/introduction/" >Platform Overview&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/" >Business Operations Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/" >Implementation Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/introduction/" >Platform Overview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/" >Business Operations Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/" >Implementation Guide&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>Business Functions&lt;span class="hx:absolute hx:-mt-20" id="business-functions">&lt;/span>
 &lt;a href="#business-functions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/applets/" >Financial Management&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/applets/" >Sales &amp;amp; CRM&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/applets/" >Supply Chain&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/applets/" >Human Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/applets/" >Financial Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/applets/" >Sales &amp;amp; CRM&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/applets/" >Supply Chain&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/applets/" >Human Resources&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>Technical Resources&lt;span class="hx:absolute hx:-mt-20" id="technical-resources">&lt;/span>
 &lt;a href="#technical-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/api-reference/" >API Documentation&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/" >Developer Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/" >Integration Hub&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Stock Management Guide</title><link>https://www.bigledger.com/guides/inventory-guides/stock-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/inventory-guides/stock-management/</guid><description>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/api-reference/" >API Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/" >Developer Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/" >Integration Hub&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Stock Management Guide</title><link>https://www.wavelet.net/guides/inventory-guides/stock-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/inventory-guides/stock-management/</guid><description>
 &lt;p>Complete inventory management with BigLedger.&lt;/p>
 &lt;h2>Stock Setup&lt;span class="hx:absolute hx:-mt-20" id="stock-setup">&lt;/span>
 &lt;a href="#stock-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Item Master&lt;span class="hx:absolute hx:-mt-20" id="item-master">&lt;/span>
@@ -3047,7 +3047,7 @@ searchInput.blur();
 &lt;li>Obsolescence review&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Inventory support: &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Team</title><link>https://www.bigledger.com/user-guide/administration/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/team/</guid><description>
+&lt;p>&lt;em>Inventory support: &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Team</title><link>https://www.wavelet.net/user-guide/administration/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/administration/team/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3321069573
 &lt;strong>Last Updated&lt;/strong>: 2021-07-27T06:18:28.861Z
 2. Team: Create Team &amp;gt; Compulsory Information&amp;gt; Edit (General info, Members,Import Users, Permission)
@@ -3079,7 +3079,7 @@ Please follow the instructions or download the &amp;lsquo;simple format&amp;rsqu
 Please click &amp;lsquo;Upload file&amp;rsquo; to import the users in the team
 2.7 Please add or edit permission from the &amp;lsquo;Edit Permission&amp;rsquo; tab.
 You can &amp;lsquo;Select permission&amp;rsquo; from the list to Add permission.
-After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permission.&lt;/p></description></item><item><title>AI &amp; Intelligence Platform</title><link>https://www.bigledger.com/ai-intelligence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ai-intelligence/</guid><description>
+After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permission.&lt;/p></description></item><item><title>AI &amp; Intelligence Platform</title><link>https://www.wavelet.net/ai-intelligence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/ai-intelligence/</guid><description>
 &lt;p>BigLedger&amp;rsquo;s comprehensive AI capabilities transform your business operations through intelligent automation, predictive analytics, and seamless integration with AIMatrix&amp;rsquo;s super agent workspace.&lt;/p>
 &lt;h2>Overview: Structured Data Meets Narrow AI&lt;span class="hx:absolute hx:-mt-20" id="overview-structured-data-meets-narrow-ai">&lt;/span>
 &lt;a href="#overview-structured-data-meets-narrow-ai" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger excels at the &amp;ldquo;structured&amp;rdquo; part of digital transformation by embedding specialized narrow AI models directly into business workflows. Unlike general-purpose AI, our narrow AI solutions are precisely trained for specific business tasks, delivering exceptional accuracy and reliability.&lt;/p>
@@ -3563,7 +3563,7 @@ title="Copy code"
 &lt;li>&lt;strong>Training&lt;/strong>: Comprehensive AI literacy programs&lt;/li>
 &lt;li>&lt;strong>Support&lt;/strong>: 24/7 AI helpdesk&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://www.bigledger.com/ai-intelligence/" >Launch AI Journey&lt;/a> | &lt;a href="mailto:ai@bigledger.com" >Contact AI Team&lt;/a> | &lt;a href="https://www.bigledger.com/ai-intelligence/" >View Pricing&lt;/a>&lt;/p></description></item><item><title>Creating Items in Your Catalog</title><link>https://www.bigledger.com/user-guide/basic-operations/creating-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/creating-an-item/</guid><description>
+&lt;p>&lt;a href="https://www.wavelet.net/ai-intelligence/" >Launch AI Journey&lt;/a> | &lt;a href="mailto:ai@bigledger.com" >Contact AI Team&lt;/a> | &lt;a href="https://www.wavelet.net/ai-intelligence/" >View Pricing&lt;/a>&lt;/p></description></item><item><title>Creating Items in Your Catalog</title><link>https://www.wavelet.net/user-guide/basic-operations/creating-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/basic-operations/creating-an-item/</guid><description>
 &lt;p>Learn how to add products and services to your BigLedger catalog with proper configuration for optimal inventory management and e-commerce integration.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Items are the foundation of your business operations in BigLedger. Whether you&amp;rsquo;re selling physical products, digital services, or bundled offerings, proper item setup ensures accurate inventory tracking, pricing, and integration across all your sales channels.&lt;/p>
@@ -3690,9 +3690,9 @@ title="Copy code"
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After creating your items, continue with:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Management&lt;/a>&lt;/strong> - Learn comprehensive item maintenance&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/editing-an-item/" >Editing Items&lt;/a>&lt;/strong> - Modify existing items and specifications&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Set up flexible pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/item-maintenance/" >Item Management&lt;/a>&lt;/strong> - Learn comprehensive item maintenance&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/editing-an-item/" >Editing Items&lt;/a>&lt;/strong> - Modify existing items and specifications&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Set up flexible pricing strategies&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -3703,10 +3703,10 @@ title="Copy code"
 &lt;hr>
 &lt;h2>Related Topics&lt;span class="hx:absolute hx:-mt-20" id="related-topics">&lt;/span>
 &lt;a href="#related-topics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding different item classifications&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Setting up pricing&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Stock control and tracking&lt;/li>
-&lt;/ul></description></item><item><title>Demos &amp; Resources</title><link>https://www.bigledger.com/demos-resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/demos-resources/</guid><description>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding different item classifications&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/price-book/" >Price Book Management&lt;/a> - Setting up pricing&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/inventory/" >Inventory Management&lt;/a> - Stock control and tracking&lt;/li>
+&lt;/ul></description></item><item><title>Demos &amp; Resources</title><link>https://www.wavelet.net/demos-resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/demos-resources/</guid><description>
 &lt;p>Experience BigLedger&amp;rsquo;s capabilities through our comprehensive demo videos and presentation materials.&lt;/p>
 &lt;h2>Video Demonstrations&lt;span class="hx:absolute hx:-mt-20" id="video-demonstrations">&lt;/span>
 &lt;a href="#video-demonstrations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>🛒 Point of Sales Demo&lt;span class="hx:absolute hx:-mt-20" id="-point-of-sales-demo">&lt;/span>
@@ -3871,17 +3871,17 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
 &lt;a href="#additional-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>📚 Documentation&lt;span class="hx:absolute hx:-mt-20" id="-documentation">&lt;/span>
 &lt;a href="#-documentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Getting Started Guides&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/" >Platform Setup Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/" >Module Configuration&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/" >Integration Manual&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/" >Best Practices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/" >Platform Setup Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/" >Module Configuration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/" >Integration Manual&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/" >Best Practices&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Technical Documentation&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/api-reference/" >API Reference&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/" >Data Dictionary&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/" >Security Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/" >Performance Tuning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/api-reference/" >API Reference&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/" >Data Dictionary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/" >Security Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/" >Performance Tuning&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>🎓 Training Materials&lt;span class="hx:absolute hx:-mt-20" id="-training-materials">&lt;/span>
 &lt;a href="#-training-materials" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Video Tutorials&lt;/strong>&lt;/p>
@@ -3956,7 +3956,7 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
 &lt;li>Key requirements&lt;/li>
 &lt;li>Preferred date/time&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://www.bigledger.com/demos-resources/" >Schedule Demo Now&lt;/a> | &lt;a href="mailto:sales@bigledger.com" >Contact Sales&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.wavelet.net/demos-resources/" >Schedule Demo Now&lt;/a> | &lt;a href="mailto:sales@bigledger.com" >Contact Sales&lt;/a>&lt;/p>
 &lt;h2>Customer Success Stories&lt;span class="hx:absolute hx:-mt-20" id="customer-success-stories">&lt;/span>
 &lt;a href="#customer-success-stories" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>🏪 Retail Chain&lt;span class="hx:absolute hx:-mt-20" id="-retail-chain">&lt;/span>
 &lt;a href="#-retail-chain" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Challenge:&lt;/strong> Manual processes across 500 outlets
@@ -4017,9 +4017,9 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
 &lt;li>Industry insights&lt;/li>
 &lt;li>Regulatory updates&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://www.bigledger.com/demos-resources/" >Subscribe Now&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.wavelet.net/demos-resources/" >Subscribe Now&lt;/a>&lt;/p>
 &lt;hr>
-&lt;p>&lt;em>BigLedger - Empowering Malaysian Businesses with Data-Driven Excellence&lt;/em>&lt;/p></description></item><item><title>Developer Documentation</title><link>https://www.bigledger.com/developer-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/developer-docs/</guid><description>
+&lt;p>&lt;em>BigLedger - Empowering Malaysian Businesses with Data-Driven Excellence&lt;/em>&lt;/p></description></item><item><title>Developer Documentation</title><link>https://www.wavelet.net/developer-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/developer-docs/</guid><description>
 &lt;p>Technical documentation for developers integrating with BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This section provides comprehensive technical documentation for developers building on the BigLedger platform.&lt;/p>
@@ -4031,7 +4031,7 @@ Comprehensive introduction to BigLedger&amp;rsquo;s data hub and modular ERP sys
 &lt;li>Security Considerations&lt;/li>
 &lt;li>Best Practices&lt;/li>
 &lt;li>Code Examples&lt;/li>
-&lt;/ul></description></item><item><title>Journal Entries Guide</title><link>https://www.bigledger.com/guides/accounting-guides/journal-entries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/journal-entries/</guid><description>
+&lt;/ul></description></item><item><title>Journal Entries Guide</title><link>https://www.wavelet.net/guides/accounting-guides/journal-entries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/accounting-guides/journal-entries/</guid><description>
 &lt;p>Master manual and automated journal entries in BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Journal entries are the foundation of accounting in BigLedger, recording all financial transactions in the general ledger.&lt;/p>
@@ -4267,7 +4267,7 @@ title="Copy code"
 &lt;li>Verify module integration&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Need help? Visit our &lt;a href="https://www.bigledger.com/user-guide/" >Support Center&lt;/a> or contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Month-End Closing Process</title><link>https://www.bigledger.com/tutorials/month-end-closing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/tutorials/month-end-closing/</guid><description>
+&lt;p>&lt;em>Need help? Visit our &lt;a href="https://www.wavelet.net/user-guide/" >Support Center&lt;/a> or contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Month-End Closing Process</title><link>https://www.wavelet.net/tutorials/month-end-closing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/tutorials/month-end-closing/</guid><description>
 &lt;p>Complete month-end procedures in BigLedger.&lt;/p>
 &lt;h2>Checklist&lt;span class="hx:absolute hx:-mt-20" id="checklist">&lt;/span>
 &lt;a href="#checklist" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Week 4 - Preparation&lt;span class="hx:absolute hx:-mt-20" id="week-4---preparation">&lt;/span>
@@ -4312,7 +4312,7 @@ title="Copy code"
 &lt;li>Get approvals&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Download month-end checklist template&lt;/em>&lt;/p></description></item><item><title>PEPPOL Configuration Guide</title><link>https://www.bigledger.com/guides/einvoice-guides/peppol-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/peppol-configuration/</guid><description>
+&lt;p>&lt;em>Download month-end checklist template&lt;/em>&lt;/p></description></item><item><title>PEPPOL Configuration Guide</title><link>https://www.wavelet.net/guides/einvoice-guides/peppol-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/einvoice-guides/peppol-configuration/</guid><description>
 &lt;p>Configure PEPPOL for international e-invoicing.&lt;/p>
 &lt;h2>What is PEPPOL?&lt;span class="hx:absolute hx:-mt-20" id="what-is-peppol">&lt;/span>
 &lt;a href="#what-is-peppol" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pan-European Public Procurement On-Line (PEPPOL) enables cross-border electronic document exchange.&lt;/p>
@@ -4380,7 +4380,7 @@ title="Copy code"
 &lt;li>Check compliance&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>PEPPOL support: &lt;a href="mailto:peppol@bigledger.com" >peppol@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Stock Transfer Procedures</title><link>https://www.bigledger.com/guides/inventory-guides/stock-transfer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/inventory-guides/stock-transfer/</guid><description>
+&lt;p>&lt;em>PEPPOL support: &lt;a href="mailto:peppol@bigledger.com" >peppol@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Stock Transfer Procedures</title><link>https://www.wavelet.net/guides/inventory-guides/stock-transfer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/inventory-guides/stock-transfer/</guid><description>
 &lt;p>Manage inventory movements between locations.&lt;/p>
 &lt;h2>Transfer Types&lt;span class="hx:absolute hx:-mt-20" id="transfer-types">&lt;/span>
 &lt;a href="#transfer-types" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Inter-Warehouse Transfer&lt;span class="hx:absolute hx:-mt-20" id="inter-warehouse-transfer">&lt;/span>
@@ -4440,7 +4440,7 @@ title="Copy code"
 &lt;li>Receipt confirmation&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Transfer support: &lt;a href="mailto:inventory@bigledger.com" >inventory@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Editing Items &amp; Updating Product Information</title><link>https://www.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
+&lt;p>&lt;em>Transfer support: &lt;a href="mailto:inventory@bigledger.com" >inventory@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Editing Items &amp; Updating Product Information</title><link>https://www.wavelet.net/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/basic-operations/editing-an-item/</guid><description>
 &lt;p>Learn how to efficiently modify existing items in your BigLedger catalog, update specifications, manage marketplace synchronization, and maintain accurate product information across all business operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The item editing interface provides comprehensive access to all aspects of your product and service information. From basic details to complex marketplace integrations, this powerful editing environment ensures your catalog stays current, accurate, and optimized for all business scenarios.&lt;/p>
@@ -4604,7 +4604,7 @@ title="Copy code"
 &lt;/ul>
 &lt;h3>Price and Cost Changes&lt;span class="hx:absolute hx:-mt-20" id="price-and-cost-changes">&lt;/span>
 &lt;a href="#price-and-cost-changes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>Coordinate with &lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
+&lt;li>Coordinate with &lt;a href="https://www.wavelet.net/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
 &lt;li>Update vendor costs and margin calculations&lt;/li>
 &lt;li>Modify marketplace-specific pricing&lt;/li>
 &lt;li>Review and update tax classifications&lt;/li>
@@ -4670,10 +4670,10 @@ title="Copy code"
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item editing, explore these related capabilities:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -4684,14 +4684,14 @@ title="Copy code"
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
-&lt;/ul></description></item><item><title>Implementation Guides</title><link>https://www.bigledger.com/guides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/</guid><description>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
+&lt;/ul></description></item><item><title>Implementation Guides</title><link>https://www.wavelet.net/guides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/</guid><description>
 &lt;p>Comprehensive step-by-step guides for implementing and using BigLedger&amp;rsquo;s features.&lt;/p>
 &lt;h2>Guide Categories&lt;span class="hx:absolute hx:-mt-20" id="guide-categories">&lt;/span>
-&lt;a href="#guide-categories" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>📊 &lt;a href="https://www.bigledger.com/guides/accounting-guides/" >Accounting Guides&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="-accounting-guides">&lt;/span>
+&lt;a href="#guide-categories" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>📊 &lt;a href="https://www.wavelet.net/guides/accounting-guides/" >Accounting Guides&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="-accounting-guides">&lt;/span>
 &lt;a href="#-accounting-guides" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Master financial management with BigLedger:&lt;/p>
 &lt;ul>
 &lt;li>Chart of Accounts Setup&lt;/li>
@@ -4699,7 +4699,7 @@ title="Copy code"
 &lt;li>Financial Reporting&lt;/li>
 &lt;li>Bank Reconciliation&lt;/li>
 &lt;/ul>
-&lt;h3>📄 &lt;a href="https://www.bigledger.com/guides/einvoice-guides/" >E-Invoice Implementation&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="-e-invoice-implementation">&lt;/span>
+&lt;h3>📄 &lt;a href="https://www.wavelet.net/guides/einvoice-guides/" >E-Invoice Implementation&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="-e-invoice-implementation">&lt;/span>
 &lt;a href="#-e-invoice-implementation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Complete e-invoice and PEPPOL setup:&lt;/p>
 &lt;ul>
 &lt;li>MyInvois Configuration&lt;/li>
@@ -4707,7 +4707,7 @@ title="Copy code"
 &lt;li>Validation Rules&lt;/li>
 &lt;li>Compliance Requirements&lt;/li>
 &lt;/ul>
-&lt;h3>📦 &lt;a href="https://www.bigledger.com/guides/inventory-guides/" >Inventory Management&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="-inventory-management">&lt;/span>
+&lt;h3>📦 &lt;a href="https://www.wavelet.net/guides/inventory-guides/" >Inventory Management&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="-inventory-management">&lt;/span>
 &lt;a href="#-inventory-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Optimize stock and warehouse operations:&lt;/p>
 &lt;ul>
 &lt;li>Stock Management&lt;/li>
@@ -4718,22 +4718,22 @@ title="Copy code"
 &lt;h2>Quick Links&lt;span class="hx:absolute hx:-mt-20" id="quick-links">&lt;/span>
 &lt;a href="#quick-links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Most Popular Guides&lt;span class="hx:absolute hx:-mt-20" id="most-popular-guides">&lt;/span>
 &lt;a href="#most-popular-guides" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/" >Chart of Accounts Setup&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/" >MyInvois Setup Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/" >Bank Reconciliation Step-by-Step&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/inventory-guides/stock-management/" >Stock Management Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/accounting-guides/chart-of-accounts-setup/" >Chart of Accounts Setup&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/einvoice-guides/myinvois-setup/" >MyInvois Setup Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/accounting-guides/bank-reconciliation-guide/" >Bank Reconciliation Step-by-Step&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/inventory-guides/stock-management/" >Stock Management Guide&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>New User Guides&lt;span class="hx:absolute hx:-mt-20" id="new-user-guides">&lt;/span>
 &lt;a href="#new-user-guides" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/introduction/" >Platform Overview&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Creating Your First Invoice&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/navigation/" >Basic Navigation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/introduction/" >Platform Overview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/financial-accounting/" >Creating Your First Invoice&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/navigation/" >Basic Navigation&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>Advanced Topics&lt;span class="hx:absolute hx:-mt-20" id="advanced-topics">&lt;/span>
 &lt;a href="#advanced-topics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/accounting-guides/financial-reporting/" >Financial Reporting&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/einvoice-guides/einvoice-validation/" >E-Invoice Validation Rules&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/inventory-guides/stock-transfer/" >Stock Transfer Procedures&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/accounting-guides/financial-reporting/" >Financial Reporting&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/einvoice-guides/einvoice-validation/" >E-Invoice Validation Rules&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/inventory-guides/stock-transfer/" >Stock Transfer Procedures&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2>By Business Process&lt;span class="hx:absolute hx:-mt-20" id="by-business-process">&lt;/span>
 &lt;a href="#by-business-process" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Order-to-Cash&lt;span class="hx:absolute hx:-mt-20" id="order-to-cash">&lt;/span>
@@ -4794,9 +4794,9 @@ title="Copy code"
 &lt;h2>Support Resources&lt;span class="hx:absolute hx:-mt-20" id="support-resources">&lt;/span>
 &lt;a href="#support-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Documentation&lt;span class="hx:absolute hx:-mt-20" id="documentation">&lt;/span>
 &lt;a href="#documentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/" >User Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/developers/api-reference/" >API Reference&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/" >Troubleshooting&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/" >User Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/developers/api-reference/" >API Reference&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/" >Troubleshooting&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>Training&lt;span class="hx:absolute hx:-mt-20" id="training">&lt;/span>
 &lt;a href="#training" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
@@ -4813,15 +4813,15 @@ title="Copy code"
 &lt;li>Consulting services&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Can&amp;rsquo;t find what you&amp;rsquo;re looking for? &lt;a href="mailto:support@bigledger.com" >Contact Support&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Accounting Guides</title><link>https://www.bigledger.com/guides/accounting-guides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/</guid><description>
+&lt;p>&lt;em>Can&amp;rsquo;t find what you&amp;rsquo;re looking for? &lt;a href="mailto:support@bigledger.com" >Contact Support&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Accounting Guides</title><link>https://www.wavelet.net/guides/accounting-guides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/accounting-guides/</guid><description>
 &lt;p>Comprehensive guides for accounting guides.&lt;/p>
 &lt;h2>Available Guides&lt;span class="hx:absolute hx:-mt-20" id="available-guides">&lt;/span>
 &lt;a href="#available-guides" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/" >Chart of Accounts Setup Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/accounting-guides/journal-entries/" >Journal Entries Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/accounting-guides/financial-reporting/" >Financial Reporting Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/" >Bank Reconciliation Step-by-Step&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>API Reference</title><link>https://www.bigledger.com/api-reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/api-reference/</guid><description>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/accounting-guides/chart-of-accounts-setup/" >Chart of Accounts Setup Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/accounting-guides/journal-entries/" >Journal Entries Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/accounting-guides/financial-reporting/" >Financial Reporting Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/accounting-guides/bank-reconciliation-guide/" >Bank Reconciliation Step-by-Step&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>API Reference</title><link>https://www.wavelet.net/api-reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/api-reference/</guid><description>
 &lt;p>Complete API reference for BigLedger services.&lt;/p>
 &lt;h2>Available APIs&lt;span class="hx:absolute hx:-mt-20" id="available-apis">&lt;/span>
 &lt;a href="#available-apis" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core APIs&lt;span class="hx:absolute hx:-mt-20" id="core-apis">&lt;/span>
@@ -4835,7 +4835,7 @@ title="Copy code"
 &lt;li>&lt;strong>Smart Contract API&lt;/strong> - Deploy and interact with smart contracts&lt;/li>
 &lt;li>&lt;strong>Analytics API&lt;/strong> - Access transaction analytics and reports&lt;/li>
 &lt;li>&lt;strong>Webhook API&lt;/strong> - Configure and manage webhooks&lt;/li>
-&lt;/ul></description></item><item><title>Customer Relationship Management (CRM)</title><link>https://www.bigledger.com/modules/crm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/crm/</guid><description>
+&lt;/ul></description></item><item><title>Customer Relationship Management (CRM)</title><link>https://www.wavelet.net/modules/crm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/crm/</guid><description>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger CRM module provides a comprehensive solution for managing customer relationships, sales pipelines, and marketing campaigns. Built to help businesses understand, engage, and retain customers more effectively, it integrates seamlessly with all other BigLedger modules.&lt;/p>
 &lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
@@ -5108,12 +5108,12 @@ title="Copy code"
 &lt;/ul>
 &lt;h2>Support &amp;amp; Training&lt;span class="hx:absolute hx:-mt-20" id="support--training">&lt;/span>
 &lt;a href="#support--training" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📚 &lt;a href="https://www.bigledger.com/modules/crm/" >CRM Best Practices Guide&lt;/a>&lt;/li>
-&lt;li>🎥 &lt;a href="https://www.bigledger.com/modules/crm/" >Video Tutorials&lt;/a>&lt;/li>
-&lt;li>📊 &lt;a href="https://www.bigledger.com/modules/crm/" >Report Templates&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://www.wavelet.net/modules/crm/" >CRM Best Practices Guide&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://www.wavelet.net/modules/crm/" >Video Tutorials&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://www.wavelet.net/modules/crm/" >Report Templates&lt;/a>&lt;/li>
 &lt;li>💬 &lt;a href="https://forum.bigledger.com/crm" target="_blank" rel="noopener">Community Forum&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:crm-support@bigledger.com" >Support&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>E-Invoice Validation Rules</title><link>https://www.bigledger.com/guides/einvoice-guides/einvoice-validation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/einvoice-validation/</guid><description>
+&lt;/ul></description></item><item><title>E-Invoice Validation Rules</title><link>https://www.wavelet.net/guides/einvoice-guides/einvoice-validation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/einvoice-guides/einvoice-validation/</guid><description>
 &lt;p>Comprehensive validation rules for MyInvois compliance.&lt;/p>
 &lt;h2>Mandatory Fields&lt;span class="hx:absolute hx:-mt-20" id="mandatory-fields">&lt;/span>
 &lt;a href="#mandatory-fields" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Invoice Header&lt;span class="hx:absolute hx:-mt-20" id="invoice-header">&lt;/span>
@@ -5179,7 +5179,7 @@ title="Copy code"
 &lt;li>Monitor status&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>Validation support: &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Financial Reporting Guide</title><link>https://www.bigledger.com/guides/accounting-guides/financial-reporting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/financial-reporting/</guid><description>
+&lt;p>&lt;em>Validation support: &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Financial Reporting Guide</title><link>https://www.wavelet.net/guides/accounting-guides/financial-reporting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/accounting-guides/financial-reporting/</guid><description>
 &lt;p>Generate accurate financial reports with BigLedger&amp;rsquo;s reporting suite.&lt;/p>
 &lt;h2>Available Reports&lt;span class="hx:absolute hx:-mt-20" id="available-reports">&lt;/span>
 &lt;a href="#available-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Financial Statements&lt;span class="hx:absolute hx:-mt-20" id="core-financial-statements">&lt;/span>
@@ -5369,14 +5369,14 @@ title="Copy code"
 &lt;li>Approval notes&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>For custom report development, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Item Maintenance &amp; Catalog Management</title><link>https://www.bigledger.com/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/item-maintenance/</guid><description>
+&lt;p>&lt;em>For custom report development, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Item Maintenance &amp; Catalog Management</title><link>https://www.wavelet.net/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/basic-operations/item-maintenance/</guid><description>
 &lt;p>Master the complete lifecycle of item management in BigLedger, from initial creation to ongoing maintenance, ensuring your product catalog remains accurate, organized, and optimized for all business operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Item maintenance is crucial for effective business operations. This comprehensive guide covers all aspects of managing your product and service catalog, including detailed configurations, categorization, pricing, and integration with various business modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://www.wavelet.net/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;hr>
@@ -5658,10 +5658,10 @@ title="Copy code"
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item maintenance, explore these related areas:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -5672,24 +5672,24 @@ title="Copy code"
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
-&lt;/ul></description></item><item><title>E-Invoice Implementation</title><link>https://www.bigledger.com/guides/einvoice-guides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/</guid><description>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
+&lt;/ul></description></item><item><title>E-Invoice Implementation</title><link>https://www.wavelet.net/guides/einvoice-guides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/einvoice-guides/</guid><description>
 &lt;p>Comprehensive guides for e-invoice implementation.&lt;/p>
 &lt;h2>Available Guides&lt;span class="hx:absolute hx:-mt-20" id="available-guides">&lt;/span>
 &lt;a href="#available-guides" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/" >MyInvois Setup Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/einvoice-guides/peppol-configuration/" >PEPPOL Configuration&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/einvoice-guides/einvoice-validation/" >E-Invoice Validation Rules&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Inventory Management</title><link>https://www.bigledger.com/guides/inventory-guides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/inventory-guides/</guid><description>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/einvoice-guides/myinvois-setup/" >MyInvois Setup Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/einvoice-guides/peppol-configuration/" >PEPPOL Configuration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/einvoice-guides/einvoice-validation/" >E-Invoice Validation Rules&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Inventory Management</title><link>https://www.wavelet.net/guides/inventory-guides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/inventory-guides/</guid><description>
 &lt;p>Comprehensive guides for inventory management.&lt;/p>
 &lt;h2>Available Guides&lt;span class="hx:absolute hx:-mt-20" id="available-guides">&lt;/span>
 &lt;a href="#available-guides" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/inventory-guides/stock-management/" >Stock Management Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/guides/inventory-guides/stock-transfer/" >Stock Transfer Procedures&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/inventory-guides/stock-management/" >Stock Management Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/guides/inventory-guides/stock-transfer/" >Stock Transfer Procedures&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://www.wavelet.net/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/basic-operations/document-item-maintenance/</guid><description>
 &lt;p>Document item maintenance in BigLedger provides comprehensive tools for managing business documents throughout their entire lifecycle, ensuring proper workflow integration, compliance tracking, and seamless coordination across all business operations and departments.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Document item maintenance encompasses the creation, modification, approval, processing, and archiving of all business documents within BigLedger. This system ensures that documents flow efficiently through business processes while maintaining audit trails, compliance requirements, and operational efficiency.&lt;/p>
@@ -6382,12 +6382,12 @@ title="Copy code"
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your document management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -6426,7 +6426,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Implementation Success&lt;/strong>: Organizations implementing comprehensive document maintenance workflows typically achieve 50% reduction in document processing time, 40% improvement in compliance adherence, and 60% increase in operational efficiency.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Bank Reconciliation Step-by-Step</title><link>https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</guid><description>
+&lt;/div></description></item><item><title>Bank Reconciliation Step-by-Step</title><link>https://www.wavelet.net/guides/accounting-guides/bank-reconciliation-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/guides/accounting-guides/bank-reconciliation-guide/</guid><description>
 &lt;p>Master the bank reconciliation process with BigLedger&amp;rsquo;s AI-powered matching.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Bank reconciliation ensures your book balance matches your bank statement, identifying discrepancies and maintaining accurate cash records.&lt;/p>
@@ -6679,7 +6679,7 @@ title="Copy code"
 &lt;li>&lt;strong>Regular Reconciliation&lt;/strong>: Don&amp;rsquo;t let transactions accumulate&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>Need assistance? Our support team can help achieve 95% automation. Contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Member Classifications &amp; Access Control</title><link>https://www.bigledger.com/user-guide/administration/member-class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-class/</guid><description>
+&lt;p>&lt;em>Need assistance? Our support team can help achieve 95% automation. Contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Member Classifications &amp; Access Control</title><link>https://www.wavelet.net/user-guide/administration/member-class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/administration/member-class/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -6747,17 +6747,17 @@ title="Copy code"
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Adding and managing user accounts&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Organizing departments and teams&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/navigation/" >Navigation Guide&lt;/a> - Interface permissions and access&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/platform-overview/" >Platform Overview&lt;/a> - Security architecture overview&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/member-listing/" >User Management&lt;/a> - Adding and managing user accounts&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/team/" >Team Configuration&lt;/a> - Organizing departments and teams&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/navigation/" >Navigation Guide&lt;/a> - Interface permissions and access&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/platform-overview/" >Platform Overview&lt;/a> - Security architecture overview&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
 &lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Priority): Core role-based access control documentation&lt;br>
 &lt;strong>Phase 2&lt;/strong> (Follow-up): Advanced security features and integration guides&lt;br>
 &lt;strong>Phase 3&lt;/strong> (Enhancement): Analytics, reporting, and optimization strategies&lt;/p>
-&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item><item><title>Tutorials</title><link>https://www.bigledger.com/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/tutorials/</guid><description>
+&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item><item><title>Tutorials</title><link>https://www.wavelet.net/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/tutorials/</guid><description>
 &lt;p>Step-by-step tutorials for common BigLedger use cases.&lt;/p>
 &lt;h2>Available Tutorials&lt;span class="hx:absolute hx:-mt-20" id="available-tutorials">&lt;/span>
 &lt;a href="#available-tutorials" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Beginner&lt;span class="hx:absolute hx:-mt-20" id="beginner">&lt;/span>
@@ -6777,7 +6777,7 @@ title="Copy code"
 &lt;li>Smart Contract Development&lt;/li>
 &lt;li>Performance Optimization&lt;/li>
 &lt;li>Security Best Practices&lt;/li>
-&lt;/ul></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://www.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/group-listing/</guid><description>
+&lt;/ul></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://www.wavelet.net/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/administration/group-listing/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -6879,10 +6879,10 @@ title="Copy code"
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
@@ -6894,7 +6894,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic group creation and management functionality is available. For complex organizational requirements or advanced permission setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://www.bigledger.com/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-label/</guid><description>
+&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://www.wavelet.net/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/administration/member-label/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -6993,10 +6993,10 @@ title="Copy code"
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
@@ -7008,14 +7008,14 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic label creation and member assignment functionality is available. For complex labeling strategies or advanced organizational requirements, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance and best practices consultation.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Pricing Schemes &amp; Strategy Management</title><link>https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/</guid><description>
+&lt;/div></description></item><item><title>Pricing Schemes &amp; Strategy Management</title><link>https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme/</guid><description>
 &lt;p>Master BigLedger&amp;rsquo;s flexible pricing system to create sophisticated pricing strategies that adapt to different customers, markets, and business scenarios while maintaining profitability and competitive positioning.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pricing schemes in BigLedger are powerful templates that define pricing structures for your products and services. These schemes can be applied across multiple business modules including POS, sales orders, quotations, and e-commerce platforms, providing consistent pricing while allowing for customer-specific and scenario-based flexibility.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Key Concept&lt;/strong>: Pricing schemes create the framework, while actual item prices are set in the &lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> module. This separation allows for flexible pricing strategies across different customer segments and sales channels.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Key Concept&lt;/strong>: Pricing schemes create the framework, while actual item prices are set in the &lt;a href="https://www.wavelet.net/user-guide/item-maintenance/" >Item Maintenance&lt;/a> module. This separation allows for flexible pricing strategies across different customer segments and sales channels.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;hr>
@@ -7334,10 +7334,10 @@ title="Copy code"
 &lt;h2>Next Steps and Advanced Features&lt;span class="hx:absolute hx:-mt-20" id="next-steps-and-advanced-features">&lt;/span>
 &lt;a href="#next-steps-and-advanced-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering basic pricing schemes, explore:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a>&lt;/strong> - Detailed price lists and management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Apply pricing to specific items&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a>&lt;/strong> - Implement pricing in retail operations&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/price-book/" >Price Book Management&lt;/a>&lt;/strong> - Detailed price lists and management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Apply pricing to specific items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/pos/" >POS Configuration&lt;/a>&lt;/strong> - Implement pricing in retail operations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel pricing strategies&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -7348,10 +7348,10 @@ title="Copy code"
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Management Overview&lt;/a> - Complete financial integration&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and pricing management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Platforms&lt;/a> - Online pricing and synchronization&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/business-operations/dashboard/" >Business Analytics&lt;/a> - Pricing performance analysis&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/financial-accounting/" >Financial Management Overview&lt;/a> - Complete financial integration&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and pricing management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Platforms&lt;/a> - Online pricing and synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/business-operations/dashboard/" >Business Analytics&lt;/a> - Pricing performance analysis&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help&lt;span class="hx:absolute hx:-mt-20" id="getting-help">&lt;/span>
@@ -7370,7 +7370,7 @@ title="Copy code"
 &lt;li>Market analysis and competitive positioning&lt;/li>
 &lt;li>Custom pricing scheme development&lt;/li>
 &lt;li>Advanced integration and automation setup&lt;/li>
-&lt;/ul></description></item><item><title>Procurement</title><link>https://www.bigledger.com/modules/procurement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/procurement/</guid><description>
+&lt;/ul></description></item><item><title>Procurement</title><link>https://www.wavelet.net/modules/procurement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/procurement/</guid><description>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Procurement module streamlines your entire purchase-to-pay process, from requisition to payment. It helps organizations reduce costs, improve supplier relationships, and ensure compliance with purchasing policies.&lt;/p>
 &lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
@@ -7437,7 +7437,7 @@ title="Copy code"
 &lt;li>Create product catalogs&lt;/li>
 &lt;li>Train procurement team&lt;/li>
 &lt;/ol>
-&lt;p>For detailed documentation, visit our &lt;a href="https://www.bigledger.com/modules/procurement/" >Procurement Guide&lt;/a> or contact support.&lt;/p></description></item><item><title>Price Set Configuration &amp; Advanced Pricing Logic</title><link>https://www.bigledger.com/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/price-set/</guid><description>
+&lt;p>For detailed documentation, visit our &lt;a href="https://www.wavelet.net/modules/procurement/" >Procurement Guide&lt;/a> or contact support.&lt;/p></description></item><item><title>Price Set Configuration &amp; Advanced Pricing Logic</title><link>https://www.wavelet.net/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/daily-tasks/price-set/</guid><description>
 &lt;p>Price sets in BigLedger provide sophisticated, rule-based pricing capabilities that enable complex pricing strategies adaptable to diverse business conditions, customer segments, and operational scenarios. This advanced pricing system supports enterprise-level requirements with powerful logic engines and flexible configuration options.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price sets represent the most advanced tier of BigLedger&amp;rsquo;s pricing architecture, offering rule-based logic that can automatically apply different pricing strategies based on configurable conditions. They work seamlessly with price books and pricing schemes to create comprehensive, intelligent pricing solutions.&lt;/p>
@@ -8216,12 +8216,12 @@ title="Copy code"
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your advanced pricing expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Foundation pricing template system&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/price-book/" >Price Book Management &amp;amp; Customer Pricing&lt;/a> - Core price list management and customer assignment&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation and integration&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Foundation pricing template system&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/daily-tasks/price-book/" >Price Book Management &amp;amp; Customer Pricing&lt;/a> - Core price list management and customer assignment&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation and integration&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -8260,7 +8260,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Advanced Pricing Success&lt;/strong>: Organizations implementing sophisticated price set configurations typically achieve 35% improvement in pricing accuracy, 25% increase in profit margins, and 50% reduction in pricing administration time.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Human Resources</title><link>https://www.bigledger.com/modules/hr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/hr/</guid><description>
+&lt;/div></description></item><item><title>Human Resources</title><link>https://www.wavelet.net/modules/hr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/hr/</guid><description>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger HR module provides a complete human capital management solution, from recruitment to retirement. Streamline HR processes, ensure compliance, and empower employees with self-service capabilities.&lt;/p>
 &lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
@@ -8370,7 +8370,7 @@ title="Copy code"
 &lt;li>Define leave policies&lt;/li>
 &lt;li>Train HR team and employees&lt;/li>
 &lt;/ol>
-&lt;p>For detailed documentation, visit our &lt;a href="https://www.bigledger.com/modules/hr/" >HR Guide&lt;/a> or contact support.&lt;/p></description></item><item><title>Project Management</title><link>https://www.bigledger.com/modules/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/projects/</guid><description>
+&lt;p>For detailed documentation, visit our &lt;a href="https://www.wavelet.net/modules/hr/" >HR Guide&lt;/a> or contact support.&lt;/p></description></item><item><title>Project Management</title><link>https://www.wavelet.net/modules/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/modules/projects/</guid><description>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The BigLedger Project Management module helps organizations plan, execute, and deliver projects on time and within budget. From simple tasks to complex multi-phase projects, manage everything in one integrated platform.&lt;/p>
 &lt;h2>Key Features&lt;span class="hx:absolute hx:-mt-20" id="key-features">&lt;/span>
@@ -8487,4 +8487,4 @@ title="Copy code"
 &lt;li>Create project workflows&lt;/li>
 &lt;li>Train project teams&lt;/li>
 &lt;/ol>
-&lt;p>For detailed documentation, visit our &lt;a href="https://www.bigledger.com/modules/projects/" >Project Management Guide&lt;/a> or contact support.&lt;/p></description></item></channel></rss>
+&lt;p>For detailed documentation, visit our &lt;a href="https://www.wavelet.net/modules/projects/" >Project Management Guide&lt;/a> or contact support.&lt;/p></description></item></channel></rss>

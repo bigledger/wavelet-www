@@ -7,9 +7,9 @@ set -e
 
 echo "🔧 Updating CloudFront configuration to use S3 website endpoint..."
 
-DISTRIBUTION_ID="E3FOFD9ZXC2QVT"
-S3_BUCKET="wiki.bigledger.com"
-REGION="ap-southeast-5"
+DISTRIBUTION_ID="CLOUDFRONT_ID_TBD"
+S3_BUCKET="wavelet.net"
+REGION="ap-southeast-1"
 
 # Colors
 GREEN='\033[0;32m'
@@ -55,7 +55,7 @@ cat /tmp/cf-distribution-config.json | jq \
 echo ""
 echo -e "${YELLOW}⚠️  This will update the CloudFront distribution to use S3 website endpoint.${NC}"
 echo "This change will:"
-echo "  ✅ Allow directory URLs to work (e.g., /tutorials/ will serve /tutorials/index.html)"
+echo "  ✅ Allow directory URLs to work (e.g., /about/ will serve /about/index.html)"
 echo "  ✅ Fix the NoSuchKey errors"
 echo "  ⏱️  Take 5-15 minutes to fully deploy"
 echo ""

@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Expert-Tips</title><link>https://www.bigledger.com/zh/tags/expert-tips/</link><description>Recent content in Expert-Tips on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/expert-tips/index.xml" rel="self" type="application/rss+xml"/><item><title>最佳实践</title><link>https://www.bigledger.com/zh/user-guide/best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/user-guide/best-practices/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Expert-Tips</title><link>https://www.wavelet.net/zh/tags/expert-tips/</link><description>Recent content in Expert-Tips on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/expert-tips/index.xml" rel="self" type="application/rss+xml"/><item><title>最佳实践</title><link>https://www.wavelet.net/zh/user-guide/best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/user-guide/best-practices/</guid><description>
 &lt;p>专家技巧、优化策略和经过验证的方法论，最大化您的BigLedger效果。从成功实施中学习，避免常见陷阱。&lt;/p>
 &lt;h2>概述&lt;span class="hx:absolute hx:-mt-20" id="概述">&lt;/span>
 &lt;a href="#%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>本节汇编了来自数千个成功BigLedger实施的最佳实践。遵循这些指导原则，实现最佳性能、安全性和用户满意度。&lt;/p>
@@ -887,9 +887,9 @@ title="Copy code"
 &lt;h2>下一步&lt;span class="hx:absolute hx:-mt-20" id="下一步">&lt;/span>
 &lt;a href="#%e4%b8%8b%e4%b8%80%e6%ad%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>继续您的BigLedger之旅：&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/developers/" >开发者资源&lt;/a>&lt;/strong> - 通过自定义开发扩展BigLedger&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/industry-solutions/" >行业解决方案&lt;/a>&lt;/strong> - 行业特定优化&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/ai-intelligence/" >AI智能&lt;/a>&lt;/strong> - 利用AI驱动功能&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/developers/" >开发者资源&lt;/a>&lt;/strong> - 通过自定义开发扩展BigLedger&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/industry-solutions/" >行业解决方案&lt;/a>&lt;/strong> - 行业特定优化&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/ai-intelligence/" >AI智能&lt;/a>&lt;/strong> - 利用AI驱动功能&lt;/li>
 &lt;li>&lt;strong>&lt;a href="https://academy.bigledger.com" target="_blank" rel="noopener">高级培训&lt;/a>&lt;/strong> - 专业培训计划&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">

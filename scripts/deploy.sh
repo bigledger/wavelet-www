@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# BigLedger Wiki Deployment Script
-# This script handles the complete deployment process for the BigLedger documentation site
+# Wavelet Website Deployment Script
+# This script handles the complete deployment process for the Wavelet website
 
 set -e  # Exit on error
 
-echo "🚀 Starting BigLedger Wiki deployment process..."
+echo "🚀 Starting Wavelet Website deployment process..."
 
 # Colors for output
 RED='\033[0;31m'
@@ -46,7 +46,7 @@ check_prerequisites() {
     
     # Check if we're in the right directory
     if [ ! -f "hugo.yaml" ]; then
-        print_error "Not in the BigLedger Wiki directory. Please run from the project root."
+        print_error "Not in the Wavelet Website directory. Please run from the project root."
         exit 1
     fi
     print_status "In correct directory"
@@ -146,7 +146,7 @@ trigger_deployment() {
         
         if [ -n "$run_id" ]; then
             echo "Deployment run started: #$run_id"
-            echo "You can monitor it at: https://github.com/bigledger/blg-wiki/actions/runs/$run_id"
+            echo "You can monitor it at: https://github.com/wavelet/wavelet-www/actions/runs/$run_id"
             
             # Option to watch the deployment
             echo ""
@@ -168,7 +168,7 @@ trigger_deployment() {
         fi
     else
         print_warning "GitHub CLI not installed. Cannot monitor deployment status."
-        echo "Check deployment at: https://github.com/bigledger/blg-wiki/actions"
+        echo "Check deployment at: https://github.com/wavelet/wavelet-www/actions"
     fi
 }
 
@@ -176,32 +176,32 @@ trigger_deployment() {
 verify_deployment() {
     echo ""
     echo "Verifying deployment..."
-    
+
     # Test main site
-    if curl -s -o /dev/null -w "%{http_code}" https://wiki.bigledger.com | grep -q "200\|301\|302"; then
-        print_status "Main site is accessible: https://wiki.bigledger.com"
+    if curl -s -o /dev/null -w "%{http_code}" https://www.wavelet.net | grep -q "200\|301\|302"; then
+        print_status "Main site is accessible: https://www.wavelet.net"
     else
         print_error "Main site is not accessible"
     fi
-    
+
     # Test a few key pages
-    for path in "modules" "user-guide/getting-started" "zh/modules" "ms/modules" "ar/modules"; do
-        if curl -s -o /dev/null -w "%{http_code}" "https://wiki.bigledger.com/$path/" | grep -q "200\|301\|302"; then
+    for path in "about" "solutions" "pricing" "contact" "developers"; do
+        if curl -s -o /dev/null -w "%{http_code}" "https://www.wavelet.net/$path/" | grep -q "200\|301\|302"; then
             print_status "Page accessible: /$path/"
         else
             print_warning "Page may have issues: /$path/"
         fi
     done
-    
+
     echo ""
     print_status "Deployment verification complete!"
-    echo "Site is live at: https://wiki.bigledger.com"
+    echo "Site is live at: https://www.wavelet.net"
 }
 
 # Main deployment flow
 main() {
     echo "======================================"
-    echo "  BigLedger Wiki Deployment Script"
+    echo "  Wavelet Website Deployment Script"
     echo "======================================"
     echo ""
     

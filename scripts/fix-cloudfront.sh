@@ -5,9 +5,9 @@
 
 echo "🔧 Fixing CloudFront configuration for proper directory handling..."
 
-DISTRIBUTION_ID="E3FOFD9ZXC2QVT"
-S3_BUCKET="wiki.bigledger.com"
-REGION="ap-southeast-5"
+DISTRIBUTION_ID="CLOUDFRONT_ID_TBD"
+S3_BUCKET="wavelet.net"
+REGION="ap-southeast-1"
 
 # Colors
 GREEN='\033[0;32m'
@@ -43,5 +43,5 @@ echo "This would append /index.html to directory requests automatically."
 echo ""
 
 echo "For now, users need to access pages with explicit /index.html:"
-echo "  ❌ https://wiki.bigledger.com/modules/"
-echo "  ✅ https://wiki.bigledger.com/modules/index.html"
+echo "  ❌ https://www.wavelet.net/about/"
+echo "  ✅ https://www.wavelet.net/about/index.html"

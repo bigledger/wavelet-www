@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Business-Intelligence</title><link>https://www.bigledger.com/zh/tags/business-intelligence/</link><description>Recent content in Business-Intelligence on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/business-intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>报表和分析</title><link>https://www.bigledger.com/zh/user-guide/reports-analytics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/user-guide/reports-analytics/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Business-Intelligence</title><link>https://www.wavelet.net/zh/tags/business-intelligence/</link><description>Recent content in Business-Intelligence on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/business-intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>报表和分析</title><link>https://www.wavelet.net/zh/user-guide/reports-analytics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/user-guide/reports-analytics/</guid><description>
 &lt;p>利用BigLedger强大的报告和分析功能发挥业务数据的力量。将原始数据转化为推动更好业务决策的可操作洞察。&lt;/p>
 &lt;h2>概述&lt;span class="hx:absolute hx:-mt-20" id="概述">&lt;/span>
 &lt;a href="#%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger的报表和分析套件提供：&lt;/p>
@@ -798,9 +798,9 @@ title="Copy code"
 &lt;h2>下一步&lt;span class="hx:absolute hx:-mt-20" id="下一步">&lt;/span>
 &lt;a href="#%e4%b8%8b%e4%b8%80%e6%ad%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>掌握报表和分析后：&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/best-practices/" >最佳实践&lt;/a>&lt;/strong> - 实施数据驱动决策&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/troubleshooting/" >故障排除&lt;/a>&lt;/strong> - 解决报告问题&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/developers/" >开发者资源&lt;/a>&lt;/strong> - 高级自定义和API集成&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/best-practices/" >最佳实践&lt;/a>&lt;/strong> - 实施数据驱动决策&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/user-guide/troubleshooting/" >故障排除&lt;/a>&lt;/strong> - 解决报告问题&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/zh/developers/" >开发者资源&lt;/a>&lt;/strong> - 高级自定义和API集成&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>

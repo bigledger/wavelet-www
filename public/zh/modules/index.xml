@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – BigLedger 模块</title><link>https://www.bigledger.com/zh/modules/</link><description>Recent content in BigLedger 模块 on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/modules/index.xml" rel="self" type="application/rss+xml"/><item><title>财务会计</title><link>https://www.bigledger.com/zh/modules/financial-accounting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/modules/financial-accounting/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – BigLedger 模块</title><link>https://www.wavelet.net/zh/modules/</link><description>Recent content in BigLedger 模块 on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/modules/index.xml" rel="self" type="application/rss+xml"/><item><title>财务会计</title><link>https://www.wavelet.net/zh/modules/financial-accounting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/modules/financial-accounting/</guid><description>
 &lt;h1>财务会计模块&lt;/h1>&lt;h2>概述&lt;span class="hx:absolute hx:-mt-20" id="概述">&lt;/span>
 &lt;a href="#%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger 财务会计模块提供全面、符合标准的会计系统，专为各种规模的企业设计。基于 GAAP、IFRS 和本地会计准则构建，在保持审计合规所需严格性的同时提供实时财务洞察。&lt;/p>
 &lt;h2>核心概念&lt;span class="hx:absolute hx:-mt-20" id="核心概念">&lt;/span>
@@ -347,12 +347,12 @@ title="Copy code"
 &lt;/ul>
 &lt;h2>支持与资源&lt;span class="hx:absolute hx:-mt-20" id="支持与资源">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e4%b8%8e%e8%b5%84%e6%ba%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📚 &lt;a href="https://www.bigledger.com/docs/best-practices/accounting/" >会计最佳实践指南&lt;/a>&lt;/li>
-&lt;li>🎥 &lt;a href="https://www.bigledger.com/tutorials/financial-accounting/" >视频教程&lt;/a>&lt;/li>
-&lt;li>📊 &lt;a href="https://www.bigledger.com/templates/financial/" >报表模板库&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://www.wavelet.net/docs/best-practices/accounting/" >会计最佳实践指南&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://www.wavelet.net/tutorials/financial-accounting/" >视频教程&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://www.wavelet.net/templates/financial/" >报表模板库&lt;/a>&lt;/li>
 &lt;li>🤝 &lt;a href="https://forum.bigledger.com/finance" target="_blank" rel="noopener">社区论坛&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:finance@bigledger.com" >专家支持&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>销售终端系统 (POS)</title><link>https://www.bigledger.com/zh/modules/pos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/modules/pos/</guid><description>
+&lt;/ul></description></item><item><title>销售终端系统 (POS)</title><link>https://www.wavelet.net/zh/modules/pos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/modules/pos/</guid><description>
 &lt;h1>销售终端系统 (POS) 模块&lt;/h1>&lt;h2>概述&lt;span class="hx:absolute hx:-mt-20" id="概述">&lt;/span>
 &lt;a href="#%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger 销售终端系统 (POS) 模块是为现代企业设计的综合零售管理解决方案。以速度、可靠性和用户友好性为设计理念，它与所有其他 BigLedger 模块无缝集成，同时为零售运营提供独立功能。&lt;/p>
 &lt;h2>主要功能&lt;span class="hx:absolute hx:-mt-20" id="主要功能">&lt;/span>
@@ -728,11 +728,11 @@ title="Copy code"
 &lt;/table>
 &lt;h2>支持资源&lt;span class="hx:absolute hx:-mt-20" id="支持资源">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e8%b5%84%e6%ba%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📖 &lt;a href="https://www.bigledger.com/tutorials/pos/" >视频教程&lt;/a>&lt;/li>
+&lt;li>📖 &lt;a href="https://www.wavelet.net/tutorials/pos/" >视频教程&lt;/a>&lt;/li>
 &lt;li>💬 &lt;a href="https://forum.bigledger.com/pos" target="_blank" rel="noopener">社区论坛&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:pos-support@bigledger.com" >邮件支持&lt;/a>&lt;/li>
 &lt;li>📞 24/7 支持：+86-400-POS-HELP&lt;/li>
-&lt;/ul></description></item><item><title>客户关系管理 (CRM)</title><link>https://www.bigledger.com/zh/modules/crm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/modules/crm/</guid><description>
+&lt;/ul></description></item><item><title>客户关系管理 (CRM)</title><link>https://www.wavelet.net/zh/modules/crm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/modules/crm/</guid><description>
 &lt;h1>客户关系管理 (CRM) 模块&lt;/h1>&lt;h2>概述&lt;span class="hx:absolute hx:-mt-20" id="概述">&lt;/span>
 &lt;a href="#%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger CRM 模块为管理客户关系、销售管道和营销活动提供全面解决方案。旨在帮助企业更有效地了解、吸引和保留客户，与所有其他 BigLedger 模块无缝集成。&lt;/p>
 &lt;h2>主要功能&lt;span class="hx:absolute hx:-mt-20" id="主要功能">&lt;/span>
@@ -977,12 +977,12 @@ title="Copy code"
 &lt;/ul>
 &lt;h2>支持与培训&lt;span class="hx:absolute hx:-mt-20" id="支持与培训">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e4%b8%8e%e5%9f%b9%e8%ae%ad" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📚 &lt;a href="https://www.bigledger.com/docs/best-practices/crm/" >CRM 最佳实践指南&lt;/a>&lt;/li>
-&lt;li>🎥 &lt;a href="https://www.bigledger.com/tutorials/crm/" >视频教程&lt;/a>&lt;/li>
-&lt;li>📊 &lt;a href="https://www.bigledger.com/templates/crm/" >报表模板&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://www.wavelet.net/docs/best-practices/crm/" >CRM 最佳实践指南&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://www.wavelet.net/tutorials/crm/" >视频教程&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://www.wavelet.net/templates/crm/" >报表模板&lt;/a>&lt;/li>
 &lt;li>💬 &lt;a href="https://forum.bigledger.com/crm" target="_blank" rel="noopener">社区论坛&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:crm-support@bigledger.com" >支持&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>库存管理</title><link>https://www.bigledger.com/zh/modules/inventory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/modules/inventory/</guid><description>
+&lt;/ul></description></item><item><title>库存管理</title><link>https://www.wavelet.net/zh/modules/inventory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/modules/inventory/</guid><description>
 &lt;h1>库存管理模块&lt;/h1>&lt;h2>概述&lt;span class="hx:absolute hx:-mt-20" id="概述">&lt;/span>
 &lt;a href="#%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger 库存管理模块提供对整个供应链的全面控制，从采购到仓库管理再到订单履行。凭借实时跟踪、智能预测和跨所有渠道的无缝集成，确保最佳库存水平的同时最小化持有成本。&lt;/p>
 &lt;h2>主要功能&lt;span class="hx:absolute hx:-mt-20" id="主要功能">&lt;/span>
@@ -1402,9 +1402,9 @@ title="Copy code"
 &lt;/ul>
 &lt;h2>支持与资源&lt;span class="hx:absolute hx:-mt-20" id="支持与资源">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e4%b8%8e%e8%b5%84%e6%ba%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>📚 &lt;a href="https://www.bigledger.com/docs/best-practices/inventory/" >库存最佳实践&lt;/a>&lt;/li>
-&lt;li>🎥 &lt;a href="https://www.bigledger.com/tutorials/inventory/" >培训视频&lt;/a>&lt;/li>
-&lt;li>📊 &lt;a href="https://www.bigledger.com/templates/inventory/" >报表模板&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://www.wavelet.net/docs/best-practices/inventory/" >库存最佳实践&lt;/a>&lt;/li>
+&lt;li>🎥 &lt;a href="https://www.wavelet.net/tutorials/inventory/" >培训视频&lt;/a>&lt;/li>
+&lt;li>📊 &lt;a href="https://www.wavelet.net/templates/inventory/" >报表模板&lt;/a>&lt;/li>
 &lt;li>💬 &lt;a href="https://forum.bigledger.com/inventory" target="_blank" rel="noopener">社区论坛&lt;/a>&lt;/li>
 &lt;li>📧 &lt;a href="mailto:inventory-support@bigledger.com" >支持&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

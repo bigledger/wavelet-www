@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dokumentasi BigLedger – Perjalanan Demo Berdasarkan Peranan</title><link>https://www.bigledger.com/ms/user-guide/demo/role-based/</link><description>Recent content in Perjalanan Demo Berdasarkan Peranan on Dokumentasi BigLedger</description><generator>Hugo -- gohugo.io</generator><language>ms</language><atom:link href="https://www.bigledger.com/ms/user-guide/demo/role-based/index.xml" rel="self" type="application/rss+xml"/><item><title>Perjalanan Demo Pengurus Kewangan</title><link>https://www.bigledger.com/ms/user-guide/demo/role-based/finance-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ms/user-guide/demo/role-based/finance-manager/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dokumentasi Wavelet – Perjalanan Demo Berdasarkan Peranan</title><link>https://www.wavelet.net/ms/user-guide/demo/role-based/</link><description>Recent content in Perjalanan Demo Berdasarkan Peranan on Dokumentasi Wavelet</description><generator>Hugo -- gohugo.io</generator><language>ms</language><atom:link href="https://www.wavelet.net/ms/user-guide/demo/role-based/index.xml" rel="self" type="application/rss+xml"/><item><title>Perjalanan Demo Pengurus Kewangan</title><link>https://www.wavelet.net/ms/user-guide/demo/role-based/finance-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/ms/user-guide/demo/role-based/finance-manager/</guid><description>
 &lt;p>Alami bagaimana BigLedger mengubah pengurusan kewangan melalui automasi, keterlihatan masa nyata, dan keupayaan pematuhan yang komprehensif. Demo ini menangani cabaran kritikal yang dihadapi Pengurus Kewangan setiap hari.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -722,7 +722,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 >Jadualkan Demo Eksekutif&lt;/a>
 &lt;h3>Tindakan Pantas&lt;span class="hx:absolute hx:-mt-20" id="tindakan-pantas">&lt;/span>
 &lt;a href="#tindakan-pantas" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/ms/user-guide/demo/role-based/finance-manager/#senario-1-dashboard-kewangan-masa-nyata" >Mula Demo Sekarang&lt;/a>&lt;/strong> - Mulakan dengan dashboard masa nyata&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/ms/user-guide/demo/role-based/finance-manager/#senario-1-dashboard-kewangan-masa-nyata" >Mula Demo Sekarang&lt;/a>&lt;/strong> - Mulakan dengan dashboard masa nyata&lt;/li>
 &lt;li>&lt;strong>&lt;a href="#kalkulator-roi-untuk-pasukan-kewangan" >Kira ROI Anda&lt;/a>&lt;/strong> - Anggarkan penjimatan untuk organisasi anda&lt;/li>
 &lt;li>&lt;strong>&lt;a href="mailto:sales@bigledger.com" >Hubungi Pakar Kewangan&lt;/a>&lt;/strong> - Bincangkan keperluan khusus&lt;/li>
 &lt;/ol>
@@ -731,7 +731,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pakej Pengurus Kewangan&lt;/strong>: Sebut &amp;ldquo;FINANCE-DEMO&amp;rdquo; untuk demonstrasi khusus yang memfokuskan pada cabaran pengurusan kewangan khusus anda.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Perjalanan Demo Pengurus Operasi</title><link>https://www.bigledger.com/ms/user-guide/demo/role-based/operations-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ms/user-guide/demo/role-based/operations-manager/</guid><description>
+&lt;/div></description></item><item><title>Perjalanan Demo Pengurus Operasi</title><link>https://www.wavelet.net/ms/user-guide/demo/role-based/operations-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/ms/user-guide/demo/role-based/operations-manager/</guid><description>
 &lt;p>Alami bagaimana BigLedger mengubah pengurusan operasi melalui automasi pintar, keterlihatan masa nyata, dan pengoptimuman berdasarkan data. Demo ini menangani cabaran operasi kritikal yang mendorong kecekapan dan pertumbuhan.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -1498,7 +1498,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 >Jadualkan Demo Operasi&lt;/a>
 &lt;h3>Tindakan Pantas&lt;span class="hx:absolute hx:-mt-20" id="tindakan-pantas">&lt;/span>
 &lt;a href="#tindakan-pantas" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/ms/user-guide/demo/role-based/operations-manager/#senario-1-aliran-kerja-procurement-automatik" >Mula Demo Sekarang&lt;/a>&lt;/strong> - Mulakan dengan automasi procurement&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/ms/user-guide/demo/role-based/operations-manager/#senario-1-aliran-kerja-procurement-automatik" >Mula Demo Sekarang&lt;/a>&lt;/strong> - Mulakan dengan automasi procurement&lt;/li>
 &lt;li>&lt;strong>&lt;a href="#kalkulator-roi-untuk-pasukan-operasi" >Kira ROI Anda&lt;/a>&lt;/strong> - Anggarkan penjimatan operasi&lt;/li>
 &lt;li>&lt;strong>&lt;a href="mailto:sales@bigledger.com" >Hubungi Pakar Operasi&lt;/a>&lt;/strong> - Bincangkan cabaran operasi khusus&lt;/li>
 &lt;/ol>
@@ -1507,7 +1507,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pakej Kecemerlangan Operasi&lt;/strong>: Sebut &amp;ldquo;OPS-DEMO&amp;rdquo; untuk demonstrasi khusus yang memfokuskan pada keperluan pengoptimuman operasi khusus anda.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Perjalanan Demo CEO &amp; Eksekutif</title><link>https://www.bigledger.com/ms/user-guide/demo/role-based/ceo-executive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ms/user-guide/demo/role-based/ceo-executive/</guid><description>
+&lt;/div></description></item><item><title>Perjalanan Demo CEO &amp; Eksekutif</title><link>https://www.wavelet.net/ms/user-guide/demo/role-based/ceo-executive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/ms/user-guide/demo/role-based/ceo-executive/</guid><description>
 &lt;p>Alami bagaimana BigLedger mengubah pembuatan keputusan eksekutif melalui business intelligence yang komprehensif, insight strategik masa nyata, dan analitik ramalan. Demo ini memfokuskan pada keterlihatan strategik dan kawalan yang diperlukan CEO untuk memacu pertumbuhan.&lt;/p>
 &lt;a
 class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
@@ -2282,7 +2282,7 @@ class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-ful
 >Jadualkan Demo CEO&lt;/a>
 &lt;h3>Tindakan Pantas Strategik&lt;span class="hx:absolute hx:-mt-20" id="tindakan-pantas-strategik">&lt;/span>
 &lt;a href="#tindakan-pantas-strategik" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/ms/user-guide/demo/role-based/ceo-executive/#senario-1-pusat-komando-eksekutif-masa-nyata" >Mulakan Demo Eksekutif&lt;/a>&lt;/strong> - Mulakan dengan gambaran pusat komando&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/ms/user-guide/demo/role-based/ceo-executive/#senario-1-pusat-komando-eksekutif-masa-nyata" >Mulakan Demo Eksekutif&lt;/a>&lt;/strong> - Mulakan dengan gambaran pusat komando&lt;/li>
 &lt;li>&lt;strong>&lt;a href="#analisis-roi-strategik-untuk-ceo" >Kira ROI Strategik&lt;/a>&lt;/strong> - Anggarkan penciptaan nilai strategik&lt;/li>
 &lt;li>&lt;strong>&lt;a href="mailto:sales@bigledger.com" >Hubungi Penasihat Strategik&lt;/a>&lt;/strong> - Bincangkan transformasi strategik&lt;/li>
 &lt;/ol>

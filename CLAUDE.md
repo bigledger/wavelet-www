@@ -1,4 +1,4 @@
-# BigLedger Documentation - Development Guidelines
+# Wavelet Website - Development Guidelines
 
 ## Language Strategy
 
@@ -29,34 +29,27 @@ When creating or updating documentation:
 4. **Use clear, simple English that is easy to translate**
 5. **Avoid idioms and culturally-specific references**
 
-## BigLedger Architecture - Module-Applet Relationship
+## Wavelet Website Architecture
 
-### CRITICAL: Understanding Modules and Applets
+### CRITICAL: Understanding Website Structure
 
-**Modules and Applets have a many-to-many relationship:**
-- **Modules** = Logical business groupings (e.g., Financial Accounting, E-Commerce, POS)
-- **Applets** = Reusable functional components that can belong to MULTIPLE modules
-- **Location**: All applet documentation stays in `/content/en/applets/` (single source of truth)
-- **References**: Modules reference (link to) applets, never duplicate their documentation
-
-**Example**: Tax Configuration Applet is used by:
-- Financial Accounting Module
-- Sales & CRM Module  
-- Purchasing Module
-- E-Commerce Module
-- POS Module
-
-This applet has ONE documentation file in `/applets/` that all modules link to.
+**The Wavelet website is a corporate marketing site, not a documentation wiki:**
+- **Home** = Landing page with hero section and key features
+- **About** = Company information and team
+- **Solutions** = Product offerings and features
+- **Pricing** = Pricing tiers and plans
+- **Contact** = Contact information and forms
+- **Developers** = Developer resources and API documentation
 
 **DO:**
-- ✅ Keep applet docs in `/applets/`
-- ✅ Have modules list and link to their applets
-- ✅ Explain in each module which applets it uses
+- ✅ Keep marketing copy clear and concise
+- ✅ Use hero sections and call-to-action buttons
+- ✅ Focus on benefits and features for customers
 
 **DON'T:**
-- ❌ Move applets under module folders
-- ❌ Duplicate applet documentation
-- ❌ Create multiple versions of the same applet doc
+- ❌ Create module/applet documentation (this is not a docs site)
+- ❌ Use technical documentation style
+- ❌ Create deep navigation hierarchies
 
 ### IMPORTANT: Hextra Theme Limitations
 
@@ -133,10 +126,10 @@ Check for broken links:
 ```
 
 ### Language URLs
-- English: https://wiki.bigledger.com/ (default)
-- Chinese: https://wiki.bigledger.com/zh/
-- Malay: https://wiki.bigledger.com/ms/
-- Arabic: https://wiki.bigledger.com/ar/
+- English: https://www.wavelet.net/ (default)
+- Chinese: https://www.wavelet.net/zh/
+- Malay: https://www.wavelet.net/ms/
+- Arabic: https://www.wavelet.net/ar/
 
 ## Deployment Process
 
@@ -201,11 +194,11 @@ All deployment scripts are located in the `scripts/` directory:
 The site is automatically deployed when changes are pushed to the `main` branch. The workflow:
 
 1. Builds the site with Hugo
-2. Deploys to S3 bucket: `wiki.bigledger.com`
-3. Invalidates CloudFront distribution: `E3FOFD9ZXC2QVT`
+2. Deploys to S3 bucket: `wavelet.net`
+3. Invalidates CloudFront distribution: `CLOUDFRONT_ID_TBD` (to be updated)
 4. Verifies deployment
 
-Monitor deployments at: https://github.com/bigledger/blg-wiki/actions
+Monitor deployments at: https://github.com/wavelet/wavelet-www/actions
 
 ### Troubleshooting Deployment
 

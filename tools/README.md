@@ -1,10 +1,10 @@
-# BigLedger Wiki Tools
+# Wavelet Website Tools
 
-This directory contains tools for maintaining the BigLedger wiki quality and consistency.
+This directory contains tools for maintaining the Wavelet website quality and consistency.
 
 ## Consistency Checker
 
-The consistency checker ensures the wiki maintains quality standards across all documentation.
+The consistency checker ensures the website maintains quality standards across all content.
 
 ### Features
 

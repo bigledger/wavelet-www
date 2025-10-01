@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Business-Process</title><link>https://www.bigledger.com/tags/business-process/</link><description>Recent content in Business-Process on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/business-process/index.xml" rel="self" type="application/rss+xml"/><item><title>Workflow Design Applet</title><link>https://www.bigledger.com/applets/workflow-design-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/workflow-design-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Business-Process</title><link>https://www.wavelet.net/tags/business-process/</link><description>Recent content in Business-Process on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/business-process/index.xml" rel="self" type="application/rss+xml"/><item><title>Workflow Design Applet</title><link>https://www.wavelet.net/applets/workflow-design-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/workflow-design-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Workflow Design Applet is a powerful Core Module component that enables business process automation and workflow management across BigLedger. This applet provides comprehensive tools for designing, implementing, and managing approval workflows, business processes, and automated operations that streamline organizational efficiency.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -211,21 +211,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;/strong> - Workflow participant setup&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/organization-applet/" >Organization Applet&lt;/a>&lt;/strong> - Organizational structure&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - User permissions&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;/strong> - Workflow participant setup&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/organization-applet/" >Organization Applet&lt;/a>&lt;/strong> - Organizational structure&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - User permissions&lt;/li>
 &lt;/ul>
 &lt;h3>Process Management Applets&lt;span class="hx:absolute hx:-mt-20" id="process-management-applets">&lt;/span>
 &lt;a href="#process-management-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/process-monitoring-applet/" >Process Monitoring Applet&lt;/a>&lt;/strong> - Process performance monitoring&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/document-management-applet/" >Document Management Applet&lt;/a>&lt;/strong> - Document workflow integration&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/notification-applet/" >Notification Applet&lt;/a>&lt;/strong> - Advanced notification management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/process-monitoring-applet/" >Process Monitoring Applet&lt;/a>&lt;/strong> - Process performance monitoring&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/document-management-applet/" >Document Management Applet&lt;/a>&lt;/strong> - Document workflow integration&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/notification-applet/" >Notification Applet&lt;/a>&lt;/strong> - Advanced notification management&lt;/li>
 &lt;/ul>
 &lt;h3>Business Function Applets&lt;span class="hx:absolute hx:-mt-20" id="business-function-applets">&lt;/span>
 &lt;a href="#business-function-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-approval-applet/" >Purchase Approval Applet&lt;/a>&lt;/strong> - Procurement workflow specialization&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/hr-workflow-applet/" >HR Workflow Applet&lt;/a>&lt;/strong> - Human resources workflows&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/financial-approval-applet/" >Financial Approval Applet&lt;/a>&lt;/strong> - Financial process workflows&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/purchase-approval-applet/" >Purchase Approval Applet&lt;/a>&lt;/strong> - Procurement workflow specialization&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/hr-workflow-applet/" >HR Workflow Applet&lt;/a>&lt;/strong> - Human resources workflows&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/financial-approval-applet/" >Financial Approval Applet&lt;/a>&lt;/strong> - Financial process workflows&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>

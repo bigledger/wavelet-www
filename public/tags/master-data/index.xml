@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Master-Data</title><link>https://www.bigledger.com/tags/master-data/</link><description>Recent content in Master-Data on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/master-data/index.xml" rel="self" type="application/rss+xml"/><item><title>Inventory Item Maintenance Applet</title><link>https://www.bigledger.com/applets/inv-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/inv-item-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Master-Data</title><link>https://www.wavelet.net/tags/master-data/</link><description>Recent content in Master-Data on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/master-data/index.xml" rel="self" type="application/rss+xml"/><item><title>Inventory Item Maintenance Applet</title><link>https://www.wavelet.net/applets/inv-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/inv-item-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Inventory Item Maintenance Applet is the central hub for managing all physical product and inventory master data in BigLedger. This Core Module applet provides comprehensive product information management, stock control parameters, and integration foundation for all inventory-related operations across multiple modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -212,21 +212,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/doc-item-maintenance-applet/" >Document Item Maintenance Applet&lt;/a>&lt;/strong> - Service and non-inventory items&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor product relationships&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Product tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/doc-item-maintenance-applet/" >Document Item Maintenance Applet&lt;/a>&lt;/strong> - Service and non-inventory items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor product relationships&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Product tax settings&lt;/li>
 &lt;/ul>
 &lt;h3>Inventory Management Applets&lt;span class="hx:absolute hx:-mt-20" id="inventory-management-applets">&lt;/span>
 &lt;a href="#inventory-management-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/stock-balance-applet/" >Stock Balance Applet&lt;/a>&lt;/strong> - Real-time inventory levels&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/stock-take-applet/" >Stock Take Applet&lt;/a>&lt;/strong> - Physical inventory counting&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/internal-stock-adjustment-applet/" >Internal Stock Adjustment Applet&lt;/a>&lt;/strong> - Inventory adjustments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/stock-balance-applet/" >Stock Balance Applet&lt;/a>&lt;/strong> - Real-time inventory levels&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/stock-take-applet/" >Stock Take Applet&lt;/a>&lt;/strong> - Physical inventory counting&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/internal-stock-adjustment-applet/" >Internal Stock Adjustment Applet&lt;/a>&lt;/strong> - Inventory adjustments&lt;/li>
 &lt;/ul>
 &lt;h3>Pricing and Sales Applets&lt;span class="hx:absolute hx:-mt-20" id="pricing-and-sales-applets">&lt;/span>
 &lt;a href="#pricing-and-sales-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/pricebook-applet/" >Pricebook Applet&lt;/a>&lt;/strong> - Advanced pricing management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Product order processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Product procurement&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/pricebook-applet/" >Pricebook Applet&lt;/a>&lt;/strong> - Advanced pricing management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Product order processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Product procurement&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -363,7 +363,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Important&lt;/strong>: Product master data changes can affect pricing, inventory levels, and financial reporting. Always test changes in a development environment first.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Customer Maintenance Applet</title><link>https://www.bigledger.com/applets/customer-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/customer-maintenance-applet/</guid><description>
+&lt;/div></description></item><item><title>Customer Maintenance Applet</title><link>https://www.wavelet.net/applets/customer-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/customer-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Customer Maintenance Applet is the central repository for all customer information in BigLedger, providing comprehensive customer master data management that supports sales, CRM, accounts receivable, and customer-facing operations across all modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -576,21 +576,21 @@ title="Copy code"
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor master data&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;/strong> - Sales team assignment&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor master data&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;/strong> - Sales team assignment&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
 &lt;/ul>
 &lt;h3>Sales and CRM Applets&lt;span class="hx:absolute hx:-mt-20" id="sales-and-crm-applets">&lt;/span>
 &lt;a href="#sales-and-crm-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Customer order processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/quotation-management-applet/" >Quotation Management Applet&lt;/a>&lt;/strong> - Customer quotations&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-portal-applet/" >Customer Portal Applet&lt;/a>&lt;/strong> - Self-service customer access&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Customer order processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/quotation-management-applet/" >Quotation Management Applet&lt;/a>&lt;/strong> - Customer quotations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/customer-portal-applet/" >Customer Portal Applet&lt;/a>&lt;/strong> - Self-service customer access&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/accounts-receivable-applet/" >Accounts Receivable Applet&lt;/a>&lt;/strong> - Customer payments&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/credit-management-applet/" >Credit Management Applet&lt;/a>&lt;/strong> - Credit control&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/collection-management-applet/" >Collection Management Applet&lt;/a>&lt;/strong> - Overdue accounts&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/accounts-receivable-applet/" >Accounts Receivable Applet&lt;/a>&lt;/strong> - Customer payments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/credit-management-applet/" >Credit Management Applet&lt;/a>&lt;/strong> - Credit control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/collection-management-applet/" >Collection Management Applet&lt;/a>&lt;/strong> - Overdue accounts&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -755,7 +755,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pro Tip&lt;/strong>: Invest time in setting up proper customer categories and data quality rules from the beginning. Clean, well-organized customer data is the foundation of effective sales and marketing operations.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Supplier Maintenance Applet</title><link>https://www.bigledger.com/applets/supplier-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/supplier-maintenance-applet/</guid><description>
+&lt;/div></description></item><item><title>Supplier Maintenance Applet</title><link>https://www.wavelet.net/applets/supplier-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/supplier-maintenance-applet/</guid><description>
 &lt;h2>Executive Summary&lt;span class="hx:absolute hx:-mt-20" id="executive-summary">&lt;/span>
 &lt;a href="#executive-summary" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Supplier Maintenance Applet is a mission-critical Core Module component that serves as the central repository for all vendor and supplier information in BigLedger. This comprehensive supplier master data management system supports procurement operations, accounts payable processes, and vendor relationship management across all business modules. With capabilities to manage up to 500,000 suppliers, real-time synchronization, and extensive integration points, this applet forms the backbone of efficient supply chain operations.&lt;/p>
 &lt;p>&lt;strong>Key Business Benefits:&lt;/strong>&lt;/p>
@@ -980,21 +980,21 @@ As one of the 13 essential Core Module applets, the Supplier Maintenance Applet 
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer master data&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Supplier product relationships&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Supplier tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer master data&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Supplier product relationships&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Supplier tax settings&lt;/li>
 &lt;/ul>
 &lt;h3>Procurement Applets&lt;span class="hx:absolute hx:-mt-20" id="procurement-applets">&lt;/span>
 &lt;a href="#procurement-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Supplier order processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-requisition-applet/" >Purchase Requisition Applet&lt;/a>&lt;/strong> - Procurement requests&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-portal-applet/" >Supplier Portal Applet&lt;/a>&lt;/strong> - Supplier self-service&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Supplier order processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/purchase-requisition-applet/" >Purchase Requisition Applet&lt;/a>&lt;/strong> - Procurement requests&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/supplier-portal-applet/" >Supplier Portal Applet&lt;/a>&lt;/strong> - Supplier self-service&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/accounts-payable-applet/" >Accounts Payable Applet&lt;/a>&lt;/strong> - Supplier payments&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/payment-processing-applet/" >Payment Processing Applet&lt;/a>&lt;/strong> - Vendor payments&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/expense-management-applet/" >Expense Management Applet&lt;/a>&lt;/strong> - Supplier expenses&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/accounts-payable-applet/" >Accounts Payable Applet&lt;/a>&lt;/strong> - Supplier payments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/payment-processing-applet/" >Payment Processing Applet&lt;/a>&lt;/strong> - Vendor payments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/expense-management-applet/" >Expense Management Applet&lt;/a>&lt;/strong> - Supplier expenses&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -1473,7 +1473,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Important&lt;/strong>: Supplier master data directly impacts procurement costs and supply chain efficiency. Ensure data accuracy and implement proper approval workflows for supplier changes.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Employee Maintenance Applet</title><link>https://www.bigledger.com/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/employee-maintenance-applet/</guid><description>
+&lt;/div></description></item><item><title>Employee Maintenance Applet</title><link>https://www.wavelet.net/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/employee-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Employee Maintenance Applet is the foundational HR component in BigLedger&amp;rsquo;s Core Module, providing comprehensive employee master records management that supports human resources, payroll, organizational structure, and employee-related operations across all modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -1686,21 +1686,21 @@ title="Copy code"
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/organization-applet/" >Organization Applet&lt;/a>&lt;/strong> - Company and department structure&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - User access management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Sales representative assignments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/organization-applet/" >Organization Applet&lt;/a>&lt;/strong> - Company and department structure&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;/strong> - User access management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Sales representative assignments&lt;/li>
 &lt;/ul>
 &lt;h3>HR and Payroll Applets&lt;span class="hx:absolute hx:-mt-20" id="hr-and-payroll-applets">&lt;/span>
 &lt;a href="#hr-and-payroll-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/payroll-processing-applet/" >Payroll Processing Applet&lt;/a>&lt;/strong> - Employee compensation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/time-attendance-applet/" >Time and Attendance Applet&lt;/a>&lt;/strong> - Work time tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/leave-management-applet/" >Leave Management Applet&lt;/a>&lt;/strong> - Employee leave tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/payroll-processing-applet/" >Payroll Processing Applet&lt;/a>&lt;/strong> - Employee compensation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/time-attendance-applet/" >Time and Attendance Applet&lt;/a>&lt;/strong> - Work time tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/leave-management-applet/" >Leave Management Applet&lt;/a>&lt;/strong> - Employee leave tracking&lt;/li>
 &lt;/ul>
 &lt;h3>Operational Applets&lt;span class="hx:absolute hx:-mt-20" id="operational-applets">&lt;/span>
 &lt;a href="#operational-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/project-team-applet/" >Project Team Applet&lt;/a>&lt;/strong> - Project assignments&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-team-applet/" >Sales Team Applet&lt;/a>&lt;/strong> - Sales force management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/asset-custody-applet/" >Asset Custody Applet&lt;/a>&lt;/strong> - Asset responsibility&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/project-team-applet/" >Project Team Applet&lt;/a>&lt;/strong> - Project assignments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/sales-team-applet/" >Sales Team Applet&lt;/a>&lt;/strong> - Sales force management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/asset-custody-applet/" >Asset Custody Applet&lt;/a>&lt;/strong> - Asset responsibility&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -1861,7 +1861,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Privacy Notice&lt;/strong>: Employee data contains sensitive personal information. Ensure compliance with local privacy laws and implement appropriate security measures to protect employee data.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Organization Applet</title><link>https://www.bigledger.com/applets/organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/organization-applet/</guid><description>
+&lt;/div></description></item><item><title>Organization Applet</title><link>https://www.wavelet.net/applets/organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/organization-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Organization Applet is a foundational Core Module component that defines and manages your complete organizational structure in BigLedger. This applet provides comprehensive tools for setting up companies, branches, departments, locations, and the hierarchical relationships that form the backbone of your business operations.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -1925,9 +1925,9 @@ title="Copy code"
 &lt;li>Performance monitoring and optimization&lt;/li>
 &lt;/ul>
 &lt;h2>Organization Setup Workflow&lt;span class="hx:absolute hx:-mt-20" id="organization-setup-workflow">&lt;/span>
-&lt;a href="#organization-setup-workflow" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://www.bigledger.com/diagrams/organization-setup-workflow.svg" alt="Organization Setup Workflow" loading="lazy" />
+&lt;a href="#organization-setup-workflow" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://www.wavelet.net/diagrams/organization-setup-workflow.svg" alt="Organization Setup Workflow" loading="lazy" />
 &lt;em>Figure 1: Complete organization setup process for Malaysian businesses&lt;/em>&lt;/p>
-&lt;p>Whether you&amp;rsquo;re managing a single company or multiple branches, the Organization Applet simplifies the process, providing a user-friendly interface to ensure that all operational details are configured accurately and efficiently.&lt;/p></description></item><item><title>Chart of Accounts Applet</title><link>https://www.bigledger.com/applets/chart-of-account-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/chart-of-account-applet/</guid><description>
+&lt;p>Whether you&amp;rsquo;re managing a single company or multiple branches, the Organization Applet simplifies the process, providing a user-friendly interface to ensure that all operational details are configured accurately and efficiently.&lt;/p></description></item><item><title>Chart of Accounts Applet</title><link>https://www.wavelet.net/applets/chart-of-account-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/chart-of-account-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Chart of Accounts Applet is the financial foundation of BigLedger, providing comprehensive management of your organization&amp;rsquo;s complete chart of accounts structure. This Core Module applet defines account categories, hierarchies, and financial statement mapping that supports all financial transactions across every BigLedger module.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -2133,20 +2133,20 @@ title="Copy code"
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Tax account mapping&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/cashbook-applet/" >Cashbook Applet&lt;/a>&lt;/strong> - Cash and bank accounts&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/organization-applet/" >Organization Applet&lt;/a>&lt;/strong> - Company structure&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Tax account mapping&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/cashbook-applet/" >Cashbook Applet&lt;/a>&lt;/strong> - Cash and bank accounts&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/organization-applet/" >Organization Applet&lt;/a>&lt;/strong> - Company structure&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/general-ledger-applet/" >General Ledger Applet&lt;/a>&lt;/strong> - Transaction posting&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/financial-reports-applet/" >Financial Reports Applet&lt;/a>&lt;/strong> - Report generation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/budget-management-applet/" >Budget Management Applet&lt;/a>&lt;/strong> - Budget allocation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/general-ledger-applet/" >General Ledger Applet&lt;/a>&lt;/strong> - Transaction posting&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/financial-reports-applet/" >Financial Reports Applet&lt;/a>&lt;/strong> - Report generation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/budget-management-applet/" >Budget Management Applet&lt;/a>&lt;/strong> - Budget allocation&lt;/li>
 &lt;/ul>
 &lt;h3>Master Data Applets&lt;span class="hx:absolute hx:-mt-20" id="master-data-applets">&lt;/span>
 &lt;a href="#master-data-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer accounts&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor accounts&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer accounts&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor accounts&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -2254,7 +2254,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Important&lt;/strong>: Changes to the Chart of Accounts can significantly impact financial reporting and system integrations. Always test changes thoroughly before implementing in production.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Document Item Maintenance Applet</title><link>https://www.bigledger.com/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/doc-item-maintenance-applet/</guid><description>
+&lt;/div></description></item><item><title>Document Item Maintenance Applet</title><link>https://www.wavelet.net/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/applets/doc-item-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Document Item Maintenance Applet is a crucial Core Module component that manages all non-physical items in BigLedger. This includes services, consulting fees, digital products, licenses, subscriptions, and any other document-based or non-inventory items that your business sells or purchases.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -2460,21 +2460,21 @@ title="Copy code"
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Physical inventory items&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Service tax setup&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Service customers&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Physical inventory items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Service tax setup&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Service customers&lt;/li>
 &lt;/ul>
 &lt;h3>Service-Related Applets&lt;span class="hx:absolute hx:-mt-20" id="service-related-applets">&lt;/span>
 &lt;a href="#service-related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/time-tracking-applet/" >Time Tracking Applet&lt;/a>&lt;/strong> - Service time recording&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/project-management-applet/" >Project Management Applet&lt;/a>&lt;/strong> - Project-based services&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/resource-planning-applet/" >Resource Planning Applet&lt;/a>&lt;/strong> - Service resource management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/time-tracking-applet/" >Time Tracking Applet&lt;/a>&lt;/strong> - Service time recording&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/project-management-applet/" >Project Management Applet&lt;/a>&lt;/strong> - Project-based services&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/resource-planning-applet/" >Resource Planning Applet&lt;/a>&lt;/strong> - Service resource management&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/pricing-management-applet/" >Pricing Management Applet&lt;/a>&lt;/strong> - Service pricing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/invoice-generation-applet/" >Invoice Generation Applet&lt;/a>&lt;/strong> - Service billing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/revenue-recognition-applet/" >Revenue Recognition Applet&lt;/a>&lt;/strong> - Service revenue&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/pricing-management-applet/" >Pricing Management Applet&lt;/a>&lt;/strong> - Service pricing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/invoice-generation-applet/" >Invoice Generation Applet&lt;/a>&lt;/strong> - Service billing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/applets/revenue-recognition-applet/" >Revenue Recognition Applet&lt;/a>&lt;/strong> - Service revenue&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>

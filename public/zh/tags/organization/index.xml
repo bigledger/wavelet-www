@@ -1,9 +1,9 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Organization</title><link>https://www.bigledger.com/zh/tags/organization/</link><description>Recent content in Organization on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/organization/index.xml" rel="self" type="application/rss+xml"/><item><title>位置组织小程序</title><link>https://www.bigledger.com/zh/applets/location-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/location-organization-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet 文档 – Organization</title><link>https://www.wavelet.net/zh/tags/organization/</link><description>Recent content in Organization on Wavelet 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.wavelet.net/zh/tags/organization/index.xml" rel="self" type="application/rss+xml"/><item><title>位置组织小程序</title><link>https://www.wavelet.net/zh/applets/location-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/location-organization-applet/</guid><description>
 &lt;p>每个分支机构可以有多个位置
 这是侧边栏中的第三个图标&amp;quot;位置&amp;quot;。本部分列出了所有位置，每个分支机构可以有多个位置。用户可以在此创建新位置或编辑现有位置。
-编辑选项卡与 &lt;a href="https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch&amp;#43;-&amp;#43;Organization&amp;#43;Applet#Edit-branch" target="_blank" rel="noopener">https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch+-+Organization+Applet#Edit-branch&lt;/a> 中的类似。&lt;/p></description></item><item><title>组织小程序设置</title><link>https://www.bigledger.com/zh/applets/settings-of-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/settings-of-organization-applet/</guid><description>
+编辑选项卡与 &lt;a href="https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch&amp;#43;-&amp;#43;Organization&amp;#43;Applet#Edit-branch" target="_blank" rel="noopener">https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch+-+Organization+Applet#Edit-branch&lt;/a> 中的类似。&lt;/p></description></item><item><title>组织小程序设置</title><link>https://www.wavelet.net/zh/applets/settings-of-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/settings-of-organization-applet/</guid><description>
 &lt;p>本部分涵盖Wavelet使用的所有设置。
-角色权限允许您在需要时设置特定权限。&lt;/p></description></item><item><title>分支机构组织小程序</title><link>https://www.bigledger.com/zh/applets/branch-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/branch-organization-applet/</guid><description>
+角色权限允许您在需要时设置特定权限。&lt;/p></description></item><item><title>分支机构组织小程序</title><link>https://www.wavelet.net/zh/applets/branch-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/branch-organization-applet/</guid><description>
 &lt;p>本部分涵盖侧边栏中的第二个主要选项卡&amp;quot;分支机构&amp;quot;，用户可以在其中创建和编辑分支机构的详细信息。
 一个公司可以有多个分支机构。
 用户可以选择从左侧边栏的第二个图标创建分支机构，或者转到公司列表编辑选项卡来创建分支机构。
@@ -47,7 +47,7 @@
 &lt;p>标签：用于标记分支机构&lt;/p>
 &lt;p>扩展：用于CP商务&lt;/p>
 &lt;p>客户和供应商：将分支机构链接到特定的客户/供应商。在此配置时，交易将自动记录。此功能是公司间配置详细信息的一部分。&lt;/p>
-&lt;p>公司间：设置系统是否自动完成公司间交易或将其保留为草稿以供手动批准。您还可以配置是否创建销售发票应自动创建采购发票。这是管理自动配置设置的地方。&lt;/p></description></item><item><title>公司组织小程序</title><link>https://www.bigledger.com/zh/applets/company-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/company-organization-applet/</guid><description>
+&lt;p>公司间：设置系统是否自动完成公司间交易或将其保留为草稿以供手动批准。您还可以配置是否创建销售发票应自动创建采购发票。这是管理自动配置设置的地方。&lt;/p></description></item><item><title>公司组织小程序</title><link>https://www.wavelet.net/zh/applets/company-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/zh/applets/company-organization-applet/</guid><description>
 &lt;p>登录组织小程序时，用户看到的第一个页面是左侧边栏第一个图标中的公司列表页面。
 在本节中，我们将涵盖两个关键主题：
 如何创建公司：设置公司详细信息和添加地址的分步指南。

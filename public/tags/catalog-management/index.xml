@@ -1,11 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Catalog-Management</title><link>https://www.bigledger.com/tags/catalog-management/</link><description>Recent content in Catalog-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/catalog-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Item Maintenance &amp; Catalog Management</title><link>https://www.bigledger.com/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/item-maintenance/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wavelet - Business Management Platform – Catalog-Management</title><link>https://www.wavelet.net/tags/catalog-management/</link><description>Recent content in Catalog-Management on Wavelet - Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.wavelet.net/tags/catalog-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Item Maintenance &amp; Catalog Management</title><link>https://www.wavelet.net/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.wavelet.net/user-guide/basic-operations/item-maintenance/</guid><description>
 &lt;p>Master the complete lifecycle of item management in BigLedger, from initial creation to ongoing maintenance, ensuring your product catalog remains accurate, organized, and optimized for all business operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Item maintenance is crucial for effective business operations. This comprehensive guide covers all aspects of managing your product and service catalog, including detailed configurations, categorization, pricing, and integration with various business modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://www.wavelet.net/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;hr>
@@ -287,10 +287,10 @@
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item maintenance, explore these related areas:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.wavelet.net/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -301,8 +301,8 @@
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
-&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
+&lt;li>&lt;a href="https://www.wavelet.net/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
 &lt;/ul></description></item></channel></rss>

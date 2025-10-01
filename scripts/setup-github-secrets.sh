@@ -63,7 +63,7 @@ set_secret "AWS_ACCESS_KEY_ID" "Enter your AWS Access Key ID:" true
 set_secret "AWS_SECRET_ACCESS_KEY" "Enter your AWS Secret Access Key:" true
 
 # AWS Region
-echo "Enter your AWS Region (e.g., ap-southeast-5):"
+echo "Enter your AWS Region (e.g., ap-southeast-1):"
 read aws_region
 if [ -n "$aws_region" ]; then
     echo "$aws_region" | gh secret set "AWS_REGION"
@@ -87,4 +87,4 @@ echo "Your GitHub Actions workflow should now be able to deploy to S3."
 echo "Push a commit to the main branch to trigger automatic deployment."
 echo ""
 echo "You can monitor deployments at:"
-echo "https://github.com/bigledger/blg-wiki/actions"
+echo "https://github.com/wavelet/wavelet-www/actions"
