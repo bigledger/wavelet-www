@@ -1,6 +1,6 @@
 # BigLedger.com - Site Testing Checklist
 
-## Test Date: October 1, 2025, 04:00 UTC
+## Test Date: October 1, 2025, 04:16 UTC (Updated after Developers page fix)
 
 ---
 
@@ -117,9 +117,18 @@
 
 ---
 
-## Issues Found
+## Issues Found & Fixed
 
-**None currently - all tests passed as of October 1, 2025, 04:00 UTC**
+### Fixed Issues:
+
+1. **Developers Page - Documentation UI Elements (FIXED 04:16 UTC)**
+   - **Issue**: Developers page was displaying documentation sidebar with ">" arrows and table of contents
+   - **Root Cause**: Front matter in `/content/en/developers/_index.md` contained `type: docs` and `bookCollapseSection: true` which overrode global settings
+   - **Fix**: Removed problematic front matter, keeping only title and description
+   - **Result**: Page now displays with clean corporate header and footer, no sidebar or TOC
+   - **Deployed**: October 1, 2025, 04:16 UTC
+
+**All issues resolved - site fully operational with clean corporate appearance**
 
 ---
 
