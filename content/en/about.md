@@ -29,7 +29,7 @@ Our success is measured by our customers' success. We provide world-class suppor
 ## Why Choose BigLedger?
 
 ### 🏆 Proven Track Record
-With over 1 million active users across retail, F&B, manufacturing, services, and e-commerce industries, BigLedger has proven its ability to scale with businesses of all sizes.
+Processing millions of transactions monthly for hundreds of thousands of users across retail, F&B, manufacturing, services, and e-commerce industries, BigLedger has proven its ability to scale with businesses of all sizes.
 
 ### 🇲🇾 Malaysia-First Approach
 We are MDEC PEPPOL accredited and fully compliant with all Malaysian business regulations including E-Invoice, SST, EPF, SOCSO, and more. Our platform is designed specifically for the Southeast Asian market.
@@ -44,6 +44,6 @@ With comprehensive REST APIs, webhooks, and extensibility through custom applets
 
 ## Ready to Transform Your Business?
 
-Join over 1 million users who trust BigLedger to run their business operations.
+Join hundreds of thousands of users who trust BigLedger to run their business operations, processing millions of transactions every month.
 
 [Get Started](/contact) | [Explore Solutions](/solutions)

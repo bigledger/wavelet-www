@@ -3,82 +3,68 @@ title: Pricing
 description: Simple, transparent pricing for businesses of all sizes
 ---
 
-## Simple, Transparent Pricing
+## Flexible Pricing for Your Business
 
-Choose the plan that fits your business. All plans include core features and Malaysia compliance.
-
----
-
-## Pricing Plans
-
-### Starter - RM 99/month
-Perfect for small businesses and startups
-
-- Up to 3 users
-- Core accounting features
-- Inventory management
-- Basic reports
-- Email support
-- Mobile app access
-
-[Get Started](/contact)
+BigLedger offers customized pricing plans tailored to your specific business needs. Contact our sales team for a personalized quote.
 
 ---
 
-### Professional - RM 299/month  ⭐ POPULAR
-For growing businesses that need more
+## What's Included
 
-- Up to 10 users
-- All Starter features
-- POS & E-commerce
-- Advanced reports & analytics
-- API access
-- Priority support
-- Multi-location
+All BigLedger plans include:
 
-[Get Started](/contact)
+- **Complete Feature Access**: Full access to all modules and features
+- **Malaysia Compliance**: E-Invoice, PEPPOL, SST, EPF, SOCSO built-in
+- **Cloud Infrastructure**: 99.9% uptime SLA with automatic backups
+- **Mobile Access**: iOS and Android apps included
+- **Regular Updates**: New features and improvements at no extra cost
+- **Security & Compliance**: Bank-level encryption and ISO 27001 compliance
 
 ---
 
-### Enterprise - Custom Pricing
-For large organizations with custom needs
+## Contact Sales for Pricing
 
-- Unlimited users
-- All Professional features
-- Custom integrations
-- Dedicated account manager
-- 24/7 premium support
-- Custom training
-- SLA guarantee
+Our pricing is customized based on:
 
-[Contact Sales](/contact)
+- Number of users
+- Business modules required
+- Transaction volume
+- Integration needs
+- Support level
+
+**Get a personalized quote today:**
+
+- Email: [sales@bigledger.com](mailto:sales@bigledger.com)
+- Phone: [+60 10-839 9393](tel:+60108399393) (Sabrina Fatimah - Sales Director)
+
+[Contact Sales Team](/contact)
 
 ---
 
 ## Frequently Asked Questions
 
 **Is there a free trial?**
-Yes! We offer a 30-day free trial with full access to all features. No credit card required.
+Yes! We offer a trial period with full access to all features. Contact our sales team to get started.
 
-**Can I change plans later?**
-Absolutely! You can upgrade or downgrade your plan at any time. Changes take effect immediately.
+**Can I scale up or down?**
+Absolutely! Plans are flexible and can be adjusted based on your changing business needs.
 
 **What payment methods do you accept?**
-We accept credit cards (Visa, Mastercard, Amex), bank transfers, and online banking (FPX). Annual subscriptions get 15% discount.
+We accept credit cards (Visa, Mastercard, Amex), bank transfers, and online banking (FPX). Special discounts available for annual contracts.
 
 **Is my data secure?**
 Yes! We use bank-level encryption, regular backups, and are ISO 27001 compliant. Your data is stored securely in Malaysian data centers.
 
 **Do you provide training and support?**
-Yes! All plans include comprehensive documentation and video tutorials. Professional and Enterprise plans include dedicated onboarding and training sessions.
+Yes! All plans include comprehensive documentation, video tutorials, and dedicated support. Custom training sessions are available based on your plan.
 
 **What if I need help migrating from another system?**
-We provide data migration assistance for all plans. Enterprise customers get full white-glove migration service with dedicated support.
+We provide data migration assistance as part of our onboarding process. Our team will work with you to ensure a smooth transition from your existing system.
 
 ---
 
 ## Ready to Get Started?
 
-Start your 30-day free trial today. No credit card required.
+Contact our sales team for a personalized quote and demo.
 
-[Start Free Trial](/contact)
+[Contact Sales](/contact)
