@@ -65,27 +65,75 @@ Tailored solutions designed for your specific industry needs
 - Pricing tiers and discounts
 - Advanced inventory analytics
 
+### 🚗 Automotive
+**Complete automotive business management**
+
+- Vehicle inventory with VIN tracking
+- Workshop and service scheduling
+- Parts inventory and catalog
+- Service history and maintenance records
+- Customer vehicle database
+- Integration with automotive marketplaces
+
+### 🏥 Healthcare
+**Healthcare practice management**
+
+- Patient record management
+- Appointment scheduling and reminders
+- Medical billing and insurance claims
+- Pharmacy and medical supplies inventory
+- Regulatory compliance (HIPAA-ready)
+- Telehealth integration ready
+
+---
+
+## Specialized Business Modules
+
+**🛍️ CP-Commerce (Cross-Platform Commerce)**
+Unified selling across Shopify, Lazada, Shopee, Facebook, Instagram with centralized inventory and order management
+
+**📞 UCC (Unified Customer Care)**
+Multi-channel customer service hub integrating email, chat, phone, and social media for seamless support
+
+**💎 Digital CRM**
+AI-enhanced customer relationship management with predictive insights, sales automation, and marketing campaigns
+
+**📦 Drop Shipping**
+Automated supplier integration, real-time inventory sync, and intelligent order routing for drop shipping operations
+
+**💻 IT & CE (Consumer Electronics)**
+IMEI/serial number tracking, warranty management, RMA processing, and tech product specifications
+
+**🔧 Service Industry Module**
+Service ticket management, field service scheduling, recurring billing, and SLA tracking for service businesses
+
 ---
 
 ## Core Modules Available in All Solutions
 
 **💰 Financial Accounting**
-GL, AR, AP, bank reconciliation, multi-currency
+GL, AR, AP, bank reconciliation, multi-currency. MDEC PEPPOL accredited E-Invoice with automated LHDN submission
 
-**📦 Inventory Management**
-Multi-location, serial/batch, barcode, stock alerts
+**📦 Inventory & Warehouse**
+Multi-location, serial/batch, barcode/RFID, stock alerts, automated reordering, and real-time tracking
 
-**📊 Business Intelligence**
-Real-time dashboards, custom reports, analytics
+**📊 Business Intelligence & AI**
+Real-time dashboards, custom reports, predictive analytics, OCR document processing, and AI-powered insights
 
-**👥 HR & Payroll**
-Employee management, EPF, SOCSO, leave, claims
+**👥 Sales & CRM**
+Digital CRM, sales pipeline, customer portal, marketing automation, and AI recommendations
 
-**🤝 CRM**
-Sales pipeline, customer management, marketing
+**🛒 Purchasing & Procurement**
+Purchase requisitions, supplier management, approval workflows, and landed cost calculation
 
-**🛡️ Compliance**
-E-Invoice, PEPPOL, SST, audit trails
+**🏭 Manufacturing & Production**
+BOM management, production planning (MRP/MPS), shop floor control, and quality management
+
+**📋 Project Management**
+Multi-project tracking, resource allocation, time billing, and budget management
+
+**🛡️ Compliance & Security**
+E-Invoice (PEPPOL), SST, EPF, SOCSO, audit trails, and ISO 27001 certified infrastructure
 
 ---
 
