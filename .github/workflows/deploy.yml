@@ -1,4 +1,4 @@
-name: Deploy BigLedger Wiki to S3
+name: Deploy BigLedger Website to S3
 
 on:
   push:
@@ -37,7 +37,7 @@ jobs:
       - name: Deploy to S3 and Invalidate CloudFront
         run: |
           # Hugo deploy handles both S3 upload and CloudFront invalidation
-          echo "Deploying to S3 and invalidating CloudFront distribution E3FOFD9ZXC2QVT"
+          echo "Deploying to S3 and invalidating CloudFront distribution ELHXIGVKWA8XV"
           hugo deploy --target=production --maxDeletes -1 --invalidateCDN
           
       - name: Verify CloudFront Invalidation
@@ -45,7 +45,7 @@ jobs:
         run: |
           echo "Checking recent CloudFront invalidations..."
           aws cloudfront list-invalidations \
-            --distribution-id E3FOFD9ZXC2QVT \
+            --distribution-id ELHXIGVKWA8XV \
             --max-items 3 \
             --query 'InvalidationList.Items[0].[Id,Status,CreateTime]' \
             --output table
@@ -53,6 +53,6 @@ jobs:
 
       - name: Verify deployment
         run: |
-          echo "Site deployed to: https://wiki.bigledger.com"
+          echo "Site deployed to: https://www.bigledger.com"
           echo "Checking if site is accessible..."
-          curl -I https://wiki.bigledger.com || true
+          curl -I https://www.bigledger.com || true

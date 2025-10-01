@@ -1,5 +1,5 @@
-baseURL: https://wiki.bigledger.com/
-title: BigLedger Documentation
+baseURL: https://www.bigledger.com/
+title: BigLedger - Complete Business Management Platform
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 theme: hextra
@@ -16,10 +16,10 @@ languages:
     languageName: English
     languageCode: en
     contentDir: content/en
-    title: BigLedger Documentation
+    title: BigLedger - Complete Business Management Platform
     weight: 1
     params:
-      description: BigLedger Documentation - Next-Generation Blockchain Platform
+      description: Complete Business Management Platform - ERP, POS, E-Commerce & More
   
   zh:
     languageName: 中文
@@ -80,7 +80,7 @@ params:
   # Edit this page
   editURL:
     enable: true
-    base: "https://github.com/bigledger/blg-wiki/edit/main/content"
+    base: "https://github.com/bigledger/blg-www/edit/main/content"
     
   # Search
   search:
@@ -231,13 +231,12 @@ outputs:
   home:
     - HTML
     - RSS
-    - llms  # For search functionality
 
 deployment:
   targets:
     - name: production
-      URL: s3://wiki.bigledger.com?region=ap-southeast-5
-      cloudFrontDistributionID: E3FOFD9ZXC2QVT
+      URL: s3://bigledger.com?region=ap-southeast-5
+      cloudFrontDistributionID: ELHXIGVKWA8XV
 
 # Permalink configuration to ensure consistent URLs
 permalinks:
