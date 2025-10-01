@@ -140,11 +140,6 @@ menu:
       weight: 5
       pageRef: /contact
 
-    - identifier: developers
-      name: Developers
-      weight: 6
-      pageRef: /developers
-
 outputs:
   home:
     - HTML
