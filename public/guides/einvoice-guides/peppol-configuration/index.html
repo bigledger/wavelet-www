@@ -1,15 +1,179 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>PEPPOL Configuration Guide | BigLedger - Complete Business Management Platform</title><meta name=description content="Configure PEPPOL for international e-invoicing."><link rel=icon type=image/png href=https://www.bigledger.com/images/bigledger-logo-cropped.png><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel=stylesheet><link rel=stylesheet href=https://www.bigledger.com/css/custom.css><meta property="og:title" content="PEPPOL Configuration Guide"><meta property="og:description" content="Configure PEPPOL for international e-invoicing."><meta property="og:type" content="website"><meta property="og:url" content="https://www.bigledger.com/guides/einvoice-guides/peppol-configuration/"></head><body><header class=corporate-header><div class=container><nav class=nav><div class=nav-logo><a href=https://www.bigledger.com/><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=40></a></div><div class=nav-menu><a href=https://www.bigledger.com/ class=nav-link>Home</a>
-<a href=https://www.bigledger.com/about/ class=nav-link>About</a>
-<a href=https://www.bigledger.com/solutions/ class=nav-link>Solutions</a>
-<a href=https://www.bigledger.com/pricing/ class=nav-link>Pricing</a>
-<a href=https://www.bigledger.com/contact/ class=nav-link>Contact</a>
-<a href=https://www.bigledger.com/developers/ class=nav-link>Developers</a></div><div class=nav-cta><a href=https://www.bigledger.com/contact class=btn-primary>Get Started</a></div></nav></div></header><main><article class=corporate-page><div class=container><div class=page-content><p>Configure PEPPOL for international e-invoicing.</p><h2>What is PEPPOL?<span class="hx:absolute hx:-mt-20" id=what-is-peppol></span>
-<a href=#what-is-peppol class=subheading-anchor aria-label="Permalink for this section"></a></h2><p>Pan-European Public Procurement On-Line (PEPPOL) enables cross-border electronic document exchange.</p><h2>PEPPOL ID Setup<span class="hx:absolute hx:-mt-20" id=peppol-id-setup></span>
-<a href=#peppol-id-setup class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Step 1: Obtain PEPPOL ID<span class="hx:absolute hx:-mt-20" id=step-1-obtain-peppol-id></span>
-<a href=#step-1-obtain-peppol-id class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Your PEPPOL ID format:</p><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>0195:MYREGISTRATIONNUMBER</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div><ul><li>0195 = Malaysia country code</li><li>Followed by your business registration</li></ul><h3>Step 2: Configure in BigLedger<span class="hx:absolute hx:-mt-20" id=step-2-configure-in-bigledger></span>
-<a href=#step-2-configure-in-bigledger class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Go to <strong>E-Invoice</strong> → <strong>PEPPOL Settings</strong></li><li>Enter PEPPOL ID</li><li>Select document types:<ul><li>Invoice</li><li>Credit Note</li><li>Order</li><li>Order Response</li></ul></li><li>Configure endpoints</li></ol><h3>Step 3: Trading Partner Setup<span class="hx:absolute hx:-mt-20" id=step-3-trading-partner-setup></span>
-<a href=#step-3-trading-partner-setup class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Add trading partners:</p><ul><li>Partner PEPPOL ID</li><li>Document types</li><li>Validation rules</li><li>Routing preferences</li></ul><h2>Document Standards<span class="hx:absolute hx:-mt-20" id=document-standards></span>
-<a href=#document-standards class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>UBL 2.1 Format<span class="hx:absolute hx:-mt-20" id=ubl-21-format></span>
-<a href=#ubl-21-format class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>XML-based standard</li><li>Structured data</li><li>Machine-readable</li><li>Validated format</li></ul><h3>Compliance Requirements<span class="hx:absolute hx:-mt-20" id=compliance-requirements></span>
-<a href=#compliance-requirements class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Digital signatures</li><li>Timestamps</li><li>Audit trails</li><li>Archival (7 years)</li></ul><h2>Testing Process<span class="hx:absolute hx:-mt-20" id=testing-process></span>
-<a href=#testing-process class=subheading-anchor aria-label="Permalink for this section"></a></h2><ol><li>Connect to PEPPOL test network</li><li>Exchange test documents</li><li>Validate receipts</li><li>Verify delivery</li><li>Check compliance</li></ol><hr><p><em>PEPPOL support: <a href=mailto:peppol@bigledger.com>peppol@bigledger.com</a></em></p></div></div></article></main><footer class=corporate-footer><div class=container><div class=footer-grid><div class=footer-column><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=32 style=margin-bottom:16px><p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p></div><div class=footer-column><h4>Product</h4><ul><li><a href=https://www.bigledger.com/solutions>Solutions</a></li><li><a href=https://www.bigledger.com/pricing>Pricing</a></li><li><a href=https://www.bigledger.com/developers>Developers</a></li></ul></div><div class=footer-column><h4>Company</h4><ul><li><a href=https://www.bigledger.com/about>About</a></li><li><a href=https://www.bigledger.com/contact>Contact</a></li></ul></div><div class=footer-column><h4>Connect</h4><ul><li><a href=https://github.com/bigledger target=_blank>Github</a></li><li><a href=https://twitter.com/bigledger target=_blank>Twitter</a></li></ul></div></div><div class=footer-bottom><p>&copy; 2025 BigLedger. All rights reserved.</p></div></div></footer></body></html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PEPPOL Configuration Guide | BigLedger - Complete Business Management Platform</title>
+  <meta name="description" content="Configure PEPPOL for international e-invoicing.">
+
+  
+  <link rel="icon" type="image/png" href="http://localhost:1313/images/bigledger-logo-cropped.png">
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+
+  
+  <meta property="og:title" content="PEPPOL Configuration Guide">
+  <meta property="og:description" content="Configure PEPPOL for international e-invoicing.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:1313/guides/einvoice-guides/peppol-configuration/">
+</head>
+<body>
+  <header class="corporate-header">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-logo">
+        <a href="http://localhost:1313/">
+          <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="40">
+        </a>
+      </div>
+      <div class="nav-menu">
+        
+        <a href="http://localhost:1313/" class="nav-link">Home</a>
+        
+        <a href="http://localhost:1313/about/" class="nav-link">About</a>
+        
+        <a href="http://localhost:1313/solutions/" class="nav-link">Solutions</a>
+        
+        <a href="http://localhost:1313/pricing/" class="nav-link">Pricing</a>
+        
+        <a href="http://localhost:1313/contact/" class="nav-link">Contact</a>
+        
+        <a href="http://localhost:1313/developers/" class="nav-link">Developers</a>
+        
+      </div>
+      <div class="nav-cta">
+        <a href="http://localhost:1313/contact" class="btn-primary">Get Started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+  <main>
+    
+<article class="corporate-page">
+  <div class="container">
+    <div class="page-content">
+      <p>Configure PEPPOL for international e-invoicing.</p>
+<h2>What is PEPPOL?<span class="hx:absolute hx:-mt-20" id="what-is-peppol"></span>
+    <a href="#what-is-peppol" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Pan-European Public Procurement On-Line (PEPPOL) enables cross-border electronic document exchange.</p>
+<h2>PEPPOL ID Setup<span class="hx:absolute hx:-mt-20" id="peppol-id-setup"></span>
+    <a href="#peppol-id-setup" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Step 1: Obtain PEPPOL ID<span class="hx:absolute hx:-mt-20" id="step-1-obtain-peppol-id"></span>
+    <a href="#step-1-obtain-peppol-id" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Your PEPPOL ID format:</p>
+<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+
+<div><pre><code>0195:MYREGISTRATIONNUMBER</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+  <button
+    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+    title="Copy code"
+  >
+    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
+    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
+  </button>
+</div>
+</div>
+<ul>
+<li>0195 = Malaysia country code</li>
+<li>Followed by your business registration</li>
+</ul>
+<h3>Step 2: Configure in BigLedger<span class="hx:absolute hx:-mt-20" id="step-2-configure-in-bigledger"></span>
+    <a href="#step-2-configure-in-bigledger" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Go to <strong>E-Invoice</strong> → <strong>PEPPOL Settings</strong></li>
+<li>Enter PEPPOL ID</li>
+<li>Select document types:
+<ul>
+<li>Invoice</li>
+<li>Credit Note</li>
+<li>Order</li>
+<li>Order Response</li>
+</ul>
+</li>
+<li>Configure endpoints</li>
+</ol>
+<h3>Step 3: Trading Partner Setup<span class="hx:absolute hx:-mt-20" id="step-3-trading-partner-setup"></span>
+    <a href="#step-3-trading-partner-setup" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Add trading partners:</p>
+<ul>
+<li>Partner PEPPOL ID</li>
+<li>Document types</li>
+<li>Validation rules</li>
+<li>Routing preferences</li>
+</ul>
+<h2>Document Standards<span class="hx:absolute hx:-mt-20" id="document-standards"></span>
+    <a href="#document-standards" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>UBL 2.1 Format<span class="hx:absolute hx:-mt-20" id="ubl-21-format"></span>
+    <a href="#ubl-21-format" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>XML-based standard</li>
+<li>Structured data</li>
+<li>Machine-readable</li>
+<li>Validated format</li>
+</ul>
+<h3>Compliance Requirements<span class="hx:absolute hx:-mt-20" id="compliance-requirements"></span>
+    <a href="#compliance-requirements" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Digital signatures</li>
+<li>Timestamps</li>
+<li>Audit trails</li>
+<li>Archival (7 years)</li>
+</ul>
+<h2>Testing Process<span class="hx:absolute hx:-mt-20" id="testing-process"></span>
+    <a href="#testing-process" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ol>
+<li>Connect to PEPPOL test network</li>
+<li>Exchange test documents</li>
+<li>Validate receipts</li>
+<li>Verify delivery</li>
+<li>Check compliance</li>
+</ol>
+<hr>
+<p><em>PEPPOL support: <a href="mailto:peppol@bigledger.com" >peppol@bigledger.com</a></em></p>
+
+    </div>
+  </div>
+</article>
+
+  </main>
+
+  <footer class="corporate-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-column">
+        <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="32" style="margin-bottom: 16px;">
+        <p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p>
+      </div>
+      <div class="footer-column">
+        <h4>Product</h4>
+        <ul>
+          <li><a href="http://localhost:1313/solutions">Solutions</a></li>
+          <li><a href="http://localhost:1313/pricing">Pricing</a></li>
+          <li><a href="http://localhost:1313/developers">Developers</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="http://localhost:1313/about">About</a></li>
+          <li><a href="http://localhost:1313/contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Connect</h4>
+        <ul>
+          
+          <li><a href="https://github.com/bigledger" target="_blank">Github</a></li>
+          
+          <li><a href="https://twitter.com/bigledger" target="_blank">Twitter</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 BigLedger. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

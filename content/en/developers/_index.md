@@ -1,15 +1,6 @@
 ---
-bookCollapseSection: true
-cascade:
-  type: docs
-description: Developer Platform for BigLedger - Build integrations, custom applets, and extend the platform with our comprehensive APIs and tools.
-tags:
-- developer-platform
-- apis
-- integrations
-- custom-development
 title: Developer Platform
-weight: 25
+description: Developer Platform for BigLedger - Build integrations, custom applets, and extend the platform with our comprehensive APIs and tools.
 ---
 
 # BigLedger Developer Platform

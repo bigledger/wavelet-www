@@ -1,389 +1,427 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Employee-Management</title><link>https://www.bigledger.com/zh/tags/employee-management/</link><description>Recent content in Employee-Management on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/employee-management/index.xml" rel="self" type="application/rss+xml"/><item><title>员工维护应用程序</title><link>https://www.bigledger.com/zh/applets/employee-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/employee-maintenance-applet/</guid><description>
-&lt;h2>目的和概述&lt;span class="hx:absolute hx:-mt-20" id="目的和概述">&lt;/span>
-&lt;a href="#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>员工维护应用程序是BigLedger核心模块的基础人力资源组件，提供支持人力资源、薪资、组织结构和跨所有模块的员工相关运营的综合员工主记录管理。&lt;/p>
-&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
-&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
-&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>核心模块应用程序&lt;/strong>：这是13个基本核心模块应用程序之一，对任何有员工和组织结构要求的企业都是基础性的。&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;h3>主要功能&lt;span class="hx:absolute hx:-mt-20" id="主要功能">&lt;/span>
-&lt;a href="#%e4%b8%bb%e8%a6%81%e5%8a%9f%e8%83%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>员工档案管理&lt;/strong> - 完整的员工信息存储库&lt;/li>
-&lt;li>&lt;strong>组织结构&lt;/strong> - 部门和报告关系&lt;/li>
-&lt;li>&lt;strong>角色和权限管理&lt;/strong> - 系统访问和授权&lt;/li>
-&lt;li>&lt;strong>薪酬管理&lt;/strong> - 工资、福利和薪酬数据&lt;/li>
-&lt;li>&lt;strong>人力资源集成&lt;/strong> - 所有人力资源和薪资运营的基础&lt;/li>
-&lt;/ul>
-&lt;h2>关键特性&lt;span class="hx:absolute hx:-mt-20" id="关键特性">&lt;/span>
-&lt;a href="#%e5%85%b3%e9%94%ae%e7%89%b9%e6%80%a7" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>员工信息管理&lt;span class="hx:absolute hx:-mt-20" id="员工信息管理">&lt;/span>
-&lt;a href="#%e5%91%98%e5%b7%a5%e4%bf%a1%e6%81%af%e7%ae%a1%e7%90%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>带有个人信息的完整员工档案&lt;/li>
-&lt;li>就业历史和职业发展&lt;/li>
-&lt;li>紧急联系信息和亲属&lt;/li>
-&lt;li>教育背景和资格&lt;/li>
-&lt;li>技能、认证和能力&lt;/li>
-&lt;li>绩效评估历史&lt;/li>
-&lt;/ul>
-&lt;h3>组织结构管理&lt;span class="hx:absolute hx:-mt-20" id="组织结构管理">&lt;/span>
-&lt;a href="#%e7%bb%84%e7%bb%87%e7%bb%93%e6%9e%84%e7%ae%a1%e7%90%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>部门和事业部分配&lt;/li>
-&lt;li>报告关系和层次结构&lt;/li>
-&lt;li>团队和项目分配&lt;/li>
-&lt;li>位置和工作空间分配&lt;/li>
-&lt;li>成本中心和预算分配&lt;/li>
-&lt;li>矩阵组织支持&lt;/li>
-&lt;/ul>
-&lt;h3>就业和薪酬&lt;span class="hx:absolute hx:-mt-20" id="就业和薪酬">&lt;/span>
-&lt;a href="#%e5%b0%b1%e4%b8%9a%e5%92%8c%e8%96%aa%e9%85%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>就业合同和条件&lt;/li>
-&lt;li>工资和薪酬结构&lt;/li>
-&lt;li>福利登记和管理&lt;/li>
-&lt;li>假期权利和余额&lt;/li>
-&lt;li>加班和津贴政策&lt;/li>
-&lt;li>基于绩效的薪酬&lt;/li>
-&lt;/ul>
-&lt;h3>系统访问和安全&lt;span class="hx:absolute hx:-mt-20" id="系统访问和安全">&lt;/span>
-&lt;a href="#%e7%b3%bb%e7%bb%9f%e8%ae%bf%e9%97%ae%e5%92%8c%e5%ae%89%e5%85%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>用户账户创建和管理&lt;/li>
-&lt;li>基于角色的访问控制分配&lt;/li>
-&lt;li>模块和功能权限&lt;/li>
-&lt;li>数据访问限制&lt;/li>
-&lt;li>审批层次结构定义&lt;/li>
-&lt;li>数字签名权限&lt;/li>
-&lt;/ul>
-&lt;h3>人力资源和行政支持&lt;span class="hx:absolute hx:-mt-20" id="人力资源和行政支持">&lt;/span>
-&lt;a href="#%e4%ba%ba%e5%8a%9b%e8%b5%84%e6%ba%90%e5%92%8c%e8%a1%8c%e6%94%bf%e6%94%af%e6%8c%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>文档存储和管理&lt;/li>
-&lt;li>培训和发展记录&lt;/li>
-&lt;li>纪律处分和警告&lt;/li>
-&lt;li>认可和奖励跟踪&lt;/li>
-&lt;li>离职面谈和终止处理&lt;/li>
-&lt;li>法规合规文档&lt;/li>
-&lt;/ul>
-&lt;h2>技术规格&lt;span class="hx:absolute hx:-mt-20" id="技术规格">&lt;/span>
-&lt;a href="#%e6%8a%80%e6%9c%af%e8%a7%84%e6%a0%bc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>系统要求&lt;span class="hx:absolute hx:-mt-20" id="系统要求">&lt;/span>
-&lt;a href="#%e7%b3%bb%e7%bb%9f%e8%a6%81%e6%b1%82" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>最低访问级别&lt;/strong>：人力资源管理员&lt;/li>
-&lt;li>&lt;strong>数据库依赖&lt;/strong>：员工主表&lt;/li>
-&lt;li>&lt;strong>集成点&lt;/strong>：人力资源、薪资和所有运营模块&lt;/li>
-&lt;li>&lt;strong>API可用性&lt;/strong>：具有隐私控制的完整CRUD操作&lt;/li>
-&lt;li>&lt;strong>文档存储&lt;/strong>：安全员工文档管理&lt;/li>
-&lt;/ul>
-&lt;h3>员工配置选项&lt;span class="hx:absolute hx:-mt-20" id="员工配置选项">&lt;/span>
-&lt;a href="#%e5%91%98%e5%b7%a5%e9%85%8d%e7%bd%ae%e9%80%89%e9%a1%b9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>员工ID长度&lt;/strong>：3-20个字符&lt;/li>
-&lt;li>&lt;strong>个人信息&lt;/strong>：综合人口统计数据&lt;/li>
-&lt;li>&lt;strong>就业历史&lt;/strong>：无限职位记录&lt;/li>
-&lt;li>&lt;strong>自定义字段&lt;/strong>：最多40个自定义字段&lt;/li>
-&lt;li>&lt;strong>文档附件&lt;/strong>：每个员工安全文档存储高达1GB&lt;/li>
-&lt;/ul>
-&lt;h3>性能参数&lt;span class="hx:absolute hx:-mt-20" id="性能参数">&lt;/span>
-&lt;a href="#%e6%80%a7%e8%83%bd%e5%8f%82%e6%95%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>员工容量&lt;/strong>：最多100,000名员工&lt;/li>
-&lt;li>&lt;strong>搜索性能&lt;/strong>：复杂搜索&amp;lt;1秒&lt;/li>
-&lt;li>&lt;strong>批量操作&lt;/strong>：每批处理1,000+员工&lt;/li>
-&lt;li>&lt;strong>并发用户&lt;/strong>：200+同时用户&lt;/li>
-&lt;li>&lt;strong>安全合规&lt;/strong>：GDPR、CCPA和当地隐私法合规&lt;/li>
-&lt;/ul>
-&lt;h2>集成点&lt;span class="hx:absolute hx:-mt-20" id="集成点">&lt;/span>
-&lt;a href="#%e9%9b%86%e6%88%90%e7%82%b9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块依赖&lt;span class="hx:absolute hx:-mt-20" id="核心模块依赖">&lt;/span>
-&lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e4%be%9d%e8%b5%96" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>组织应用程序&lt;/strong> - 公司和部门结构&lt;/li>
-&lt;li>&lt;strong>租户管理应用程序&lt;/strong> - 用户账户和系统访问&lt;/li>
-&lt;li>&lt;strong>科目表应用程序&lt;/strong> - 薪资和费用科目&lt;/li>
-&lt;li>&lt;strong>税务配置应用程序&lt;/strong> - 员工税务设置&lt;/li>
-&lt;/ul>
-&lt;h3>模块集成&lt;span class="hx:absolute hx:-mt-20" id="模块集成">&lt;/span>
-&lt;a href="#%e6%a8%a1%e5%9d%97%e9%9b%86%e6%88%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>模块&lt;/th>
-&lt;th>集成目的&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;strong>人力资源与薪资&lt;/strong>&lt;/td>
-&lt;td>完整的人力资源管理&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>时间跟踪&lt;/strong>&lt;/td>
-&lt;td>员工时间和考勤&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>项目管理&lt;/strong>&lt;/td>
-&lt;td>项目团队分配&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>销售与CRM&lt;/strong>&lt;/td>
-&lt;td>销售代表分配&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>制造&lt;/strong>&lt;/td>
-&lt;td>生产团队管理&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>质量管理&lt;/strong>&lt;/td>
-&lt;td>质量检查员分配&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>资产管理&lt;/strong>&lt;/td>
-&lt;td>资产保管和责任&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3>外部集成&lt;span class="hx:absolute hx:-mt-20" id="外部集成">&lt;/span>
-&lt;a href="#%e5%a4%96%e9%83%a8%e9%9b%86%e6%88%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>HRIS系统&lt;/strong> - 人力资源信息系统&lt;/li>
-&lt;li>&lt;strong>薪资服务&lt;/strong> - 外部薪资处理&lt;/li>
-&lt;li>&lt;strong>时间跟踪系统&lt;/strong> - 考勤和时间记录&lt;/li>
-&lt;li>&lt;strong>学习管理&lt;/strong> - 培训和发展平台&lt;/li>
-&lt;li>&lt;strong>背景调查服务&lt;/strong> - 就业验证&lt;/li>
-&lt;li>&lt;strong>福利提供商&lt;/strong> - 保险和福利管理&lt;/li>
-&lt;/ul>
-&lt;h2>配置要求&lt;span class="hx:absolute hx:-mt-20" id="配置要求">&lt;/span>
-&lt;a href="#%e9%85%8d%e7%bd%ae%e8%a6%81%e6%b1%82" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>初始设置要求&lt;span class="hx:absolute hx:-mt-20" id="初始设置要求">&lt;/span>
-&lt;a href="#%e5%88%9d%e5%a7%8b%e8%ae%be%e7%bd%ae%e8%a6%81%e6%b1%82" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>组织结构&lt;/strong> - 定义部门和事业部&lt;/li>
-&lt;li>&lt;strong>员工类别&lt;/strong> - 设置员工分类&lt;/li>
-&lt;li>&lt;strong>职位类型&lt;/strong> - 配置工作职位和角色&lt;/li>
-&lt;li>&lt;strong>薪酬结构&lt;/strong> - 设置薪酬等级和级别&lt;/li>
-&lt;li>&lt;strong>福利计划&lt;/strong> - 配置员工福利&lt;/li>
-&lt;/ol>
-&lt;h3>基本配置&lt;span class="hx:absolute hx:-mt-20" id="基本配置">&lt;/span>
-&lt;a href="#%e5%9f%ba%e6%9c%ac%e9%85%8d%e7%bd%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>员工类型&lt;/strong>：全职、兼职、合同工、实习生、顾问&lt;/li>
-&lt;li>&lt;strong>部门结构&lt;/strong>：销售、运营、财务、人力资源、IT&lt;/li>
-&lt;li>&lt;strong>职位级别&lt;/strong>：初级、初级、高级、经理、总监、执行&lt;/li>
-&lt;li>&lt;strong>就业状态&lt;/strong>：活跃、非活跃、休假、终止&lt;/li>
-&lt;li>&lt;strong>访问角色&lt;/strong>：管理员、用户、经理、只读&lt;/li>
-&lt;/ul>
-&lt;h3>高级配置&lt;span class="hx:absolute hx:-mt-20" id="高级配置">&lt;/span>
-&lt;a href="#%e9%ab%98%e7%ba%a7%e9%85%8d%e7%bd%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>矩阵组织&lt;/strong> - 多重报告关系&lt;/li>
-&lt;li>&lt;strong>多地点支持&lt;/strong> - 跨不同地点的员工&lt;/li>
-&lt;li>&lt;strong>继任规划&lt;/strong> - 职业发展和继任&lt;/li>
-&lt;li>&lt;strong>能力管理&lt;/strong> - 技能和能力跟踪&lt;/li>
-&lt;li>&lt;strong>绩效管理&lt;/strong> - 目标设定和评估&lt;/li>
-&lt;/ul>
-&lt;h2>用例&lt;span class="hx:absolute hx:-mt-20" id="用例">&lt;/span>
-&lt;a href="#%e7%94%a8%e4%be%8b" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>小企业运营&lt;span class="hx:absolute hx:-mt-20" id="小企业运营">&lt;/span>
-&lt;a href="#%e5%b0%8f%e4%bc%81%e4%b8%9a%e8%bf%90%e8%90%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>场景&lt;/strong>：拥有20名员工的本地零售业务&lt;/p>
-&lt;ul>
-&lt;li>基本员工信息管理&lt;/li>
-&lt;li>简单的组织结构&lt;/li>
-&lt;li>基于角色的系统访问&lt;/li>
-&lt;li>基本薪资集成&lt;/li>
-&lt;li>假期管理&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>收益&lt;/strong>：简化的员工管理&lt;/p>
-&lt;h3>中型制造公司&lt;span class="hx:absolute hx:-mt-20" id="中型制造公司">&lt;/span>
-&lt;a href="#%e4%b8%ad%e5%9e%8b%e5%88%b6%e9%80%a0%e5%85%ac%e5%8f%b8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>场景&lt;/strong>：拥有200名员工的制造设施&lt;/p>
-&lt;ul>
-&lt;li>复杂的组织层次结构&lt;/li>
-&lt;li>基于轮班的劳动力管理&lt;/li>
-&lt;li>技能和认证跟踪&lt;/li>
-&lt;li>安全合规监控&lt;/li>
-&lt;li>生产团队分配&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>收益&lt;/strong>：综合劳动力管理&lt;/p>
-&lt;h3>专业服务公司&lt;span class="hx:absolute hx:-mt-20" id="专业服务公司">&lt;/span>
-&lt;a href="#%e4%b8%93%e4%b8%9a%e6%9c%8d%e5%8a%a1%e5%85%ac%e5%8f%b8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>场景&lt;/strong>：基于项目工作的咨询公司&lt;/p>
-&lt;ul>
-&lt;li>项目团队分配&lt;/li>
-&lt;li>计费小时跟踪&lt;/li>
-&lt;li>客户参与管理&lt;/li>
-&lt;li>专业发展跟踪&lt;/li>
-&lt;li>绩效评估集成&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>收益&lt;/strong>：优化的专业服务交付&lt;/p>
-&lt;h3>多地点企业&lt;span class="hx:absolute hx:-mt-20" id="多地点企业">&lt;/span>
-&lt;a href="#%e5%a4%9a%e5%9c%b0%e7%82%b9%e4%bc%81%e4%b8%9a" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>场景&lt;/strong>：跨地点拥有500+员工的零售连锁&lt;/p>
-&lt;ul>
-&lt;li>集中员工数据库&lt;/li>
-&lt;li>特定地点的管理&lt;/li>
-&lt;li>转移和流动性跟踪&lt;/li>
-&lt;li>标准化人力资源流程&lt;/li>
-&lt;li>企业范围报告&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>收益&lt;/strong>：可扩展的多地点人力资源管理&lt;/p>
-&lt;h2>相关应用程序&lt;span class="hx:absolute hx:-mt-20" id="相关应用程序">&lt;/span>
-&lt;a href="#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>核心模块应用程序&lt;span class="hx:absolute hx:-mt-20" id="核心模块应用程序">&lt;/span>
-&lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织应用程序&lt;/a>&lt;/strong> - 公司和部门结构&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tenant-admin-applet/" >租户管理应用程序&lt;/a>&lt;/strong> - 用户访问管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护应用程序&lt;/a>&lt;/strong> - 销售代表分配&lt;/li>
-&lt;/ul>
-&lt;h3>人力资源和薪资应用程序&lt;span class="hx:absolute hx:-mt-20" id="人力资源和薪资应用程序">&lt;/span>
-&lt;a href="#%e4%ba%ba%e5%8a%9b%e8%b5%84%e6%ba%90%e5%92%8c%e8%96%aa%e8%b5%84%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/payroll-processing-applet/" >薪资处理应用程序&lt;/a>&lt;/strong> - 员工薪酬&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/time-attendance-applet/" >时间考勤应用程序&lt;/a>&lt;/strong> - 工作时间跟踪&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/leave-management-applet/" >假期管理应用程序&lt;/a>&lt;/strong> - 员工假期跟踪&lt;/li>
-&lt;/ul>
-&lt;h3>运营应用程序&lt;span class="hx:absolute hx:-mt-20" id="运营应用程序">&lt;/span>
-&lt;a href="#%e8%bf%90%e8%90%a5%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/project-team-applet/" >项目团队应用程序&lt;/a>&lt;/strong> - 项目分配&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/sales-team-applet/" >销售团队应用程序&lt;/a>&lt;/strong> - 销售队伍管理&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/asset-custody-applet/" >资产保管应用程序&lt;/a>&lt;/strong> - 资产责任&lt;/li>
-&lt;/ul>
-&lt;h2>设置指南&lt;span class="hx:absolute hx:-mt-20" id="设置指南">&lt;/span>
-&lt;a href="#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>快速开始&lt;span class="hx:absolute hx:-mt-20" id="快速开始">&lt;/span>
-&lt;a href="#%e5%bf%ab%e9%80%9f%e5%bc%80%e5%a7%8b" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>访问员工维护&lt;/strong> - 导航到应用程序&lt;/li>
-&lt;li>&lt;strong>定义组织结构&lt;/strong> - 设置部门&lt;/li>
-&lt;li>&lt;strong>配置员工类别&lt;/strong> - 设置分类&lt;/li>
-&lt;li>&lt;strong>创建示例员工&lt;/strong> - 添加测试员工记录&lt;/li>
-&lt;li>&lt;strong>测试集成&lt;/strong> - 验证与其他模块的集成&lt;/li>
-&lt;/ol>
-&lt;h3>高级设置&lt;span class="hx:absolute hx:-mt-20" id="高级设置">&lt;/span>
-&lt;a href="#%e9%ab%98%e7%ba%a7%e8%ae%be%e7%bd%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>多地点配置&lt;/strong> - 设置基于地点的管理&lt;/li>
-&lt;li>&lt;strong>继任规划设置&lt;/strong> - 配置职业发展&lt;/li>
-&lt;li>&lt;strong>能力管理&lt;/strong> - 设置技能跟踪&lt;/li>
-&lt;li>&lt;strong>集成配置&lt;/strong> - 连接外部人力资源系统&lt;/li>
-&lt;li>&lt;strong>合规设置&lt;/strong> - 配置法规合规&lt;/li>
-&lt;/ol>
-&lt;h2>员工主数据结构&lt;span class="hx:absolute hx:-mt-20" id="员工主数据结构">&lt;/span>
-&lt;a href="#%e5%91%98%e5%b7%a5%e4%b8%bb%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>个人信息&lt;span class="hx:absolute hx:-mt-20" id="个人信息">&lt;/span>
-&lt;a href="#%e4%b8%aa%e4%ba%ba%e4%bf%a1%e6%81%af" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">员工ID&lt;/span>: &lt;span style="color:#ae81ff">EMP-001&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">全名&lt;/span>: &lt;span style="color:#ae81ff">约翰·迈克尔·史密斯&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">首选姓名&lt;/span>: &lt;span style="color:#ae81ff">约翰&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">出生日期&lt;/span>: &lt;span style="color:#e6db74">1985-05-15&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">性别&lt;/span>: &lt;span style="color:#ae81ff">男&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">国籍&lt;/span>: &lt;span style="color:#ae81ff">马来西亚人&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">身份证/护照&lt;/span>: &lt;span style="color:#ae81ff">850515-10-1234&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">婚姻状况&lt;/span>: &lt;span style="color:#ae81ff">已婚&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">联系电话&lt;/span>: &lt;span style="color:#ae81ff">+60-12-345-6789&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">电子邮件&lt;/span>: &lt;span style="color:#ae81ff">john.smith@company.com&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-&lt;button
-class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
-&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;h3>就业信息&lt;span class="hx:absolute hx:-mt-20" id="就业信息">&lt;/span>
-&lt;a href="#%e5%b0%b1%e4%b8%9a%e4%bf%a1%e6%81%af" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">员工类型&lt;/span>: &lt;span style="color:#ae81ff">全职&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">就业日期&lt;/span>: &lt;span style="color:#e6db74">2020-03-01&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">职位&lt;/span>: &lt;span style="color:#ae81ff">高级销售经理&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">部门&lt;/span>: &lt;span style="color:#ae81ff">销售与营销&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">直属经理&lt;/span>: &lt;span style="color:#ae81ff">简·威尔逊 (EMP-050)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">地点&lt;/span>: &lt;span style="color:#ae81ff">吉隆坡办公室&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">就业状态&lt;/span>: &lt;span style="color:#ae81ff">活跃&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">试用期结束日期&lt;/span>: &lt;span style="color:#e6db74">2020-05-31&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">合同类型&lt;/span>: &lt;span style="color:#ae81ff">永久&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-&lt;button
-class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
-&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;h3>薪酬信息&lt;span class="hx:absolute hx:-mt-20" id="薪酬信息">&lt;/span>
-&lt;a href="#%e8%96%aa%e9%85%ac%e4%bf%a1%e6%81%af" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">基本工资&lt;/span>: &lt;span style="color:#ae81ff">RM 8,500&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">津贴&lt;/span>: &lt;span style="color:#ae81ff">RM 1,500&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">佣金结构&lt;/span>: &lt;span style="color:#ae81ff">销售额的3%&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">福利包&lt;/span>: &lt;span style="color:#ae81ff">医疗、牙科、保险&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">公积金号&lt;/span>: &lt;span style="color:#ae81ff">12345678&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">社会保险号&lt;/span>: &lt;span style="color:#ae81ff">87654321&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">税务档案号&lt;/span>: &lt;span style="color:#ae81ff">TA12345678&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">银行账户&lt;/span>: &lt;span style="color:#ae81ff">马来亚银行 123456789012&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-&lt;button
-class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
-&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;h3>组织分配&lt;span class="hx:absolute hx:-mt-20" id="组织分配">&lt;/span>
-&lt;a href="#%e7%bb%84%e7%bb%87%e5%88%86%e9%85%8d" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">部门&lt;/span>: &lt;span style="color:#ae81ff">销售与营销&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">事业部&lt;/span>: &lt;span style="color:#ae81ff">商业运营&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">成本中心&lt;/span>: &lt;span style="color:#ae81ff">CC-SALES-001&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">主管&lt;/span>: &lt;span style="color:#ae81ff">简·威尔逊&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">直接下属&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">迈克·约翰逊 (EMP-025)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">萨拉·李 (EMP-030)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">项目分配&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">数字化转型项目&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#ae81ff">客户获取活动&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-&lt;button
-class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
-&lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;h2>最佳实践&lt;span class="hx:absolute hx:-mt-20" id="最佳实践">&lt;/span>
-&lt;a href="#%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>员工数据管理最佳实践&lt;span class="hx:absolute hx:-mt-20" id="员工数据管理最佳实践">&lt;/span>
-&lt;a href="#%e5%91%98%e5%b7%a5%e6%95%b0%e6%8d%ae%e7%ae%a1%e7%90%86%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>数据隐私&lt;/strong> - 安全处理个人信息&lt;/li>
-&lt;li>&lt;strong>数据准确性&lt;/strong> - 定期验证和更新&lt;/li>
-&lt;li>&lt;strong>访问控制&lt;/strong> - 适当的访问限制&lt;/li>
-&lt;li>&lt;strong>审计跟踪&lt;/strong> - 完整的变更历史跟踪&lt;/li>
-&lt;li>&lt;strong>备份策略&lt;/strong> - 定期安全数据备份&lt;/li>
-&lt;/ul>
-&lt;h3>组织结构最佳实践&lt;span class="hx:absolute hx:-mt-20" id="组织结构最佳实践">&lt;/span>
-&lt;a href="#%e7%bb%84%e7%bb%87%e7%bb%93%e6%9e%84%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>清晰层次结构&lt;/strong> - 明确定义的报告关系&lt;/li>
-&lt;li>&lt;strong>角色清晰度&lt;/strong> - 清晰的工作描述和职责&lt;/li>
-&lt;li>&lt;strong>定期审查&lt;/strong> - 定期组织结构评估&lt;/li>
-&lt;li>&lt;strong>变更管理&lt;/strong> - 适当处理结构变更&lt;/li>
-&lt;li>&lt;strong>文档记录&lt;/strong> - 综合组织图&lt;/li>
-&lt;/ul>
-&lt;h3>安全和合规最佳实践&lt;span class="hx:absolute hx:-mt-20" id="安全和合规最佳实践">&lt;/span>
-&lt;a href="#%e5%ae%89%e5%85%a8%e5%92%8c%e5%90%88%e8%a7%84%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>隐私合规&lt;/strong> - 遵守GDPR和当地隐私法&lt;/li>
-&lt;li>&lt;strong>数据保留&lt;/strong> - 适当的数据保留政策&lt;/li>
-&lt;li>&lt;strong>访问日志&lt;/strong> - 监控员工数据访问&lt;/li>
-&lt;li>&lt;strong>定期审计&lt;/strong> - 定期合规审计&lt;/li>
-&lt;li>&lt;strong>事件响应&lt;/strong> - 数据泄露响应程序&lt;/li>
-&lt;/ul>
-&lt;h2>故障排除&lt;span class="hx:absolute hx:-mt-20" id="故障排除">&lt;/span>
-&lt;a href="#%e6%95%85%e9%9a%9c%e6%8e%92%e9%99%a4" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>常见问题&lt;span class="hx:absolute hx:-mt-20" id="常见问题">&lt;/span>
-&lt;a href="#%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>无法创建新员工&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>检查员工创建的用户权限&lt;/li>
-&lt;li>验证必填字段是否完成&lt;/li>
-&lt;li>确保组织结构已定义&lt;/li>
-&lt;li>检查员工ID编号系统&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>员工系统访问问题&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>验证员工状态是否活跃&lt;/li>
-&lt;li>检查角色和权限分配&lt;/li>
-&lt;li>确保用户账户正确创建&lt;/li>
-&lt;li>审查模块访问权限&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>组织层次结构问题&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>检查报告关系配置&lt;/li>
-&lt;li>验证部门分配&lt;/li>
-&lt;li>审查经理-下属关系&lt;/li>
-&lt;li>确认组织图准确性&lt;/li>
-&lt;/ul>
-&lt;h3>支持资源&lt;span class="hx:absolute hx:-mt-20" id="支持资源">&lt;/span>
-&lt;a href="#%e6%94%af%e6%8c%81%e8%b5%84%e6%ba%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>员工设置和配置指南&lt;/li>
-&lt;li>组织结构设计指南&lt;/li>
-&lt;li>隐私和合规文档&lt;/li>
-&lt;li>系统访问管理指南&lt;/li>
-&lt;/ul>
-&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
-&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
-&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>隐私声明&lt;/strong>：员工数据包含敏感个人信息。确保遵守当地隐私法并实施适当的安全措施来保护员工数据。&lt;/div>
-&lt;/div>
-&lt;/div></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BigLedger 文档 – Employee-Management</title>
+    <link>http://localhost:1313/zh/tags/employee-management/</link>
+    <description>Recent content in Employee-Management on BigLedger 文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	  <atom:link href="http://localhost:1313/zh/tags/employee-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>员工维护应用程序</title>
+      <link>http://localhost:1313/zh/applets/employee-maintenance-applet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/applets/employee-maintenance-applet/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;目的和概述&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;目的和概述&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%9b%ae%e7%9a%84%e5%92%8c%e6%a6%82%e8%bf%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;员工维护应用程序是BigLedger核心模块的基础人力资源组件，提供支持人力资源、薪资、组织结构和跨所有模块的员工相关运营的综合员工主记录管理。&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;核心模块应用程序&lt;/strong&gt;：这是13个基本核心模块应用程序之一，对任何有员工和组织结构要求的企业都是基础性的。&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;主要功能&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;主要功能&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%bb%e8%a6%81%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;员工档案管理&lt;/strong&gt; - 完整的员工信息存储库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组织结构&lt;/strong&gt; - 部门和报告关系&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;角色和权限管理&lt;/strong&gt; - 系统访问和授权&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;薪酬管理&lt;/strong&gt; - 工资、福利和薪酬数据&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;人力资源集成&lt;/strong&gt; - 所有人力资源和薪资运营的基础&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;关键特性&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;关键特性&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%85%b3%e9%94%ae%e7%89%b9%e6%80%a7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;员工信息管理&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;员工信息管理&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%98%e5%b7%a5%e4%bf%a1%e6%81%af%e7%ae%a1%e7%90%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;带有个人信息的完整员工档案&lt;/li&gt;
+&lt;li&gt;就业历史和职业发展&lt;/li&gt;
+&lt;li&gt;紧急联系信息和亲属&lt;/li&gt;
+&lt;li&gt;教育背景和资格&lt;/li&gt;
+&lt;li&gt;技能、认证和能力&lt;/li&gt;
+&lt;li&gt;绩效评估历史&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;组织结构管理&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;组织结构管理&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%bb%84%e7%bb%87%e7%bb%93%e6%9e%84%e7%ae%a1%e7%90%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;部门和事业部分配&lt;/li&gt;
+&lt;li&gt;报告关系和层次结构&lt;/li&gt;
+&lt;li&gt;团队和项目分配&lt;/li&gt;
+&lt;li&gt;位置和工作空间分配&lt;/li&gt;
+&lt;li&gt;成本中心和预算分配&lt;/li&gt;
+&lt;li&gt;矩阵组织支持&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;就业和薪酬&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;就业和薪酬&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b0%b1%e4%b8%9a%e5%92%8c%e8%96%aa%e9%85%ac&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;就业合同和条件&lt;/li&gt;
+&lt;li&gt;工资和薪酬结构&lt;/li&gt;
+&lt;li&gt;福利登记和管理&lt;/li&gt;
+&lt;li&gt;假期权利和余额&lt;/li&gt;
+&lt;li&gt;加班和津贴政策&lt;/li&gt;
+&lt;li&gt;基于绩效的薪酬&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;系统访问和安全&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;系统访问和安全&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%b3%bb%e7%bb%9f%e8%ae%bf%e9%97%ae%e5%92%8c%e5%ae%89%e5%85%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;用户账户创建和管理&lt;/li&gt;
+&lt;li&gt;基于角色的访问控制分配&lt;/li&gt;
+&lt;li&gt;模块和功能权限&lt;/li&gt;
+&lt;li&gt;数据访问限制&lt;/li&gt;
+&lt;li&gt;审批层次结构定义&lt;/li&gt;
+&lt;li&gt;数字签名权限&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;人力资源和行政支持&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;人力资源和行政支持&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%ba%ba%e5%8a%9b%e8%b5%84%e6%ba%90%e5%92%8c%e8%a1%8c%e6%94%bf%e6%94%af%e6%8c%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;文档存储和管理&lt;/li&gt;
+&lt;li&gt;培训和发展记录&lt;/li&gt;
+&lt;li&gt;纪律处分和警告&lt;/li&gt;
+&lt;li&gt;认可和奖励跟踪&lt;/li&gt;
+&lt;li&gt;离职面谈和终止处理&lt;/li&gt;
+&lt;li&gt;法规合规文档&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;技术规格&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;技术规格&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%8a%80%e6%9c%af%e8%a7%84%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;系统要求&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;系统要求&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%b3%bb%e7%bb%9f%e8%a6%81%e6%b1%82&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;最低访问级别&lt;/strong&gt;：人力资源管理员&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据库依赖&lt;/strong&gt;：员工主表&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;集成点&lt;/strong&gt;：人力资源、薪资和所有运营模块&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API可用性&lt;/strong&gt;：具有隐私控制的完整CRUD操作&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文档存储&lt;/strong&gt;：安全员工文档管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;员工配置选项&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;员工配置选项&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%98%e5%b7%a5%e9%85%8d%e7%bd%ae%e9%80%89%e9%a1%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;员工ID长度&lt;/strong&gt;：3-20个字符&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;个人信息&lt;/strong&gt;：综合人口统计数据&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;就业历史&lt;/strong&gt;：无限职位记录&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自定义字段&lt;/strong&gt;：最多40个自定义字段&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文档附件&lt;/strong&gt;：每个员工安全文档存储高达1GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;性能参数&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;性能参数&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%80%a7%e8%83%bd%e5%8f%82%e6%95%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;员工容量&lt;/strong&gt;：最多100,000名员工&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;搜索性能&lt;/strong&gt;：复杂搜索&amp;lt;1秒&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;批量操作&lt;/strong&gt;：每批处理1,000+员工&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;并发用户&lt;/strong&gt;：200+同时用户&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全合规&lt;/strong&gt;：GDPR、CCPA和当地隐私法合规&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;集成点&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;集成点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%9b%86%e6%88%90%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;核心模块依赖&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;核心模块依赖&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e4%be%9d%e8%b5%96&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;组织应用程序&lt;/strong&gt; - 公司和部门结构&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;租户管理应用程序&lt;/strong&gt; - 用户账户和系统访问&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;科目表应用程序&lt;/strong&gt; - 薪资和费用科目&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;税务配置应用程序&lt;/strong&gt; - 员工税务设置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;模块集成&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;模块集成&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%a8%a1%e5%9d%97%e9%9b%86%e6%88%90&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;模块&lt;/th&gt;
+          &lt;th&gt;集成目的&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;人力资源与薪资&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;完整的人力资源管理&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;时间跟踪&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;员工时间和考勤&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;项目管理&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;项目团队分配&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;销售与CRM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;销售代表分配&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;制造&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;生产团队管理&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;质量管理&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;质量检查员分配&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;资产管理&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;资产保管和责任&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;外部集成&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;外部集成&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%a4%96%e9%83%a8%e9%9b%86%e6%88%90&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HRIS系统&lt;/strong&gt; - 人力资源信息系统&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;薪资服务&lt;/strong&gt; - 外部薪资处理&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;时间跟踪系统&lt;/strong&gt; - 考勤和时间记录&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;学习管理&lt;/strong&gt; - 培训和发展平台&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;背景调查服务&lt;/strong&gt; - 就业验证&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;福利提供商&lt;/strong&gt; - 保险和福利管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;配置要求&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;配置要求&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%85%8d%e7%bd%ae%e8%a6%81%e6%b1%82&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;初始设置要求&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;初始设置要求&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%88%9d%e5%a7%8b%e8%ae%be%e7%bd%ae%e8%a6%81%e6%b1%82&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;组织结构&lt;/strong&gt; - 定义部门和事业部&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;员工类别&lt;/strong&gt; - 设置员工分类&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职位类型&lt;/strong&gt; - 配置工作职位和角色&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;薪酬结构&lt;/strong&gt; - 设置薪酬等级和级别&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;福利计划&lt;/strong&gt; - 配置员工福利&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;基本配置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;基本配置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%9f%ba%e6%9c%ac%e9%85%8d%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;员工类型&lt;/strong&gt;：全职、兼职、合同工、实习生、顾问&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;部门结构&lt;/strong&gt;：销售、运营、财务、人力资源、IT&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职位级别&lt;/strong&gt;：初级、初级、高级、经理、总监、执行&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;就业状态&lt;/strong&gt;：活跃、非活跃、休假、终止&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;访问角色&lt;/strong&gt;：管理员、用户、经理、只读&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;高级配置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;高级配置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%ab%98%e7%ba%a7%e9%85%8d%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;矩阵组织&lt;/strong&gt; - 多重报告关系&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多地点支持&lt;/strong&gt; - 跨不同地点的员工&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;继任规划&lt;/strong&gt; - 职业发展和继任&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;能力管理&lt;/strong&gt; - 技能和能力跟踪&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;绩效管理&lt;/strong&gt; - 目标设定和评估&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;用例&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;用例&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%94%a8%e4%be%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;小企业运营&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;小企业运营&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b0%8f%e4%bc%81%e4%b8%9a%e8%bf%90%e8%90%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;场景&lt;/strong&gt;：拥有20名员工的本地零售业务&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;基本员工信息管理&lt;/li&gt;
+&lt;li&gt;简单的组织结构&lt;/li&gt;
+&lt;li&gt;基于角色的系统访问&lt;/li&gt;
+&lt;li&gt;基本薪资集成&lt;/li&gt;
+&lt;li&gt;假期管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;收益&lt;/strong&gt;：简化的员工管理&lt;/p&gt;
+&lt;h3&gt;中型制造公司&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;中型制造公司&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%ad%e5%9e%8b%e5%88%b6%e9%80%a0%e5%85%ac%e5%8f%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;场景&lt;/strong&gt;：拥有200名员工的制造设施&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;复杂的组织层次结构&lt;/li&gt;
+&lt;li&gt;基于轮班的劳动力管理&lt;/li&gt;
+&lt;li&gt;技能和认证跟踪&lt;/li&gt;
+&lt;li&gt;安全合规监控&lt;/li&gt;
+&lt;li&gt;生产团队分配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;收益&lt;/strong&gt;：综合劳动力管理&lt;/p&gt;
+&lt;h3&gt;专业服务公司&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;专业服务公司&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%93%e4%b8%9a%e6%9c%8d%e5%8a%a1%e5%85%ac%e5%8f%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;场景&lt;/strong&gt;：基于项目工作的咨询公司&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;项目团队分配&lt;/li&gt;
+&lt;li&gt;计费小时跟踪&lt;/li&gt;
+&lt;li&gt;客户参与管理&lt;/li&gt;
+&lt;li&gt;专业发展跟踪&lt;/li&gt;
+&lt;li&gt;绩效评估集成&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;收益&lt;/strong&gt;：优化的专业服务交付&lt;/p&gt;
+&lt;h3&gt;多地点企业&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;多地点企业&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%a4%9a%e5%9c%b0%e7%82%b9%e4%bc%81%e4%b8%9a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;场景&lt;/strong&gt;：跨地点拥有500+员工的零售连锁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;集中员工数据库&lt;/li&gt;
+&lt;li&gt;特定地点的管理&lt;/li&gt;
+&lt;li&gt;转移和流动性跟踪&lt;/li&gt;
+&lt;li&gt;标准化人力资源流程&lt;/li&gt;
+&lt;li&gt;企业范围报告&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;收益&lt;/strong&gt;：可扩展的多地点人力资源管理&lt;/p&gt;
+&lt;h2&gt;相关应用程序&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;相关应用程序&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%9b%b8%e5%85%b3%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;核心模块应用程序&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;核心模块应用程序&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%97%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/organization-applet/&#34; &gt;组织应用程序&lt;/a&gt;&lt;/strong&gt; - 公司和部门结构&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/tenant-admin-applet/&#34; &gt;租户管理应用程序&lt;/a&gt;&lt;/strong&gt; - 用户访问管理&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/customer-maintenance-applet/&#34; &gt;客户维护应用程序&lt;/a&gt;&lt;/strong&gt; - 销售代表分配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;人力资源和薪资应用程序&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;人力资源和薪资应用程序&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%ba%ba%e5%8a%9b%e8%b5%84%e6%ba%90%e5%92%8c%e8%96%aa%e8%b5%84%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/payroll-processing-applet/&#34; &gt;薪资处理应用程序&lt;/a&gt;&lt;/strong&gt; - 员工薪酬&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/time-attendance-applet/&#34; &gt;时间考勤应用程序&lt;/a&gt;&lt;/strong&gt; - 工作时间跟踪&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/leave-management-applet/&#34; &gt;假期管理应用程序&lt;/a&gt;&lt;/strong&gt; - 员工假期跟踪&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;运营应用程序&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;运营应用程序&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%bf%90%e8%90%a5%e5%ba%94%e7%94%a8%e7%a8%8b%e5%ba%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/project-team-applet/&#34; &gt;项目团队应用程序&lt;/a&gt;&lt;/strong&gt; - 项目分配&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/sales-team-applet/&#34; &gt;销售团队应用程序&lt;/a&gt;&lt;/strong&gt; - 销售队伍管理&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/applets/asset-custody-applet/&#34; &gt;资产保管应用程序&lt;/a&gt;&lt;/strong&gt; - 资产责任&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;设置指南&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;设置指南&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%ae%be%e7%bd%ae%e6%8c%87%e5%8d%97&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;快速开始&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;快速开始&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%bf%ab%e9%80%9f%e5%bc%80%e5%a7%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;访问员工维护&lt;/strong&gt; - 导航到应用程序&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定义组织结构&lt;/strong&gt; - 设置部门&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;配置员工类别&lt;/strong&gt; - 设置分类&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建示例员工&lt;/strong&gt; - 添加测试员工记录&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;测试集成&lt;/strong&gt; - 验证与其他模块的集成&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;高级设置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;高级设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%ab%98%e7%ba%a7%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;多地点配置&lt;/strong&gt; - 设置基于地点的管理&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;继任规划设置&lt;/strong&gt; - 配置职业发展&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;能力管理&lt;/strong&gt; - 设置技能跟踪&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;集成配置&lt;/strong&gt; - 连接外部人力资源系统&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;合规设置&lt;/strong&gt; - 配置法规合规&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;员工主数据结构&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;员工主数据结构&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%98%e5%b7%a5%e4%b8%bb%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;个人信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;个人信息&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%aa%e4%ba%ba%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;员工ID&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;EMP-001&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;全名&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;约翰·迈克尔·史密斯&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;首选姓名&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;约翰&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;出生日期&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;1985-05-15&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;性别&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;男&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;国籍&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;马来西亚人&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;身份证/护照&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;850515-10-1234&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;婚姻状况&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;已婚&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;联系电话&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;+60-12-345-6789&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;电子邮件&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;john.smith@company.com&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;就业信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;就业信息&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b0%b1%e4%b8%9a%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;员工类型&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;全职&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;就业日期&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;2020-03-01&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;职位&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;高级销售经理&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;部门&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;销售与营销&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;直属经理&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;简·威尔逊 (EMP-050)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;地点&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;吉隆坡办公室&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;就业状态&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;活跃&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;试用期结束日期&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;2020-05-31&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;合同类型&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;永久&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;薪酬信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;薪酬信息&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%96%aa%e9%85%ac%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;基本工资&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;RM 8,500&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;津贴&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;RM 1,500&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;佣金结构&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;销售额的3%&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;福利包&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;医疗、牙科、保险&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;公积金号&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;12345678&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;社会保险号&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;87654321&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;税务档案号&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TA12345678&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;银行账户&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;马来亚银行 123456789012&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;组织分配&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;组织分配&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%bb%84%e7%bb%87%e5%88%86%e9%85%8d&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;部门&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;销售与营销&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;事业部&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;商业运营&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;成本中心&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;CC-SALES-001&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;主管&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;简·威尔逊&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;直接下属&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#ae81ff&#34;&gt;迈克·约翰逊 (EMP-025)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#ae81ff&#34;&gt;萨拉·李 (EMP-030)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;项目分配&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#ae81ff&#34;&gt;数字化转型项目&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#ae81ff&#34;&gt;客户获取活动&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;最佳实践&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;最佳实践&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;员工数据管理最佳实践&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;员工数据管理最佳实践&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%98%e5%b7%a5%e6%95%b0%e6%8d%ae%e7%ae%a1%e7%90%86%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;数据隐私&lt;/strong&gt; - 安全处理个人信息&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据准确性&lt;/strong&gt; - 定期验证和更新&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;访问控制&lt;/strong&gt; - 适当的访问限制&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;审计跟踪&lt;/strong&gt; - 完整的变更历史跟踪&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;备份策略&lt;/strong&gt; - 定期安全数据备份&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;组织结构最佳实践&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;组织结构最佳实践&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%bb%84%e7%bb%87%e7%bb%93%e6%9e%84%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;清晰层次结构&lt;/strong&gt; - 明确定义的报告关系&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;角色清晰度&lt;/strong&gt; - 清晰的工作描述和职责&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定期审查&lt;/strong&gt; - 定期组织结构评估&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;变更管理&lt;/strong&gt; - 适当处理结构变更&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文档记录&lt;/strong&gt; - 综合组织图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;安全和合规最佳实践&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;安全和合规最佳实践&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%ae%89%e5%85%a8%e5%92%8c%e5%90%88%e8%a7%84%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;隐私合规&lt;/strong&gt; - 遵守GDPR和当地隐私法&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据保留&lt;/strong&gt; - 适当的数据保留政策&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;访问日志&lt;/strong&gt; - 监控员工数据访问&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定期审计&lt;/strong&gt; - 定期合规审计&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;事件响应&lt;/strong&gt; - 数据泄露响应程序&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;故障排除&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;故障排除&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%85%e9%9a%9c%e6%8e%92%e9%99%a4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;常见问题&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;常见问题&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;无法创建新员工&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;检查员工创建的用户权限&lt;/li&gt;
+&lt;li&gt;验证必填字段是否完成&lt;/li&gt;
+&lt;li&gt;确保组织结构已定义&lt;/li&gt;
+&lt;li&gt;检查员工ID编号系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;员工系统访问问题&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;验证员工状态是否活跃&lt;/li&gt;
+&lt;li&gt;检查角色和权限分配&lt;/li&gt;
+&lt;li&gt;确保用户账户正确创建&lt;/li&gt;
+&lt;li&gt;审查模块访问权限&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;组织层次结构问题&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;检查报告关系配置&lt;/li&gt;
+&lt;li&gt;验证部门分配&lt;/li&gt;
+&lt;li&gt;审查经理-下属关系&lt;/li&gt;
+&lt;li&gt;确认组织图准确性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;支持资源&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;支持资源&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%94%af%e6%8c%81%e8%b5%84%e6%ba%90&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;员工设置和配置指南&lt;/li&gt;
+&lt;li&gt;组织结构设计指南&lt;/li&gt;
+&lt;li&gt;隐私和合规文档&lt;/li&gt;
+&lt;li&gt;系统访问管理指南&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;⚠️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;隐私声明&lt;/strong&gt;：员工数据包含敏感个人信息。确保遵守当地隐私法并实施适当的安全措施来保护员工数据。&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,129 +1,165 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Basic-Operations</title><link>https://www.bigledger.com/zh/tags/basic-operations/</link><description>Recent content in Basic-Operations on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/basic-operations/index.xml" rel="self" type="application/rss+xml"/><item><title>基本操作</title><link>https://www.bigledger.com/zh/user-guide/basic-operations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/user-guide/basic-operations/</guid><description>
-&lt;p>掌握在BigLedger中构成业务运营骨干的基本日常任务。本节涵盖基本数据管理、项目处理和文档处理任务。&lt;/p>
-&lt;h2>核心数据管理&lt;span class="hx:absolute hx:-mt-20" id="核心数据管理">&lt;/span>
-&lt;a href="#%e6%a0%b8%e5%bf%83%e6%95%b0%e6%8d%ae%e7%ae%a1%e7%90%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>学习管理驱动业务的基本数据：&lt;/p>
-&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BigLedger 文档 – Basic-Operations</title>
+    <link>http://localhost:1313/zh/tags/basic-operations/</link>
+    <description>Recent content in Basic-Operations on BigLedger 文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	  <atom:link href="http://localhost:1313/zh/tags/basic-operations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>基本操作</title>
+      <link>http://localhost:1313/zh/user-guide/basic-operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/user-guide/basic-operations/</guid>
+      <description>
+        
+        
+        &lt;p&gt;掌握在BigLedger中构成业务运营骨干的基本日常任务。本节涵盖基本数据管理、项目处理和文档处理任务。&lt;/p&gt;
+&lt;h2&gt;核心数据管理&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;核心数据管理&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%a0%b8%e5%bf%83%e6%95%b0%e6%8d%ae%e7%ae%a1%e7%90%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;学习管理驱动业务的基本数据：&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/zh/user-guide/basic-operations/creating-an-item"
->&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">创建项目&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">向产品目录添加产品和服务的分步指南&lt;/div>&lt;/a>
+  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/zh/user-guide/basic-operations/creating-an-item&#34;
+    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;创建项目&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;向产品目录添加产品和服务的分步指南&lt;/div&gt;&lt;/a&gt;
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/zh/user-guide/basic-operations/item-maintenance"
->&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">项目管理&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">维护产品目录的综合指南&lt;/div>&lt;/a>
+  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/zh/user-guide/basic-operations/item-maintenance&#34;
+    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;项目管理&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;维护产品目录的综合指南&lt;/div&gt;&lt;/a&gt;
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/zh/user-guide/basic-operations/editing-an-item"
->&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">编辑项目&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">修改现有产品、定价和规格&lt;/div>&lt;/a>
-&lt;/div>
-&lt;h2>文档管理&lt;span class="hx:absolute hx:-mt-20" id="文档管理">&lt;/span>
-&lt;a href="#%e6%96%87%e6%a1%a3%e7%ae%a1%e7%90%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>高效处理业务文档：&lt;/p>
-&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/zh/user-guide/basic-operations/editing-an-item&#34;
+    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;编辑项目&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;修改现有产品、定价和规格&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;文档管理&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;文档管理&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%87%e6%a1%a3%e7%ae%a1%e7%90%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;高效处理业务文档：&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/zh/user-guide/basic-operations/document-item-types"
->&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">文档类型&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">了解不同文档类型及其用法&lt;/div>&lt;/a>
+  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/zh/user-guide/basic-operations/document-item-types&#34;
+    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;文档类型&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;了解不同文档类型及其用法&lt;/div&gt;&lt;/a&gt;
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/zh/user-guide/basic-operations/document-item-maintenance"
->&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">文档管理&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">创建、编辑和管理业务文档&lt;/div>&lt;/a>
-&lt;/div>
-&lt;h2>关键学习目标&lt;span class="hx:absolute hx:-mt-20" id="关键学习目标">&lt;/span>
-&lt;a href="#%e5%85%b3%e9%94%ae%e5%ad%a6%e4%b9%a0%e7%9b%ae%e6%a0%87" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>完成本节后，您将能够：&lt;/p>
-&lt;ul>
-&lt;li>✅ 在产品目录中创建和配置项目&lt;/li>
-&lt;li>✅ 管理具有适当分类的库存项目&lt;/li>
-&lt;li>✅ 编辑现有项目并更新规格&lt;/li>
-&lt;li>✅ 有效处理不同文档类型&lt;/li>
-&lt;li>✅ 在所有操作中维护数据完整性&lt;/li>
-&lt;li>✅ 应用一致的命名约定和组织&lt;/li>
-&lt;/ul>
-&lt;h2>基本技能清单&lt;span class="hx:absolute hx:-mt-20" id="基本技能清单">&lt;/span>
-&lt;a href="#%e5%9f%ba%e6%9c%ac%e6%8a%80%e8%83%bd%e6%b8%85%e5%8d%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>项目管理技能&lt;span class="hx:absolute hx:-mt-20" id="项目管理技能">&lt;/span>
-&lt;a href="#%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e6%8a%80%e8%83%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> 创建新产品和服务&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 设置适当的项目分类&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 正确配置计量单位&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 启用电子商务集成（EcomSync）&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 编辑项目详情和规格&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 管理项目类别和组织&lt;/li>
-&lt;/ul>
-&lt;h3>文档处理技能&lt;span class="hx:absolute hx:-mt-20" id="文档处理技能">&lt;/span>
-&lt;a href="#%e6%96%87%e6%a1%a3%e5%a4%84%e7%90%86%e6%8a%80%e8%83%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> 了解不同文档类型&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 正确创建业务文档&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 编辑和修改现有文档&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 应用适当的文档工作流程&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 维护文档合规标准&lt;/li>
-&lt;/ul>
-&lt;h2>最佳实践&lt;span class="hx:absolute hx:-mt-20" id="最佳实践">&lt;/span>
-&lt;a href="#%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>数据录入标准&lt;span class="hx:absolute hx:-mt-20" id="数据录入标准">&lt;/span>
-&lt;a href="#%e6%95%b0%e6%8d%ae%e5%bd%95%e5%85%a5%e6%a0%87%e5%87%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>一致性&lt;/strong>：在所有项目中使用标准化命名约定&lt;/li>
-&lt;li>&lt;strong>完整性&lt;/strong>：填写所有必需字段以确保系统正常运行&lt;/li>
-&lt;li>&lt;strong>准确性&lt;/strong>：保存前仔细检查关键信息&lt;/li>
-&lt;li>&lt;strong>组织&lt;/strong>：使用逻辑分类便于检索&lt;/li>
-&lt;/ul>
-&lt;h3>质量控制&lt;span class="hx:absolute hx:-mt-20" id="质量控制">&lt;/span>
-&lt;a href="#%e8%b4%a8%e9%87%8f%e6%8e%a7%e5%88%b6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>定期审查&lt;/strong>：安排定期数据审核&lt;/li>
-&lt;li>&lt;strong>验证&lt;/strong>：在上线前在交易中测试项目&lt;/li>
-&lt;li>&lt;strong>文档记录&lt;/strong>：保留特殊程序或例外情况的说明&lt;/li>
-&lt;li>&lt;strong>培训&lt;/strong>：确保所有团队成员遵循相同程序&lt;/li>
-&lt;/ul>
-&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
-&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
-&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>效率提示&lt;/strong>：为常见项目类型设置模板和标准。这可以减少错误并加快类似产品的数据录入速度。&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;h2>常见工作流程&lt;span class="hx:absolute hx:-mt-20" id="常见工作流程">&lt;/span>
-&lt;a href="#%e5%b8%b8%e8%a7%81%e5%b7%a5%e4%bd%9c%e6%b5%81%e7%a8%8b" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>新产品介绍&lt;span class="hx:absolute hx:-mt-20" id="新产品介绍">&lt;/span>
-&lt;a href="#%e6%96%b0%e4%ba%a7%e5%93%81%e4%bb%8b%e7%bb%8d" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>研究和规划&lt;/strong> - 收集所有产品规格&lt;/li>
-&lt;li>&lt;strong>项目创建&lt;/strong> - 使用项目创建向导&lt;/li>
-&lt;li>&lt;strong>配置&lt;/strong> - 设置定价、类别和选项&lt;/li>
-&lt;li>&lt;strong>测试&lt;/strong> - 在样本交易中验证项目工作&lt;/li>
-&lt;li>&lt;strong>激活&lt;/strong> - 使其可用于常规业务使用&lt;/li>
-&lt;/ol>
-&lt;h3>库存更新&lt;span class="hx:absolute hx:-mt-20" id="库存更新">&lt;/span>
-&lt;a href="#%e5%ba%93%e5%ad%98%e6%9b%b4%e6%96%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>&lt;strong>审查当前数据&lt;/strong> - 检查现有项目信息&lt;/li>
-&lt;li>&lt;strong>计划更改&lt;/strong> - 记录需要更新的内容&lt;/li>
-&lt;li>&lt;strong>执行更新&lt;/strong> - 系统性地进行更改&lt;/li>
-&lt;li>&lt;strong>验证&lt;/strong> - 验证更新是否正确&lt;/li>
-&lt;li>&lt;strong>沟通&lt;/strong> - 通知团队更改情况&lt;/li>
-&lt;/ol>
-&lt;h2>集成点&lt;span class="hx:absolute hx:-mt-20" id="集成点">&lt;/span>
-&lt;a href="#%e9%9b%86%e6%88%90%e7%82%b9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>基本操作连接：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/daily-tasks/" >日常任务&lt;/a>&lt;/strong> - 在定价和交易中使用项目&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/modules/" >模块&lt;/a>&lt;/strong> - 项目流经所有业务模块&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/modules/ecommerce/" >电子商务&lt;/a>&lt;/strong> - 项目同步到在线商店&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/modules/inventory/" >库存&lt;/a>&lt;/strong> - 跟踪库存水平和变动&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/modules/financial-accounting/" >会计&lt;/a>&lt;/strong> - 项目出现在财务交易中&lt;/li>
-&lt;/ul>
-&lt;h2>故障排除快速参考&lt;span class="hx:absolute hx:-mt-20" id="故障排除快速参考">&lt;/span>
-&lt;a href="#%e6%95%85%e9%9a%9c%e6%8e%92%e9%99%a4%e5%bf%ab%e9%80%9f%e5%8f%82%e8%80%83" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>无法创建项目？&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>与管理员检查用户权限&lt;/li>
-&lt;li>确保所需的applets已安装并激活&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>EcomSync不可用？&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>验证EcomSync applet已安装&lt;/li>
-&lt;li>检查集成设置和凭据&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>项目未出现在交易中？&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>确认项目状态为活动&lt;/li>
-&lt;li>检查项目类型是否符合交易要求&lt;/li>
-&lt;/ul>
-&lt;h2>下一步&lt;span class="hx:absolute hx:-mt-20" id="下一步">&lt;/span>
-&lt;a href="#%e4%b8%8b%e4%b8%80%e6%ad%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>掌握基本操作后：&lt;/p>
-&lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/daily-tasks/" >日常任务&lt;/a>&lt;/strong> - 将您的项目管理技能应用到常规操作中&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/administration/" >管理&lt;/a>&lt;/strong> - 学习高级配置选项&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/user-guide/reports-analytics/" >报表和分析&lt;/a>&lt;/strong> - 分析您的项目数据和性能&lt;/li>
-&lt;/ol>
-&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
-&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
-&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>掌握指标&lt;/strong>：当您能够自信地创建、编辑和管理项目而无需参考文档时，您就掌握了基本操作。&lt;/div>
-&lt;/div>
-&lt;/div></description></item></channel></rss>
+  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/zh/user-guide/basic-operations/document-item-maintenance&#34;
+    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;文档管理&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;创建、编辑和管理业务文档&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;关键学习目标&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;关键学习目标&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%85%b3%e9%94%ae%e5%ad%a6%e4%b9%a0%e7%9b%ae%e6%a0%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;完成本节后，您将能够：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 在产品目录中创建和配置项目&lt;/li&gt;
+&lt;li&gt;✅ 管理具有适当分类的库存项目&lt;/li&gt;
+&lt;li&gt;✅ 编辑现有项目并更新规格&lt;/li&gt;
+&lt;li&gt;✅ 有效处理不同文档类型&lt;/li&gt;
+&lt;li&gt;✅ 在所有操作中维护数据完整性&lt;/li&gt;
+&lt;li&gt;✅ 应用一致的命名约定和组织&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;基本技能清单&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;基本技能清单&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%9f%ba%e6%9c%ac%e6%8a%80%e8%83%bd%e6%b8%85%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;项目管理技能&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;项目管理技能&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e6%8a%80%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 创建新产品和服务&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 设置适当的项目分类&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 正确配置计量单位&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 启用电子商务集成（EcomSync）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 编辑项目详情和规格&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 管理项目类别和组织&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;文档处理技能&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;文档处理技能&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%87%e6%a1%a3%e5%a4%84%e7%90%86%e6%8a%80%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 了解不同文档类型&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 正确创建业务文档&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 编辑和修改现有文档&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 应用适当的文档工作流程&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 维护文档合规标准&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;最佳实践&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;最佳实践&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;数据录入标准&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;数据录入标准&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%b0%e6%8d%ae%e5%bd%95%e5%85%a5%e6%a0%87%e5%87%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;一致性&lt;/strong&gt;：在所有项目中使用标准化命名约定&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;完整性&lt;/strong&gt;：填写所有必需字段以确保系统正常运行&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;准确性&lt;/strong&gt;：保存前仔细检查关键信息&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组织&lt;/strong&gt;：使用逻辑分类便于检索&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;质量控制&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;质量控制&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%b4%a8%e9%87%8f%e6%8e%a7%e5%88%b6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;定期审查&lt;/strong&gt;：安排定期数据审核&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;验证&lt;/strong&gt;：在上线前在交易中测试项目&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文档记录&lt;/strong&gt;：保留特殊程序或例外情况的说明&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;培训&lt;/strong&gt;：确保所有团队成员遵循相同程序&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;效率提示&lt;/strong&gt;：为常见项目类型设置模板和标准。这可以减少错误并加快类似产品的数据录入速度。&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;常见工作流程&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;常见工作流程&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b8%b8%e8%a7%81%e5%b7%a5%e4%bd%9c%e6%b5%81%e7%a8%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;新产品介绍&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;新产品介绍&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%b0%e4%ba%a7%e5%93%81%e4%bb%8b%e7%bb%8d&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;研究和规划&lt;/strong&gt; - 收集所有产品规格&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;项目创建&lt;/strong&gt; - 使用项目创建向导&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;配置&lt;/strong&gt; - 设置定价、类别和选项&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;测试&lt;/strong&gt; - 在样本交易中验证项目工作&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;激活&lt;/strong&gt; - 使其可用于常规业务使用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;库存更新&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;库存更新&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%ba%93%e5%ad%98%e6%9b%b4%e6%96%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;审查当前数据&lt;/strong&gt; - 检查现有项目信息&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;计划更改&lt;/strong&gt; - 记录需要更新的内容&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;执行更新&lt;/strong&gt; - 系统性地进行更改&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;验证&lt;/strong&gt; - 验证更新是否正确&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;沟通&lt;/strong&gt; - 通知团队更改情况&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;集成点&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;集成点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%9b%86%e6%88%90%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;基本操作连接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/user-guide/daily-tasks/&#34; &gt;日常任务&lt;/a&gt;&lt;/strong&gt; - 在定价和交易中使用项目&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/modules/&#34; &gt;模块&lt;/a&gt;&lt;/strong&gt; - 项目流经所有业务模块&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/modules/ecommerce/&#34; &gt;电子商务&lt;/a&gt;&lt;/strong&gt; - 项目同步到在线商店&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/modules/inventory/&#34; &gt;库存&lt;/a&gt;&lt;/strong&gt; - 跟踪库存水平和变动&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/modules/financial-accounting/&#34; &gt;会计&lt;/a&gt;&lt;/strong&gt; - 项目出现在财务交易中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;故障排除快速参考&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;故障排除快速参考&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%85%e9%9a%9c%e6%8e%92%e9%99%a4%e5%bf%ab%e9%80%9f%e5%8f%82%e8%80%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;无法创建项目？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;与管理员检查用户权限&lt;/li&gt;
+&lt;li&gt;确保所需的applets已安装并激活&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;EcomSync不可用？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;验证EcomSync applet已安装&lt;/li&gt;
+&lt;li&gt;检查集成设置和凭据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;项目未出现在交易中？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;确认项目状态为活动&lt;/li&gt;
+&lt;li&gt;检查项目类型是否符合交易要求&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;下一步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;下一步&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%8b%e4%b8%80%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;掌握基本操作后：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/user-guide/daily-tasks/&#34; &gt;日常任务&lt;/a&gt;&lt;/strong&gt; - 将您的项目管理技能应用到常规操作中&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/user-guide/administration/&#34; &gt;管理&lt;/a&gt;&lt;/strong&gt; - 学习高级配置选项&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/zh/user-guide/reports-analytics/&#34; &gt;报表和分析&lt;/a&gt;&lt;/strong&gt; - 分析您的项目数据和性能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;掌握指标&lt;/strong&gt;：当您能够自信地创建、编辑和管理项目而无需参考文档时，您就掌握了基本操作。&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,42 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Stock-Take</title><link>https://www.bigledger.com/tags/stock-take/</link><description>Recent content in Stock-Take on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/stock-take/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction to Stock Take Applet</title><link>https://www.bigledger.com/applets/introduction-to-stock-take-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/introduction-to-stock-take-applet/</guid><description>
-&lt;p>The Stock Take Applet offers a one-stop solution for all your inventory management needs, providing everything you need for traceability and efficient stock control.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BigLedger - Complete Business Management Platform – Stock-Take</title>
+    <link>http://localhost:1313/tags/stock-take/</link>
+    <description>Recent content in Stock-Take on BigLedger - Complete Business Management Platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/tags/stock-take/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Introduction to Stock Take Applet</title>
+      <link>http://localhost:1313/applets/introduction-to-stock-take-applet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/applets/introduction-to-stock-take-applet/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Stock Take Applet offers a one-stop solution for all your inventory management needs, providing everything you need for traceability and efficient stock control.
 Key Features:
 Centralized Solution: Manage all your inventory data in one place, reducing the complexity of handling multiple systems.
 Mobile-Friendly Interface: Perform stock counts and manage inventory on-the-go, anytime, anywhere.
 Fully Customizable: Easily process multi-UOM products with more detailed tracking of inventory levels in different units.
 Smart Stocking: Reduce human intervention and minimize errors.
 Serial Number Tracking: Track and trace inventory variances by batch or serial numbers.
-Real-Time Reporting: Any entered data are immediately reflected in real-time reports.&lt;/p>
-&lt;h3>Getting Started with the Stock Take Applet&lt;span class="hx:absolute hx:-mt-20" id="getting-started-with-the-stock-take-applet">&lt;/span>
-&lt;a href="#getting-started-with-the-stock-take-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>To begin using the Stock Take Applet, kindly ensure that all steps for creating catalogues, installing applets, and managing users have been completed. For detailed instructions, refer to the General Set Up Guide.
-Once installed, users can find the Stock Take Applet on their Home Page in Akaun and begin using it for stock management. Below is the icon for the Stock Take Applet.&lt;/p></description></item></channel></rss>
+Real-Time Reporting: Any entered data are immediately reflected in real-time reports.&lt;/p&gt;
+&lt;h3&gt;Getting Started with the Stock Take Applet&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started-with-the-stock-take-applet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#getting-started-with-the-stock-take-applet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To begin using the Stock Take Applet, kindly ensure that all steps for creating catalogues, installing applets, and managing users have been completed. For detailed instructions, refer to the General Set Up Guide.
+Once installed, users can find the Stock Take Applet on their Home Page in Akaun and begin using it for stock management. Below is the icon for the Stock Take Applet.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

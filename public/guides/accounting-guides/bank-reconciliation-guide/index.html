@@ -1,43 +1,364 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Bank Reconciliation Step-by-Step | BigLedger - Complete Business Management Platform</title><meta name=description content="Master the bank reconciliation process with BigLedger's AI-powered matching."><link rel=icon type=image/png href=https://www.bigledger.com/images/bigledger-logo-cropped.png><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel=stylesheet><link rel=stylesheet href=https://www.bigledger.com/css/custom.css><meta property="og:title" content="Bank Reconciliation Step-by-Step"><meta property="og:description" content="Master the bank reconciliation process with BigLedger's AI-powered matching."><meta property="og:type" content="website"><meta property="og:url" content="https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/"></head><body><header class=corporate-header><div class=container><nav class=nav><div class=nav-logo><a href=https://www.bigledger.com/><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=40></a></div><div class=nav-menu><a href=https://www.bigledger.com/ class=nav-link>Home</a>
-<a href=https://www.bigledger.com/about/ class=nav-link>About</a>
-<a href=https://www.bigledger.com/solutions/ class=nav-link>Solutions</a>
-<a href=https://www.bigledger.com/pricing/ class=nav-link>Pricing</a>
-<a href=https://www.bigledger.com/contact/ class=nav-link>Contact</a>
-<a href=https://www.bigledger.com/developers/ class=nav-link>Developers</a></div><div class=nav-cta><a href=https://www.bigledger.com/contact class=btn-primary>Get Started</a></div></nav></div></header><main><article class=corporate-page><div class=container><div class=page-content><p>Master the bank reconciliation process with BigLedger&rsquo;s AI-powered matching.</p><h2>Overview<span class="hx:absolute hx:-mt-20" id=overview></span>
-<a href=#overview class=subheading-anchor aria-label="Permalink for this section"></a></h2><p>Bank reconciliation ensures your book balance matches your bank statement, identifying discrepancies and maintaining accurate cash records.</p><h2>Prerequisites<span class="hx:absolute hx:-mt-20" id=prerequisites></span>
-<a href=#prerequisites class=subheading-anchor aria-label="Permalink for this section"></a></h2><ul><li>Bank account setup in COA</li><li>Bank statement (PDF/CSV/Direct feed)</li><li>Posted transactions in system</li><li>Reconciliation permissions</li></ul><h2>Step-by-Step Process<span class="hx:absolute hx:-mt-20" id=step-by-step-process></span>
-<a href=#step-by-step-process class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Step 1: Import Bank Statement<span class="hx:absolute hx:-mt-20" id=step-1-import-bank-statement></span>
-<a href=#step-1-import-bank-statement class=subheading-anchor aria-label="Permalink for this section"></a></h3><h4>Method 1: Direct Bank Feed<span class="hx:absolute hx:-mt-20" id=method-1-direct-bank-feed></span>
-<a href=#method-1-direct-bank-feed class=subheading-anchor aria-label="Permalink for this section"></a></h4><ol><li>Go to <strong>Finance</strong> → <strong>Bank Reconciliation</strong></li><li>Select bank account</li><li>Click <strong>Sync Bank Feed</strong></li><li>Authenticate with bank</li><li>Select date range</li><li>Import transactions</li></ol><h4>Method 2: File Import<span class="hx:absolute hx:-mt-20" id=method-2-file-import></span>
-<a href=#method-2-file-import class=subheading-anchor aria-label="Permalink for this section"></a></h4><ol><li>Download bank statement</li><li>Click <strong>Import Statement</strong></li><li>Select file format:<ul><li>CSV</li><li>Excel</li><li>PDF (with OCR)</li><li>MT940</li></ul></li><li>Map columns if needed</li><li>Import transactions</li></ol><h3>Step 2: Automatic Matching<span class="hx:absolute hx:-mt-20" id=step-2-automatic-matching></span>
-<a href=#step-2-automatic-matching class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>BigLedger&rsquo;s AI matches transactions:</p><p><strong>Matching Criteria</strong></p><ul><li>Amount (exact or within tolerance)</li><li>Date (exact or within range)</li><li>Reference number</li><li>Description keywords</li><li>Check numbers</li></ul><p><strong>Match Confidence Levels</strong></p><ul><li>🟢 <strong>High (95-100%)</strong>: Auto-matched</li><li>🟡 <strong>Medium (70-94%)</strong>: Suggested matches</li><li>🔴 <strong>Low (&lt;70%)</strong>: Manual review needed</li></ul><h3>Step 3: Review Matches<span class="hx:absolute hx:-mt-20" id=step-3-review-matches></span>
-<a href=#step-3-review-matches class=subheading-anchor aria-label="Permalink for this section"></a></h3><h4>Confirmed Matches<span class="hx:absolute hx:-mt-20" id=confirmed-matches></span>
-<a href=#confirmed-matches class=subheading-anchor aria-label="Permalink for this section"></a></h4><ul><li>System shows green checkmark</li><li>No action needed</li><li>Already reconciled</li></ul><h4>Suggested Matches<span class="hx:absolute hx:-mt-20" id=suggested-matches></span>
-<a href=#suggested-matches class=subheading-anchor aria-label="Permalink for this section"></a></h4><ol><li>Review each suggestion</li><li>Verify details match</li><li>Click <strong>Confirm Match</strong></li><li>Or select different transaction</li></ol><h4>Unmatched Items<span class="hx:absolute hx:-mt-20" id=unmatched-items></span>
-<a href=#unmatched-items class=subheading-anchor aria-label="Permalink for this section"></a></h4><p><strong>Bank transactions without book entries:</strong></p><ul><li>Bank charges</li><li>Interest earned</li><li>Direct deposits</li><li>Auto-payments</li></ul><p><strong>Book entries without bank transactions:</strong></p><ul><li>Outstanding checks</li><li>Deposits in transit</li><li>Bank errors</li><li>Timing differences</li></ul><h3>Step 4: Create Missing Entries<span class="hx:absolute hx:-mt-20" id=step-4-create-missing-entries></span>
-<a href=#step-4-create-missing-entries class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>For unrecorded bank transactions:</p><ol><li>Click <strong>Create Entry</strong> on unmatched item</li><li>Select transaction type:<ul><li>Bank charge</li><li>Interest income</li><li>Transfer</li><li>Other</li></ul></li><li>Enter details:<ul><li>Account to post</li><li>Description</li><li>Tax code if applicable</li></ul></li><li>Save and match</li></ol><h3>Step 5: Handle Exceptions<span class="hx:absolute hx:-mt-20" id=step-5-handle-exceptions></span>
-<a href=#step-5-handle-exceptions class=subheading-anchor aria-label="Permalink for this section"></a></h3><h4>Outstanding Checks<span class="hx:absolute hx:-mt-20" id=outstanding-checks></span>
-<a href=#outstanding-checks class=subheading-anchor aria-label="Permalink for this section"></a></h4><ul><li>List checks not yet cleared</li><li>Monitor aging</li><li>Follow up if stale-dated</li><li>Consider stop payment</li></ul><h4>Deposits in Transit<span class="hx:absolute hx:-mt-20" id=deposits-in-transit></span>
-<a href=#deposits-in-transit class=subheading-anchor aria-label="Permalink for this section"></a></h4><ul><li>Identify uncleared deposits</li><li>Verify with bank</li><li>Check for delays</li><li>Investigate if unusual</li></ul><h4>Bank Errors<span class="hx:absolute hx:-mt-20" id=bank-errors></span>
-<a href=#bank-errors class=subheading-anchor aria-label="Permalink for this section"></a></h4><ol><li>Document the error</li><li>Contact bank</li><li>Create adjustment entry</li><li>Track resolution</li></ol><h3>Step 6: Complete Reconciliation<span class="hx:absolute hx:-mt-20" id=step-6-complete-reconciliation></span>
-<a href=#step-6-complete-reconciliation class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li><p>Verify reconciliation summary:</p><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>Book Balance:         10,000.00
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bank Reconciliation Step-by-Step | BigLedger - Complete Business Management Platform</title>
+  <meta name="description" content="Master the bank reconciliation process with BigLedger&#39;s AI-powered matching.">
+
+  
+  <link rel="icon" type="image/png" href="http://localhost:1313/images/bigledger-logo-cropped.png">
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+
+  
+  <meta property="og:title" content="Bank Reconciliation Step-by-Step">
+  <meta property="og:description" content="Master the bank reconciliation process with BigLedger&#39;s AI-powered matching.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:1313/guides/accounting-guides/bank-reconciliation-guide/">
+</head>
+<body>
+  <header class="corporate-header">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-logo">
+        <a href="http://localhost:1313/">
+          <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="40">
+        </a>
+      </div>
+      <div class="nav-menu">
+        
+        <a href="http://localhost:1313/" class="nav-link">Home</a>
+        
+        <a href="http://localhost:1313/about/" class="nav-link">About</a>
+        
+        <a href="http://localhost:1313/solutions/" class="nav-link">Solutions</a>
+        
+        <a href="http://localhost:1313/pricing/" class="nav-link">Pricing</a>
+        
+        <a href="http://localhost:1313/contact/" class="nav-link">Contact</a>
+        
+        <a href="http://localhost:1313/developers/" class="nav-link">Developers</a>
+        
+      </div>
+      <div class="nav-cta">
+        <a href="http://localhost:1313/contact" class="btn-primary">Get Started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+  <main>
+    
+<article class="corporate-page">
+  <div class="container">
+    <div class="page-content">
+      <p>Master the bank reconciliation process with BigLedger&rsquo;s AI-powered matching.</p>
+<h2>Overview<span class="hx:absolute hx:-mt-20" id="overview"></span>
+    <a href="#overview" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Bank reconciliation ensures your book balance matches your bank statement, identifying discrepancies and maintaining accurate cash records.</p>
+<h2>Prerequisites<span class="hx:absolute hx:-mt-20" id="prerequisites"></span>
+    <a href="#prerequisites" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
+<li>Bank account setup in COA</li>
+<li>Bank statement (PDF/CSV/Direct feed)</li>
+<li>Posted transactions in system</li>
+<li>Reconciliation permissions</li>
+</ul>
+<h2>Step-by-Step Process<span class="hx:absolute hx:-mt-20" id="step-by-step-process"></span>
+    <a href="#step-by-step-process" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Step 1: Import Bank Statement<span class="hx:absolute hx:-mt-20" id="step-1-import-bank-statement"></span>
+    <a href="#step-1-import-bank-statement" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><h4>Method 1: Direct Bank Feed<span class="hx:absolute hx:-mt-20" id="method-1-direct-bank-feed"></span>
+    <a href="#method-1-direct-bank-feed" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ol>
+<li>Go to <strong>Finance</strong> → <strong>Bank Reconciliation</strong></li>
+<li>Select bank account</li>
+<li>Click <strong>Sync Bank Feed</strong></li>
+<li>Authenticate with bank</li>
+<li>Select date range</li>
+<li>Import transactions</li>
+</ol>
+<h4>Method 2: File Import<span class="hx:absolute hx:-mt-20" id="method-2-file-import"></span>
+    <a href="#method-2-file-import" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ol>
+<li>Download bank statement</li>
+<li>Click <strong>Import Statement</strong></li>
+<li>Select file format:
+<ul>
+<li>CSV</li>
+<li>Excel</li>
+<li>PDF (with OCR)</li>
+<li>MT940</li>
+</ul>
+</li>
+<li>Map columns if needed</li>
+<li>Import transactions</li>
+</ol>
+<h3>Step 2: Automatic Matching<span class="hx:absolute hx:-mt-20" id="step-2-automatic-matching"></span>
+    <a href="#step-2-automatic-matching" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>BigLedger&rsquo;s AI matches transactions:</p>
+<p><strong>Matching Criteria</strong></p>
+<ul>
+<li>Amount (exact or within tolerance)</li>
+<li>Date (exact or within range)</li>
+<li>Reference number</li>
+<li>Description keywords</li>
+<li>Check numbers</li>
+</ul>
+<p><strong>Match Confidence Levels</strong></p>
+<ul>
+<li>🟢 <strong>High (95-100%)</strong>: Auto-matched</li>
+<li>🟡 <strong>Medium (70-94%)</strong>: Suggested matches</li>
+<li>🔴 <strong>Low (&lt;70%)</strong>: Manual review needed</li>
+</ul>
+<h3>Step 3: Review Matches<span class="hx:absolute hx:-mt-20" id="step-3-review-matches"></span>
+    <a href="#step-3-review-matches" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><h4>Confirmed Matches<span class="hx:absolute hx:-mt-20" id="confirmed-matches"></span>
+    <a href="#confirmed-matches" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ul>
+<li>System shows green checkmark</li>
+<li>No action needed</li>
+<li>Already reconciled</li>
+</ul>
+<h4>Suggested Matches<span class="hx:absolute hx:-mt-20" id="suggested-matches"></span>
+    <a href="#suggested-matches" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ol>
+<li>Review each suggestion</li>
+<li>Verify details match</li>
+<li>Click <strong>Confirm Match</strong></li>
+<li>Or select different transaction</li>
+</ol>
+<h4>Unmatched Items<span class="hx:absolute hx:-mt-20" id="unmatched-items"></span>
+    <a href="#unmatched-items" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><p><strong>Bank transactions without book entries:</strong></p>
+<ul>
+<li>Bank charges</li>
+<li>Interest earned</li>
+<li>Direct deposits</li>
+<li>Auto-payments</li>
+</ul>
+<p><strong>Book entries without bank transactions:</strong></p>
+<ul>
+<li>Outstanding checks</li>
+<li>Deposits in transit</li>
+<li>Bank errors</li>
+<li>Timing differences</li>
+</ul>
+<h3>Step 4: Create Missing Entries<span class="hx:absolute hx:-mt-20" id="step-4-create-missing-entries"></span>
+    <a href="#step-4-create-missing-entries" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>For unrecorded bank transactions:</p>
+<ol>
+<li>Click <strong>Create Entry</strong> on unmatched item</li>
+<li>Select transaction type:
+<ul>
+<li>Bank charge</li>
+<li>Interest income</li>
+<li>Transfer</li>
+<li>Other</li>
+</ul>
+</li>
+<li>Enter details:
+<ul>
+<li>Account to post</li>
+<li>Description</li>
+<li>Tax code if applicable</li>
+</ul>
+</li>
+<li>Save and match</li>
+</ol>
+<h3>Step 5: Handle Exceptions<span class="hx:absolute hx:-mt-20" id="step-5-handle-exceptions"></span>
+    <a href="#step-5-handle-exceptions" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><h4>Outstanding Checks<span class="hx:absolute hx:-mt-20" id="outstanding-checks"></span>
+    <a href="#outstanding-checks" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ul>
+<li>List checks not yet cleared</li>
+<li>Monitor aging</li>
+<li>Follow up if stale-dated</li>
+<li>Consider stop payment</li>
+</ul>
+<h4>Deposits in Transit<span class="hx:absolute hx:-mt-20" id="deposits-in-transit"></span>
+    <a href="#deposits-in-transit" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ul>
+<li>Identify uncleared deposits</li>
+<li>Verify with bank</li>
+<li>Check for delays</li>
+<li>Investigate if unusual</li>
+</ul>
+<h4>Bank Errors<span class="hx:absolute hx:-mt-20" id="bank-errors"></span>
+    <a href="#bank-errors" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ol>
+<li>Document the error</li>
+<li>Contact bank</li>
+<li>Create adjustment entry</li>
+<li>Track resolution</li>
+</ol>
+<h3>Step 6: Complete Reconciliation<span class="hx:absolute hx:-mt-20" id="step-6-complete-reconciliation"></span>
+    <a href="#step-6-complete-reconciliation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>
+<p>Verify reconciliation summary:</p>
+<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+
+<div><pre><code>Book Balance:         10,000.00
 &#43; Deposits in Transit: 2,000.00
 - Outstanding Checks:  (1,500.00)
 &#43; Bank Adjustments:       50.00
-= Bank Balance:       10,550.00</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div></li><li><p>Confirm bank statement balance matches</p></li><li><p>Review reconciliation report</p></li><li><p>Approve reconciliation</p></li><li><p>Lock period if month-end</p></li></ol><h2>Advanced Features<span class="hx:absolute hx:-mt-20" id=advanced-features></span>
-<a href=#advanced-features class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Multi-Currency Reconciliation<span class="hx:absolute hx:-mt-20" id=multi-currency-reconciliation></span>
-<a href=#multi-currency-reconciliation class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Handle foreign currency accounts</li><li>Automatic exchange rate updates</li><li>Realized gain/loss calculation</li><li>Revaluation entries</li></ul><h3>Bulk Operations<span class="hx:absolute hx:-mt-20" id=bulk-operations></span>
-<a href=#bulk-operations class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Match multiple transactions</li><li>Bulk create entries</li><li>Mass unmatch</li><li>Batch approvals</li></ul><h3>Rules Engine<span class="hx:absolute hx:-mt-20" id=rules-engine></span>
-<a href=#rules-engine class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Create matching rules:</p><ul><li>Recurring transactions</li><li>Vendor payments</li><li>Customer receipts</li><li>Standard amounts</li></ul><h2>Reports<span class="hx:absolute hx:-mt-20" id=reports></span>
-<a href=#reports class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Reconciliation Reports<span class="hx:absolute hx:-mt-20" id=reconciliation-reports></span>
-<a href=#reconciliation-reports class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Reconciliation Summary</li><li>Outstanding Items List</li><li>Reconciliation History</li><li>Audit Trail Report</li></ul><h3>Analysis Reports<span class="hx:absolute hx:-mt-20" id=analysis-reports></span>
-<a href=#analysis-reports class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Cleared vs Outstanding</li><li>Aging Analysis</li><li>Reconciliation Timeline</li><li>Exception Report</li></ul><h2>Best Practices<span class="hx:absolute hx:-mt-20" id=best-practices></span>
-<a href=#best-practices class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Daily Reconciliation<span class="hx:absolute hx:-mt-20" id=daily-reconciliation></span>
-<a href=#daily-reconciliation class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Import transactions daily</li><li>Review and match immediately</li><li>Investigate discrepancies quickly</li><li>Maintain clean records</li></ul><h3>Month-End Procedures<span class="hx:absolute hx:-mt-20" id=month-end-procedures></span>
-<a href=#month-end-procedures class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Complete all entries</li><li>Final statement import</li><li>Clear all matches</li><li>Document exceptions</li><li>Generate reports</li><li>Obtain approval</li><li>Lock the period</li></ol><h3>Controls<span class="hx:absolute hx:-mt-20" id=controls></span>
-<a href=#controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Segregate duties</li><li>Independent review</li><li>Timely completion</li><li>Document exceptions</li><li>Maintain support</li></ul><h2>Troubleshooting<span class="hx:absolute hx:-mt-20" id=troubleshooting></span>
-<a href=#troubleshooting class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Cannot Match Transactions<span class="hx:absolute hx:-mt-20" id=cannot-match-transactions></span>
-<a href=#cannot-match-transactions class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Check date ranges</li><li>Verify amounts</li><li>Review references</li><li>Check for duplicates</li></ul><h3>Out of Balance<span class="hx:absolute hx:-mt-20" id=out-of-balance></span>
-<a href=#out-of-balance class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Verify opening balance</li><li>Check for unposted entries</li><li>Review adjustments</li><li>Confirm exchange rates</li></ul><h3>Missing Transactions<span class="hx:absolute hx:-mt-20" id=missing-transactions></span>
-<a href=#missing-transactions class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Refresh bank feed</li><li>Check import mapping</li><li>Verify date range</li><li>Review filters</li></ul><h2>Tips for 95% Auto-Match Rate<span class="hx:absolute hx:-mt-20" id=tips-for-95-auto-match-rate></span>
-<a href=#tips-for-95-auto-match-rate class=subheading-anchor aria-label="Permalink for this section"></a></h2><ol><li><strong>Consistent References</strong>: Use invoice numbers in payment references</li><li><strong>Timely Recording</strong>: Enter transactions promptly</li><li><strong>Clean Data</strong>: Maintain accurate vendor/customer names</li><li><strong>Rules Setup</strong>: Configure recurring transaction rules</li><li><strong>Regular Reconciliation</strong>: Don&rsquo;t let transactions accumulate</li></ol><hr><p><em>Need assistance? Our support team can help achieve 95% automation. Contact <a href=mailto:support@bigledger.com>support@bigledger.com</a></em></p></div></div></article></main><footer class=corporate-footer><div class=container><div class=footer-grid><div class=footer-column><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=32 style=margin-bottom:16px><p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p></div><div class=footer-column><h4>Product</h4><ul><li><a href=https://www.bigledger.com/solutions>Solutions</a></li><li><a href=https://www.bigledger.com/pricing>Pricing</a></li><li><a href=https://www.bigledger.com/developers>Developers</a></li></ul></div><div class=footer-column><h4>Company</h4><ul><li><a href=https://www.bigledger.com/about>About</a></li><li><a href=https://www.bigledger.com/contact>Contact</a></li></ul></div><div class=footer-column><h4>Connect</h4><ul><li><a href=https://github.com/bigledger target=_blank>Github</a></li><li><a href=https://twitter.com/bigledger target=_blank>Twitter</a></li></ul></div></div><div class=footer-bottom><p>&copy; 2025 BigLedger. All rights reserved.</p></div></div></footer></body></html>
+= Bank Balance:       10,550.00</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+  <button
+    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+    title="Copy code"
+  >
+    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
+    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
+  </button>
+</div>
+</div>
+</li>
+<li>
+<p>Confirm bank statement balance matches</p>
+</li>
+<li>
+<p>Review reconciliation report</p>
+</li>
+<li>
+<p>Approve reconciliation</p>
+</li>
+<li>
+<p>Lock period if month-end</p>
+</li>
+</ol>
+<h2>Advanced Features<span class="hx:absolute hx:-mt-20" id="advanced-features"></span>
+    <a href="#advanced-features" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Multi-Currency Reconciliation<span class="hx:absolute hx:-mt-20" id="multi-currency-reconciliation"></span>
+    <a href="#multi-currency-reconciliation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Handle foreign currency accounts</li>
+<li>Automatic exchange rate updates</li>
+<li>Realized gain/loss calculation</li>
+<li>Revaluation entries</li>
+</ul>
+<h3>Bulk Operations<span class="hx:absolute hx:-mt-20" id="bulk-operations"></span>
+    <a href="#bulk-operations" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Match multiple transactions</li>
+<li>Bulk create entries</li>
+<li>Mass unmatch</li>
+<li>Batch approvals</li>
+</ul>
+<h3>Rules Engine<span class="hx:absolute hx:-mt-20" id="rules-engine"></span>
+    <a href="#rules-engine" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Create matching rules:</p>
+<ul>
+<li>Recurring transactions</li>
+<li>Vendor payments</li>
+<li>Customer receipts</li>
+<li>Standard amounts</li>
+</ul>
+<h2>Reports<span class="hx:absolute hx:-mt-20" id="reports"></span>
+    <a href="#reports" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Reconciliation Reports<span class="hx:absolute hx:-mt-20" id="reconciliation-reports"></span>
+    <a href="#reconciliation-reports" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Reconciliation Summary</li>
+<li>Outstanding Items List</li>
+<li>Reconciliation History</li>
+<li>Audit Trail Report</li>
+</ul>
+<h3>Analysis Reports<span class="hx:absolute hx:-mt-20" id="analysis-reports"></span>
+    <a href="#analysis-reports" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Cleared vs Outstanding</li>
+<li>Aging Analysis</li>
+<li>Reconciliation Timeline</li>
+<li>Exception Report</li>
+</ul>
+<h2>Best Practices<span class="hx:absolute hx:-mt-20" id="best-practices"></span>
+    <a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Daily Reconciliation<span class="hx:absolute hx:-mt-20" id="daily-reconciliation"></span>
+    <a href="#daily-reconciliation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Import transactions daily</li>
+<li>Review and match immediately</li>
+<li>Investigate discrepancies quickly</li>
+<li>Maintain clean records</li>
+</ul>
+<h3>Month-End Procedures<span class="hx:absolute hx:-mt-20" id="month-end-procedures"></span>
+    <a href="#month-end-procedures" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Complete all entries</li>
+<li>Final statement import</li>
+<li>Clear all matches</li>
+<li>Document exceptions</li>
+<li>Generate reports</li>
+<li>Obtain approval</li>
+<li>Lock the period</li>
+</ol>
+<h3>Controls<span class="hx:absolute hx:-mt-20" id="controls"></span>
+    <a href="#controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Segregate duties</li>
+<li>Independent review</li>
+<li>Timely completion</li>
+<li>Document exceptions</li>
+<li>Maintain support</li>
+</ul>
+<h2>Troubleshooting<span class="hx:absolute hx:-mt-20" id="troubleshooting"></span>
+    <a href="#troubleshooting" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Cannot Match Transactions<span class="hx:absolute hx:-mt-20" id="cannot-match-transactions"></span>
+    <a href="#cannot-match-transactions" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Check date ranges</li>
+<li>Verify amounts</li>
+<li>Review references</li>
+<li>Check for duplicates</li>
+</ul>
+<h3>Out of Balance<span class="hx:absolute hx:-mt-20" id="out-of-balance"></span>
+    <a href="#out-of-balance" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Verify opening balance</li>
+<li>Check for unposted entries</li>
+<li>Review adjustments</li>
+<li>Confirm exchange rates</li>
+</ul>
+<h3>Missing Transactions<span class="hx:absolute hx:-mt-20" id="missing-transactions"></span>
+    <a href="#missing-transactions" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Refresh bank feed</li>
+<li>Check import mapping</li>
+<li>Verify date range</li>
+<li>Review filters</li>
+</ul>
+<h2>Tips for 95% Auto-Match Rate<span class="hx:absolute hx:-mt-20" id="tips-for-95-auto-match-rate"></span>
+    <a href="#tips-for-95-auto-match-rate" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ol>
+<li><strong>Consistent References</strong>: Use invoice numbers in payment references</li>
+<li><strong>Timely Recording</strong>: Enter transactions promptly</li>
+<li><strong>Clean Data</strong>: Maintain accurate vendor/customer names</li>
+<li><strong>Rules Setup</strong>: Configure recurring transaction rules</li>
+<li><strong>Regular Reconciliation</strong>: Don&rsquo;t let transactions accumulate</li>
+</ol>
+<hr>
+<p><em>Need assistance? Our support team can help achieve 95% automation. Contact <a href="mailto:support@bigledger.com" >support@bigledger.com</a></em></p>
+
+    </div>
+  </div>
+</article>
+
+  </main>
+
+  <footer class="corporate-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-column">
+        <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="32" style="margin-bottom: 16px;">
+        <p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p>
+      </div>
+      <div class="footer-column">
+        <h4>Product</h4>
+        <ul>
+          <li><a href="http://localhost:1313/solutions">Solutions</a></li>
+          <li><a href="http://localhost:1313/pricing">Pricing</a></li>
+          <li><a href="http://localhost:1313/developers">Developers</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="http://localhost:1313/about">About</a></li>
+          <li><a href="http://localhost:1313/contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Connect</h4>
+        <ul>
+          
+          <li><a href="https://github.com/bigledger" target="_blank">Github</a></li>
+          
+          <li><a href="https://twitter.com/bigledger" target="_blank">Twitter</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 BigLedger. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

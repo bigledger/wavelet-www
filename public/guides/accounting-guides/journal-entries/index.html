@@ -1,51 +1,351 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Journal Entries Guide | BigLedger - Complete Business Management Platform</title><meta name=description content="Master manual and automated journal entries in BigLedger."><link rel=icon type=image/png href=https://www.bigledger.com/images/bigledger-logo-cropped.png><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel=stylesheet><link rel=stylesheet href=https://www.bigledger.com/css/custom.css><meta property="og:title" content="Journal Entries Guide"><meta property="og:description" content="Master manual and automated journal entries in BigLedger."><meta property="og:type" content="website"><meta property="og:url" content="https://www.bigledger.com/guides/accounting-guides/journal-entries/"></head><body><header class=corporate-header><div class=container><nav class=nav><div class=nav-logo><a href=https://www.bigledger.com/><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=40></a></div><div class=nav-menu><a href=https://www.bigledger.com/ class=nav-link>Home</a>
-<a href=https://www.bigledger.com/about/ class=nav-link>About</a>
-<a href=https://www.bigledger.com/solutions/ class=nav-link>Solutions</a>
-<a href=https://www.bigledger.com/pricing/ class=nav-link>Pricing</a>
-<a href=https://www.bigledger.com/contact/ class=nav-link>Contact</a>
-<a href=https://www.bigledger.com/developers/ class=nav-link>Developers</a></div><div class=nav-cta><a href=https://www.bigledger.com/contact class=btn-primary>Get Started</a></div></nav></div></header><main><article class=corporate-page><div class=container><div class=page-content><p>Master manual and automated journal entries in BigLedger.</p><h2>Overview<span class="hx:absolute hx:-mt-20" id=overview></span>
-<a href=#overview class=subheading-anchor aria-label="Permalink for this section"></a></h2><p>Journal entries are the foundation of accounting in BigLedger, recording all financial transactions in the general ledger.</p><h2>Types of Journal Entries<span class="hx:absolute hx:-mt-20" id=types-of-journal-entries></span>
-<a href=#types-of-journal-entries class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Manual Journals<span class="hx:absolute hx:-mt-20" id=manual-journals></span>
-<a href=#manual-journals class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Adjusting entries</li><li>Accruals and deferrals</li><li>Corrections</li><li>Opening balances</li></ul><h3>Automated Journals<span class="hx:absolute hx:-mt-20" id=automated-journals></span>
-<a href=#automated-journals class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Sales invoices</li><li>Purchase bills</li><li>Payroll posting</li><li>Depreciation</li></ul><h3>Recurring Journals<span class="hx:absolute hx:-mt-20" id=recurring-journals></span>
-<a href=#recurring-journals class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Monthly accruals</li><li>Rent expenses</li><li>Insurance</li><li>Subscriptions</li></ul><h2>Creating Journal Entries<span class="hx:absolute hx:-mt-20" id=creating-journal-entries></span>
-<a href=#creating-journal-entries class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Step 1: Access Journal Module<span class="hx:absolute hx:-mt-20" id=step-1-access-journal-module></span>
-<a href=#step-1-access-journal-module class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Navigate to <strong>Finance</strong> → <strong>Ledger and Journal</strong></p><h3>Step 2: Create New Journal<span class="hx:absolute hx:-mt-20" id=step-2-create-new-journal></span>
-<a href=#step-2-create-new-journal class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Click <strong>New Journal Entry</strong></li><li>Select Journal Type:<ul><li>General Journal</li><li>Payment Journal</li><li>Receipt Journal</li><li>Purchase Journal</li><li>Sales Journal</li></ul></li></ol><h3>Step 3: Enter Header Information<span class="hx:absolute hx:-mt-20" id=step-3-enter-header-information></span>
-<a href=#step-3-enter-header-information class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>Journal Number</strong>: Auto-generated or manual</li><li><strong>Date</strong>: Transaction date</li><li><strong>Reference</strong>: External document reference</li><li><strong>Description</strong>: Journal description</li><li><strong>Currency</strong>: Transaction currency</li></ul><h3>Step 4: Add Journal Lines<span class="hx:absolute hx:-mt-20" id=step-4-add-journal-lines></span>
-<a href=#step-4-add-journal-lines class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>For each line:</p><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>Account | Description | Debit | Credit | Tax | Project
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Journal Entries Guide | BigLedger - Complete Business Management Platform</title>
+  <meta name="description" content="Master manual and automated journal entries in BigLedger.">
+
+  
+  <link rel="icon" type="image/png" href="http://localhost:1313/images/bigledger-logo-cropped.png">
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+
+  
+  <meta property="og:title" content="Journal Entries Guide">
+  <meta property="og:description" content="Master manual and automated journal entries in BigLedger.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:1313/guides/accounting-guides/journal-entries/">
+</head>
+<body>
+  <header class="corporate-header">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-logo">
+        <a href="http://localhost:1313/">
+          <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="40">
+        </a>
+      </div>
+      <div class="nav-menu">
+        
+        <a href="http://localhost:1313/" class="nav-link">Home</a>
+        
+        <a href="http://localhost:1313/about/" class="nav-link">About</a>
+        
+        <a href="http://localhost:1313/solutions/" class="nav-link">Solutions</a>
+        
+        <a href="http://localhost:1313/pricing/" class="nav-link">Pricing</a>
+        
+        <a href="http://localhost:1313/contact/" class="nav-link">Contact</a>
+        
+        <a href="http://localhost:1313/developers/" class="nav-link">Developers</a>
+        
+      </div>
+      <div class="nav-cta">
+        <a href="http://localhost:1313/contact" class="btn-primary">Get Started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+  <main>
+    
+<article class="corporate-page">
+  <div class="container">
+    <div class="page-content">
+      <p>Master manual and automated journal entries in BigLedger.</p>
+<h2>Overview<span class="hx:absolute hx:-mt-20" id="overview"></span>
+    <a href="#overview" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Journal entries are the foundation of accounting in BigLedger, recording all financial transactions in the general ledger.</p>
+<h2>Types of Journal Entries<span class="hx:absolute hx:-mt-20" id="types-of-journal-entries"></span>
+    <a href="#types-of-journal-entries" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Manual Journals<span class="hx:absolute hx:-mt-20" id="manual-journals"></span>
+    <a href="#manual-journals" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Adjusting entries</li>
+<li>Accruals and deferrals</li>
+<li>Corrections</li>
+<li>Opening balances</li>
+</ul>
+<h3>Automated Journals<span class="hx:absolute hx:-mt-20" id="automated-journals"></span>
+    <a href="#automated-journals" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Sales invoices</li>
+<li>Purchase bills</li>
+<li>Payroll posting</li>
+<li>Depreciation</li>
+</ul>
+<h3>Recurring Journals<span class="hx:absolute hx:-mt-20" id="recurring-journals"></span>
+    <a href="#recurring-journals" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Monthly accruals</li>
+<li>Rent expenses</li>
+<li>Insurance</li>
+<li>Subscriptions</li>
+</ul>
+<h2>Creating Journal Entries<span class="hx:absolute hx:-mt-20" id="creating-journal-entries"></span>
+    <a href="#creating-journal-entries" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Step 1: Access Journal Module<span class="hx:absolute hx:-mt-20" id="step-1-access-journal-module"></span>
+    <a href="#step-1-access-journal-module" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Navigate to <strong>Finance</strong> → <strong>Ledger and Journal</strong></p>
+<h3>Step 2: Create New Journal<span class="hx:absolute hx:-mt-20" id="step-2-create-new-journal"></span>
+    <a href="#step-2-create-new-journal" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Click <strong>New Journal Entry</strong></li>
+<li>Select Journal Type:
+<ul>
+<li>General Journal</li>
+<li>Payment Journal</li>
+<li>Receipt Journal</li>
+<li>Purchase Journal</li>
+<li>Sales Journal</li>
+</ul>
+</li>
+</ol>
+<h3>Step 3: Enter Header Information<span class="hx:absolute hx:-mt-20" id="step-3-enter-header-information"></span>
+    <a href="#step-3-enter-header-information" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li><strong>Journal Number</strong>: Auto-generated or manual</li>
+<li><strong>Date</strong>: Transaction date</li>
+<li><strong>Reference</strong>: External document reference</li>
+<li><strong>Description</strong>: Journal description</li>
+<li><strong>Currency</strong>: Transaction currency</li>
+</ul>
+<h3>Step 4: Add Journal Lines<span class="hx:absolute hx:-mt-20" id="step-4-add-journal-lines"></span>
+    <a href="#step-4-add-journal-lines" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>For each line:</p>
+<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+
+<div><pre><code>Account | Description | Debit | Credit | Tax | Project
 --------|-------------|-------|--------|-----|--------
 1111    | Cash receipt| 1000  |        |     | 
-4000    | Sales revenue|      | 1000   | SST | Project A</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div><h3>Step 5: Validate and Post<span class="hx:absolute hx:-mt-20" id=step-5-validate-and-post></span>
-<a href=#step-5-validate-and-post class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Verify debits = credits</li><li>Check tax calculations</li><li>Review account codes</li><li>Post journal entry</li></ol><h2>Common Journal Entries<span class="hx:absolute hx:-mt-20" id=common-journal-entries></span>
-<a href=#common-journal-entries class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Sales Transaction<span class="hx:absolute hx:-mt-20" id=sales-transaction></span>
-<a href=#sales-transaction class=subheading-anchor aria-label="Permalink for this section"></a></h3><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>Dr. Accounts Receivable  1,060
+4000    | Sales revenue|      | 1000   | SST | Project A</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+  <button
+    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+    title="Copy code"
+  >
+    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
+    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
+  </button>
+</div>
+</div>
+<h3>Step 5: Validate and Post<span class="hx:absolute hx:-mt-20" id="step-5-validate-and-post"></span>
+    <a href="#step-5-validate-and-post" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Verify debits = credits</li>
+<li>Check tax calculations</li>
+<li>Review account codes</li>
+<li>Post journal entry</li>
+</ol>
+<h2>Common Journal Entries<span class="hx:absolute hx:-mt-20" id="common-journal-entries"></span>
+    <a href="#common-journal-entries" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Sales Transaction<span class="hx:absolute hx:-mt-20" id="sales-transaction"></span>
+    <a href="#sales-transaction" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+
+<div><pre><code>Dr. Accounts Receivable  1,060
   Cr. Sales Revenue         1,000
-  Cr. SST Payable             60</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div><h3>Purchase Transaction<span class="hx:absolute hx:-mt-20" id=purchase-transaction></span>
-<a href=#purchase-transaction class=subheading-anchor aria-label="Permalink for this section"></a></h3><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>Dr. Expense Account       500
+  Cr. SST Payable             60</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+  <button
+    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+    title="Copy code"
+  >
+    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
+    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
+  </button>
+</div>
+</div>
+<h3>Purchase Transaction<span class="hx:absolute hx:-mt-20" id="purchase-transaction"></span>
+    <a href="#purchase-transaction" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+
+<div><pre><code>Dr. Expense Account       500
 Dr. Input Tax              30
-  Cr. Accounts Payable      530</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div><h3>Bank Receipt<span class="hx:absolute hx:-mt-20" id=bank-receipt></span>
-<a href=#bank-receipt class=subheading-anchor aria-label="Permalink for this section"></a></h3><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>Dr. Bank Account        1,000
-  Cr. Accounts Receivable  1,000</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div><h3>Depreciation<span class="hx:absolute hx:-mt-20" id=depreciation></span>
-<a href=#depreciation class=subheading-anchor aria-label="Permalink for this section"></a></h3><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>Dr. Depreciation Expense  100
-  Cr. Accumulated Depreciation 100</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div><h2>Recurring Journals<span class="hx:absolute hx:-mt-20" id=recurring-journals-1></span>
-<a href=#recurring-journals-1 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Setup<span class="hx:absolute hx:-mt-20" id=setup></span>
-<a href=#setup class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Create template journal</li><li>Set recurrence pattern</li><li>Define start/end dates</li><li>Enable auto-posting</li></ol><h3>Management<span class="hx:absolute hx:-mt-20" id=management></span>
-<a href=#management class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Review pending journals</li><li>Approve before posting</li><li>Modify templates</li><li>Track history</li></ul><h2>Journal Templates<span class="hx:absolute hx:-mt-20" id=journal-templates></span>
-<a href=#journal-templates class=subheading-anchor aria-label="Permalink for this section"></a></h2><p>Create templates for:</p><ul><li>Monthly accruals</li><li>Payroll posting</li><li>Depreciation</li><li>Inter-company transfers</li></ul><h2>Validation Rules<span class="hx:absolute hx:-mt-20" id=validation-rules></span>
-<a href=#validation-rules class=subheading-anchor aria-label="Permalink for this section"></a></h2><p>BigLedger validates:</p><ul><li>Balanced entries</li><li>Valid account codes</li><li>Open accounting period</li><li>User permissions</li><li>Tax calculations</li></ul><h2>Best Practices<span class="hx:absolute hx:-mt-20" id=best-practices></span>
-<a href=#best-practices class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Documentation<span class="hx:absolute hx:-mt-20" id=documentation></span>
-<a href=#documentation class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Use clear descriptions</li><li>Attach supporting documents</li><li>Include approval notes</li><li>Maintain audit trail</li></ul><h3>Controls<span class="hx:absolute hx:-mt-20" id=controls></span>
-<a href=#controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Segregation of duties</li><li>Approval workflows</li><li>Period closing procedures</li><li>Regular reconciliation</li></ul><h3>Review Process<span class="hx:absolute hx:-mt-20" id=review-process></span>
-<a href=#review-process class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Daily journal review</li><li>Weekly posting verification</li><li>Monthly reconciliation</li><li>Period-end procedures</li></ol><h2>Integration with Modules<span class="hx:absolute hx:-mt-20" id=integration-with-modules></span>
-<a href=#integration-with-modules class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Sales Module<span class="hx:absolute hx:-mt-20" id=sales-module></span>
-<a href=#sales-module class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Auto-creates customer invoices</li><li>Posts revenue recognition</li><li>Updates AR balance</li></ul><h3>Purchase Module<span class="hx:absolute hx:-mt-20" id=purchase-module></span>
-<a href=#purchase-module class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Records vendor bills</li><li>Manages expense allocation</li><li>Updates AP balance</li></ul><h3>Inventory<span class="hx:absolute hx:-mt-20" id=inventory></span>
-<a href=#inventory class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Posts COGS entries</li><li>Records stock adjustments</li><li>Updates inventory value</li></ul><h2>Reports<span class="hx:absolute hx:-mt-20" id=reports></span>
-<a href=#reports class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Journal Reports<span class="hx:absolute hx:-mt-20" id=journal-reports></span>
-<a href=#journal-reports class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Journal Entry Listing</li><li>Journal by Account</li><li>Journal Audit Trail</li><li>Posted vs Unposted</li></ul><h3>Analysis Reports<span class="hx:absolute hx:-mt-20" id=analysis-reports></span>
-<a href=#analysis-reports class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Account Activity</li><li>Transaction Detail</li><li>GL Movement</li><li>Variance Analysis</li></ul><h2>Troubleshooting<span class="hx:absolute hx:-mt-20" id=troubleshooting></span>
-<a href=#troubleshooting class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Out of Balance<span class="hx:absolute hx:-mt-20" id=out-of-balance></span>
-<a href=#out-of-balance class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Check rounding differences</li><li>Verify tax calculations</li><li>Review currency conversion</li></ul><h3>Cannot Post<span class="hx:absolute hx:-mt-20" id=cannot-post></span>
-<a href=#cannot-post class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Check period status</li><li>Verify permissions</li><li>Review validation errors</li></ul><h3>Missing Entries<span class="hx:absolute hx:-mt-20" id=missing-entries></span>
-<a href=#missing-entries class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Check posting date</li><li>Review filter criteria</li><li>Verify module integration</li></ul><hr><p><em>Need help? Visit our <a href=https://www.bigledger.com/user-guide/>Support Center</a> or contact <a href=mailto:support@bigledger.com>support@bigledger.com</a></em></p></div></div></article></main><footer class=corporate-footer><div class=container><div class=footer-grid><div class=footer-column><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=32 style=margin-bottom:16px><p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p></div><div class=footer-column><h4>Product</h4><ul><li><a href=https://www.bigledger.com/solutions>Solutions</a></li><li><a href=https://www.bigledger.com/pricing>Pricing</a></li><li><a href=https://www.bigledger.com/developers>Developers</a></li></ul></div><div class=footer-column><h4>Company</h4><ul><li><a href=https://www.bigledger.com/about>About</a></li><li><a href=https://www.bigledger.com/contact>Contact</a></li></ul></div><div class=footer-column><h4>Connect</h4><ul><li><a href=https://github.com/bigledger target=_blank>Github</a></li><li><a href=https://twitter.com/bigledger target=_blank>Twitter</a></li></ul></div></div><div class=footer-bottom><p>&copy; 2025 BigLedger. All rights reserved.</p></div></div></footer></body></html>
+  Cr. Accounts Payable      530</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+  <button
+    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+    title="Copy code"
+  >
+    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
+    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
+  </button>
+</div>
+</div>
+<h3>Bank Receipt<span class="hx:absolute hx:-mt-20" id="bank-receipt"></span>
+    <a href="#bank-receipt" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+
+<div><pre><code>Dr. Bank Account        1,000
+  Cr. Accounts Receivable  1,000</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+  <button
+    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+    title="Copy code"
+  >
+    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
+    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
+  </button>
+</div>
+</div>
+<h3>Depreciation<span class="hx:absolute hx:-mt-20" id="depreciation"></span>
+    <a href="#depreciation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
+
+<div><pre><code>Dr. Depreciation Expense  100
+  Cr. Accumulated Depreciation 100</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
+  <button
+    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+    title="Copy code"
+  >
+    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
+    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
+  </button>
+</div>
+</div>
+<h2>Recurring Journals<span class="hx:absolute hx:-mt-20" id="recurring-journals-1"></span>
+    <a href="#recurring-journals-1" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Setup<span class="hx:absolute hx:-mt-20" id="setup"></span>
+    <a href="#setup" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Create template journal</li>
+<li>Set recurrence pattern</li>
+<li>Define start/end dates</li>
+<li>Enable auto-posting</li>
+</ol>
+<h3>Management<span class="hx:absolute hx:-mt-20" id="management"></span>
+    <a href="#management" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Review pending journals</li>
+<li>Approve before posting</li>
+<li>Modify templates</li>
+<li>Track history</li>
+</ul>
+<h2>Journal Templates<span class="hx:absolute hx:-mt-20" id="journal-templates"></span>
+    <a href="#journal-templates" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>Create templates for:</p>
+<ul>
+<li>Monthly accruals</li>
+<li>Payroll posting</li>
+<li>Depreciation</li>
+<li>Inter-company transfers</li>
+</ul>
+<h2>Validation Rules<span class="hx:absolute hx:-mt-20" id="validation-rules"></span>
+    <a href="#validation-rules" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>BigLedger validates:</p>
+<ul>
+<li>Balanced entries</li>
+<li>Valid account codes</li>
+<li>Open accounting period</li>
+<li>User permissions</li>
+<li>Tax calculations</li>
+</ul>
+<h2>Best Practices<span class="hx:absolute hx:-mt-20" id="best-practices"></span>
+    <a href="#best-practices" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Documentation<span class="hx:absolute hx:-mt-20" id="documentation"></span>
+    <a href="#documentation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Use clear descriptions</li>
+<li>Attach supporting documents</li>
+<li>Include approval notes</li>
+<li>Maintain audit trail</li>
+</ul>
+<h3>Controls<span class="hx:absolute hx:-mt-20" id="controls"></span>
+    <a href="#controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Segregation of duties</li>
+<li>Approval workflows</li>
+<li>Period closing procedures</li>
+<li>Regular reconciliation</li>
+</ul>
+<h3>Review Process<span class="hx:absolute hx:-mt-20" id="review-process"></span>
+    <a href="#review-process" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Daily journal review</li>
+<li>Weekly posting verification</li>
+<li>Monthly reconciliation</li>
+<li>Period-end procedures</li>
+</ol>
+<h2>Integration with Modules<span class="hx:absolute hx:-mt-20" id="integration-with-modules"></span>
+    <a href="#integration-with-modules" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Sales Module<span class="hx:absolute hx:-mt-20" id="sales-module"></span>
+    <a href="#sales-module" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Auto-creates customer invoices</li>
+<li>Posts revenue recognition</li>
+<li>Updates AR balance</li>
+</ul>
+<h3>Purchase Module<span class="hx:absolute hx:-mt-20" id="purchase-module"></span>
+    <a href="#purchase-module" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Records vendor bills</li>
+<li>Manages expense allocation</li>
+<li>Updates AP balance</li>
+</ul>
+<h3>Inventory<span class="hx:absolute hx:-mt-20" id="inventory"></span>
+    <a href="#inventory" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Posts COGS entries</li>
+<li>Records stock adjustments</li>
+<li>Updates inventory value</li>
+</ul>
+<h2>Reports<span class="hx:absolute hx:-mt-20" id="reports"></span>
+    <a href="#reports" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Journal Reports<span class="hx:absolute hx:-mt-20" id="journal-reports"></span>
+    <a href="#journal-reports" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Journal Entry Listing</li>
+<li>Journal by Account</li>
+<li>Journal Audit Trail</li>
+<li>Posted vs Unposted</li>
+</ul>
+<h3>Analysis Reports<span class="hx:absolute hx:-mt-20" id="analysis-reports"></span>
+    <a href="#analysis-reports" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Account Activity</li>
+<li>Transaction Detail</li>
+<li>GL Movement</li>
+<li>Variance Analysis</li>
+</ul>
+<h2>Troubleshooting<span class="hx:absolute hx:-mt-20" id="troubleshooting"></span>
+    <a href="#troubleshooting" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Out of Balance<span class="hx:absolute hx:-mt-20" id="out-of-balance"></span>
+    <a href="#out-of-balance" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Check rounding differences</li>
+<li>Verify tax calculations</li>
+<li>Review currency conversion</li>
+</ul>
+<h3>Cannot Post<span class="hx:absolute hx:-mt-20" id="cannot-post"></span>
+    <a href="#cannot-post" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Check period status</li>
+<li>Verify permissions</li>
+<li>Review validation errors</li>
+</ul>
+<h3>Missing Entries<span class="hx:absolute hx:-mt-20" id="missing-entries"></span>
+    <a href="#missing-entries" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Check posting date</li>
+<li>Review filter criteria</li>
+<li>Verify module integration</li>
+</ul>
+<hr>
+<p><em>Need help? Visit our <a href="http://localhost:1313/user-guide/" >Support Center</a> or contact <a href="mailto:support@bigledger.com" >support@bigledger.com</a></em></p>
+
+    </div>
+  </div>
+</article>
+
+  </main>
+
+  <footer class="corporate-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-column">
+        <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="32" style="margin-bottom: 16px;">
+        <p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p>
+      </div>
+      <div class="footer-column">
+        <h4>Product</h4>
+        <ul>
+          <li><a href="http://localhost:1313/solutions">Solutions</a></li>
+          <li><a href="http://localhost:1313/pricing">Pricing</a></li>
+          <li><a href="http://localhost:1313/developers">Developers</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="http://localhost:1313/about">About</a></li>
+          <li><a href="http://localhost:1313/contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Connect</h4>
+        <ul>
+          
+          <li><a href="https://github.com/bigledger" target="_blank">Github</a></li>
+          
+          <li><a href="https://twitter.com/bigledger" target="_blank">Twitter</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 BigLedger. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

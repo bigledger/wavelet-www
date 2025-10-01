@@ -1,18 +1,195 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>MyInvois Setup Guide | BigLedger - Complete Business Management Platform</title><meta name=description content="Complete guide for MyInvois implementation with BigLedger."><link rel=icon type=image/png href=https://www.bigledger.com/images/bigledger-logo-cropped.png><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel=stylesheet><link rel=stylesheet href=https://www.bigledger.com/css/custom.css><meta property="og:title" content="MyInvois Setup Guide"><meta property="og:description" content="Complete guide for MyInvois implementation with BigLedger."><meta property="og:type" content="website"><meta property="og:url" content="https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/"></head><body><header class=corporate-header><div class=container><nav class=nav><div class=nav-logo><a href=https://www.bigledger.com/><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=40></a></div><div class=nav-menu><a href=https://www.bigledger.com/ class=nav-link>Home</a>
-<a href=https://www.bigledger.com/about/ class=nav-link>About</a>
-<a href=https://www.bigledger.com/solutions/ class=nav-link>Solutions</a>
-<a href=https://www.bigledger.com/pricing/ class=nav-link>Pricing</a>
-<a href=https://www.bigledger.com/contact/ class=nav-link>Contact</a>
-<a href=https://www.bigledger.com/developers/ class=nav-link>Developers</a></div><div class=nav-cta><a href=https://www.bigledger.com/contact class=btn-primary>Get Started</a></div></nav></div></header><main><article class=corporate-page><div class=container><div class=page-content><p>Complete guide for MyInvois implementation with BigLedger.</p><h2>Overview<span class="hx:absolute hx:-mt-20" id=overview></span>
-<a href=#overview class=subheading-anchor aria-label="Permalink for this section"></a></h2><p>MyInvois is Malaysia&rsquo;s national e-invoicing initiative by LHDN. BigLedger provides seamless integration as an MDEC-accredited PEPPOL service provider.</p><h2>Implementation Timeline<span class="hx:absolute hx:-mt-20" id=implementation-timeline></span>
-<a href=#implementation-timeline class=subheading-anchor aria-label="Permalink for this section"></a></h2><ul><li><strong>Phase 1</strong> (Aug 2024): Turnover > RM 100 million</li><li><strong>Phase 2</strong> (Jan 2025): Turnover > RM 25 million</li><li><strong>Phase 3</strong> (Jul 2025): All businesses</li></ul><h2>Setup Process<span class="hx:absolute hx:-mt-20" id=setup-process></span>
-<a href=#setup-process class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Step 1: LHDN Registration<span class="hx:absolute hx:-mt-20" id=step-1-lhdn-registration></span>
-<a href=#step-1-lhdn-registration class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Access MyInvois Portal</li><li>Register with LHDN</li><li>Obtain credentials:<ul><li>Client ID</li><li>Client Secret</li><li>TIN Number</li></ul></li><li>Generate certificates</li></ol><h3>Step 2: BigLedger Configuration<span class="hx:absolute hx:-mt-20" id=step-2-bigledger-configuration></span>
-<a href=#step-2-bigledger-configuration class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Navigate to <strong>E-Invoice</strong> → <strong>My E-Invoice Admin</strong></li><li>Enter LHDN credentials</li><li>Configure company details:<ul><li>Legal name</li><li>Registration number</li><li>Tax identification</li><li>Address details</li></ul></li><li>Test connection</li></ol><h3>Step 3: Document Setup<span class="hx:absolute hx:-mt-20" id=step-3-document-setup></span>
-<a href=#step-3-document-setup class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Configure invoice formats:</p><ul><li>Standard Invoice</li><li>Credit Note</li><li>Debit Note</li><li>Refund Note</li><li>Self-billed Invoice</li></ul><h3>Step 4: Validation Rules<span class="hx:absolute hx:-mt-20" id=step-4-validation-rules></span>
-<a href=#step-4-validation-rules class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Set up validation:</p><ul><li>Mandatory fields</li><li>Tax calculations</li><li>Format requirements</li><li>Business rules</li></ul><h3>Step 5: Testing<span class="hx:absolute hx:-mt-20" id=step-5-testing></span>
-<a href=#step-5-testing class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li>Create test invoices</li><li>Validate format</li><li>Submit to sandbox</li><li>Verify acceptance</li><li>Check status updates</li></ol><h2>Integration Points<span class="hx:absolute hx:-mt-20" id=integration-points></span>
-<a href=#integration-points class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>With Sales Module<span class="hx:absolute hx:-mt-20" id=with-sales-module></span>
-<a href=#with-sales-module class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Auto-generate e-invoices</li><li>Real-time submission</li><li>Status tracking</li></ul><h3>With Accounting<span class="hx:absolute hx:-mt-20" id=with-accounting></span>
-<a href=#with-accounting class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>GL posting</li><li>Tax reporting</li><li>Reconciliation</li></ul><h2>Go-Live Checklist<span class="hx:absolute hx:-mt-20" id=go-live-checklist></span>
-<a href=#go-live-checklist class=subheading-anchor aria-label="Permalink for this section"></a></h2><ul><li><input disabled type=checkbox> LHDN registration complete</li><li><input disabled type=checkbox> Credentials configured</li><li><input disabled type=checkbox> Test submission successful</li><li><input disabled type=checkbox> Staff training done</li><li><input disabled type=checkbox> Backup process ready</li></ul><hr><p><em>For MyInvois support, contact <a href=mailto:einvoice@bigledger.com>einvoice@bigledger.com</a></em></p></div></div></article></main><footer class=corporate-footer><div class=container><div class=footer-grid><div class=footer-column><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=32 style=margin-bottom:16px><p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p></div><div class=footer-column><h4>Product</h4><ul><li><a href=https://www.bigledger.com/solutions>Solutions</a></li><li><a href=https://www.bigledger.com/pricing>Pricing</a></li><li><a href=https://www.bigledger.com/developers>Developers</a></li></ul></div><div class=footer-column><h4>Company</h4><ul><li><a href=https://www.bigledger.com/about>About</a></li><li><a href=https://www.bigledger.com/contact>Contact</a></li></ul></div><div class=footer-column><h4>Connect</h4><ul><li><a href=https://github.com/bigledger target=_blank>Github</a></li><li><a href=https://twitter.com/bigledger target=_blank>Twitter</a></li></ul></div></div><div class=footer-bottom><p>&copy; 2025 BigLedger. All rights reserved.</p></div></div></footer></body></html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MyInvois Setup Guide | BigLedger - Complete Business Management Platform</title>
+  <meta name="description" content="Complete guide for MyInvois implementation with BigLedger.">
+
+  
+  <link rel="icon" type="image/png" href="http://localhost:1313/images/bigledger-logo-cropped.png">
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+
+  
+  <meta property="og:title" content="MyInvois Setup Guide">
+  <meta property="og:description" content="Complete guide for MyInvois implementation with BigLedger.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:1313/guides/einvoice-guides/myinvois-setup/">
+</head>
+<body>
+  <header class="corporate-header">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-logo">
+        <a href="http://localhost:1313/">
+          <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="40">
+        </a>
+      </div>
+      <div class="nav-menu">
+        
+        <a href="http://localhost:1313/" class="nav-link">Home</a>
+        
+        <a href="http://localhost:1313/about/" class="nav-link">About</a>
+        
+        <a href="http://localhost:1313/solutions/" class="nav-link">Solutions</a>
+        
+        <a href="http://localhost:1313/pricing/" class="nav-link">Pricing</a>
+        
+        <a href="http://localhost:1313/contact/" class="nav-link">Contact</a>
+        
+        <a href="http://localhost:1313/developers/" class="nav-link">Developers</a>
+        
+      </div>
+      <div class="nav-cta">
+        <a href="http://localhost:1313/contact" class="btn-primary">Get Started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+  <main>
+    
+<article class="corporate-page">
+  <div class="container">
+    <div class="page-content">
+      <p>Complete guide for MyInvois implementation with BigLedger.</p>
+<h2>Overview<span class="hx:absolute hx:-mt-20" id="overview"></span>
+    <a href="#overview" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>MyInvois is Malaysia&rsquo;s national e-invoicing initiative by LHDN. BigLedger provides seamless integration as an MDEC-accredited PEPPOL service provider.</p>
+<h2>Implementation Timeline<span class="hx:absolute hx:-mt-20" id="implementation-timeline"></span>
+    <a href="#implementation-timeline" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
+<li><strong>Phase 1</strong> (Aug 2024): Turnover &gt; RM 100 million</li>
+<li><strong>Phase 2</strong> (Jan 2025): Turnover &gt; RM 25 million</li>
+<li><strong>Phase 3</strong> (Jul 2025): All businesses</li>
+</ul>
+<h2>Setup Process<span class="hx:absolute hx:-mt-20" id="setup-process"></span>
+    <a href="#setup-process" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Step 1: LHDN Registration<span class="hx:absolute hx:-mt-20" id="step-1-lhdn-registration"></span>
+    <a href="#step-1-lhdn-registration" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Access MyInvois Portal</li>
+<li>Register with LHDN</li>
+<li>Obtain credentials:
+<ul>
+<li>Client ID</li>
+<li>Client Secret</li>
+<li>TIN Number</li>
+</ul>
+</li>
+<li>Generate certificates</li>
+</ol>
+<h3>Step 2: BigLedger Configuration<span class="hx:absolute hx:-mt-20" id="step-2-bigledger-configuration"></span>
+    <a href="#step-2-bigledger-configuration" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Navigate to <strong>E-Invoice</strong> → <strong>My E-Invoice Admin</strong></li>
+<li>Enter LHDN credentials</li>
+<li>Configure company details:
+<ul>
+<li>Legal name</li>
+<li>Registration number</li>
+<li>Tax identification</li>
+<li>Address details</li>
+</ul>
+</li>
+<li>Test connection</li>
+</ol>
+<h3>Step 3: Document Setup<span class="hx:absolute hx:-mt-20" id="step-3-document-setup"></span>
+    <a href="#step-3-document-setup" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Configure invoice formats:</p>
+<ul>
+<li>Standard Invoice</li>
+<li>Credit Note</li>
+<li>Debit Note</li>
+<li>Refund Note</li>
+<li>Self-billed Invoice</li>
+</ul>
+<h3>Step 4: Validation Rules<span class="hx:absolute hx:-mt-20" id="step-4-validation-rules"></span>
+    <a href="#step-4-validation-rules" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Set up validation:</p>
+<ul>
+<li>Mandatory fields</li>
+<li>Tax calculations</li>
+<li>Format requirements</li>
+<li>Business rules</li>
+</ul>
+<h3>Step 5: Testing<span class="hx:absolute hx:-mt-20" id="step-5-testing"></span>
+    <a href="#step-5-testing" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
+<li>Create test invoices</li>
+<li>Validate format</li>
+<li>Submit to sandbox</li>
+<li>Verify acceptance</li>
+<li>Check status updates</li>
+</ol>
+<h2>Integration Points<span class="hx:absolute hx:-mt-20" id="integration-points"></span>
+    <a href="#integration-points" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>With Sales Module<span class="hx:absolute hx:-mt-20" id="with-sales-module"></span>
+    <a href="#with-sales-module" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Auto-generate e-invoices</li>
+<li>Real-time submission</li>
+<li>Status tracking</li>
+</ul>
+<h3>With Accounting<span class="hx:absolute hx:-mt-20" id="with-accounting"></span>
+    <a href="#with-accounting" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>GL posting</li>
+<li>Tax reporting</li>
+<li>Reconciliation</li>
+</ul>
+<h2>Go-Live Checklist<span class="hx:absolute hx:-mt-20" id="go-live-checklist"></span>
+    <a href="#go-live-checklist" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ul>
+<li><input disabled="" type="checkbox"> LHDN registration complete</li>
+<li><input disabled="" type="checkbox"> Credentials configured</li>
+<li><input disabled="" type="checkbox"> Test submission successful</li>
+<li><input disabled="" type="checkbox"> Staff training done</li>
+<li><input disabled="" type="checkbox"> Backup process ready</li>
+</ul>
+<hr>
+<p><em>For MyInvois support, contact <a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com</a></em></p>
+
+    </div>
+  </div>
+</article>
+
+  </main>
+
+  <footer class="corporate-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-column">
+        <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="32" style="margin-bottom: 16px;">
+        <p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p>
+      </div>
+      <div class="footer-column">
+        <h4>Product</h4>
+        <ul>
+          <li><a href="http://localhost:1313/solutions">Solutions</a></li>
+          <li><a href="http://localhost:1313/pricing">Pricing</a></li>
+          <li><a href="http://localhost:1313/developers">Developers</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="http://localhost:1313/about">About</a></li>
+          <li><a href="http://localhost:1313/contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Connect</h4>
+        <ul>
+          
+          <li><a href="https://github.com/bigledger" target="_blank">Github</a></li>
+          
+          <li><a href="https://twitter.com/bigledger" target="_blank">Twitter</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 BigLedger. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

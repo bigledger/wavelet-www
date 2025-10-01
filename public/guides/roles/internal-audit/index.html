@@ -1,73 +1,498 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Internal Auditor Guide | BigLedger - Complete Business Management Platform</title><meta name=description content="Audit procedures and compliance guide for internal auditors"><link rel=icon type=image/png href=https://www.bigledger.com/images/bigledger-logo-cropped.png><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel=stylesheet><link rel=stylesheet href=https://www.bigledger.com/css/custom.css><meta property="og:title" content="Internal Auditor Guide"><meta property="og:description" content="Audit procedures and compliance guide for internal auditors"><meta property="og:type" content="website"><meta property="og:url" content="https://www.bigledger.com/guides/roles/internal-audit/"></head><body><header class=corporate-header><div class=container><nav class=nav><div class=nav-logo><a href=https://www.bigledger.com/><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=40></a></div><div class=nav-menu><a href=https://www.bigledger.com/ class=nav-link>Home</a>
-<a href=https://www.bigledger.com/about/ class=nav-link>About</a>
-<a href=https://www.bigledger.com/solutions/ class=nav-link>Solutions</a>
-<a href=https://www.bigledger.com/pricing/ class=nav-link>Pricing</a>
-<a href=https://www.bigledger.com/contact/ class=nav-link>Contact</a>
-<a href=https://www.bigledger.com/developers/ class=nav-link>Developers</a></div><div class=nav-cta><a href=https://www.bigledger.com/contact class=btn-primary>Get Started</a></div></nav></div></header><main><article class=corporate-page><div class=container><div class=page-content><h1>Internal Auditor - BigLedger System Evaluation Questions</h1><h2>Role Profile<span class="hx:absolute hx:-mt-20" id=role-profile></span>
-<a href=#role-profile class=subheading-anchor aria-label="Permalink for this section"></a></h2><p>As an Internal Auditor (CIA, ACCA, CISA certified), I&rsquo;m responsible for evaluating internal controls, compliance, and risk management using BigLedger&rsquo;s audit trail and control features. I conduct operational, financial, and compliance reviews across all business processes to ensure regulatory adherence and operational efficiency.</p><h2>1. Audit Trail and Documentation<span class="hx:absolute hx:-mt-20" id=1-audit-trail-and-documentation></span>
-<a href=#1-audit-trail-and-documentation class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>System Access and User Activity<span class="hx:absolute hx:-mt-20" id=system-access-and-user-activity></span>
-<a href=#system-access-and-user-activity class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Can BigLedger provide comprehensive audit trails showing who accessed what data, when, and from which location/device?</li><li>How detailed are the user activity logs - do they capture view-only access, data modifications, and system administration activities?</li><li>Can I track user sessions including login/logout times, concurrent sessions, and session timeout events?</li><li>Are there reports showing unusual access patterns, such as after-hours activity or access from unusual locations?</li></ul><h3>Transaction Documentation and Workflow Tracking<span class="hx:absolute hx:-mt-20" id=transaction-documentation-and-workflow-tracking></span>
-<a href=#transaction-documentation-and-workflow-tracking class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I trace the complete lifecycle of a financial transaction from initiation to final posting?</li><li>Does the system maintain version history for documents that have been modified, showing all changes and approvers?</li><li>Can I track document workflows to verify that all required approvals were obtained before processing?</li><li>Are there controls to prevent backdating of transactions, and can I identify any exceptions where this occurred?</li></ul><h3>Master Data Change Tracking<span class="hx:absolute hx:-mt-20" id=master-data-change-tracking></span>
-<a href=#master-data-change-tracking class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How comprehensive is the audit trail for changes to master data (customers, suppliers, items, chart of accounts)?</li><li>Can I identify who made specific changes to pricing, credit limits, payment terms, or vendor banking details?</li><li>Are there reports showing bulk changes to master data that might indicate potential data manipulation?</li><li>How does the system handle and track emergency changes made outside normal approval processes?</li></ul><h3>Document Integrity and Storage<span class="hx:absolute hx:-mt-20" id=document-integrity-and-storage></span>
-<a href=#document-integrity-and-storage class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls ensure that supporting documents cannot be altered or deleted after transactions are posted?</li><li>Can I verify that all required supporting documentation is attached to transactions before approval?</li><li>How does the system handle document retention requirements and prevent unauthorized deletion?</li><li>Are there checksums or digital signatures to verify document integrity over time?</li></ul><h2>2. Financial Controls and Segregation of Duties<span class="hx:absolute hx:-mt-20" id=2-financial-controls-and-segregation-of-duties></span>
-<a href=#2-financial-controls-and-segregation-of-duties class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Role-Based Access Controls<span class="hx:absolute hx:-mt-20" id=role-based-access-controls></span>
-<a href=#role-based-access-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that segregation of duties is properly implemented across key financial processes?</li><li>Can I generate reports showing users who have conflicting permissions (e.g., ability to both create and approve purchase orders)?</li><li>How does the system prevent privilege escalation or unauthorized role modifications?</li><li>Are there controls to ensure that temporary permission grants are properly revoked when no longer needed?</li></ul><h3>Approval Workflow Controls<span class="hx:absolute hx:-mt-20" id=approval-workflow-controls></span>
-<a href=#approval-workflow-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What mechanisms prevent users from bypassing required approval workflows or self-approving transactions?</li><li>Can I test that approval limits are properly enforced and that transactions above limits require additional authorization?</li><li>How does the system handle situations where approvers are unavailable - are there proper delegation controls?</li><li>Are there reports showing exceptions where normal approval processes were overridden, and who authorized these exceptions?</li></ul><h3>Journal Entry Controls<span class="hx:absolute hx:-mt-20" id=journal-entry-controls></span>
-<a href=#journal-entry-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls exist to prevent unauthorized journal entries or ensure proper documentation for all manual entries?</li><li>Can I verify that all journal entries above certain thresholds require supervisor approval?</li><li>How does the system prevent posting entries to closed periods, and who has authority to reopen periods?</li><li>Are there automated controls to detect unusual journal entries (e.g., round numbers, large amounts, unusual account combinations)?</li></ul><h3>Three-Way Matching Controls<span class="hx:absolute hx:-mt-20" id=three-way-matching-controls></span>
-<a href=#three-way-matching-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I test the effectiveness of three-way matching between purchase orders, receipts, and invoices?</li><li>What tolerance levels are configured for price and quantity variances, and who can approve exceptions?</li><li>Can I identify instances where matching was bypassed or overridden, and verify proper authorization?</li><li>Are there reports showing the aging of unmatched documents that might indicate control weaknesses?</li></ul><h2>3. Revenue Cycle Controls<span class="hx:absolute hx:-mt-20" id=3-revenue-cycle-controls></span>
-<a href=#3-revenue-cycle-controls class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Sales Order Processing and Credit Management<span class="hx:absolute hx:-mt-20" id=sales-order-processing-and-credit-management></span>
-<a href=#sales-order-processing-and-credit-management class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that all sales orders go through proper credit approval processes before fulfillment?</li><li>What controls prevent sales to customers who have exceeded credit limits or have overdue balances?</li><li>Can I test that pricing is applied correctly according to approved price lists and discount matrices?</li><li>How does the system handle special pricing arrangements, and are these properly authorized and documented?</li></ul><h3>Revenue Recognition and Billing Controls<span class="hx:absolute hx:-mt-20" id=revenue-recognition-and-billing-controls></span>
-<a href=#revenue-recognition-and-billing-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls ensure that revenue is recognized in the correct period according to delivery terms?</li><li>Can I verify that all shipments are properly invoiced and that no goods leave without proper documentation?</li><li>How does the system prevent duplicate billing or billing for unshipped goods?</li><li>Are there automated controls to detect unusual revenue patterns that might indicate manipulation?</li></ul><h3>Customer Master Data Integrity<span class="hx:absolute hx:-mt-20" id=customer-master-data-integrity></span>
-<a href=#customer-master-data-integrity class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls prevent unauthorized changes to customer credit limits, payment terms, or pricing agreements?</li><li>Can I identify who has authority to create new customers and verify that proper credit checks were performed?</li><li>How does the system detect and prevent duplicate customer records that might enable fraud?</li><li>Are there periodic reviews of customer master data to identify inactive or suspicious accounts?</li></ul><h3>Returns and Credit Processing<span class="hx:absolute hx:-mt-20" id=returns-and-credit-processing></span>
-<a href=#returns-and-credit-processing class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What approval processes are required for customer returns, refunds, and credit notes?</li><li>Can I verify that all returns are properly authorized and that returned goods are received before credits are issued?</li><li>How does the system prevent unauthorized credits or ensure that credit notes are supported by proper documentation?</li><li>Are there controls to detect patterns of excessive returns that might indicate quality issues or fraud?</li></ul><h2>4. Procurement and Expenditure Controls<span class="hx:absolute hx:-mt-20" id=4-procurement-and-expenditure-controls></span>
-<a href=#4-procurement-and-expenditure-controls class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Purchase Authorization and Approval<span class="hx:absolute hx:-mt-20" id=purchase-authorization-and-approval></span>
-<a href=#purchase-authorization-and-approval class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that all purchases are properly authorized according to established approval limits?</li><li>What controls prevent splitting of purchase orders to circumvent approval requirements?</li><li>Can I test that emergency purchases receive proper post-approval review and documentation?</li><li>How does the system ensure that capital expenditures follow different approval processes than operational expenses?</li></ul><h3>Vendor Master Data and Payment Controls<span class="hx:absolute hx:-mt-20" id=vendor-master-data-and-payment-controls></span>
-<a href=#vendor-master-data-and-payment-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls prevent unauthorized creation of vendors or changes to vendor banking information?</li><li>Can I identify potential duplicate vendors that might be used for fraudulent payments?</li><li>How does the system detect and prevent duplicate payments to the same vendor for the same invoice?</li><li>Are there automated controls to flag payments to new vendors or changes in payment methods?</li></ul><h3>Contract Compliance and Price Monitoring<span class="hx:absolute hx:-mt-20" id=contract-compliance-and-price-monitoring></span>
-<a href=#contract-compliance-and-price-monitoring class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that purchases comply with negotiated contract terms and pricing agreements?</li><li>What tools help identify purchases made outside of approved vendor contracts?</li><li>Can I monitor price variances to detect potential vendor fraud or contract violations?</li><li>How does the system track contract expiration dates and ensure timely renewals or rebidding?</li></ul><h3>Expense Management Controls<span class="hx:absolute hx:-mt-20" id=expense-management-controls></span>
-<a href=#expense-management-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What approval workflows are required for employee expense reports, and how are these enforced?</li><li>Can I verify that expense reports include required supporting documentation before reimbursement?</li><li>How does the system detect duplicate expense claims or potentially fraudulent expenses?</li><li>Are there automated controls to flag expenses that exceed policy limits or appear unusual?</li></ul><h2>5. Inventory and Asset Management Controls<span class="hx:absolute hx:-mt-20" id=5-inventory-and-asset-management-controls></span>
-<a href=#5-inventory-and-asset-management-controls class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Physical Inventory and Cycle Counting<span class="hx:absolute hx:-mt-20" id=physical-inventory-and-cycle-counting></span>
-<a href=#physical-inventory-and-cycle-counting class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that physical inventory counts are properly documented and reconciled to system records?</li><li>What controls ensure that inventory adjustments are properly authorized and supported by documentation?</li><li>Can I track the frequency and accuracy of cycle counts to assess inventory control effectiveness?</li><li>How does the system handle and track inventory in transit or held by third parties?</li></ul><h3>Inventory Valuation and Movement Controls<span class="hx:absolute hx:-mt-20" id=inventory-valuation-and-movement-controls></span>
-<a href=#inventory-valuation-and-movement-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls prevent unauthorized inventory movements or ensure proper documentation of transfers?</li><li>Can I verify that inventory costing methods are consistently applied and properly configured?</li><li>How does the system identify and track slow-moving, obsolete, or damaged inventory?</li><li>Are there controls to ensure proper cutoff procedures for inventory transactions at period-end?</li></ul><h3>Asset Management and Depreciation<span class="hx:absolute hx:-mt-20" id=asset-management-and-depreciation></span>
-<a href=#asset-management-and-depreciation class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that fixed asset additions are properly authorized and classified?</li><li>What controls prevent unauthorized asset disposals or ensure proper approval and documentation?</li><li>Can I test that depreciation calculations are accurate and consistently applied?</li><li>How does the system track asset locations and ensure accountability for high-value items?</li></ul><h3>Warehouse and Security Controls<span class="hx:absolute hx:-mt-20" id=warehouse-and-security-controls></span>
-<a href=#warehouse-and-security-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls restrict physical access to inventory storage areas and track personnel entry?</li><li>Can I verify that inventory receipts and shipments are properly documented and authorized?</li><li>How does the system handle and track consignment inventory or goods held for third parties?</li><li>Are there controls to prevent unauthorized removal of inventory or detect theft?</li></ul><h2>6. Cash Management and Banking Controls<span class="hx:absolute hx:-mt-20" id=6-cash-management-and-banking-controls></span>
-<a href=#6-cash-management-and-banking-controls class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Bank Reconciliation and Cash Controls<span class="hx:absolute hx:-mt-20" id=bank-reconciliation-and-cash-controls></span>
-<a href=#bank-reconciliation-and-cash-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that bank reconciliations are performed timely and reviewed by independent personnel?</li><li>What controls ensure that all bank accounts are properly recorded and reconciled in the system?</li><li>Can I identify and investigate outstanding reconciling items that have been unresolved for extended periods?</li><li>How does the system detect and prevent unauthorized electronic funds transfers or check issuance?</li></ul><h3>Cash Receipt and Deposit Controls<span class="hx:absolute hx:-mt-20" id=cash-receipt-and-deposit-controls></span>
-<a href=#cash-receipt-and-deposit-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls ensure that all cash receipts are properly recorded and deposited intact and timely?</li><li>Can I verify segregation of duties between cash collection, recording, and reconciliation functions?</li><li>How does the system track and account for cash receipts from multiple sources (mail, electronic, counter)?</li><li>Are there controls to prevent lapping or other cash manipulation schemes?</li></ul><h3>Payment Authorization and Processing<span class="hx:absolute hx:-mt-20" id=payment-authorization-and-processing></span>
-<a href=#payment-authorization-and-processing class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What approval levels are required for different types and amounts of cash disbursements?</li><li>Can I verify that all payments are supported by proper documentation and authorization?</li><li>How does the system prevent unauthorized payments or ensure that payments are made to legitimate vendors?</li><li>Are there controls to detect and prevent check fraud or unauthorized electronic transfers?</li></ul><h3>Petty Cash and Cash Handling<span class="hx:absolute hx:-mt-20" id=petty-cash-and-cash-handling></span>
-<a href=#petty-cash-and-cash-handling class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls govern petty cash funds, including authorization, documentation, and reconciliation?</li><li>Can I verify that cash handling procedures are properly documented and followed?</li><li>How does the system track and limit petty cash transactions to prevent abuse?</li><li>Are there periodic surprise counts and reconciliations of all cash funds?</li></ul><h2>7. Data Security and Access Controls<span class="hx:absolute hx:-mt-20" id=7-data-security-and-access-controls></span>
-<a href=#7-data-security-and-access-controls class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>User Access Management<span class="hx:absolute hx:-mt-20" id=user-access-management></span>
-<a href=#user-access-management class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I audit user access rights to ensure they align with job responsibilities and segregation of duties requirements?</li><li>What controls govern the provisioning and deprovisioning of user accounts when employees join, change roles, or leave?</li><li>Can I identify dormant accounts or users with excessive permissions that pose security risks?</li><li>How does the system handle and track shared accounts or service accounts used by multiple users?</li></ul><h3>Authentication and Password Controls<span class="hx:absolute hx:-mt-20" id=authentication-and-password-controls></span>
-<a href=#authentication-and-password-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What password policies are enforced, and how can I verify their effectiveness?</li><li>Can I test multi-factor authentication requirements for privileged users or sensitive transactions?</li><li>How does the system handle account lockouts after failed login attempts, and who can unlock accounts?</li><li>Are there controls to prevent password sharing or detect compromised credentials?</li></ul><h3>Data Protection and Privacy Controls<span class="hx:absolute hx:-mt-20" id=data-protection-and-privacy-controls></span>
-<a href=#data-protection-and-privacy-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls prevent unauthorized export or downloading of sensitive financial data?</li><li>Can I verify that data encryption is properly implemented for data at rest and in transit?</li><li>How does the system handle and track access to personally identifiable information (PII)?</li><li>Are there controls to ensure compliance with data protection regulations like PDPA?</li></ul><h3>System Monitoring and Incident Response<span class="hx:absolute hx:-mt-20" id=system-monitoring-and-incident-response></span>
-<a href=#system-monitoring-and-incident-response class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What monitoring tools detect and alert on security incidents or suspicious activities?</li><li>Can I review logs of failed access attempts, privilege escalations, or unusual system behavior?</li><li>How does the system handle and track security incidents, including investigation and remediation?</li><li>Are there automated controls to detect and respond to potential data breaches?</li></ul><h2>8. Compliance and Regulatory Adherence<span class="hx:absolute hx:-mt-20" id=8-compliance-and-regulatory-adherence></span>
-<a href=#8-compliance-and-regulatory-adherence class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Tax Compliance and Reporting<span class="hx:absolute hx:-mt-20" id=tax-compliance-and-reporting></span>
-<a href=#tax-compliance-and-reporting class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that SST calculations are accurate and comply with Malaysian tax regulations?</li><li>What controls ensure that tax returns are filed timely and include all required information?</li><li>Can I test compliance with e-invoicing requirements under the MyInvois system?</li><li>How does the system handle and track tax exemptions or special tax treatments?</li></ul><h3>Financial Reporting and Standards Compliance<span class="hx:absolute hx:-mt-20" id=financial-reporting-and-standards-compliance></span>
-<a href=#financial-reporting-and-standards-compliance class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls ensure compliance with Malaysian Financial Reporting Standards (MFRS)?</li><li>Can I verify that financial statements are prepared accurately and include all required disclosures?</li><li>How does the system handle and track related party transactions and other special disclosures?</li><li>Are there controls to ensure consistency in accounting policies and estimates across periods?</li></ul><h3>Regulatory Reporting and Documentation<span class="hx:absolute hx:-mt-20" id=regulatory-reporting-and-documentation></span>
-<a href=#regulatory-reporting-and-documentation class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What tools help prepare regulatory reports required by various authorities?</li><li>Can I verify that all required regulatory filings are submitted timely and accurately?</li><li>How does the system maintain documentation to support regulatory compliance?</li><li>Are there controls to ensure proper record retention according to regulatory requirements?</li></ul><h3>Policy Compliance and Ethics<span class="hx:absolute hx:-mt-20" id=policy-compliance-and-ethics></span>
-<a href=#policy-compliance-and-ethics class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I monitor compliance with company policies and procedures?</li><li>What tools help detect and investigate potential violations of ethics policies?</li><li>Can I verify that employees receive required training and acknowledge policy updates?</li><li>How does the system handle and track whistleblower reports and their investigation?</li></ul><h2>9. System Configuration and Change Management<span class="hx:absolute hx:-mt-20" id=9-system-configuration-and-change-management></span>
-<a href=#9-system-configuration-and-change-management class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>System Parameter and Configuration Controls<span class="hx:absolute hx:-mt-20" id=system-parameter-and-configuration-controls></span>
-<a href=#system-parameter-and-configuration-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls govern changes to system parameters, configuration settings, and user roles?</li><li>Can I track who made configuration changes and verify that these were properly authorized?</li><li>How does the system handle emergency changes, and are these subject to post-implementation review?</li><li>Are there controls to ensure that configuration changes are tested before implementation?</li></ul><h3>Software Updates and Patch Management<span class="hx:absolute hx:-mt-20" id=software-updates-and-patch-management></span>
-<a href=#software-updates-and-patch-management class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What processes govern the installation of software updates, patches, and new features?</li><li>Can I verify that all changes are properly tested and approved before deployment to production?</li><li>How does the system handle rollback procedures if changes cause issues?</li><li>Are there controls to ensure that security patches are installed timely?</li></ul><h3>Data Migration and Integration Controls<span class="hx:absolute hx:-mt-20" id=data-migration-and-integration-controls></span>
-<a href=#data-migration-and-integration-controls class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls govern data migrations during system upgrades or integrations?</li><li>Can I verify the accuracy and completeness of migrated data?</li><li>How does the system handle and track data integration with third-party systems?</li><li>Are there controls to ensure data integrity during export and import processes?</li></ul><h3>Backup and Disaster Recovery<span class="hx:absolute hx:-mt-20" id=backup-and-disaster-recovery></span>
-<a href=#backup-and-disaster-recovery class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls ensure that regular backups are performed and can be successfully restored?</li><li>Can I verify that disaster recovery procedures are tested periodically and documented?</li><li>How does the system handle business continuity during system outages or disasters?</li><li>Are there controls to ensure that backup data is protected and stored securely?</li></ul><h2>10. Management Reporting and Decision Support<span class="hx:absolute hx:-mt-20" id=10-management-reporting-and-decision-support></span>
-<a href=#10-management-reporting-and-decision-support class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Report Accuracy and Completeness<span class="hx:absolute hx:-mt-20" id=report-accuracy-and-completeness></span>
-<a href=#report-accuracy-and-completeness class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>How can I verify that management reports accurately reflect underlying transaction data?</li><li>What controls ensure that automated calculations in reports are correct and consistently applied?</li><li>Can I test that all relevant data is included in reports and that nothing is omitted?</li><li>How does the system handle and track manual adjustments to report data?</li></ul><h3>Key Performance Indicators and Dashboards<span class="hx:absolute hx:-mt-20" id=key-performance-indicators-and-dashboards></span>
-<a href=#key-performance-indicators-and-dashboards class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls ensure that KPIs are calculated correctly and based on reliable data?</li><li>Can I verify that dashboard metrics are updated timely and accurately reflect current performance?</li><li>How does the system handle and track threshold alerts and exception reporting?</li><li>Are there controls to prevent manipulation of performance metrics?</li></ul><h3>Budget and Variance Analysis<span class="hx:absolute hx:-mt-20" id=budget-and-variance-analysis></span>
-<a href=#budget-and-variance-analysis class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls govern the budget preparation process and ensure accuracy of budget data?</li><li>Can I verify that variance analysis is performed correctly and investigates significant differences?</li><li>How does the system handle budget revisions and ensure proper authorization?</li><li>Are there controls to ensure that budget vs. actual comparisons are meaningful and accurate?</li></ul><h3>Financial Statement Preparation<span class="hx:absolute hx:-mt-20" id=financial-statement-preparation></span>
-<a href=#financial-statement-preparation class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What automated controls support the financial statement preparation process?</li><li>Can I verify that all necessary adjusting entries are made before financial statement generation?</li><li>How does the system ensure that financial statements are mathematically accurate and balanced?</li><li>Are there controls to ensure proper review and approval of financial statements before release?</li></ul><h2>11. Fraud Detection and Prevention<span class="hx:absolute hx:-mt-20" id=11-fraud-detection-and-prevention></span>
-<a href=#11-fraud-detection-and-prevention class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Automated Fraud Detection<span class="hx:absolute hx:-mt-20" id=automated-fraud-detection></span>
-<a href=#automated-fraud-detection class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What automated controls help identify potentially fraudulent transactions or patterns?</li><li>Can the system detect unusual vendor relationships, duplicate payments, or suspicious transactions?</li><li>How does the system identify transactions that bypass normal controls or approval processes?</li><li>Are there algorithms to detect anomalies in financial data that might indicate fraud?</li></ul><h3>Vendor and Customer Fraud Prevention<span class="hx:absolute hx:-mt-20" id=vendor-and-customer-fraud-prevention></span>
-<a href=#vendor-and-customer-fraud-prevention class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What controls prevent the creation of fictitious vendors or customers for fraudulent purposes?</li><li>Can I identify potential conflicts of interest between employees and vendors/customers?</li><li>How does the system detect and prevent vendor master data manipulation?</li><li>Are there controls to identify unusual patterns in vendor payments or customer receipts?</li></ul><h3>Employee Fraud Detection<span class="hx:absolute hx:-mt-20" id=employee-fraud-detection></span>
-<a href=#employee-fraud-detection class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What tools help identify potential employee fraud, such as expense account abuse or payroll manipulation?</li><li>Can I monitor for unusual access patterns or transactions performed by employees?</li><li>How does the system detect potential conflicts of interest or related party transactions?</li><li>Are there controls to identify employees who consistently override system controls?</li></ul><h3>Investigation and Reporting<span class="hx:absolute hx:-mt-20" id=investigation-and-reporting></span>
-<a href=#investigation-and-reporting class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What tools support fraud investigation and evidence gathering?</li><li>Can I preserve audit trails and system data for forensic analysis?</li><li>How does the system handle and track whistleblower reports and their investigation?</li><li>Are there controls to ensure proper escalation and reporting of suspected fraud?</li></ul><h2>12. Continuous Monitoring and Data Analytics<span class="hx:absolute hx:-mt-20" id=12-continuous-monitoring-and-data-analytics></span>
-<a href=#12-continuous-monitoring-and-data-analytics class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Risk-Based Continuous Monitoring<span class="hx:absolute hx:-mt-20" id=risk-based-continuous-monitoring></span>
-<a href=#risk-based-continuous-monitoring class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What tools support continuous monitoring of key risk areas and control processes?</li><li>Can I set up automated monitoring rules to detect control failures or exceptions?</li><li>How does the system prioritize monitoring activities based on risk assessment?</li><li>Are there dashboards that provide real-time visibility into control effectiveness?</li></ul><h3>Data Analytics and Anomaly Detection<span class="hx:absolute hx:-mt-20" id=data-analytics-and-anomaly-detection></span>
-<a href=#data-analytics-and-anomaly-detection class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What data analytics capabilities help identify unusual patterns or outliers in financial data?</li><li>Can I perform trend analysis to identify changes in business patterns that might indicate issues?</li><li>How does the system support statistical sampling and testing of large populations?</li><li>Are there machine learning capabilities to improve fraud detection over time?</li></ul><h3>Exception Reporting and Alerting<span class="hx:absolute hx:-mt-20" id=exception-reporting-and-alerting></span>
-<a href=#exception-reporting-and-alerting class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What exception reports are available to identify transactions that require further investigation?</li><li>Can I configure automated alerts for specific risk scenarios or control failures?</li><li>How does the system handle and track the resolution of exceptions and alerts?</li><li>Are there escalation procedures for unresolved exceptions or repeated control failures?</li></ul><h3>Audit Planning and Execution Support<span class="hx:absolute hx:-mt-20" id=audit-planning-and-execution-support></span>
-<a href=#audit-planning-and-execution-support class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>What tools help plan audit activities based on risk assessment and prior audit results?</li><li>Can I track audit findings and their resolution status over time?</li><li>How does the system support audit sampling and testing procedures?</li><li>Are there templates and workflows to standardize audit procedures and documentation?</li></ul><h2>Key Evaluation Criteria<span class="hx:absolute hx:-mt-20" id=key-evaluation-criteria></span>
-<a href=#key-evaluation-criteria class=subheading-anchor aria-label="Permalink for this section"></a></h2><p>When evaluating BigLedger&rsquo;s audit and control capabilities, I will focus on:</p><h3>System-Generated Evidence<span class="hx:absolute hx:-mt-20" id=system-generated-evidence></span>
-<a href=#system-generated-evidence class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Completeness and reliability of audit trails</li><li>Automated documentation of control processes</li><li>Real-time monitoring and alerting capabilities</li><li>Integration between different system modules</li></ul><h3>Control Effectiveness<span class="hx:absolute hx:-mt-20" id=control-effectiveness></span>
-<a href=#control-effectiveness class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Preventive vs. detective control mechanisms</li><li>Exception handling and override procedures</li><li>Segregation of duties enforcement</li><li>Authorization and approval workflows</li></ul><h3>Risk Management<span class="hx:absolute hx:-mt-20" id=risk-management></span>
-<a href=#risk-management class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Risk assessment and monitoring tools</li><li>Fraud detection and prevention capabilities</li><li>Compliance monitoring and reporting</li><li>Business continuity and disaster recovery</li></ul><h3>Regulatory Compliance<span class="hx:absolute hx:-mt-20" id=regulatory-compliance></span>
-<a href=#regulatory-compliance class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Malaysian regulatory requirement adherence</li><li>Financial reporting standard compliance</li><li>Tax and e-invoicing compliance</li><li>Data protection and privacy controls</li></ul><h3>Audit Efficiency<span class="hx:absolute hx:-mt-20" id=audit-efficiency></span>
-<a href=#audit-efficiency class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li>Data analytics and continuous monitoring</li><li>Automated testing and sampling capabilities</li><li>Standardized audit procedures and documentation</li><li>Management reporting and dashboard capabilities</li></ul><p>This comprehensive evaluation will help determine BigLedger&rsquo;s suitability for supporting modern internal audit functions in Malaysian businesses, ensuring robust control environments and regulatory compliance.</p></div></div></article></main><footer class=corporate-footer><div class=container><div class=footer-grid><div class=footer-column><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger - Complete Business Management Platform" height=32 style=margin-bottom:16px><p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p></div><div class=footer-column><h4>Product</h4><ul><li><a href=https://www.bigledger.com/solutions>Solutions</a></li><li><a href=https://www.bigledger.com/pricing>Pricing</a></li><li><a href=https://www.bigledger.com/developers>Developers</a></li></ul></div><div class=footer-column><h4>Company</h4><ul><li><a href=https://www.bigledger.com/about>About</a></li><li><a href=https://www.bigledger.com/contact>Contact</a></li></ul></div><div class=footer-column><h4>Connect</h4><ul><li><a href=https://github.com/bigledger target=_blank>Github</a></li><li><a href=https://twitter.com/bigledger target=_blank>Twitter</a></li></ul></div></div><div class=footer-bottom><p>&copy; 2025 BigLedger. All rights reserved.</p></div></div></footer></body></html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Internal Auditor Guide | BigLedger - Complete Business Management Platform</title>
+  <meta name="description" content="Audit procedures and compliance guide for internal auditors">
+
+  
+  <link rel="icon" type="image/png" href="http://localhost:1313/images/bigledger-logo-cropped.png">
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+
+  
+  <meta property="og:title" content="Internal Auditor Guide">
+  <meta property="og:description" content="Audit procedures and compliance guide for internal auditors">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:1313/guides/roles/internal-audit/">
+</head>
+<body>
+  <header class="corporate-header">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-logo">
+        <a href="http://localhost:1313/">
+          <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="40">
+        </a>
+      </div>
+      <div class="nav-menu">
+        
+        <a href="http://localhost:1313/" class="nav-link">Home</a>
+        
+        <a href="http://localhost:1313/about/" class="nav-link">About</a>
+        
+        <a href="http://localhost:1313/solutions/" class="nav-link">Solutions</a>
+        
+        <a href="http://localhost:1313/pricing/" class="nav-link">Pricing</a>
+        
+        <a href="http://localhost:1313/contact/" class="nav-link">Contact</a>
+        
+        <a href="http://localhost:1313/developers/" class="nav-link">Developers</a>
+        
+      </div>
+      <div class="nav-cta">
+        <a href="http://localhost:1313/contact" class="btn-primary">Get Started</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+  <main>
+    
+<article class="corporate-page">
+  <div class="container">
+    <div class="page-content">
+      <h1>Internal Auditor - BigLedger System Evaluation Questions</h1><h2>Role Profile<span class="hx:absolute hx:-mt-20" id="role-profile"></span>
+    <a href="#role-profile" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>As an Internal Auditor (CIA, ACCA, CISA certified), I&rsquo;m responsible for evaluating internal controls, compliance, and risk management using BigLedger&rsquo;s audit trail and control features. I conduct operational, financial, and compliance reviews across all business processes to ensure regulatory adherence and operational efficiency.</p>
+<h2>1. Audit Trail and Documentation<span class="hx:absolute hx:-mt-20" id="1-audit-trail-and-documentation"></span>
+    <a href="#1-audit-trail-and-documentation" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>System Access and User Activity<span class="hx:absolute hx:-mt-20" id="system-access-and-user-activity"></span>
+    <a href="#system-access-and-user-activity" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Can BigLedger provide comprehensive audit trails showing who accessed what data, when, and from which location/device?</li>
+<li>How detailed are the user activity logs - do they capture view-only access, data modifications, and system administration activities?</li>
+<li>Can I track user sessions including login/logout times, concurrent sessions, and session timeout events?</li>
+<li>Are there reports showing unusual access patterns, such as after-hours activity or access from unusual locations?</li>
+</ul>
+<h3>Transaction Documentation and Workflow Tracking<span class="hx:absolute hx:-mt-20" id="transaction-documentation-and-workflow-tracking"></span>
+    <a href="#transaction-documentation-and-workflow-tracking" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I trace the complete lifecycle of a financial transaction from initiation to final posting?</li>
+<li>Does the system maintain version history for documents that have been modified, showing all changes and approvers?</li>
+<li>Can I track document workflows to verify that all required approvals were obtained before processing?</li>
+<li>Are there controls to prevent backdating of transactions, and can I identify any exceptions where this occurred?</li>
+</ul>
+<h3>Master Data Change Tracking<span class="hx:absolute hx:-mt-20" id="master-data-change-tracking"></span>
+    <a href="#master-data-change-tracking" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How comprehensive is the audit trail for changes to master data (customers, suppliers, items, chart of accounts)?</li>
+<li>Can I identify who made specific changes to pricing, credit limits, payment terms, or vendor banking details?</li>
+<li>Are there reports showing bulk changes to master data that might indicate potential data manipulation?</li>
+<li>How does the system handle and track emergency changes made outside normal approval processes?</li>
+</ul>
+<h3>Document Integrity and Storage<span class="hx:absolute hx:-mt-20" id="document-integrity-and-storage"></span>
+    <a href="#document-integrity-and-storage" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls ensure that supporting documents cannot be altered or deleted after transactions are posted?</li>
+<li>Can I verify that all required supporting documentation is attached to transactions before approval?</li>
+<li>How does the system handle document retention requirements and prevent unauthorized deletion?</li>
+<li>Are there checksums or digital signatures to verify document integrity over time?</li>
+</ul>
+<h2>2. Financial Controls and Segregation of Duties<span class="hx:absolute hx:-mt-20" id="2-financial-controls-and-segregation-of-duties"></span>
+    <a href="#2-financial-controls-and-segregation-of-duties" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Role-Based Access Controls<span class="hx:absolute hx:-mt-20" id="role-based-access-controls"></span>
+    <a href="#role-based-access-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that segregation of duties is properly implemented across key financial processes?</li>
+<li>Can I generate reports showing users who have conflicting permissions (e.g., ability to both create and approve purchase orders)?</li>
+<li>How does the system prevent privilege escalation or unauthorized role modifications?</li>
+<li>Are there controls to ensure that temporary permission grants are properly revoked when no longer needed?</li>
+</ul>
+<h3>Approval Workflow Controls<span class="hx:absolute hx:-mt-20" id="approval-workflow-controls"></span>
+    <a href="#approval-workflow-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What mechanisms prevent users from bypassing required approval workflows or self-approving transactions?</li>
+<li>Can I test that approval limits are properly enforced and that transactions above limits require additional authorization?</li>
+<li>How does the system handle situations where approvers are unavailable - are there proper delegation controls?</li>
+<li>Are there reports showing exceptions where normal approval processes were overridden, and who authorized these exceptions?</li>
+</ul>
+<h3>Journal Entry Controls<span class="hx:absolute hx:-mt-20" id="journal-entry-controls"></span>
+    <a href="#journal-entry-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls exist to prevent unauthorized journal entries or ensure proper documentation for all manual entries?</li>
+<li>Can I verify that all journal entries above certain thresholds require supervisor approval?</li>
+<li>How does the system prevent posting entries to closed periods, and who has authority to reopen periods?</li>
+<li>Are there automated controls to detect unusual journal entries (e.g., round numbers, large amounts, unusual account combinations)?</li>
+</ul>
+<h3>Three-Way Matching Controls<span class="hx:absolute hx:-mt-20" id="three-way-matching-controls"></span>
+    <a href="#three-way-matching-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I test the effectiveness of three-way matching between purchase orders, receipts, and invoices?</li>
+<li>What tolerance levels are configured for price and quantity variances, and who can approve exceptions?</li>
+<li>Can I identify instances where matching was bypassed or overridden, and verify proper authorization?</li>
+<li>Are there reports showing the aging of unmatched documents that might indicate control weaknesses?</li>
+</ul>
+<h2>3. Revenue Cycle Controls<span class="hx:absolute hx:-mt-20" id="3-revenue-cycle-controls"></span>
+    <a href="#3-revenue-cycle-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Sales Order Processing and Credit Management<span class="hx:absolute hx:-mt-20" id="sales-order-processing-and-credit-management"></span>
+    <a href="#sales-order-processing-and-credit-management" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that all sales orders go through proper credit approval processes before fulfillment?</li>
+<li>What controls prevent sales to customers who have exceeded credit limits or have overdue balances?</li>
+<li>Can I test that pricing is applied correctly according to approved price lists and discount matrices?</li>
+<li>How does the system handle special pricing arrangements, and are these properly authorized and documented?</li>
+</ul>
+<h3>Revenue Recognition and Billing Controls<span class="hx:absolute hx:-mt-20" id="revenue-recognition-and-billing-controls"></span>
+    <a href="#revenue-recognition-and-billing-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls ensure that revenue is recognized in the correct period according to delivery terms?</li>
+<li>Can I verify that all shipments are properly invoiced and that no goods leave without proper documentation?</li>
+<li>How does the system prevent duplicate billing or billing for unshipped goods?</li>
+<li>Are there automated controls to detect unusual revenue patterns that might indicate manipulation?</li>
+</ul>
+<h3>Customer Master Data Integrity<span class="hx:absolute hx:-mt-20" id="customer-master-data-integrity"></span>
+    <a href="#customer-master-data-integrity" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls prevent unauthorized changes to customer credit limits, payment terms, or pricing agreements?</li>
+<li>Can I identify who has authority to create new customers and verify that proper credit checks were performed?</li>
+<li>How does the system detect and prevent duplicate customer records that might enable fraud?</li>
+<li>Are there periodic reviews of customer master data to identify inactive or suspicious accounts?</li>
+</ul>
+<h3>Returns and Credit Processing<span class="hx:absolute hx:-mt-20" id="returns-and-credit-processing"></span>
+    <a href="#returns-and-credit-processing" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What approval processes are required for customer returns, refunds, and credit notes?</li>
+<li>Can I verify that all returns are properly authorized and that returned goods are received before credits are issued?</li>
+<li>How does the system prevent unauthorized credits or ensure that credit notes are supported by proper documentation?</li>
+<li>Are there controls to detect patterns of excessive returns that might indicate quality issues or fraud?</li>
+</ul>
+<h2>4. Procurement and Expenditure Controls<span class="hx:absolute hx:-mt-20" id="4-procurement-and-expenditure-controls"></span>
+    <a href="#4-procurement-and-expenditure-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Purchase Authorization and Approval<span class="hx:absolute hx:-mt-20" id="purchase-authorization-and-approval"></span>
+    <a href="#purchase-authorization-and-approval" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that all purchases are properly authorized according to established approval limits?</li>
+<li>What controls prevent splitting of purchase orders to circumvent approval requirements?</li>
+<li>Can I test that emergency purchases receive proper post-approval review and documentation?</li>
+<li>How does the system ensure that capital expenditures follow different approval processes than operational expenses?</li>
+</ul>
+<h3>Vendor Master Data and Payment Controls<span class="hx:absolute hx:-mt-20" id="vendor-master-data-and-payment-controls"></span>
+    <a href="#vendor-master-data-and-payment-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls prevent unauthorized creation of vendors or changes to vendor banking information?</li>
+<li>Can I identify potential duplicate vendors that might be used for fraudulent payments?</li>
+<li>How does the system detect and prevent duplicate payments to the same vendor for the same invoice?</li>
+<li>Are there automated controls to flag payments to new vendors or changes in payment methods?</li>
+</ul>
+<h3>Contract Compliance and Price Monitoring<span class="hx:absolute hx:-mt-20" id="contract-compliance-and-price-monitoring"></span>
+    <a href="#contract-compliance-and-price-monitoring" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that purchases comply with negotiated contract terms and pricing agreements?</li>
+<li>What tools help identify purchases made outside of approved vendor contracts?</li>
+<li>Can I monitor price variances to detect potential vendor fraud or contract violations?</li>
+<li>How does the system track contract expiration dates and ensure timely renewals or rebidding?</li>
+</ul>
+<h3>Expense Management Controls<span class="hx:absolute hx:-mt-20" id="expense-management-controls"></span>
+    <a href="#expense-management-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What approval workflows are required for employee expense reports, and how are these enforced?</li>
+<li>Can I verify that expense reports include required supporting documentation before reimbursement?</li>
+<li>How does the system detect duplicate expense claims or potentially fraudulent expenses?</li>
+<li>Are there automated controls to flag expenses that exceed policy limits or appear unusual?</li>
+</ul>
+<h2>5. Inventory and Asset Management Controls<span class="hx:absolute hx:-mt-20" id="5-inventory-and-asset-management-controls"></span>
+    <a href="#5-inventory-and-asset-management-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Physical Inventory and Cycle Counting<span class="hx:absolute hx:-mt-20" id="physical-inventory-and-cycle-counting"></span>
+    <a href="#physical-inventory-and-cycle-counting" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that physical inventory counts are properly documented and reconciled to system records?</li>
+<li>What controls ensure that inventory adjustments are properly authorized and supported by documentation?</li>
+<li>Can I track the frequency and accuracy of cycle counts to assess inventory control effectiveness?</li>
+<li>How does the system handle and track inventory in transit or held by third parties?</li>
+</ul>
+<h3>Inventory Valuation and Movement Controls<span class="hx:absolute hx:-mt-20" id="inventory-valuation-and-movement-controls"></span>
+    <a href="#inventory-valuation-and-movement-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls prevent unauthorized inventory movements or ensure proper documentation of transfers?</li>
+<li>Can I verify that inventory costing methods are consistently applied and properly configured?</li>
+<li>How does the system identify and track slow-moving, obsolete, or damaged inventory?</li>
+<li>Are there controls to ensure proper cutoff procedures for inventory transactions at period-end?</li>
+</ul>
+<h3>Asset Management and Depreciation<span class="hx:absolute hx:-mt-20" id="asset-management-and-depreciation"></span>
+    <a href="#asset-management-and-depreciation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that fixed asset additions are properly authorized and classified?</li>
+<li>What controls prevent unauthorized asset disposals or ensure proper approval and documentation?</li>
+<li>Can I test that depreciation calculations are accurate and consistently applied?</li>
+<li>How does the system track asset locations and ensure accountability for high-value items?</li>
+</ul>
+<h3>Warehouse and Security Controls<span class="hx:absolute hx:-mt-20" id="warehouse-and-security-controls"></span>
+    <a href="#warehouse-and-security-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls restrict physical access to inventory storage areas and track personnel entry?</li>
+<li>Can I verify that inventory receipts and shipments are properly documented and authorized?</li>
+<li>How does the system handle and track consignment inventory or goods held for third parties?</li>
+<li>Are there controls to prevent unauthorized removal of inventory or detect theft?</li>
+</ul>
+<h2>6. Cash Management and Banking Controls<span class="hx:absolute hx:-mt-20" id="6-cash-management-and-banking-controls"></span>
+    <a href="#6-cash-management-and-banking-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Bank Reconciliation and Cash Controls<span class="hx:absolute hx:-mt-20" id="bank-reconciliation-and-cash-controls"></span>
+    <a href="#bank-reconciliation-and-cash-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that bank reconciliations are performed timely and reviewed by independent personnel?</li>
+<li>What controls ensure that all bank accounts are properly recorded and reconciled in the system?</li>
+<li>Can I identify and investigate outstanding reconciling items that have been unresolved for extended periods?</li>
+<li>How does the system detect and prevent unauthorized electronic funds transfers or check issuance?</li>
+</ul>
+<h3>Cash Receipt and Deposit Controls<span class="hx:absolute hx:-mt-20" id="cash-receipt-and-deposit-controls"></span>
+    <a href="#cash-receipt-and-deposit-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls ensure that all cash receipts are properly recorded and deposited intact and timely?</li>
+<li>Can I verify segregation of duties between cash collection, recording, and reconciliation functions?</li>
+<li>How does the system track and account for cash receipts from multiple sources (mail, electronic, counter)?</li>
+<li>Are there controls to prevent lapping or other cash manipulation schemes?</li>
+</ul>
+<h3>Payment Authorization and Processing<span class="hx:absolute hx:-mt-20" id="payment-authorization-and-processing"></span>
+    <a href="#payment-authorization-and-processing" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What approval levels are required for different types and amounts of cash disbursements?</li>
+<li>Can I verify that all payments are supported by proper documentation and authorization?</li>
+<li>How does the system prevent unauthorized payments or ensure that payments are made to legitimate vendors?</li>
+<li>Are there controls to detect and prevent check fraud or unauthorized electronic transfers?</li>
+</ul>
+<h3>Petty Cash and Cash Handling<span class="hx:absolute hx:-mt-20" id="petty-cash-and-cash-handling"></span>
+    <a href="#petty-cash-and-cash-handling" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls govern petty cash funds, including authorization, documentation, and reconciliation?</li>
+<li>Can I verify that cash handling procedures are properly documented and followed?</li>
+<li>How does the system track and limit petty cash transactions to prevent abuse?</li>
+<li>Are there periodic surprise counts and reconciliations of all cash funds?</li>
+</ul>
+<h2>7. Data Security and Access Controls<span class="hx:absolute hx:-mt-20" id="7-data-security-and-access-controls"></span>
+    <a href="#7-data-security-and-access-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>User Access Management<span class="hx:absolute hx:-mt-20" id="user-access-management"></span>
+    <a href="#user-access-management" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I audit user access rights to ensure they align with job responsibilities and segregation of duties requirements?</li>
+<li>What controls govern the provisioning and deprovisioning of user accounts when employees join, change roles, or leave?</li>
+<li>Can I identify dormant accounts or users with excessive permissions that pose security risks?</li>
+<li>How does the system handle and track shared accounts or service accounts used by multiple users?</li>
+</ul>
+<h3>Authentication and Password Controls<span class="hx:absolute hx:-mt-20" id="authentication-and-password-controls"></span>
+    <a href="#authentication-and-password-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What password policies are enforced, and how can I verify their effectiveness?</li>
+<li>Can I test multi-factor authentication requirements for privileged users or sensitive transactions?</li>
+<li>How does the system handle account lockouts after failed login attempts, and who can unlock accounts?</li>
+<li>Are there controls to prevent password sharing or detect compromised credentials?</li>
+</ul>
+<h3>Data Protection and Privacy Controls<span class="hx:absolute hx:-mt-20" id="data-protection-and-privacy-controls"></span>
+    <a href="#data-protection-and-privacy-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls prevent unauthorized export or downloading of sensitive financial data?</li>
+<li>Can I verify that data encryption is properly implemented for data at rest and in transit?</li>
+<li>How does the system handle and track access to personally identifiable information (PII)?</li>
+<li>Are there controls to ensure compliance with data protection regulations like PDPA?</li>
+</ul>
+<h3>System Monitoring and Incident Response<span class="hx:absolute hx:-mt-20" id="system-monitoring-and-incident-response"></span>
+    <a href="#system-monitoring-and-incident-response" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What monitoring tools detect and alert on security incidents or suspicious activities?</li>
+<li>Can I review logs of failed access attempts, privilege escalations, or unusual system behavior?</li>
+<li>How does the system handle and track security incidents, including investigation and remediation?</li>
+<li>Are there automated controls to detect and respond to potential data breaches?</li>
+</ul>
+<h2>8. Compliance and Regulatory Adherence<span class="hx:absolute hx:-mt-20" id="8-compliance-and-regulatory-adherence"></span>
+    <a href="#8-compliance-and-regulatory-adherence" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Tax Compliance and Reporting<span class="hx:absolute hx:-mt-20" id="tax-compliance-and-reporting"></span>
+    <a href="#tax-compliance-and-reporting" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that SST calculations are accurate and comply with Malaysian tax regulations?</li>
+<li>What controls ensure that tax returns are filed timely and include all required information?</li>
+<li>Can I test compliance with e-invoicing requirements under the MyInvois system?</li>
+<li>How does the system handle and track tax exemptions or special tax treatments?</li>
+</ul>
+<h3>Financial Reporting and Standards Compliance<span class="hx:absolute hx:-mt-20" id="financial-reporting-and-standards-compliance"></span>
+    <a href="#financial-reporting-and-standards-compliance" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls ensure compliance with Malaysian Financial Reporting Standards (MFRS)?</li>
+<li>Can I verify that financial statements are prepared accurately and include all required disclosures?</li>
+<li>How does the system handle and track related party transactions and other special disclosures?</li>
+<li>Are there controls to ensure consistency in accounting policies and estimates across periods?</li>
+</ul>
+<h3>Regulatory Reporting and Documentation<span class="hx:absolute hx:-mt-20" id="regulatory-reporting-and-documentation"></span>
+    <a href="#regulatory-reporting-and-documentation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What tools help prepare regulatory reports required by various authorities?</li>
+<li>Can I verify that all required regulatory filings are submitted timely and accurately?</li>
+<li>How does the system maintain documentation to support regulatory compliance?</li>
+<li>Are there controls to ensure proper record retention according to regulatory requirements?</li>
+</ul>
+<h3>Policy Compliance and Ethics<span class="hx:absolute hx:-mt-20" id="policy-compliance-and-ethics"></span>
+    <a href="#policy-compliance-and-ethics" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I monitor compliance with company policies and procedures?</li>
+<li>What tools help detect and investigate potential violations of ethics policies?</li>
+<li>Can I verify that employees receive required training and acknowledge policy updates?</li>
+<li>How does the system handle and track whistleblower reports and their investigation?</li>
+</ul>
+<h2>9. System Configuration and Change Management<span class="hx:absolute hx:-mt-20" id="9-system-configuration-and-change-management"></span>
+    <a href="#9-system-configuration-and-change-management" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>System Parameter and Configuration Controls<span class="hx:absolute hx:-mt-20" id="system-parameter-and-configuration-controls"></span>
+    <a href="#system-parameter-and-configuration-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls govern changes to system parameters, configuration settings, and user roles?</li>
+<li>Can I track who made configuration changes and verify that these were properly authorized?</li>
+<li>How does the system handle emergency changes, and are these subject to post-implementation review?</li>
+<li>Are there controls to ensure that configuration changes are tested before implementation?</li>
+</ul>
+<h3>Software Updates and Patch Management<span class="hx:absolute hx:-mt-20" id="software-updates-and-patch-management"></span>
+    <a href="#software-updates-and-patch-management" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What processes govern the installation of software updates, patches, and new features?</li>
+<li>Can I verify that all changes are properly tested and approved before deployment to production?</li>
+<li>How does the system handle rollback procedures if changes cause issues?</li>
+<li>Are there controls to ensure that security patches are installed timely?</li>
+</ul>
+<h3>Data Migration and Integration Controls<span class="hx:absolute hx:-mt-20" id="data-migration-and-integration-controls"></span>
+    <a href="#data-migration-and-integration-controls" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls govern data migrations during system upgrades or integrations?</li>
+<li>Can I verify the accuracy and completeness of migrated data?</li>
+<li>How does the system handle and track data integration with third-party systems?</li>
+<li>Are there controls to ensure data integrity during export and import processes?</li>
+</ul>
+<h3>Backup and Disaster Recovery<span class="hx:absolute hx:-mt-20" id="backup-and-disaster-recovery"></span>
+    <a href="#backup-and-disaster-recovery" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls ensure that regular backups are performed and can be successfully restored?</li>
+<li>Can I verify that disaster recovery procedures are tested periodically and documented?</li>
+<li>How does the system handle business continuity during system outages or disasters?</li>
+<li>Are there controls to ensure that backup data is protected and stored securely?</li>
+</ul>
+<h2>10. Management Reporting and Decision Support<span class="hx:absolute hx:-mt-20" id="10-management-reporting-and-decision-support"></span>
+    <a href="#10-management-reporting-and-decision-support" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Report Accuracy and Completeness<span class="hx:absolute hx:-mt-20" id="report-accuracy-and-completeness"></span>
+    <a href="#report-accuracy-and-completeness" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>How can I verify that management reports accurately reflect underlying transaction data?</li>
+<li>What controls ensure that automated calculations in reports are correct and consistently applied?</li>
+<li>Can I test that all relevant data is included in reports and that nothing is omitted?</li>
+<li>How does the system handle and track manual adjustments to report data?</li>
+</ul>
+<h3>Key Performance Indicators and Dashboards<span class="hx:absolute hx:-mt-20" id="key-performance-indicators-and-dashboards"></span>
+    <a href="#key-performance-indicators-and-dashboards" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls ensure that KPIs are calculated correctly and based on reliable data?</li>
+<li>Can I verify that dashboard metrics are updated timely and accurately reflect current performance?</li>
+<li>How does the system handle and track threshold alerts and exception reporting?</li>
+<li>Are there controls to prevent manipulation of performance metrics?</li>
+</ul>
+<h3>Budget and Variance Analysis<span class="hx:absolute hx:-mt-20" id="budget-and-variance-analysis"></span>
+    <a href="#budget-and-variance-analysis" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls govern the budget preparation process and ensure accuracy of budget data?</li>
+<li>Can I verify that variance analysis is performed correctly and investigates significant differences?</li>
+<li>How does the system handle budget revisions and ensure proper authorization?</li>
+<li>Are there controls to ensure that budget vs. actual comparisons are meaningful and accurate?</li>
+</ul>
+<h3>Financial Statement Preparation<span class="hx:absolute hx:-mt-20" id="financial-statement-preparation"></span>
+    <a href="#financial-statement-preparation" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What automated controls support the financial statement preparation process?</li>
+<li>Can I verify that all necessary adjusting entries are made before financial statement generation?</li>
+<li>How does the system ensure that financial statements are mathematically accurate and balanced?</li>
+<li>Are there controls to ensure proper review and approval of financial statements before release?</li>
+</ul>
+<h2>11. Fraud Detection and Prevention<span class="hx:absolute hx:-mt-20" id="11-fraud-detection-and-prevention"></span>
+    <a href="#11-fraud-detection-and-prevention" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Automated Fraud Detection<span class="hx:absolute hx:-mt-20" id="automated-fraud-detection"></span>
+    <a href="#automated-fraud-detection" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What automated controls help identify potentially fraudulent transactions or patterns?</li>
+<li>Can the system detect unusual vendor relationships, duplicate payments, or suspicious transactions?</li>
+<li>How does the system identify transactions that bypass normal controls or approval processes?</li>
+<li>Are there algorithms to detect anomalies in financial data that might indicate fraud?</li>
+</ul>
+<h3>Vendor and Customer Fraud Prevention<span class="hx:absolute hx:-mt-20" id="vendor-and-customer-fraud-prevention"></span>
+    <a href="#vendor-and-customer-fraud-prevention" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What controls prevent the creation of fictitious vendors or customers for fraudulent purposes?</li>
+<li>Can I identify potential conflicts of interest between employees and vendors/customers?</li>
+<li>How does the system detect and prevent vendor master data manipulation?</li>
+<li>Are there controls to identify unusual patterns in vendor payments or customer receipts?</li>
+</ul>
+<h3>Employee Fraud Detection<span class="hx:absolute hx:-mt-20" id="employee-fraud-detection"></span>
+    <a href="#employee-fraud-detection" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What tools help identify potential employee fraud, such as expense account abuse or payroll manipulation?</li>
+<li>Can I monitor for unusual access patterns or transactions performed by employees?</li>
+<li>How does the system detect potential conflicts of interest or related party transactions?</li>
+<li>Are there controls to identify employees who consistently override system controls?</li>
+</ul>
+<h3>Investigation and Reporting<span class="hx:absolute hx:-mt-20" id="investigation-and-reporting"></span>
+    <a href="#investigation-and-reporting" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What tools support fraud investigation and evidence gathering?</li>
+<li>Can I preserve audit trails and system data for forensic analysis?</li>
+<li>How does the system handle and track whistleblower reports and their investigation?</li>
+<li>Are there controls to ensure proper escalation and reporting of suspected fraud?</li>
+</ul>
+<h2>12. Continuous Monitoring and Data Analytics<span class="hx:absolute hx:-mt-20" id="12-continuous-monitoring-and-data-analytics"></span>
+    <a href="#12-continuous-monitoring-and-data-analytics" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Risk-Based Continuous Monitoring<span class="hx:absolute hx:-mt-20" id="risk-based-continuous-monitoring"></span>
+    <a href="#risk-based-continuous-monitoring" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What tools support continuous monitoring of key risk areas and control processes?</li>
+<li>Can I set up automated monitoring rules to detect control failures or exceptions?</li>
+<li>How does the system prioritize monitoring activities based on risk assessment?</li>
+<li>Are there dashboards that provide real-time visibility into control effectiveness?</li>
+</ul>
+<h3>Data Analytics and Anomaly Detection<span class="hx:absolute hx:-mt-20" id="data-analytics-and-anomaly-detection"></span>
+    <a href="#data-analytics-and-anomaly-detection" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What data analytics capabilities help identify unusual patterns or outliers in financial data?</li>
+<li>Can I perform trend analysis to identify changes in business patterns that might indicate issues?</li>
+<li>How does the system support statistical sampling and testing of large populations?</li>
+<li>Are there machine learning capabilities to improve fraud detection over time?</li>
+</ul>
+<h3>Exception Reporting and Alerting<span class="hx:absolute hx:-mt-20" id="exception-reporting-and-alerting"></span>
+    <a href="#exception-reporting-and-alerting" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What exception reports are available to identify transactions that require further investigation?</li>
+<li>Can I configure automated alerts for specific risk scenarios or control failures?</li>
+<li>How does the system handle and track the resolution of exceptions and alerts?</li>
+<li>Are there escalation procedures for unresolved exceptions or repeated control failures?</li>
+</ul>
+<h3>Audit Planning and Execution Support<span class="hx:absolute hx:-mt-20" id="audit-planning-and-execution-support"></span>
+    <a href="#audit-planning-and-execution-support" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>What tools help plan audit activities based on risk assessment and prior audit results?</li>
+<li>Can I track audit findings and their resolution status over time?</li>
+<li>How does the system support audit sampling and testing procedures?</li>
+<li>Are there templates and workflows to standardize audit procedures and documentation?</li>
+</ul>
+<h2>Key Evaluation Criteria<span class="hx:absolute hx:-mt-20" id="key-evaluation-criteria"></span>
+    <a href="#key-evaluation-criteria" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>When evaluating BigLedger&rsquo;s audit and control capabilities, I will focus on:</p>
+<h3>System-Generated Evidence<span class="hx:absolute hx:-mt-20" id="system-generated-evidence"></span>
+    <a href="#system-generated-evidence" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Completeness and reliability of audit trails</li>
+<li>Automated documentation of control processes</li>
+<li>Real-time monitoring and alerting capabilities</li>
+<li>Integration between different system modules</li>
+</ul>
+<h3>Control Effectiveness<span class="hx:absolute hx:-mt-20" id="control-effectiveness"></span>
+    <a href="#control-effectiveness" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Preventive vs. detective control mechanisms</li>
+<li>Exception handling and override procedures</li>
+<li>Segregation of duties enforcement</li>
+<li>Authorization and approval workflows</li>
+</ul>
+<h3>Risk Management<span class="hx:absolute hx:-mt-20" id="risk-management"></span>
+    <a href="#risk-management" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Risk assessment and monitoring tools</li>
+<li>Fraud detection and prevention capabilities</li>
+<li>Compliance monitoring and reporting</li>
+<li>Business continuity and disaster recovery</li>
+</ul>
+<h3>Regulatory Compliance<span class="hx:absolute hx:-mt-20" id="regulatory-compliance"></span>
+    <a href="#regulatory-compliance" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Malaysian regulatory requirement adherence</li>
+<li>Financial reporting standard compliance</li>
+<li>Tax and e-invoicing compliance</li>
+<li>Data protection and privacy controls</li>
+</ul>
+<h3>Audit Efficiency<span class="hx:absolute hx:-mt-20" id="audit-efficiency"></span>
+    <a href="#audit-efficiency" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
+<li>Data analytics and continuous monitoring</li>
+<li>Automated testing and sampling capabilities</li>
+<li>Standardized audit procedures and documentation</li>
+<li>Management reporting and dashboard capabilities</li>
+</ul>
+<p>This comprehensive evaluation will help determine BigLedger&rsquo;s suitability for supporting modern internal audit functions in Malaysian businesses, ensuring robust control environments and regulatory compliance.</p>
+
+    </div>
+  </div>
+</article>
+
+  </main>
+
+  <footer class="corporate-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-column">
+        <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger - Complete Business Management Platform" height="32" style="margin-bottom: 16px;">
+        <p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p>
+      </div>
+      <div class="footer-column">
+        <h4>Product</h4>
+        <ul>
+          <li><a href="http://localhost:1313/solutions">Solutions</a></li>
+          <li><a href="http://localhost:1313/pricing">Pricing</a></li>
+          <li><a href="http://localhost:1313/developers">Developers</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="http://localhost:1313/about">About</a></li>
+          <li><a href="http://localhost:1313/contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Connect</h4>
+        <ul>
+          
+          <li><a href="https://github.com/bigledger" target="_blank">Github</a></li>
+          
+          <li><a href="https://twitter.com/bigledger" target="_blank">Twitter</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 BigLedger. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
