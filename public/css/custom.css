@@ -1,17 +1,23 @@
 /* BigLedger - Modern Technology Platform Styling */
 
 :root {
-  /* Brand Colors - Technology Blue Theme */
-  --primary-blue: #2563EB;          /* Modern tech blue */
-  --primary-blue-light: #3B82F6;    /* Lighter blue for hover */
-  --primary-blue-dark: #1E40AF;     /* Darker blue for accents */
-  --primary-blue-soft: #DBEAFE;     /* Very light blue background */
-  --primary-blue-glow: rgba(37, 99, 235, 0.15);
+  /* Brand Colors - BigLedger Red & White Theme */
+  --primary: #DC2626;               /* Bright red - main brand color */
+  --primary-red: #DC2626;           /* Bright red */
+  --primary-red-light: #EF4444;     /* Lighter red for hover */
+  --primary-red-dark: #991B1B;      /* Dark red for accents */
+  --primary-red-soft: #FEE2E2;      /* Very light red/pink background */
+  --primary-red-glow: rgba(220, 38, 38, 0.15);
+
+  /* Additional Red Shades */
+  --red-deep: #7F1D1D;              /* Deep dark red */
+  --red-medium: #B91C1C;            /* Medium red */
+  --red-vibrant: #F87171;           /* Vibrant light red */
 
   /* Accent Colors */
-  --accent-cyan: #06B6D4;
-  --accent-purple: #8B5CF6;
-  --accent-green: #10B981;
+  --accent-crimson: #BE123C;        /* Crimson accent */
+  --accent-rose: #FB7185;           /* Rose accent */
+  --accent-gray-red: #64748B;       /* Muted gray-blue for contrast */
 
   /* Neutral Colors - High Contrast */
   --white: #FFFFFF;
@@ -41,7 +47,7 @@
   --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
   --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
   --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
-  --shadow-glow: 0 0 20px var(--primary-blue-glow);
+  --shadow-glow: 0 0 20px var(--primary-red-glow);
 }
 
 /* Force light theme with smooth transitions */
@@ -70,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--accent-purple) 100%);
+  background: linear-gradient(135deg, var(--primary-red) 0%, var(--primary-red-dark) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -79,7 +85,7 @@ h1 {
 }
 
 h2 {
-  color: var(--primary-blue-dark) !important;
+  color: var(--primary-red-dark) !important;
   position: relative;
   padding-bottom: 0.5rem;
 }
@@ -91,7 +97,7 @@ h2::after {
   bottom: 0;
   width: 60px;
   height: 3px;
-  background: linear-gradient(90deg, var(--primary-blue), var(--accent-cyan));
+  background: linear-gradient(90deg, var(--primary-red), var(--accent-crimson));
   border-radius: 2px;
 }
 
@@ -106,7 +112,8 @@ code, pre {
   width: auto;
   max-width: 200px;
   object-fit: contain;
-  filter: brightness(0) saturate(100%) invert(22%) sepia(95%) saturate(2444%) hue-rotate(217deg) brightness(95%) contrast(94%);
+  /* Red filter for logo */
+  filter: brightness(0) saturate(100%) invert(18%) sepia(95%) saturate(6945%) hue-rotate(355deg) brightness(95%) contrast(90%);
 }
 
 /* Navbar with glassmorphism */
@@ -135,7 +142,7 @@ code, pre {
   left: 0;
   width: 0;
   height: 2px;
-  background: linear-gradient(90deg, var(--primary-blue), var(--accent-cyan));
+  background: linear-gradient(90deg, var(--primary-red), var(--accent-crimson));
   transition: width 0.3s ease;
 }
 
@@ -144,7 +151,7 @@ code, pre {
 }
 
 .navbar a:hover {
-  color: var(--primary-blue) !important;
+  color: var(--primary-red) !important;
 }
 
 /* Cards with modern effects */
@@ -165,7 +172,7 @@ code, pre {
   left: 0;
   right: 0;
   height: 3px;
-  background: linear-gradient(90deg, var(--primary-blue), var(--accent-cyan), var(--accent-purple));
+  background: linear-gradient(90deg, var(--primary-red), var(--accent-crimson), var(--accent-rose));
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -175,19 +182,19 @@ code, pre {
 }
 
 .hextra-card:hover, .card:hover {
-  border-color: var(--primary-blue-soft) !important;
+  border-color: var(--primary-red-soft) !important;
   box-shadow: var(--shadow-xl), var(--shadow-glow);
   transform: translateY(-4px) scale(1.02);
 }
 
 .hextra-card h3, .card h3 {
-  color: var(--primary-blue-dark) !important;
+  color: var(--primary-red-dark) !important;
   font-weight: 600;
 }
 
 /* Buttons with gradient & animations */
 .hextra-button, button, .btn {
-  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%) !important;
+  background: linear-gradient(135deg, var(--primary-red) 0%, var(--primary-red-dark) 100%) !important;
   color: var(--white) !important;
   border: none;
   border-radius: 8px;
@@ -227,7 +234,7 @@ pre {
   background: var(--gray-900) !important;
   border: 1px solid var(--gray-700) !important;
   border-radius: 8px;
-  border-left: 4px solid var(--accent-cyan) !important;
+  border-left: 4px solid var(--accent-crimson) !important;
   padding: 1.5rem;
   overflow-x: auto;
   box-shadow: var(--shadow-md);
@@ -239,8 +246,8 @@ pre code {
 }
 
 code {
-  background: var(--primary-blue-soft) !important;
-  color: var(--primary-blue-dark) !important;
+  background: var(--primary-red-soft) !important;
+  color: var(--primary-red-dark) !important;
   padding: 0.2em 0.5em;
   border-radius: 4px;
   font-size: 0.9em;
@@ -257,20 +264,20 @@ table {
 }
 
 thead {
-  background: linear-gradient(135deg, var(--primary-blue-soft) 0%, var(--accent-cyan) 5%, var(--primary-blue-soft) 100%) !important;
+  background: linear-gradient(135deg, var(--primary-red-soft) 0%, var(--accent-rose) 5%, var(--primary-red-soft) 100%) !important;
 }
 
 th {
-  color: var(--primary-blue-dark) !important;
+  color: var(--primary-red-dark) !important;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 0.85rem;
   letter-spacing: 0.05em;
-  border-bottom: 2px solid var(--primary-blue) !important;
+  border-bottom: 2px solid var(--primary-red) !important;
 }
 
 tr:hover {
-  background: var(--primary-blue-soft) !important;
+  background: var(--primary-red-soft) !important;
   transition: background 0.2s ease;
 }
 
@@ -290,15 +297,15 @@ tr:hover {
 }
 
 .sidebar a:hover, aside a:hover {
-  color: var(--primary-blue) !important;
-  background: var(--primary-blue-soft) !important;
+  color: var(--primary-red) !important;
+  background: var(--primary-red-soft) !important;
   transform: translateX(4px);
 }
 
 .sidebar a.active, aside a.active {
-  color: var(--primary-blue) !important;
-  background: var(--primary-blue-soft) !important;
-  border-left: 3px solid var(--primary-blue) !important;
+  color: var(--primary-red) !important;
+  background: var(--primary-red-soft) !important;
+  border-left: 3px solid var(--primary-red) !important;
   font-weight: 600;
 }
 
@@ -313,16 +320,16 @@ tr:hover {
 }
 
 .search-input:focus, input[type="search"]:focus, .hextra-search-input:focus {
-  border-color: var(--primary-blue) !important;
-  box-shadow: 0 0 0 4px var(--primary-blue-glow) !important;
+  border-color: var(--primary-red) !important;
+  box-shadow: 0 0 0 4px var(--primary-red-glow) !important;
   outline: none !important;
   background: var(--white) !important;
 }
 
 /* Callouts with icons */
 .callout {
-  background: var(--primary-blue-soft) !important;
-  border-left: 4px solid var(--primary-blue) !important;
+  background: var(--primary-red-soft) !important;
+  border-left: 4px solid var(--primary-red) !important;
   border-radius: 8px;
   padding: 1rem 1.5rem;
   color: var(--text-primary) !important;
@@ -335,7 +342,7 @@ tr:hover {
   position: absolute;
   left: -12px;
   top: 1rem;
-  background: var(--primary-blue);
+  background: var(--primary-red);
   color: white;
   width: 24px;
   height: 24px;
@@ -348,7 +355,7 @@ tr:hover {
 
 /* Hero section with gradient */
 .hextra-hero {
-  background: linear-gradient(135deg, var(--primary-blue-soft) 0%, var(--white) 50%, var(--primary-blue-soft) 100%) !important;
+  background: linear-gradient(135deg, var(--primary-red-soft) 0%, var(--white) 50%, var(--primary-red-soft) 100%) !important;
   position: relative;
   overflow: hidden;
 }
@@ -360,7 +367,7 @@ tr:hover {
   left: -50%;
   width: 200%;
   height: 200%;
-  background: radial-gradient(circle, var(--primary-blue-glow) 0%, transparent 70%);
+  background: radial-gradient(circle, var(--primary-red-glow) 0%, transparent 70%);
   animation: pulse 8s ease-in-out infinite;
 }
 
@@ -397,12 +404,12 @@ footer a:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, var(--primary-blue), var(--accent-cyan));
+  background: linear-gradient(180deg, var(--primary-red), var(--accent-crimson));
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, var(--primary-blue-dark), var(--accent-cyan));
+  background: linear-gradient(180deg, var(--primary-red-dark), var(--accent-crimson));
 }
 
 /* Animations */
@@ -437,8 +444,8 @@ footer a:hover {
 .badge, .tag {
   display: inline-block;
   padding: 0.25rem 0.75rem;
-  background: var(--primary-blue-soft);
-  color: var(--primary-blue-dark);
+  background: var(--primary-red-soft);
+  color: var(--primary-red-dark);
   border-radius: 999px;
   font-size: 0.875rem;
   font-weight: 600;
@@ -556,7 +563,7 @@ footer a:hover {
   left: 0;
   width: 0;
   height: 2px;
-  background: linear-gradient(90deg, var(--primary-blue), var(--accent-cyan));
+  background: linear-gradient(90deg, var(--primary-red), var(--accent-crimson));
   transition: width 0.3s ease;
 }
 
@@ -566,11 +573,11 @@ footer a:hover {
 }
 
 .nav-link:hover {
-  color: var(--primary-blue);
+  color: var(--primary-red);
 }
 
 .nav-cta .btn-primary {
-  background: linear-gradient(135deg, var(--primary-blue), var(--primary-blue-dark));
+  background: linear-gradient(135deg, var(--primary-red), var(--primary-red-dark));
   color: white;
   padding: 10px 24px;
   border-radius: 8px;
@@ -578,12 +585,12 @@ footer a:hover {
   font-weight: 600;
   font-size: 14px;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.2);
+  box-shadow: 0 2px 8px rgba(220, 38, 38, 0.2);
 }
 
 .nav-cta .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.3);
 }
 
 /* Corporate Footer */
@@ -651,7 +658,7 @@ footer a:hover {
 .hero {
   text-align: center;
   padding: 120px 0 80px;
-  background: linear-gradient(135deg, var(--primary-blue-soft) 0%, var(--white) 100%);
+  background: linear-gradient(135deg, var(--primary-red-soft) 0%, var(--white) 100%);
   position: relative;
   overflow: hidden;
 }
@@ -663,7 +670,7 @@ footer a:hover {
   right: -10%;
   width: 600px;
   height: 600px;
-  background: radial-gradient(circle, var(--primary-blue-glow) 0%, transparent 70%);
+  background: radial-gradient(circle, var(--primary-red-glow) 0%, transparent 70%);
   animation: float 8s ease-in-out infinite;
 }
 
@@ -676,7 +683,7 @@ footer a:hover {
   font-size: 56px;
   line-height: 1.1;
   margin-bottom: 24px;
-  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--accent-purple) 100%);
+  background: linear-gradient(135deg, var(--primary-red) 0%, var(--red-deep) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -709,24 +716,24 @@ footer a:hover {
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, var(--primary-blue), var(--primary-blue-dark));
+  background: linear-gradient(135deg, var(--primary-red), var(--primary-red-dark));
   color: white;
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.3);
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(37, 99, 235, 0.4);
+  box-shadow: 0 6px 16px rgba(220, 38, 38, 0.4);
 }
 
 .btn-secondary {
   background: white;
-  color: var(--primary-blue);
-  border: 2px solid var(--primary-blue);
+  color: var(--primary-red);
+  border: 2px solid var(--primary-red);
 }
 
 .btn-secondary:hover {
-  background: var(--primary-blue-soft);
+  background: var(--primary-red-soft);
 }
 
 /* Feature Grid */
@@ -774,7 +781,7 @@ footer a:hover {
   left: 0;
   right: 0;
   height: 3px;
-  background: linear-gradient(90deg, var(--primary-blue), var(--accent-cyan));
+  background: linear-gradient(90deg, var(--primary-red), var(--accent-crimson));
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
@@ -796,7 +803,7 @@ footer a:hover {
 .feature-card h3 {
   font-size: 20px;
   margin-bottom: 12px;
-  color: var(--primary-blue-dark) !important;
+  color: var(--primary-red-dark) !important;
 }
 
 .feature-card p {
