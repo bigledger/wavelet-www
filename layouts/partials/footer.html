@@ -1,0 +1,36 @@
+<footer class="corporate-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-column">
+        <img src="{{ "images/bigledger-logo-cropped.png" | relURL }}" alt="{{ .Site.Title }}" height="32" style="margin-bottom: 16px;">
+        <p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p>
+      </div>
+      <div class="footer-column">
+        <h4>Product</h4>
+        <ul>
+          <li><a href="/solutions">Solutions</a></li>
+          <li><a href="/pricing">Pricing</a></li>
+          <li><a href="/developers">Developers</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Connect</h4>
+        <ul>
+          {{ range .Site.Params.socialLinks }}
+          <li><a href="{{ .link }}" target="_blank">{{ .icon | title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ now.Year }} BigLedger. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

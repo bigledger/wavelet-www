@@ -77,32 +77,21 @@ params:
     displayPoweredBy: false  # Remove Hextra branding
     width: wide
     
-  # Edit this page
+  # Edit this page - DISABLED for corporate site
   editURL:
-    enable: true
-    base: "https://github.com/bigledger/blg-www/edit/main/content"
-    
-  # Search
+    enable: false
+
+  # Search - DISABLED for corporate site
   search:
-    enable: true
-    type: flexsearch
-      
-  # Sidebar
+    enable: false
+
+  # Sidebar - DISABLED for corporate site
   sidebar:
-    enable: true
-    fold: false
-    showPages: true      # Show all pages in sidebar
-    showCategories: true # Show category organization
-    showTags: false     # Hide tags in sidebar
-    forceEnable: true   # Force sidebar on all pages
-    
-  # Table of contents
+    enable: false
+
+  # Table of contents - DISABLED for corporate site
   toc:
-    enable: true
-    headingLevel: 3
-    startLevel: 2       # Start from H2 headings
-    endLevel: 4         # Show up to H4 headings
-    ordered: false      # Use bullets instead of numbers
+    enable: false
     
   # Comments
   comments:
@@ -123,109 +112,38 @@ params:
   custom_css:
     - css/custom.css
 
-# Menu configuration
+# Menu configuration - Corporate navigation
 menu:
   main:
-    # 1. User Guide - Comprehensive user documentation
-    - identifier: user-guide
-      name: User Guide
+    - identifier: home
+      name: Home
       weight: 1
-      pageRef: /user-guide
-      
-    # 2. Modules - Complete list of all modules
-    - identifier: modules
-      name: Modules
+      pageRef: /
+
+    - identifier: about
+      name: About
       weight: 2
-      hasChildren: true
-      pageRef: /modules
-      
-    # Core Module
-    - identifier: core-module
-      name: Core Module
-      parent: modules
-      pageRef: /modules/core
-      weight: 10
-      
-    # Point of Sales Module
-    - identifier: pos-module
-      name: Point of Sales Module
-      parent: modules
-      pageRef: /modules/pos
-      weight: 20
-      
-    # CP-Commerce Module
-    - identifier: cp-commerce-module
-      name: CP-Commerce Module
-      parent: modules
-      pageRef: /modules/cp-commerce
-      weight: 30
-      
-    # E-Invoice Module
-    - identifier: e-invoice-module
-      name: E-Invoice Module
-      parent: modules
-      pageRef: /modules/e-invoice
-      weight: 40
-      
-    # Accounting Module
-    - identifier: accounting-module
-      name: Accounting Module
-      parent: modules
-      pageRef: /modules/accounting
-      weight: 50
-      
-    # ERP Module
-    - identifier: erp-module
-      name: ERP Module
-      parent: modules
-      pageRef: /modules/erp
-      weight: 60
-      
-    # IT & CE Module
-    - identifier: it-ce-module
-      name: IT & CE Module
-      parent: modules
-      pageRef: /modules/it-ce
-      weight: 70
-      
-    # Digital CRM Module
-    - identifier: digital-crm-module
-      name: Digital CRM Module
-      parent: modules
-      pageRef: /modules/digital-crm
-      weight: 80
-      
-    # Service Industry Module
-    - identifier: service-industry-module
-      name: Service Industry Module
-      parent: modules
-      pageRef: /modules/service-industry
-      weight: 90
-      
-    # Drop Shipping Module
-    - identifier: drop-shipping-module
-      name: Drop Shipping Module
-      parent: modules
-      pageRef: /modules/drop-shipping
-      weight: 100
-      
-    # 3. Applets - Complete list of applets with data sheets
-    - identifier: applets
-      name: Applets
+      pageRef: /about
+
+    - identifier: solutions
+      name: Solutions
       weight: 3
-      pageRef: /applets
-      
-    # 4. Developers - All developer resources
+      pageRef: /solutions
+
+    - identifier: pricing
+      name: Pricing
+      weight: 4
+      pageRef: /pricing
+
+    - identifier: contact
+      name: Contact
+      weight: 5
+      pageRef: /contact
+
     - identifier: developers
       name: Developers
-      weight: 4
+      weight: 6
       pageRef: /developers
-      
-    # 5. Search - Keep existing search functionality
-    - identifier: search
-      name: Search
-      weight: 5
-      pageRef: /search
 
 outputs:
   home:
