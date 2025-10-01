@@ -11,16 +11,20 @@ Have questions? We're here to help. Reach out to us through any of the channels 
 
 ## Contact Information
 
-### 📧 Email Us
-For general inquiries and support
+### 📧 General Inquiries
 
-**General**: info@bigledger.com
-**Support**: support@bigledger.com
+**Vincent Lee**
+- Email: [vincent@aimatrix.com](mailto:vincent@aimatrix.com)
+- Phone: [+60 12-601 8838](tel:+60126018838)
+
+**Support**: [support@bigledger.com](mailto:support@bigledger.com)
 
 ### 💬 Sales Inquiry
-Speak with our sales team
 
-**Email**: sales@bigledger.com
+**Sabrina Fatimah** - Sales Director
+- Email: [fatimah@bigledger.com](mailto:fatimah@bigledger.com)
+- Phone: [+60 10-839 9393](tel:+60108399393)
+
 **Hours**: Mon-Fri, 9:00 AM - 6:00 PM MYT
 
 ### 🎯 Live Demo
