@@ -33,7 +33,9 @@ Have questions? We're here to help. Reach out to us through any of the channels 
 ## Our Office
 
 **Wavelet Solutions Sdn Bhd**
-Kuala Lumpur, Malaysia
+Unit 3C, Jalan USJ 10/1J
+UEP Subang Jaya, 47620 Selangor
+Malaysia
 
 **Business Hours**:
 Monday - Friday: 9:00 AM - 6:00 PM MYT
