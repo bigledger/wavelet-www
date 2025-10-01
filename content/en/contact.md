@@ -27,10 +27,6 @@ Have questions? We're here to help. Reach out to us through any of the channels 
 
 **Hours**: Mon-Fri, 9:00 AM - 6:00 PM MYT
 
-### 🎯 Live Demo
-See BigLedger in action
-
-[Launch Demo](https://demo.bigledger.com)
 
 ---
 

@@ -81,4 +81,4 @@ We provide data migration assistance for all plans. Enterprise customers get ful
 
 Start your 30-day free trial today. No credit card required.
 
-[Start Free Trial](/contact) | [View Demo](https://demo.bigledger.com)
+[Start Free Trial](/contact)

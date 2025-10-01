@@ -93,4 +93,4 @@ E-Invoice, PEPPOL, SST, audit trails
 
 Our team will help you find the perfect solution for your business needs.
 
-[Contact Sales](/contact) | [View Demo](https://demo.bigledger.com)
+[Contact Sales](/contact)

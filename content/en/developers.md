@@ -13,9 +13,9 @@ Build powerful accounting and business management solutions with BigLedger's com
 
 Get started with BigLedger's APIs in minutes:
 
-1. **Sign up** for a developer account at [developers.bigledger.com](https://developers.bigledger.com)
-2. **Generate** your API credentials from the Developer Console
-3. **Explore** our comprehensive API documentation
+1. **Contact us** to request API access at [vincent@aimatrix.com](mailto:vincent@aimatrix.com)
+2. **Receive** your API credentials and documentation
+3. **Explore** the comprehensive API reference
 4. **Build** your integration or custom applet
 
 ---
@@ -26,7 +26,7 @@ Get started with BigLedger's APIs in minutes:
 
 Complete REST API reference with interactive examples and code samples in multiple languages.
 
-[View API Documentation →](https://developers.bigledger.com/api)
+Contact us for access: [vincent@aimatrix.com](mailto:vincent@aimatrix.com)
 
 ### 🔧 SDKs & Libraries
 
@@ -38,8 +38,6 @@ Official SDKs available for:
 - .NET
 - Go
 
-[Browse SDKs →](https://developers.bigledger.com/sdks)
-
 ### 🎓 Tutorials & Guides
 
 Step-by-step tutorials for common integration scenarios:
@@ -48,8 +46,6 @@ Step-by-step tutorials for common integration scenarios:
 - E-Invoice automation
 - Custom applet development
 
-[View Tutorials →](https://developers.bigledger.com/tutorials)
-
 ### 🔗 Webhooks
 
 Real-time event notifications for:
@@ -57,8 +53,6 @@ Real-time event notifications for:
 - Invoice generation
 - Inventory changes
 - Payment processing
-
-[Webhook Documentation →](https://developers.bigledger.com/webhooks)
 
 ---
 
@@ -94,7 +88,7 @@ Real-time event notifications for:
 - **Postman Collection**: Ready-to-use collection with all endpoints
 - **OpenAPI Spec**: Complete OpenAPI/Swagger specification
 
-[Access Developer Tools →](https://developers.bigledger.com/console)
+Contact us for access: [vincent@aimatrix.com](mailto:vincent@aimatrix.com)
 
 ---
 
@@ -133,9 +127,8 @@ console.log(`Invoice ${invoice.invoiceNumber} created!`);
 
 ## Support & Community
 
-- **Developer Support**: [developers@bigledger.com](mailto:developers@bigledger.com)
-- **Community Forum**: [community.bigledger.com](https://community.bigledger.com)
-- **Status Page**: [status.bigledger.com](https://status.bigledger.com)
+- **Developer Support**: [vincent@aimatrix.com](mailto:vincent@aimatrix.com)
+- **Sales Inquiries**: [fatimah@bigledger.com](mailto:fatimah@bigledger.com)
 - **GitHub**: [github.com/bigledger](https://github.com/bigledger)
 
 **Rate Limits**: 1,000 requests/hour per API key with burst support. Enterprise plans include higher limits and dedicated infrastructure.
@@ -144,6 +137,6 @@ console.log(`Invoice ${invoice.invoiceNumber} created!`);
 
 ## Ready to Start Building?
 
-Join thousands of developers building on the BigLedger platform.
+Contact us to get started with the BigLedger developer platform.
 
-[Get Started →](https://developers.bigledger.com) | [View Documentation →](https://developers.bigledger.com/docs)
+[Contact Developer Team](/contact)
