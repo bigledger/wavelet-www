@@ -1,277 +1,231 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dokumentasi BigLedger – Platform Demo Interaktif</title>
-    <link>http://localhost:1313/ms/user-guide/demo/</link>
-    <description>Recent content in Platform Demo Interaktif on Dokumentasi BigLedger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ms</language>
-    
-	  <atom:link href="http://localhost:1313/ms/user-guide/demo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Perjalanan Demo Berdasarkan Peranan</title>
-      <link>http://localhost:1313/ms/user-guide/demo/role-based/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/ms/user-guide/demo/role-based/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Alami nilai strategik BigLedger melalui perjalanan demo yang berfokuskan eksekutif yang direka untuk pembuat keputusan utama. Setiap perjalanan menunjukkan hasil perniagaan khusus, metrik ROI, dan keupayaan integrasi yang relevan dengan peranan anda.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dokumentasi BigLedger – Platform Demo Interaktif</title><link>https://www.bigledger.com/ms/user-guide/demo/</link><description>Recent content in Platform Demo Interaktif on Dokumentasi BigLedger</description><generator>Hugo -- gohugo.io</generator><language>ms</language><atom:link href="https://www.bigledger.com/ms/user-guide/demo/index.xml" rel="self" type="application/rss+xml"/><item><title>Perjalanan Demo Berdasarkan Peranan</title><link>https://www.bigledger.com/ms/user-guide/demo/role-based/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/ms/user-guide/demo/role-based/</guid><description>
+&lt;p>Alami nilai strategik BigLedger melalui perjalanan demo yang berfokuskan eksekutif yang direka untuk pembuat keputusan utama. Setiap perjalanan menunjukkan hasil perniagaan khusus, metrik ROI, dan keupayaan integrasi yang relevan dengan peranan anda.&lt;/p>
 &lt;a
-  
-  class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
-  
-  &gt;
-  🎯 Fokus Pembuat Keputusan Eksekutif
-&lt;/a&gt;
-
+class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
+>
+🎯 Fokus Pembuat Keputusan Eksekutif
+&lt;/a>
 &lt;h1
-  class=&#34;not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:py-2 hx:bg-clip-text hx:text-transparent hx:bg-gradient-to-r hx:from-gray-900 hx:to-gray-600 hx:dark:from-gray-100 hx:dark:to-gray-400&#34;
-  
-&gt;
-  Demo Strategik untuk Pemimpin Perniagaan
-&lt;/h1&gt;
-
+class="not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:py-2 hx:bg-clip-text hx:text-transparent hx:bg-gradient-to-r hx:from-gray-900 hx:to-gray-600 hx:dark:from-gray-100 hx:dark:to-gray-400"
+>
+Demo Strategik untuk Pemimpin Perniagaan
+&lt;/h1>
 &lt;p
-  class=&#34;not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl&#34;
-  
-&gt;
-  Pengurusan Kewangan • Kecemerlangan Operasi • Dashboard Eksekutif • Analitik Strategik
-&lt;/p&gt;
-
-&lt;h2&gt;🎯 Pilih Peranan Anda&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-pilih-peranan-anda&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-pilih-peranan-anda&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Pilih peranan anda di bawah untuk mengakses senario demo yang disesuaikan dengan fokus pada objektif khusus, titik kesakitan, dan metrik kejayaan anda:&lt;/p&gt;
-&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
-  &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/ms/user-guide/demo/role-based/finance-manager/&#34;
-      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;💰 Pengurus Kewangan&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Pelaporan kewangan, pengurusan aliran tunai, pematuhan, jejak audit, konsolidasi berbilang syarikat&lt;/div&gt;&lt;/a&gt;
-  &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/ms/user-guide/demo/role-based/operations-manager/&#34;
-      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;⚙️ Pengurus Operasi&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Pengoptimuman proses, pengurusan inventori, rantaian bekalan, metrik prestasi, peruntukan sumber&lt;/div&gt;&lt;/a&gt;
-  &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;http://localhost:1313/ms/user-guide/demo/role-based/ceo-executive/&#34;
-      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;📊 CEO &amp;amp; Eksekutif&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Dashboard strategik, KPI, business intelligence, analitik pertumbuhan, analisis keuntungan&lt;/div&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h2&gt;🎓 Bagaimana Demo Berdasarkan Peranan Berfungsi&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-bagaimana-demo-berdasarkan-peranan-berfungsi&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-bagaimana-demo-berdasarkan-peranan-berfungsi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Pendekatan Berfokus Eksekutif&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;pendekatan-berfokus-eksekutif&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pendekatan-berfokus-eksekutif&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Demo berdasarkan peranan kami direka berbeza daripada demo industri:&lt;/p&gt;
-&lt;div class=&#34;hextra-scrollbar hx:overflow-x-auto hx:overflow-y-hidden hx:overscroll-x-contain&#34;&gt;
-  &lt;div class=&#34;hx:mt-4 hx:flex hx:w-max hx:min-w-full hx:border-b hx:border-gray-200 hx:pb-px hx:dark:border-neutral-800&#34;&gt;&lt;button
-        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
-        role=&#34;tab&#34;
-        type=&#34;button&#34;
-        aria-controls=&#34;tabs-panel-0&#34; aria-selected=&#34;true&#34;  tabindex=&#34;0&#34;  data-state=&#34;selected&#34;&gt;Fokus Strategik&lt;/button&gt;&lt;button
-        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
-        role=&#34;tab&#34;
-        type=&#34;button&#34;
-        aria-controls=&#34;tabs-panel-1&#34;&gt;Hasil Perniagaan&lt;/button&gt;&lt;button
-        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
-        role=&#34;tab&#34;
-        type=&#34;button&#34;
-        aria-controls=&#34;tabs-panel-2&#34;&gt;Sokongan Keputusan&lt;/button&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div&gt;
-  &lt;div
-  class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
-  id=&#34;tabs-panel-0&#34;
-  role=&#34;tabpanel&#34; tabindex=&#34;0&#34;  data-state=&#34;selected&#34; &gt;&lt;p&gt;&lt;strong&gt;Demonstrasi Nilai Strategik&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Senario berfokus ROI&lt;/li&gt;
-&lt;li&gt;Metrik kesan perniagaan&lt;/li&gt;
-&lt;li&gt;Kelebihan kompetitif&lt;/li&gt;
-&lt;li&gt;Contoh mitigasi risiko&lt;/li&gt;
-&lt;li&gt;Ciri pemboleh pertumbuhan&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;
-
-  &lt;div
-  class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
-  id=&#34;tabs-panel-1&#34;
-  role=&#34;tabpanel&#34;&gt;&lt;p&gt;&lt;strong&gt;Hasil Perniagaan Terukur&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kuantifikasi penjimatan masa&lt;/li&gt;
-&lt;li&gt;Contoh pengurangan kos&lt;/li&gt;
-&lt;li&gt;Potensi peningkatan hasil&lt;/li&gt;
-&lt;li&gt;Penjimatan kos pematuhan&lt;/li&gt;
-&lt;li&gt;Keuntungan kecekapan operasi&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;
-
-  &lt;div
-  class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
-  id=&#34;tabs-panel-2&#34;
-  role=&#34;tabpanel&#34;&gt;&lt;p&gt;&lt;strong&gt;Sokongan Keputusan Eksekutif&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dashboard masa nyata&lt;/li&gt;
-&lt;li&gt;Pelaporan berdasarkan pengecualian&lt;/li&gt;
-&lt;li&gt;Analitik ramalan&lt;/li&gt;
-&lt;li&gt;Alat perancangan senario&lt;/li&gt;
-&lt;li&gt;Penjejakan KPI strategik&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;h3&gt;Struktur Demo mengikut Peranan&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;struktur-demo-mengikut-peranan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#struktur-demo-mengikut-peranan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Setiap demo berdasarkan peranan merangkumi:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Titik Kesakitan Keadaan Semasa&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cabaran biasa dalam peranan anda&lt;/li&gt;
-&lt;li&gt;Ketidakcekapan proses manual&lt;/li&gt;
-&lt;li&gt;Jurang keterlihatan&lt;/li&gt;
-&lt;li&gt;Risiko pematuhan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Demonstrasi Penyelesaian BigLedger&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Penambahbaikan aliran kerja langkah demi langkah&lt;/li&gt;
-&lt;li&gt;Keupayaan integrasi&lt;/li&gt;
-&lt;li&gt;Contoh automasi&lt;/li&gt;
-&lt;li&gt;Ciri keterlihatan masa nyata&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Pengukuran Kesan Perniagaan&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Perbandingan sebelum/selepas&lt;/li&gt;
-&lt;li&gt;Pengiraan ROI&lt;/li&gt;
-&lt;li&gt;Contoh penjimatan masa&lt;/li&gt;
-&lt;li&gt;Kuantifikasi pengurangan risiko&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2&gt;💡 Amalan Terbaik Demo untuk Eksekutif&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-amalan-terbaik-demo-untuk-eksekutif&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-amalan-terbaik-demo-untuk-eksekutif&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Sebelum Memulakan Demo Anda&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sebelum-memulakan-demo-anda&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#sebelum-memulakan-demo-anda&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
-    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;p&gt;&lt;strong&gt;Persediaan Disyorkan&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Blokkan 60-90 minit untuk perjalanan lengkap&lt;/li&gt;
-&lt;li&gt;Fikirkan cabaran proses semasa anda&lt;/li&gt;
-&lt;li&gt;Pertimbangkan metrik kejayaan utama anda&lt;/li&gt;
-&lt;li&gt;Fikirkan tentang keperluan integrasi&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Apa yang Membezakan Demo Ini&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;apa-yang-membezakan-demo-ini&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#apa-yang-membezakan-demo-ini&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Fokus Hasil Perniagaan&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Setiap ciri terikat dengan nilai perniagaan&lt;/li&gt;
-&lt;li&gt;Contoh ROI sepanjang masa&lt;/li&gt;
-&lt;li&gt;Penjelasan kelebihan strategik&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Senario Dunia Sebenar&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Berdasarkan kes penggunaan pelanggan sebenar&lt;/li&gt;
-&lt;li&gt;Amalan terbaik industri disertakan&lt;/li&gt;
-&lt;li&gt;Contoh pematuhan peraturan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Insight Peringkat Eksekutif&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Paparan dashboard dioptimumkan untuk kepimpinan&lt;/li&gt;
-&lt;li&gt;Contoh pelaporan pengecualian&lt;/li&gt;
-&lt;li&gt;Demonstrasi analitik strategik&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2&gt;🎯 Penilaian Peranan Pantas&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-penilaian-peranan-pantas&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-penilaian-peranan-pantas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Tidak pasti demo peranan mana untuk dimulakan? Jawab soalan ini:&lt;/p&gt;
-&lt;h3&gt;Tanggungjawab Utama&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tanggungjawab-utama&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#tanggungjawab-utama&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Prestasi Kewangan &amp;amp; Pematuhan&lt;/strong&gt; → Demo Pengurus Kewangan&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kecekapan Operasi &amp;amp; Pengurusan Proses&lt;/strong&gt; → Demo Pengurus Operasi&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Arah Strategik &amp;amp; Pertumbuhan&lt;/strong&gt; → Demo CEO/Eksekutif&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Metrik Kejayaan Utama&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;metrik-kejayaan-utama&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#metrik-kejayaan-utama&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;KPI Kewangan&lt;/strong&gt; (margin, aliran tunai, pematuhan) → Demo Pengurus Kewangan&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;KPI Operasi&lt;/strong&gt; (kecekapan, kualiti, penggunaan) → Demo Pengurus Operasi&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;KPI Strategik&lt;/strong&gt; (pertumbuhan, bahagian pasaran, ROI) → Demo CEO/Eksekutif&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Cabaran Harian&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cabaran-harian&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#cabaran-harian&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Penutupan akhir bulan, pelaporan, pematuhan&lt;/strong&gt; → Demo Pengurus Kewangan&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pengoptimuman sumber, penambahbaikan proses&lt;/strong&gt; → Demo Pengurus Operasi&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Keputusan strategik, penjejakan prestasi&lt;/strong&gt; → Demo CEO/Eksekutif&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;📊 Hasil Demo Dijangka&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-hasil-demo-dijangka&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-hasil-demo-dijangka&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Dengan melengkapkan perjalanan demo berdasarkan peranan anda, anda akan memahami:&lt;/p&gt;
-&lt;h3&gt;Kuantifikasi Nilai Perniagaan&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;kuantifikasi-nilai-perniagaan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#kuantifikasi-nilai-perniagaan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Penjimatan masa khusus untuk peranan anda&lt;/li&gt;
-&lt;li&gt;Peluang pengurangan kos&lt;/li&gt;
-&lt;li&gt;Potensi peningkatan hasil&lt;/li&gt;
-&lt;li&gt;Faedah mitigasi risiko&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Perancangan Pelaksanaan&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;perancangan-pelaksanaan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#perancangan-pelaksanaan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Keperluan integrasi&lt;/li&gt;
-&lt;li&gt;Pertimbangan pengurusan perubahan&lt;/li&gt;
-&lt;li&gt;Penilaian keperluan latihan&lt;/li&gt;
-&lt;li&gt;Timeline pelaksanaan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Sokongan Keputusan&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;sokongan-keputusan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#sokongan-keputusan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Unjuran ROI untuk organisasi anda&lt;/li&gt;
-&lt;li&gt;Perbandingan dengan penyelesaian semasa&lt;/li&gt;
-&lt;li&gt;Pertimbangan penskalaan&lt;/li&gt;
-&lt;li&gt;Kerangka pengukuran kejayaan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;🚦 Bersedia untuk Memulakan?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-bersedia-untuk-memulakan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-bersedia-untuk-memulakan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;a
-  href=&#34;https://demo-v1.bigledger.com&#34;
-  class=&#34;not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200&#34;
-  
-  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Akses Persekitaran Demo&lt;/a&gt;
-
-&lt;h3&gt;Pautan Akses Pantas&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;pautan-akses-pantas&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pautan-akses-pantas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;💰 &lt;a href=&#34;http://localhost:1313/ms/user-guide/demo/role-based/finance-manager/&#34; &gt;Perjalanan Pengurus Kewangan&lt;/a&gt; - Fokus pengurusan kewangan dan pematuhan&lt;/li&gt;
-&lt;li&gt;⚙️ &lt;a href=&#34;http://localhost:1313/ms/user-guide/demo/role-based/operations-manager/&#34; &gt;Perjalanan Pengurus Operasi&lt;/a&gt; - Fokus pengoptimuman proses dan kecekapan&lt;/li&gt;
-&lt;li&gt;📊 &lt;a href=&#34;http://localhost:1313/ms/user-guide/demo/role-based/ceo-executive/&#34; &gt;Perjalanan CEO/Eksekutif&lt;/a&gt; - Fokus dashboard strategik dan analitik&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2&gt;🤝 Sokongan Demo Eksekutif&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-sokongan-demo-eksekutif&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-sokongan-demo-eksekutif&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Demo Eksekutif yang Diperibadikan&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;demo-eksekutif-yang-diperibadikan&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#demo-eksekutif-yang-diperibadikan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Untuk demonstrasi yang disesuaikan dengan fokus pada perniagaan khusus anda:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Tempoh&lt;/strong&gt;: 60-90 minit&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Format&lt;/strong&gt;: Berkongsi skrin atau di tapak&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fokus&lt;/strong&gt;: Senario perniagaan sebenar anda&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hasil&lt;/strong&gt;: Peta jalan pelaksanaan dan analisis ROI&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Jadual&lt;/strong&gt;: &lt;a href=&#34;mailto:sales@bigledger.com&#34; &gt;sales@bigledger.com&lt;/a&gt; atau hubungi +60 3-2382 3188&lt;/p&gt;
-&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
-  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;/div&gt;
-
-  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
-    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;strong&gt;Pakej Eksekutif&lt;/strong&gt;: Sebut &amp;ldquo;EXEC-DEMO&amp;rdquo; untuk penjadualan keutamaan dan sokongan arkitek penyelesaian khusus.&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+class="not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl"
+>
+Pengurusan Kewangan • Kecemerlangan Operasi • Dashboard Eksekutif • Analitik Strategik
+&lt;/p>
+&lt;h2>🎯 Pilih Peranan Anda&lt;span class="hx:absolute hx:-mt-20" id="-pilih-peranan-anda">&lt;/span>
+&lt;a href="#-pilih-peranan-anda" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pilih peranan anda di bawah untuk mengakses senario demo yang disesuaikan dengan fokus pada objektif khusus, titik kesakitan, dan metrik kejayaan anda:&lt;/p>
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/ms/user-guide/demo/role-based/finance-manager/"
+>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">💰 Pengurus Kewangan&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Pelaporan kewangan, pengurusan aliran tunai, pematuhan, jejak audit, konsolidasi berbilang syarikat&lt;/div>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/ms/user-guide/demo/role-based/operations-manager/"
+>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">⚙️ Pengurus Operasi&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Pengoptimuman proses, pengurusan inventori, rantaian bekalan, metrik prestasi, peruntukan sumber&lt;/div>&lt;/a>
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/ms/user-guide/demo/role-based/ceo-executive/"
+>&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">📊 CEO &amp;amp; Eksekutif&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Dashboard strategik, KPI, business intelligence, analitik pertumbuhan, analisis keuntungan&lt;/div>&lt;/a>
+&lt;/div>
+&lt;hr>
+&lt;h2>🎓 Bagaimana Demo Berdasarkan Peranan Berfungsi&lt;span class="hx:absolute hx:-mt-20" id="-bagaimana-demo-berdasarkan-peranan-berfungsi">&lt;/span>
+&lt;a href="#-bagaimana-demo-berdasarkan-peranan-berfungsi" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Pendekatan Berfokus Eksekutif&lt;span class="hx:absolute hx:-mt-20" id="pendekatan-berfokus-eksekutif">&lt;/span>
+&lt;a href="#pendekatan-berfokus-eksekutif" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Demo berdasarkan peranan kami direka berbeza daripada demo industri:&lt;/p>
+&lt;div class="hextra-scrollbar hx:overflow-x-auto hx:overflow-y-hidden hx:overscroll-x-contain">
+&lt;div class="hx:mt-4 hx:flex hx:w-max hx:min-w-full hx:border-b hx:border-gray-200 hx:pb-px hx:dark:border-neutral-800">&lt;button
+class="hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white"
+role="tab"
+type="button"
+aria-controls="tabs-panel-0" aria-selected="true" tabindex="0" data-state="selected">Fokus Strategik&lt;/button>&lt;button
+class="hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white"
+role="tab"
+type="button"
+aria-controls="tabs-panel-1">Hasil Perniagaan&lt;/button>&lt;button
+class="hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white"
+role="tab"
+type="button"
+aria-controls="tabs-panel-2">Sokongan Keputusan&lt;/button>&lt;/div>
+&lt;/div>
+&lt;div>
+&lt;div
+class="hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block"
+id="tabs-panel-0"
+role="tabpanel" tabindex="0" data-state="selected" >&lt;p>&lt;strong>Demonstrasi Nilai Strategik&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Senario berfokus ROI&lt;/li>
+&lt;li>Metrik kesan perniagaan&lt;/li>
+&lt;li>Kelebihan kompetitif&lt;/li>
+&lt;li>Contoh mitigasi risiko&lt;/li>
+&lt;li>Ciri pemboleh pertumbuhan&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;div
+class="hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block"
+id="tabs-panel-1"
+role="tabpanel">&lt;p>&lt;strong>Hasil Perniagaan Terukur&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Kuantifikasi penjimatan masa&lt;/li>
+&lt;li>Contoh pengurangan kos&lt;/li>
+&lt;li>Potensi peningkatan hasil&lt;/li>
+&lt;li>Penjimatan kos pematuhan&lt;/li>
+&lt;li>Keuntungan kecekapan operasi&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;div
+class="hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block"
+id="tabs-panel-2"
+role="tabpanel">&lt;p>&lt;strong>Sokongan Keputusan Eksekutif&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Dashboard masa nyata&lt;/li>
+&lt;li>Pelaporan berdasarkan pengecualian&lt;/li>
+&lt;li>Analitik ramalan&lt;/li>
+&lt;li>Alat perancangan senario&lt;/li>
+&lt;li>Penjejakan KPI strategik&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;h3>Struktur Demo mengikut Peranan&lt;span class="hx:absolute hx:-mt-20" id="struktur-demo-mengikut-peranan">&lt;/span>
+&lt;a href="#struktur-demo-mengikut-peranan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Setiap demo berdasarkan peranan merangkumi:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Titik Kesakitan Keadaan Semasa&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Cabaran biasa dalam peranan anda&lt;/li>
+&lt;li>Ketidakcekapan proses manual&lt;/li>
+&lt;li>Jurang keterlihatan&lt;/li>
+&lt;li>Risiko pematuhan&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Demonstrasi Penyelesaian BigLedger&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Penambahbaikan aliran kerja langkah demi langkah&lt;/li>
+&lt;li>Keupayaan integrasi&lt;/li>
+&lt;li>Contoh automasi&lt;/li>
+&lt;li>Ciri keterlihatan masa nyata&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Pengukuran Kesan Perniagaan&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Perbandingan sebelum/selepas&lt;/li>
+&lt;li>Pengiraan ROI&lt;/li>
+&lt;li>Contoh penjimatan masa&lt;/li>
+&lt;li>Kuantifikasi pengurangan risiko&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2>💡 Amalan Terbaik Demo untuk Eksekutif&lt;span class="hx:absolute hx:-mt-20" id="-amalan-terbaik-demo-untuk-eksekutif">&lt;/span>
+&lt;a href="#-amalan-terbaik-demo-untuk-eksekutif" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Sebelum Memulakan Demo Anda&lt;span class="hx:absolute hx:-mt-20" id="sebelum-memulakan-demo-anda">&lt;/span>
+&lt;a href="#sebelum-memulakan-demo-anda" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;p>&lt;strong>Persediaan Disyorkan&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Blokkan 60-90 minit untuk perjalanan lengkap&lt;/li>
+&lt;li>Fikirkan cabaran proses semasa anda&lt;/li>
+&lt;li>Pertimbangkan metrik kejayaan utama anda&lt;/li>
+&lt;li>Fikirkan tentang keperluan integrasi&lt;/li>
+&lt;/ul>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>Apa yang Membezakan Demo Ini&lt;span class="hx:absolute hx:-mt-20" id="apa-yang-membezakan-demo-ini">&lt;/span>
+&lt;a href="#apa-yang-membezakan-demo-ini" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Fokus Hasil Perniagaan&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Setiap ciri terikat dengan nilai perniagaan&lt;/li>
+&lt;li>Contoh ROI sepanjang masa&lt;/li>
+&lt;li>Penjelasan kelebihan strategik&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Senario Dunia Sebenar&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Berdasarkan kes penggunaan pelanggan sebenar&lt;/li>
+&lt;li>Amalan terbaik industri disertakan&lt;/li>
+&lt;li>Contoh pematuhan peraturan&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Insight Peringkat Eksekutif&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Paparan dashboard dioptimumkan untuk kepimpinan&lt;/li>
+&lt;li>Contoh pelaporan pengecualian&lt;/li>
+&lt;li>Demonstrasi analitik strategik&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2>🎯 Penilaian Peranan Pantas&lt;span class="hx:absolute hx:-mt-20" id="-penilaian-peranan-pantas">&lt;/span>
+&lt;a href="#-penilaian-peranan-pantas" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Tidak pasti demo peranan mana untuk dimulakan? Jawab soalan ini:&lt;/p>
+&lt;h3>Tanggungjawab Utama&lt;span class="hx:absolute hx:-mt-20" id="tanggungjawab-utama">&lt;/span>
+&lt;a href="#tanggungjawab-utama" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Prestasi Kewangan &amp;amp; Pematuhan&lt;/strong> → Demo Pengurus Kewangan&lt;/li>
+&lt;li>&lt;strong>Kecekapan Operasi &amp;amp; Pengurusan Proses&lt;/strong> → Demo Pengurus Operasi&lt;/li>
+&lt;li>&lt;strong>Arah Strategik &amp;amp; Pertumbuhan&lt;/strong> → Demo CEO/Eksekutif&lt;/li>
+&lt;/ul>
+&lt;h3>Metrik Kejayaan Utama&lt;span class="hx:absolute hx:-mt-20" id="metrik-kejayaan-utama">&lt;/span>
+&lt;a href="#metrik-kejayaan-utama" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>KPI Kewangan&lt;/strong> (margin, aliran tunai, pematuhan) → Demo Pengurus Kewangan&lt;/li>
+&lt;li>&lt;strong>KPI Operasi&lt;/strong> (kecekapan, kualiti, penggunaan) → Demo Pengurus Operasi&lt;/li>
+&lt;li>&lt;strong>KPI Strategik&lt;/strong> (pertumbuhan, bahagian pasaran, ROI) → Demo CEO/Eksekutif&lt;/li>
+&lt;/ul>
+&lt;h3>Cabaran Harian&lt;span class="hx:absolute hx:-mt-20" id="cabaran-harian">&lt;/span>
+&lt;a href="#cabaran-harian" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Penutupan akhir bulan, pelaporan, pematuhan&lt;/strong> → Demo Pengurus Kewangan&lt;/li>
+&lt;li>&lt;strong>Pengoptimuman sumber, penambahbaikan proses&lt;/strong> → Demo Pengurus Operasi&lt;/li>
+&lt;li>&lt;strong>Keputusan strategik, penjejakan prestasi&lt;/strong> → Demo CEO/Eksekutif&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>📊 Hasil Demo Dijangka&lt;span class="hx:absolute hx:-mt-20" id="-hasil-demo-dijangka">&lt;/span>
+&lt;a href="#-hasil-demo-dijangka" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Dengan melengkapkan perjalanan demo berdasarkan peranan anda, anda akan memahami:&lt;/p>
+&lt;h3>Kuantifikasi Nilai Perniagaan&lt;span class="hx:absolute hx:-mt-20" id="kuantifikasi-nilai-perniagaan">&lt;/span>
+&lt;a href="#kuantifikasi-nilai-perniagaan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Penjimatan masa khusus untuk peranan anda&lt;/li>
+&lt;li>Peluang pengurangan kos&lt;/li>
+&lt;li>Potensi peningkatan hasil&lt;/li>
+&lt;li>Faedah mitigasi risiko&lt;/li>
+&lt;/ul>
+&lt;h3>Perancangan Pelaksanaan&lt;span class="hx:absolute hx:-mt-20" id="perancangan-pelaksanaan">&lt;/span>
+&lt;a href="#perancangan-pelaksanaan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Keperluan integrasi&lt;/li>
+&lt;li>Pertimbangan pengurusan perubahan&lt;/li>
+&lt;li>Penilaian keperluan latihan&lt;/li>
+&lt;li>Timeline pelaksanaan&lt;/li>
+&lt;/ul>
+&lt;h3>Sokongan Keputusan&lt;span class="hx:absolute hx:-mt-20" id="sokongan-keputusan">&lt;/span>
+&lt;a href="#sokongan-keputusan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Unjuran ROI untuk organisasi anda&lt;/li>
+&lt;li>Perbandingan dengan penyelesaian semasa&lt;/li>
+&lt;li>Pertimbangan penskalaan&lt;/li>
+&lt;li>Kerangka pengukuran kejayaan&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>🚦 Bersedia untuk Memulakan?&lt;span class="hx:absolute hx:-mt-20" id="-bersedia-untuk-memulakan">&lt;/span>
+&lt;a href="#-bersedia-untuk-memulakan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;a
+href="https://demo-v1.bigledger.com"
+class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200"
+target="_blank" rel="noreferrer">Akses Persekitaran Demo&lt;/a>
+&lt;h3>Pautan Akses Pantas&lt;span class="hx:absolute hx:-mt-20" id="pautan-akses-pantas">&lt;/span>
+&lt;a href="#pautan-akses-pantas" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>💰 &lt;a href="https://www.bigledger.com/ms/user-guide/demo/role-based/finance-manager/" >Perjalanan Pengurus Kewangan&lt;/a> - Fokus pengurusan kewangan dan pematuhan&lt;/li>
+&lt;li>⚙️ &lt;a href="https://www.bigledger.com/ms/user-guide/demo/role-based/operations-manager/" >Perjalanan Pengurus Operasi&lt;/a> - Fokus pengoptimuman proses dan kecekapan&lt;/li>
+&lt;li>📊 &lt;a href="https://www.bigledger.com/ms/user-guide/demo/role-based/ceo-executive/" >Perjalanan CEO/Eksekutif&lt;/a> - Fokus dashboard strategik dan analitik&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>🤝 Sokongan Demo Eksekutif&lt;span class="hx:absolute hx:-mt-20" id="-sokongan-demo-eksekutif">&lt;/span>
+&lt;a href="#-sokongan-demo-eksekutif" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Demo Eksekutif yang Diperibadikan&lt;span class="hx:absolute hx:-mt-20" id="demo-eksekutif-yang-diperibadikan">&lt;/span>
+&lt;a href="#demo-eksekutif-yang-diperibadikan" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Untuk demonstrasi yang disesuaikan dengan fokus pada perniagaan khusus anda:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Tempoh&lt;/strong>: 60-90 minit&lt;/li>
+&lt;li>&lt;strong>Format&lt;/strong>: Berkongsi skrin atau di tapak&lt;/li>
+&lt;li>&lt;strong>Fokus&lt;/strong>: Senario perniagaan sebenar anda&lt;/li>
+&lt;li>&lt;strong>Hasil&lt;/strong>: Peta jalan pelaksanaan dan analisis ROI&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Jadual&lt;/strong>: &lt;a href="mailto:sales@bigledger.com" >sales@bigledger.com&lt;/a> atau hubungi +60 3-2382 3188&lt;/p>
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pakej Eksekutif&lt;/strong>: Sebut &amp;ldquo;EXEC-DEMO&amp;rdquo; untuk penjadualan keutamaan dan sokongan arkitek penyelesaian khusus.&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

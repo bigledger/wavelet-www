@@ -1,633 +1,71 @@
-<!DOCTYPE html>
-<html lang="zh" dir="ltr">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>故障排除 | BigLedger 文档</title>
-  <meta name="description" content="常见问题、解决方案和BigLedger用户的问题解决技术">
-
-  
-  <link rel="icon" type="image/png" href="http://localhost:1313/images/bigledger-logo-cropped.png">
-
-  
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-
-  
-  <link rel="stylesheet" href="http://localhost:1313/css/custom.css">
-
-  
-  <meta property="og:title" content="故障排除">
-  <meta property="og:description" content="常见问题、解决方案和BigLedger用户的问题解决技术">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="http://localhost:1313/zh/user-guide/troubleshooting/">
-</head>
-<body>
-  <header class="corporate-header">
-  <div class="container">
-    <nav class="nav">
-      <div class="nav-logo">
-        <a href="http://localhost:1313/">
-          <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger 文档" height="40">
-        </a>
-      </div>
-      <div class="nav-menu">
-        
-        <a href="http://localhost:1313/" class="nav-link">Home</a>
-        
-        <a href="http://localhost:1313/about/" class="nav-link">About</a>
-        
-        <a href="http://localhost:1313/solutions/" class="nav-link">Solutions</a>
-        
-        <a href="http://localhost:1313/pricing/" class="nav-link">Pricing</a>
-        
-        <a href="http://localhost:1313/contact/" class="nav-link">Contact</a>
-        
-        <a href="http://localhost:1313/developers/" class="nav-link">Developers</a>
-        
-      </div>
-      <div class="nav-cta">
-        <a href="http://localhost:1313/contact" class="btn-primary">Get Started</a>
-      </div>
-    </nav>
-  </div>
-</header>
-
-
-  <main>
-    
-<article class="corporate-page">
-  <div class="container">
-    <div class="page-content">
-      <p>BigLedger常见问题的快速解决方案和综合问题解决指南。本节帮助您快速解决问题并重新开始高效工作。</p>
-<h2>快速问题解决<span class="hx:absolute hx:-mt-20" id="快速问题解决"></span>
-    <a href="#%e5%bf%ab%e9%80%9f%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>最常见问题<span class="hx:absolute hx:-mt-20" id="最常见问题"></span>
-    <a href="#%e6%9c%80%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>本综合故障排除指南解决最常见的BigLedger问题，包含具体错误代码、分步解决方案和预防措施。</p>
-<h4>登录和访问问题<span class="hx:absolute hx:-mt-20" id="登录和访问问题"></span>
-    <a href="#%e7%99%bb%e5%bd%95%e5%92%8c%e8%ae%bf%e9%97%ae%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ul>
-<li><strong>无法登录</strong>：密码重置、账户状态、浏览器问题</li>
-<li><strong>功能缺失</strong>：权限问题、applet可用性</li>
-<li><strong>性能缓慢</strong>：浏览器优化、网络问题</li>
-<li><strong>会话超时</strong>：安全设置、浏览器配置</li>
-</ul>
-<h4>数据录入问题<span class="hx:absolute hx:-mt-20" id="数据录入问题"></span>
-    <a href="#%e6%95%b0%e6%8d%ae%e5%bd%95%e5%85%a5%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ul>
-<li><strong>无法保存记录</strong>：验证错误、必填字段</li>
-<li><strong>下拉选项缺失</strong>：主数据设置、权限</li>
-<li><strong>导入失败</strong>：数据格式、映射错误</li>
-<li><strong>重复记录</strong>：数据验证、合并程序</li>
-</ul>
-<h4>交易问题<span class="hx:absolute hx:-mt-20" id="交易问题"></span>
-    <a href="#%e4%ba%a4%e6%98%93%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ul>
-<li><strong>订单处理错误</strong>：工作流程问题、审批链</li>
-<li><strong>定价问题</strong>：价格方案配置、客户设置</li>
-<li><strong>库存差异</strong>：库存调整、位置问题</li>
-<li><strong>报告错误</strong>：数据访问、参数设置</li>
-</ul>
-<h2>分步故障排除<span class="hx:absolute hx:-mt-20" id="分步故障排除"></span>
-    <a href="#%e5%88%86%e6%ad%a5%e6%95%85%e9%9a%9c%e6%8e%92%e9%99%a4" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>1. 识别问题<span class="hx:absolute hx:-mt-20" id="1-识别问题"></span>
-    <a href="#1-%e8%af%86%e5%88%ab%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>记录症状</strong> - 确切发生了什么？</li>
-<li><strong>重现问题</strong> - 您能让它再次发生吗？</li>
-<li><strong>检查时间</strong> - 何时开始出现？</li>
-<li><strong>收集上下文</strong> - 您试图完成什么？</li>
-</ul>
-<h3>2. 收集信息<span class="hx:absolute hx:-mt-20" id="2-收集信息"></span>
-    <a href="#2-%e6%94%b6%e9%9b%86%e4%bf%a1%e6%81%af" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>错误消息</strong> - 复制确切的错误文本和代码</li>
-<li><strong>截图</strong> - 问题的视觉证据</li>
-<li><strong>用户账户详情</strong> - 权限和角色信息</li>
-<li><strong>系统环境</strong> - 浏览器、设备、网络信息</li>
-</ul>
-<h3>3. 尝试基本解决方案<span class="hx:absolute hx:-mt-20" id="3-尝试基本解决方案"></span>
-    <a href="#3-%e5%b0%9d%e8%af%95%e5%9f%ba%e6%9c%ac%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>刷新/重新加载</strong> - 简单的浏览器刷新</li>
-<li><strong>清除缓存</strong> - 浏览器缓存和cookie</li>
-<li><strong>不同浏览器</strong> - 用另一个浏览器测试</li>
-<li><strong>检查权限</strong> - 验证访问权限</li>
-</ul>
-<h3>4. 高级诊断<span class="hx:absolute hx:-mt-20" id="4-高级诊断"></span>
-    <a href="#4-%e9%ab%98%e7%ba%a7%e8%af%8a%e6%96%ad" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>检查系统状态</strong> - 系统是否正常运行？</li>
-<li><strong>审查最近更改</strong> - 最近有什么变化？</li>
-<li><strong>用不同数据测试</strong> - 是否特定于数据？</li>
-<li><strong>查阅文档</strong> - 审查相关用户指南</li>
-</ul>
-<h2>BigLedger错误代码和解决方案<span class="hx:absolute hx:-mt-20" id="bigledger错误代码和解决方案"></span>
-    <a href="#bigledger%e9%94%99%e8%af%af%e4%bb%a3%e7%a0%81%e5%92%8c%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>系统错误代码（ERR-SYS-XXXX）<span class="hx:absolute hx:-mt-20" id="系统错误代码err-sys-xxxx"></span>
-    <a href="#%e7%b3%bb%e7%bb%9f%e9%94%99%e8%af%af%e4%bb%a3%e7%a0%81err-sys-xxxx" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p><strong>ERR-SYS-0001：访问被拒绝</strong></p>
-<ul>
-<li><strong>原因</strong>：用户缺少请求操作的必要权限</li>
-<li><strong>技术详情</strong>：模块或功能级别的权限验证失败</li>
-<li><strong>即时解决方案</strong>：
-<ol>
-<li>联系系统管理员</li>
-<li>在用户管理中验证用户角色分配</li>
-<li>检查模块特定权限</li>
-</ol>
-</li>
-<li><strong>长期预防</strong>：
-<ul>
-<li>实施定期权限审计（季度）</li>
-<li>一致使用基于角色的访问控制（RBAC）</li>
-<li>为每个业务功能记录权限要求</li>
-</ul>
-</li>
-</ul>
-<p><strong>ERR-SYS-0002：会话过期</strong></p>
-<ul>
-<li><strong>原因</strong>：由于不活动导致的安全超时（默认：60分钟）</li>
-<li><strong>技术详情</strong>：会话令牌已超过最大生命周期</li>
-<li><strong>即时解决方案</strong>：
-<ol>
-<li>完全退出并重新登录</li>
-<li>清除浏览器缓存和cookie</li>
-<li>禁用敏感数据的浏览器自动保存</li>
-</ol>
-</li>
-<li><strong>配置选项</strong>：
-<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-
-<div><pre><code>会话设置（管理 &gt; 安全）：
+<!doctype html><html lang=zh dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>故障排除 | BigLedger 文档</title><meta name=description content="常见问题、解决方案和BigLedger用户的问题解决技术"><link rel=icon type=image/png href=https://www.bigledger.com/images/bigledger-logo-cropped.png><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel=stylesheet><link rel=stylesheet href=https://www.bigledger.com/css/custom.css><meta property="og:title" content="故障排除"><meta property="og:description" content="常见问题、解决方案和BigLedger用户的问题解决技术"><meta property="og:type" content="website"><meta property="og:url" content="https://www.bigledger.com/zh/user-guide/troubleshooting/"></head><body><header class=corporate-header><div class=container><nav class=nav><div class=nav-logo><a href=https://www.bigledger.com/><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger 文档" height=40></a></div><div class=nav-menu><a href=https://www.bigledger.com/ class=nav-link>Home</a>
+<a href=https://www.bigledger.com/about/ class=nav-link>About</a>
+<a href=https://www.bigledger.com/solutions/ class=nav-link>Solutions</a>
+<a href=https://www.bigledger.com/pricing/ class=nav-link>Pricing</a>
+<a href=https://www.bigledger.com/contact/ class=nav-link>Contact</a>
+<a href=https://www.bigledger.com/developers/ class=nav-link>Developers</a></div><div class=nav-cta><a href=https://www.bigledger.com/contact class=btn-primary>Get Started</a></div></nav></div></header><main><article class=corporate-page><div class=container><div class=page-content><p>BigLedger常见问题的快速解决方案和综合问题解决指南。本节帮助您快速解决问题并重新开始高效工作。</p><h2>快速问题解决<span class="hx:absolute hx:-mt-20" id=快速问题解决></span>
+<a href=#%e5%bf%ab%e9%80%9f%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>最常见问题<span class="hx:absolute hx:-mt-20" id=最常见问题></span>
+<a href=#%e6%9c%80%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>本综合故障排除指南解决最常见的BigLedger问题，包含具体错误代码、分步解决方案和预防措施。</p><h4>登录和访问问题<span class="hx:absolute hx:-mt-20" id=登录和访问问题></span>
+<a href=#%e7%99%bb%e5%bd%95%e5%92%8c%e8%ae%bf%e9%97%ae%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h4><ul><li><strong>无法登录</strong>：密码重置、账户状态、浏览器问题</li><li><strong>功能缺失</strong>：权限问题、applet可用性</li><li><strong>性能缓慢</strong>：浏览器优化、网络问题</li><li><strong>会话超时</strong>：安全设置、浏览器配置</li></ul><h4>数据录入问题<span class="hx:absolute hx:-mt-20" id=数据录入问题></span>
+<a href=#%e6%95%b0%e6%8d%ae%e5%bd%95%e5%85%a5%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h4><ul><li><strong>无法保存记录</strong>：验证错误、必填字段</li><li><strong>下拉选项缺失</strong>：主数据设置、权限</li><li><strong>导入失败</strong>：数据格式、映射错误</li><li><strong>重复记录</strong>：数据验证、合并程序</li></ul><h4>交易问题<span class="hx:absolute hx:-mt-20" id=交易问题></span>
+<a href=#%e4%ba%a4%e6%98%93%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h4><ul><li><strong>订单处理错误</strong>：工作流程问题、审批链</li><li><strong>定价问题</strong>：价格方案配置、客户设置</li><li><strong>库存差异</strong>：库存调整、位置问题</li><li><strong>报告错误</strong>：数据访问、参数设置</li></ul><h2>分步故障排除<span class="hx:absolute hx:-mt-20" id=分步故障排除></span>
+<a href=#%e5%88%86%e6%ad%a5%e6%95%85%e9%9a%9c%e6%8e%92%e9%99%a4 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>1. 识别问题<span class="hx:absolute hx:-mt-20" id=1-识别问题></span>
+<a href=#1-%e8%af%86%e5%88%ab%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>记录症状</strong> - 确切发生了什么？</li><li><strong>重现问题</strong> - 您能让它再次发生吗？</li><li><strong>检查时间</strong> - 何时开始出现？</li><li><strong>收集上下文</strong> - 您试图完成什么？</li></ul><h3>2. 收集信息<span class="hx:absolute hx:-mt-20" id=2-收集信息></span>
+<a href=#2-%e6%94%b6%e9%9b%86%e4%bf%a1%e6%81%af class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>错误消息</strong> - 复制确切的错误文本和代码</li><li><strong>截图</strong> - 问题的视觉证据</li><li><strong>用户账户详情</strong> - 权限和角色信息</li><li><strong>系统环境</strong> - 浏览器、设备、网络信息</li></ul><h3>3. 尝试基本解决方案<span class="hx:absolute hx:-mt-20" id=3-尝试基本解决方案></span>
+<a href=#3-%e5%b0%9d%e8%af%95%e5%9f%ba%e6%9c%ac%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>刷新/重新加载</strong> - 简单的浏览器刷新</li><li><strong>清除缓存</strong> - 浏览器缓存和cookie</li><li><strong>不同浏览器</strong> - 用另一个浏览器测试</li><li><strong>检查权限</strong> - 验证访问权限</li></ul><h3>4. 高级诊断<span class="hx:absolute hx:-mt-20" id=4-高级诊断></span>
+<a href=#4-%e9%ab%98%e7%ba%a7%e8%af%8a%e6%96%ad class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>检查系统状态</strong> - 系统是否正常运行？</li><li><strong>审查最近更改</strong> - 最近有什么变化？</li><li><strong>用不同数据测试</strong> - 是否特定于数据？</li><li><strong>查阅文档</strong> - 审查相关用户指南</li></ul><h2>BigLedger错误代码和解决方案<span class="hx:absolute hx:-mt-20" id=bigledger错误代码和解决方案></span>
+<a href=#bigledger%e9%94%99%e8%af%af%e4%bb%a3%e7%a0%81%e5%92%8c%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>系统错误代码（ERR-SYS-XXXX）<span class="hx:absolute hx:-mt-20" id=系统错误代码err-sys-xxxx></span>
+<a href=#%e7%b3%bb%e7%bb%9f%e9%94%99%e8%af%af%e4%bb%a3%e7%a0%81err-sys-xxxx class=subheading-anchor aria-label="Permalink for this section"></a></h3><p><strong>ERR-SYS-0001：访问被拒绝</strong></p><ul><li><strong>原因</strong>：用户缺少请求操作的必要权限</li><li><strong>技术详情</strong>：模块或功能级别的权限验证失败</li><li><strong>即时解决方案</strong>：<ol><li>联系系统管理员</li><li>在用户管理中验证用户角色分配</li><li>检查模块特定权限</li></ol></li><li><strong>长期预防</strong>：<ul><li>实施定期权限审计（季度）</li><li>一致使用基于角色的访问控制（RBAC）</li><li>为每个业务功能记录权限要求</li></ul></li></ul><p><strong>ERR-SYS-0002：会话过期</strong></p><ul><li><strong>原因</strong>：由于不活动导致的安全超时（默认：60分钟）</li><li><strong>技术详情</strong>：会话令牌已超过最大生命周期</li><li><strong>即时解决方案</strong>：<ol><li>完全退出并重新登录</li><li>清除浏览器缓存和cookie</li><li>禁用敏感数据的浏览器自动保存</li></ol></li><li><strong>配置选项</strong>：<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>会话设置（管理 &gt; 安全）：
 • 超时期间：30-480分钟
 • 空闲警告：到期前5分钟
 • 并发会话：允许/限制
-• 记住我：启用/禁用</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-  <button
-    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-    title="Copy code"
-  >
-    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
-    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
-  </button>
-</div>
-</div>
-</li>
-</ul>
-<p><strong>ERR-SYS-0003：数据库连接失败</strong></p>
-<ul>
-<li><strong>原因</strong>：网络中断或数据库服务器不可用</li>
-<li><strong>技术详情</strong>：连接池耗尽或数据库维护</li>
-<li><strong>即时解决方案</strong>：
-<ol>
-<li>等待2-3分钟后重试</li>
-<li>在status.bigledger.com检查系统状态</li>
-<li>如果问题持续&gt;5分钟联系支持</li>
-</ol>
-</li>
-<li><strong>预防</strong>：监控数据库健康和连接池使用</li>
-</ul>
-<h3>数据验证错误（ERR-VAL-XXXX）<span class="hx:absolute hx:-mt-20" id="数据验证错误err-val-xxxx"></span>
-    <a href="#%e6%95%b0%e6%8d%ae%e9%aa%8c%e8%af%81%e9%94%99%e8%af%aferr-val-xxxx" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p><strong>ERR-VAL-1001：必填字段缺失</strong></p>
-<ul>
-<li><strong>原因</strong>：数据录入期间强制字段留空</li>
-<li><strong>字段类型</strong>：客户代码、产品名称、交易金额等</li>
-<li><strong>解决步骤</strong>：
-<ol>
-<li>查看表单中红色星号（*）标记的字段</li>
-<li>填写所有必需信息</li>
-<li>验证数据格式（日期、数字、邮箱）</li>
-<li>重新保存记录</li>
-</ol>
-</li>
-<li><strong>常见缺失字段</strong>：
-<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-
-<div><pre><code>客户记录：姓名、税号、联系信息
+• 记住我：启用/禁用</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div></li></ul><p><strong>ERR-SYS-0003：数据库连接失败</strong></p><ul><li><strong>原因</strong>：网络中断或数据库服务器不可用</li><li><strong>技术详情</strong>：连接池耗尽或数据库维护</li><li><strong>即时解决方案</strong>：<ol><li>等待2-3分钟后重试</li><li>在status.bigledger.com检查系统状态</li><li>如果问题持续>5分钟联系支持</li></ol></li><li><strong>预防</strong>：监控数据库健康和连接池使用</li></ul><h3>数据验证错误（ERR-VAL-XXXX）<span class="hx:absolute hx:-mt-20" id=数据验证错误err-val-xxxx></span>
+<a href=#%e6%95%b0%e6%8d%ae%e9%aa%8c%e8%af%81%e9%94%99%e8%af%aferr-val-xxxx class=subheading-anchor aria-label="Permalink for this section"></a></h3><p><strong>ERR-VAL-1001：必填字段缺失</strong></p><ul><li><strong>原因</strong>：数据录入期间强制字段留空</li><li><strong>字段类型</strong>：客户代码、产品名称、交易金额等</li><li><strong>解决步骤</strong>：<ol><li>查看表单中红色星号（*）标记的字段</li><li>填写所有必需信息</li><li>验证数据格式（日期、数字、邮箱）</li><li>重新保存记录</li></ol></li><li><strong>常见缺失字段</strong>：<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>客户记录：姓名、税号、联系信息
 产品记录：代码、名称、计量单位
-交易：日期、金额、账户代码</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-  <button
-    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-    title="Copy code"
-  >
-    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
-    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
-  </button>
-</div>
-</div>
-</li>
-</ul>
-<p><strong>ERR-VAL-1002：无效数据格式</strong></p>
-<ul>
-<li><strong>原因</strong>：数据不符合预期格式或业务规则</li>
-<li><strong>常见场景</strong>：
-<ul>
-<li>无效邮箱格式（缺少@符号）</li>
-<li>错误日期格式（需要DD/MM/YYYY）</li>
-<li>无效电话号码格式（+60-XXX-XXXXXXX）</li>
-<li>税号格式不符合马来西亚标准</li>
-</ul>
-</li>
-<li><strong>解决方案</strong>：
-<ol>
-<li>检查字段格式提示和示例</li>
-<li>在可用的地方使用格式验证器</li>
-<li>从验证来源复制粘贴</li>
-</ol>
-</li>
-</ul>
-<h3>交易错误（ERR-TXN-XXXX）<span class="hx:absolute hx:-mt-20" id="交易错误err-txn-xxxx"></span>
-    <a href="#%e4%ba%a4%e6%98%93%e9%94%99%e8%af%aferr-txn-xxxx" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p><strong>ERR-TXN-2001：库存不足</strong></p>
-<ul>
-<li><strong>原因</strong>：试图销售/分配超过可用库存的数量</li>
-<li><strong>技术详情</strong>：实时库存检查失败</li>
-<li><strong>详细解决方案</strong>：
-<ol>
-<li>检查当前库存水平：<strong>库存 &gt; 库存查询</strong></li>
-<li>验证库存位置和可用性</li>
-<li>考虑这些选项：
-<ul>
-<li>将数量减少到可用库存</li>
-<li>从其他位置转移库存</li>
-<li>为剩余数量创建后续订单</li>
-<li>如果库存计数不正确则更新库存</li>
-</ul>
-</li>
-</ol>
-</li>
-<li><strong>库存管理最佳实践</strong>：
-<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-
-<div><pre><code>• 为所有活跃项目设置再订购点
+交易：日期、金额、账户代码</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div></li></ul><p><strong>ERR-VAL-1002：无效数据格式</strong></p><ul><li><strong>原因</strong>：数据不符合预期格式或业务规则</li><li><strong>常见场景</strong>：<ul><li>无效邮箱格式（缺少@符号）</li><li>错误日期格式（需要DD/MM/YYYY）</li><li>无效电话号码格式（+60-XXX-XXXXXXX）</li><li>税号格式不符合马来西亚标准</li></ul></li><li><strong>解决方案</strong>：<ol><li>检查字段格式提示和示例</li><li>在可用的地方使用格式验证器</li><li>从验证来源复制粘贴</li></ol></li></ul><h3>交易错误（ERR-TXN-XXXX）<span class="hx:absolute hx:-mt-20" id=交易错误err-txn-xxxx></span>
+<a href=#%e4%ba%a4%e6%98%93%e9%94%99%e8%af%aferr-txn-xxxx class=subheading-anchor aria-label="Permalink for this section"></a></h3><p><strong>ERR-TXN-2001：库存不足</strong></p><ul><li><strong>原因</strong>：试图销售/分配超过可用库存的数量</li><li><strong>技术详情</strong>：实时库存检查失败</li><li><strong>详细解决方案</strong>：<ol><li>检查当前库存水平：<strong>库存 > 库存查询</strong></li><li>验证库存位置和可用性</li><li>考虑这些选项：<ul><li>将数量减少到可用库存</li><li>从其他位置转移库存</li><li>为剩余数量创建后续订单</li><li>如果库存计数不正确则更新库存</li></ul></li></ol></li><li><strong>库存管理最佳实践</strong>：<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>• 为所有活跃项目设置再订购点
 • 每日监控库存水平
 • 实施自动再订购通知
-• 定期循环盘点确保准确性</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-  <button
-    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-    title="Copy code"
-  >
-    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
-    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
-  </button>
-</div>
-</div>
-</li>
-</ul>
-<p><strong>ERR-TXN-2002：找不到价格</strong></p>
-<ul>
-<li><strong>原因</strong>：项目/客户组合没有配置有效价格</li>
-<li><strong>价格层次检查</strong>：
-<ol>
-<li>客户特定定价</li>
-<li>客户组定价</li>
-<li>促销定价</li>
-<li>标准价格表</li>
-<li>基础成本价格</li>
-</ol>
-</li>
-<li><strong>配置步骤</strong>：
-<ol>
-<li>导航到<strong>销售 &gt; 价格管理</strong></li>
-<li>按客户类型设置价格方案</li>
-<li>配置促销定价期间</li>
-<li>为新产品设置默认价格</li>
-<li>用样本交易测试定价</li>
-</ol>
-</li>
-</ul>
-<h3>马来西亚合规错误（ERR-MYS-XXXX）<span class="hx:absolute hx:-mt-20" id="马来西亚合规错误err-mys-xxxx"></span>
-    <a href="#%e9%a9%ac%e6%9d%a5%e8%a5%bf%e4%ba%9a%e5%90%88%e8%a7%84%e9%94%99%e8%af%aferr-mys-xxxx" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p><strong>ERR-MYS-4001：SST计算错误</strong></p>
-<ul>
-<li><strong>原因</strong>：销售和服务税计算或配置问题</li>
-<li><strong>SST规则</strong>：
-<ul>
-<li>标准税率：6%（大多数商品和服务）</li>
-<li>零税率：0%（出口、免税商品）</li>
-<li>免税：不适用SST</li>
-</ul>
-</li>
-<li><strong>配置检查</strong>：
-<ol>
-<li><strong>产品设置</strong>：验证SST代码分配</li>
-<li><strong>客户设置</strong>：检查SST免税状态</li>
-<li><strong>税务设置</strong>：审查SST计算规则</li>
-<li><strong>税率更新</strong>：确保加载当前SST税率</li>
-</ol>
-</li>
-</ul>
-<p><strong>ERR-MYS-4002：电子发票生成失败</strong></p>
-<ul>
-<li><strong>原因</strong>：MyInvois集成错误或验证失败</li>
-<li><strong>LHDN电子发票要求</strong>：
-<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-
-<div><pre><code>强制字段：
+• 定期循环盘点确保准确性</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div></li></ul><p><strong>ERR-TXN-2002：找不到价格</strong></p><ul><li><strong>原因</strong>：项目/客户组合没有配置有效价格</li><li><strong>价格层次检查</strong>：<ol><li>客户特定定价</li><li>客户组定价</li><li>促销定价</li><li>标准价格表</li><li>基础成本价格</li></ol></li><li><strong>配置步骤</strong>：<ol><li>导航到<strong>销售 > 价格管理</strong></li><li>按客户类型设置价格方案</li><li>配置促销定价期间</li><li>为新产品设置默认价格</li><li>用样本交易测试定价</li></ol></li></ul><h3>马来西亚合规错误（ERR-MYS-XXXX）<span class="hx:absolute hx:-mt-20" id=马来西亚合规错误err-mys-xxxx></span>
+<a href=#%e9%a9%ac%e6%9d%a5%e8%a5%bf%e4%ba%9a%e5%90%88%e8%a7%84%e9%94%99%e8%af%aferr-mys-xxxx class=subheading-anchor aria-label="Permalink for this section"></a></h3><p><strong>ERR-MYS-4001：SST计算错误</strong></p><ul><li><strong>原因</strong>：销售和服务税计算或配置问题</li><li><strong>SST规则</strong>：<ul><li>标准税率：6%（大多数商品和服务）</li><li>零税率：0%（出口、免税商品）</li><li>免税：不适用SST</li></ul></li><li><strong>配置检查</strong>：<ol><li><strong>产品设置</strong>：验证SST代码分配</li><li><strong>客户设置</strong>：检查SST免税状态</li><li><strong>税务设置</strong>：审查SST计算规则</li><li><strong>税率更新</strong>：确保加载当前SST税率</li></ol></li></ul><p><strong>ERR-MYS-4002：电子发票生成失败</strong></p><ul><li><strong>原因</strong>：MyInvois集成错误或验证失败</li><li><strong>LHDN电子发票要求</strong>：<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>强制字段：
 • 供应商TIN（税务识别号）
 • 买方TIN（用于B2B交易）
 • 发票日期和时间
 • 唯一发票号码
 • 产品/服务描述
-• SST详情</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-  <button
-    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-    title="Copy code"
-  >
-    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
-    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
-  </button>
-</div>
-</div>
-</li>
-<li><strong>验证错误</strong>：
-<ol>
-<li><strong>TIN格式</strong>：必须是有效的马来西亚TIN格式</li>
-<li><strong>日期/时间</strong>：必须在MyInvois提交时间框架内</li>
-<li><strong>货币</strong>：仅MYR和批准的外币</li>
-<li><strong>文档类型</strong>：必须匹配LHDN批准的类型</li>
-</ol>
-</li>
-</ul>
-<h3>集成错误（ERR-INT-XXXX）<span class="hx:absolute hx:-mt-20" id="集成错误err-int-xxxx"></span>
-    <a href="#%e9%9b%86%e6%88%90%e9%94%99%e8%af%aferr-int-xxxx" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p><strong>ERR-INT-3001：同步失败 - 银行</strong></p>
-<ul>
-<li><strong>原因</strong>：银行集成连接失败或认证过期</li>
-<li><strong>支持的特定银行</strong>：马来亚银行、CIMB、大众银行、RHB、丰隆银行</li>
-<li><strong>故障排除步骤</strong>：
-<ol>
-<li><strong>检查凭据</strong>：在<strong>财务 &gt; 银行集成</strong>中验证银行登录详情</li>
-<li><strong>测试连接</strong>：使用&quot;测试连接&quot;按钮</li>
-<li><strong>刷新令牌</strong>：如果使用OAuth重新认证</li>
-<li><strong>网络检查</strong>：确保防火墙允许银行连接</li>
-<li><strong>银行状态</strong>：检查银行系统是否因维护而停机</li>
-</ol>
-</li>
-</ul>
-<p><strong>ERR-INT-3002：电子商务同步错误</strong></p>
-<ul>
-<li><strong>原因</strong>：与在线商店平台的连接问题</li>
-<li><strong>支持的平台</strong>：Shopee、Lazada、WooCommerce、Magento、Shopify</li>
-<li><strong>错误子类型</strong>：
-<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-
-<div><pre><code>3002-A：认证失败
+• SST详情</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div></li><li><strong>验证错误</strong>：<ol><li><strong>TIN格式</strong>：必须是有效的马来西亚TIN格式</li><li><strong>日期/时间</strong>：必须在MyInvois提交时间框架内</li><li><strong>货币</strong>：仅MYR和批准的外币</li><li><strong>文档类型</strong>：必须匹配LHDN批准的类型</li></ol></li></ul><h3>集成错误（ERR-INT-XXXX）<span class="hx:absolute hx:-mt-20" id=集成错误err-int-xxxx></span>
+<a href=#%e9%9b%86%e6%88%90%e9%94%99%e8%af%aferr-int-xxxx class=subheading-anchor aria-label="Permalink for this section"></a></h3><p><strong>ERR-INT-3001：同步失败 - 银行</strong></p><ul><li><strong>原因</strong>：银行集成连接失败或认证过期</li><li><strong>支持的特定银行</strong>：马来亚银行、CIMB、大众银行、RHB、丰隆银行</li><li><strong>故障排除步骤</strong>：<ol><li><strong>检查凭据</strong>：在<strong>财务 > 银行集成</strong>中验证银行登录详情</li><li><strong>测试连接</strong>：使用"测试连接"按钮</li><li><strong>刷新令牌</strong>：如果使用OAuth重新认证</li><li><strong>网络检查</strong>：确保防火墙允许银行连接</li><li><strong>银行状态</strong>：检查银行系统是否因维护而停机</li></ol></li></ul><p><strong>ERR-INT-3002：电子商务同步错误</strong></p><ul><li><strong>原因</strong>：与在线商店平台的连接问题</li><li><strong>支持的平台</strong>：Shopee、Lazada、WooCommerce、Magento、Shopify</li><li><strong>错误子类型</strong>：<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>3002-A：认证失败
 3002-B：产品目录同步失败
 3002-C：订单下载错误
 3002-D：库存更新失败
-3002-E：定价同步错误</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-  <button
-    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-    title="Copy code"
-  >
-    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
-    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
-  </button>
-</div>
-</div>
-</li>
-<li><strong>平台特定解决方案</strong>：
-<ul>
-<li><strong>Shopee</strong>：检查卖家中心的API密钥和秘钥</li>
-<li><strong>Lazada</strong>：验证卖家中心的应用授权</li>
-<li><strong>WooCommerce</strong>：测试REST API凭据</li>
-<li><strong>Shopify</strong>：刷新私人应用权限</li>
-</ul>
-</li>
-</ul>
-<div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
-  <div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"><div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️</div></div>
-
-  <div class="hx:w-full hx:min-w-0 hx:leading-7">
-    <div class="hx:mt-6 hx:leading-7 hx:first:mt-0"><strong>安全第一</strong>：在进行任何系统更改来解决问题之前，确保您有适当的备份并了解更改的影响。</div>
-  </div>
-</div>
-
-<h2>浏览器特定问题<span class="hx:absolute hx:-mt-20" id="浏览器特定问题"></span>
-    <a href="#%e6%b5%8f%e8%a7%88%e5%99%a8%e7%89%b9%e5%ae%9a%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>Chrome问题<span class="hx:absolute hx:-mt-20" id="chrome问题"></span>
-    <a href="#chrome%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>缓存问题</strong>：清除浏览数据，重置Chrome设置</li>
-<li><strong>扩展冲突</strong>：禁用扩展，在隐身模式下测试</li>
-<li><strong>内存问题</strong>：关闭未使用的标签页，重启浏览器</li>
-</ul>
-<h3>Firefox问题<span class="hx:absolute hx:-mt-20" id="firefox问题"></span>
-    <a href="#firefox%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>安全设置</strong>：为BigLedger调整安全偏好</li>
-<li><strong>插件冲突</strong>：在禁用插件的情况下测试</li>
-<li><strong>Cookie设置</strong>：确保为BigLedger启用cookie</li>
-</ul>
-<h3>Safari问题<span class="hx:absolute hx:-mt-20" id="safari问题"></span>
-    <a href="#safari%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>JavaScript设置</strong>：为BigLedger域启用JavaScript</li>
-<li><strong>隐私设置</strong>：为业务应用调整隐私设置</li>
-<li><strong>缓存问题</strong>：清除BigLedger的网站数据</li>
-</ul>
-<h3>移动浏览器问题<span class="hx:absolute hx:-mt-20" id="移动浏览器问题"></span>
-    <a href="#%e7%a7%bb%e5%8a%a8%e6%b5%8f%e8%a7%88%e5%99%a8%e9%97%ae%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>响应式设计</strong>：复杂屏幕使用横向模式</li>
-<li><strong>触摸界面</strong>：使用适当的导航手势</li>
-<li><strong>数据连接</strong>：确保稳定的互联网连接</li>
-</ul>
-<h2>性能优化<span class="hx:absolute hx:-mt-20" id="性能优化"></span>
-    <a href="#%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>系统性能<span class="hx:absolute hx:-mt-20" id="系统性能"></span>
-    <a href="#%e7%b3%bb%e7%bb%9f%e6%80%a7%e8%83%bd" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><h4>详细性能优化<span class="hx:absolute hx:-mt-20" id="详细性能优化"></span>
-    <a href="#%e8%af%a6%e7%bb%86%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><p><strong>识别性能瓶颈</strong></p>
-<ol>
-<li>
-<p><strong>系统性能仪表板</strong></p>
-<ul>
-<li>导航到<strong>管理 &gt; 系统健康</strong></li>
-<li>监控CPU、内存和数据库性能</li>
-<li>检查活跃用户会话和并发进程</li>
-<li>审查系统日志的错误模式</li>
-</ul>
-</li>
-<li>
-<p><strong>用户体验监控</strong></p>
-<ul>
-<li>跟踪不同模块的页面加载时间</li>
-<li>监控报告生成速度</li>
-<li>分析用户会话持续时间和超时</li>
-<li>识别经常访问的缓慢功能</li>
-</ul>
-</li>
-</ol>
-<p><strong>浏览器端性能优化</strong></p>
-<div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code">
-
-<div><pre><code>推荐的浏览器设置：
+3002-E：定价同步错误</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div></li><li><strong>平台特定解决方案</strong>：<ul><li><strong>Shopee</strong>：检查卖家中心的API密钥和秘钥</li><li><strong>Lazada</strong>：验证卖家中心的应用授权</li><li><strong>WooCommerce</strong>：测试REST API凭据</li><li><strong>Shopify</strong>：刷新私人应用权限</li></ul></li></ul><div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200"><div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"><div class="hx:select-none hx:text-xl" style="font-family:apple color emoji,segoe ui emoji,segoe ui symbol">⚠️</div></div><div class="hx:w-full hx:min-w-0 hx:leading-7"><div class="hx:mt-6 hx:leading-7 hx:first:mt-0"><strong>安全第一</strong>：在进行任何系统更改来解决问题之前，确保您有适当的备份并了解更改的影响。</div></div></div><h2>浏览器特定问题<span class="hx:absolute hx:-mt-20" id=浏览器特定问题></span>
+<a href=#%e6%b5%8f%e8%a7%88%e5%99%a8%e7%89%b9%e5%ae%9a%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>Chrome问题<span class="hx:absolute hx:-mt-20" id=chrome问题></span>
+<a href=#chrome%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>缓存问题</strong>：清除浏览数据，重置Chrome设置</li><li><strong>扩展冲突</strong>：禁用扩展，在隐身模式下测试</li><li><strong>内存问题</strong>：关闭未使用的标签页，重启浏览器</li></ul><h3>Firefox问题<span class="hx:absolute hx:-mt-20" id=firefox问题></span>
+<a href=#firefox%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>安全设置</strong>：为BigLedger调整安全偏好</li><li><strong>插件冲突</strong>：在禁用插件的情况下测试</li><li><strong>Cookie设置</strong>：确保为BigLedger启用cookie</li></ul><h3>Safari问题<span class="hx:absolute hx:-mt-20" id=safari问题></span>
+<a href=#safari%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>JavaScript设置</strong>：为BigLedger域启用JavaScript</li><li><strong>隐私设置</strong>：为业务应用调整隐私设置</li><li><strong>缓存问题</strong>：清除BigLedger的网站数据</li></ul><h3>移动浏览器问题<span class="hx:absolute hx:-mt-20" id=移动浏览器问题></span>
+<a href=#%e7%a7%bb%e5%8a%a8%e6%b5%8f%e8%a7%88%e5%99%a8%e9%97%ae%e9%a2%98 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>响应式设计</strong>：复杂屏幕使用横向模式</li><li><strong>触摸界面</strong>：使用适当的导航手势</li><li><strong>数据连接</strong>：确保稳定的互联网连接</li></ul><h2>性能优化<span class="hx:absolute hx:-mt-20" id=性能优化></span>
+<a href=#%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>系统性能<span class="hx:absolute hx:-mt-20" id=系统性能></span>
+<a href=#%e7%b3%bb%e7%bb%9f%e6%80%a7%e8%83%bd class=subheading-anchor aria-label="Permalink for this section"></a></h3><h4>详细性能优化<span class="hx:absolute hx:-mt-20" id=详细性能优化></span>
+<a href=#%e8%af%a6%e7%bb%86%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96 class=subheading-anchor aria-label="Permalink for this section"></a></h4><p><strong>识别性能瓶颈</strong></p><ol><li><p><strong>系统性能仪表板</strong></p><ul><li>导航到<strong>管理 > 系统健康</strong></li><li>监控CPU、内存和数据库性能</li><li>检查活跃用户会话和并发进程</li><li>审查系统日志的错误模式</li></ul></li><li><p><strong>用户体验监控</strong></p><ul><li>跟踪不同模块的页面加载时间</li><li>监控报告生成速度</li><li>分析用户会话持续时间和超时</li><li>识别经常访问的缓慢功能</li></ul></li></ol><p><strong>浏览器端性能优化</strong></p><div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"><div><pre><code>推荐的浏览器设置：
 ✓ 启用JavaScript和cookie
 ✓ 禁用不必要的浏览器扩展
 ✓ 每周清除缓存
 ✓ 更新到最新浏览器版本
 ✓ 允许BigLedger域的弹出窗口
-✓ 设置足够的内存分配</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0">
-  <button
-    class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-    title="Copy code"
-  >
-    <div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div>
-    <div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div>
-  </button>
-</div>
-</div>
-<p><strong>网络优化</strong></p>
-<ul>
-<li><strong>带宽要求</strong>：最佳性能最少10 Mbps</li>
-<li><strong>延迟考虑</strong>：到BigLedger服务器&lt;100ms延迟</li>
-<li><strong>连接稳定性</strong>：有线连接比WiFi优先</li>
-<li><strong>VPN影响</strong>：测试有/无VPN的性能</li>
-<li><strong>防火墙配置</strong>：将BigLedger域和端口列入白名单</li>
-</ul>
-<p><strong>数据库性能调优</strong></p>
-<ul>
-<li><strong>查询优化</strong>：使用适当的过滤器和日期范围</li>
-<li><strong>索引管理</strong>：确保在经常查询的字段上有适当索引</li>
-<li><strong>数据归档</strong>：归档旧数据以提高查询性能</li>
-<li><strong>并发用户</strong>：监控数据库连接限制</li>
-<li><strong>维护窗口</strong>：安排定期数据库维护</li>
-</ul>
-<h4>客户端优化<span class="hx:absolute hx:-mt-20" id="客户端优化"></span>
-    <a href="#%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bc%98%e5%8c%96" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ul>
-<li><strong>浏览器维护</strong>：定期清除缓存，更新浏览器</li>
-<li><strong>网络优化</strong>：稳定的互联网连接，避免高峰时段</li>
-<li><strong>设备性能</strong>：足够的RAM，关闭不必要的应用程序</li>
-<li><strong>屏幕分辨率</strong>：为BigLedger优化显示设置</li>
-</ul>
-<h4>服务器端因素<span class="hx:absolute hx:-mt-20" id="服务器端因素"></span>
-    <a href="#%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ab%af%e5%9b%a0%e7%b4%a0" class="subheading-anchor" aria-label="Permalink for this section"></a></h4><ul>
-<li><strong>高峰使用时间</strong>：了解系统负载模式</li>
-<li><strong>数据量</strong>：大报告和查询影响性能</li>
-<li><strong>集成负载</strong>：多个同时集成影响速度</li>
-<li><strong>维护窗口</strong>：计划维护影响可用性</li>
-</ul>
-<h3>数据性能<span class="hx:absolute hx:-mt-20" id="数据性能"></span>
-    <a href="#%e6%95%b0%e6%8d%ae%e6%80%a7%e8%83%bd" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>查询优化</strong>：使用适当的过滤器和日期范围</li>
-<li><strong>报告效率</strong>：限制大报告的数据范围</li>
-<li><strong>批处理</strong>：将类似操作分组在一起</li>
-<li><strong>归档策略</strong>：归档旧数据以提高性能</li>
-</ul>
-<h2>升级程序<span class="hx:absolute hx:-mt-20" id="升级程序"></span>
-    <a href="#%e5%8d%87%e7%ba%a7%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>何时升级<span class="hx:absolute hx:-mt-20" id="何时升级"></span>
-    <a href="#%e4%bd%95%e6%97%b6%e5%8d%87%e7%ba%a7" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>安全事件</strong>：安全漏洞的即时升级</li>
-<li><strong>系统中断</strong>：当系统完全不可用时</li>
-<li><strong>数据损坏</strong>：任何疑似数据完整性问题</li>
-<li><strong>关键业务影响</strong>：影响核心业务运营的问题</li>
-</ul>
-<h3>如何升级<span class="hx:absolute hx:-mt-20" id="如何升级"></span>
-    <a href="#%e5%a6%82%e4%bd%95%e5%8d%87%e7%ba%a7" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ol>
-<li><strong>记录问题</strong>：全面的问题描述</li>
-<li><strong>收集证据</strong>：截图、错误消息、日志</li>
-<li><strong>评估影响</strong>：业务影响和紧急程度</li>
-<li><strong>联系适当支持</strong>：使用正确的支持渠道</li>
-<li><strong>跟进</strong>：监控解决和沟通状态</li>
-</ol>
-<h2>自助服务资源<span class="hx:absolute hx:-mt-20" id="自助服务资源"></span>
-    <a href="#%e8%87%aa%e5%8a%a9%e6%9c%8d%e5%8a%a1%e8%b5%84%e6%ba%90" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>知识库<span class="hx:absolute hx:-mt-20" id="知识库"></span>
-    <a href="#%e7%9f%a5%e8%af%86%e5%ba%93" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>FAQ部分</strong> - 常见问题答案</li>
-<li><strong>视频教程</strong> - 分步视觉指南</li>
-<li><strong>用户论坛</strong> - 社区驱动的支持</li>
-<li><strong>文档</strong> - 综合用户指南</li>
-</ul>
-<h3>诊断工具<span class="hx:absolute hx:-mt-20" id="诊断工具"></span>
-    <a href="#%e8%af%8a%e6%96%ad%e5%b7%a5%e5%85%b7" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>系统健康检查</strong> - 内置系统诊断</li>
-<li><strong>连接测试</strong> - 网络和集成测试</li>
-<li><strong>权限检查器</strong> - 验证用户访问权限</li>
-<li><strong>性能监控</strong> - 系统性能指标</li>
-</ul>
-<div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
-  <div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"></div>
-
-  <div class="hx:w-full hx:min-w-0 hx:leading-7">
-    <div class="hx:mt-6 hx:leading-7 hx:first:mt-0"><strong>效率提示</strong>：保持故障排除日志以跟踪重复问题及其解决方案。这建立了您的专业知识并帮助识别系统改进机会。</div>
-  </div>
-</div>
-
-<h2>预防策略<span class="hx:absolute hx:-mt-20" id="预防策略"></span>
-    <a href="#%e9%a2%84%e9%98%b2%e7%ad%96%e7%95%a5" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>主动维护<span class="hx:absolute hx:-mt-20" id="主动维护"></span>
-    <a href="#%e4%b8%bb%e5%8a%a8%e7%bb%b4%e6%8a%a4" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>定期更新</strong>：保持浏览器和系统更新</li>
-<li><strong>培训计划</strong>：持续的用户教育和培训</li>
-<li><strong>系统监控</strong>：定期健康检查和性能监控</li>
-<li><strong>数据备份</strong>：维护当前备份和恢复程序</li>
-</ul>
-<h3>最佳实践<span class="hx:absolute hx:-mt-20" id="最佳实践"></span>
-    <a href="#%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>文档</strong>：保持程序文档化和最新</li>
-<li><strong>测试</strong>：在生产前在暂存环境中测试更改</li>
-<li><strong>沟通</strong>：通知用户系统更改和更新</li>
-<li><strong>监控</strong>：为关键系统指标设置警报</li>
-</ul>
-<h2>获得帮助<span class="hx:absolute hx:-mt-20" id="获得帮助"></span>
-    <a href="#%e8%8e%b7%e5%be%97%e5%b8%ae%e5%8a%a9" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><h3>支持渠道<span class="hx:absolute hx:-mt-20" id="支持渠道"></span>
-    <a href="#%e6%94%af%e6%8c%81%e6%b8%a0%e9%81%93" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>📧 邮箱支持</strong>：vincent@bigledger.com 技术问题</li>
-<li><strong>💬 快速聊天</strong>：Telegram @leehongfay 即时问题</li>
-<li><strong>📞 电话支持</strong>：工作时间内可用</li>
-<li><strong>🌐 支持门户</strong>：在线工单系统和知识库</li>
-</ul>
-<h3>提供的支持信息<span class="hx:absolute hx:-mt-20" id="提供的支持信息"></span>
-    <a href="#%e6%8f%90%e4%be%9b%e7%9a%84%e6%94%af%e6%8c%81%e4%bf%a1%e6%81%af" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>问题描述</strong>：问题的清楚解释</li>
-<li><strong>重现步骤</strong>：如何重新创建问题</li>
-<li><strong>错误消息</strong>：任何错误消息的确切文本</li>
-<li><strong>用户信息</strong>：账户详情和权限</li>
-<li><strong>系统详情</strong>：浏览器、设备和网络信息</li>
-<li><strong>业务影响</strong>：问题如何影响您的运营</li>
-</ul>
-<h3>响应时间期望<span class="hx:absolute hx:-mt-20" id="响应时间期望"></span>
-    <a href="#%e5%93%8d%e5%ba%94%e6%97%b6%e9%97%b4%e6%9c%9f%e6%9c%9b" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><ul>
-<li><strong>关键问题</strong>：1-2小时响应时间</li>
-<li><strong>高优先级</strong>：4-8小时响应时间</li>
-<li><strong>正常问题</strong>：1-2个工作日响应时间</li>
-<li><strong>增强请求</strong>：在月度规划周期中审查</li>
-</ul>
-<div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
-  <div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"></div>
-
-  <div class="hx:w-full hx:min-w-0 hx:leading-7">
-    <div class="hx:mt-6 hx:leading-7 hx:first:mt-0"><strong>解决成功</strong>：通过适当的问题识别和使用合适的资源和支持渠道，大多数用户问题都可以快速解决。</div>
-  </div>
-</div>
-
-
-    </div>
-  </div>
-</article>
-
-  </main>
-
-  <footer class="corporate-footer">
-  <div class="container">
-    <div class="footer-grid">
-      <div class="footer-column">
-        <img src="http://localhost:1313/images/bigledger-logo-cropped.png" alt="BigLedger 文档" height="32" style="margin-bottom: 16px;">
-        <p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p>
-      </div>
-      <div class="footer-column">
-        <h4>Product</h4>
-        <ul>
-          <li><a href="http://localhost:1313/solutions">Solutions</a></li>
-          <li><a href="http://localhost:1313/pricing">Pricing</a></li>
-          <li><a href="http://localhost:1313/developers">Developers</a></li>
-        </ul>
-      </div>
-      <div class="footer-column">
-        <h4>Company</h4>
-        <ul>
-          <li><a href="http://localhost:1313/about">About</a></li>
-          <li><a href="http://localhost:1313/contact">Contact</a></li>
-        </ul>
-      </div>
-      <div class="footer-column">
-        <h4>Connect</h4>
-        <ul>
-          
-          <li><a href="https://github.com/bigledger" target="_blank">Github</a></li>
-          
-          <li><a href="https://twitter.com/bigledger" target="_blank">Twitter</a></li>
-          
-        </ul>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <p>&copy; 2025 BigLedger. All rights reserved.</p>
-    </div>
-  </div>
-</footer>
-
-</body>
-</html>
+✓ 设置足够的内存分配</code></pre></div><div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"><button class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50" title="Copy code"><div class="copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"></div><div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"></div></button></div></div><p><strong>网络优化</strong></p><ul><li><strong>带宽要求</strong>：最佳性能最少10 Mbps</li><li><strong>延迟考虑</strong>：到BigLedger服务器&lt;100ms延迟</li><li><strong>连接稳定性</strong>：有线连接比WiFi优先</li><li><strong>VPN影响</strong>：测试有/无VPN的性能</li><li><strong>防火墙配置</strong>：将BigLedger域和端口列入白名单</li></ul><p><strong>数据库性能调优</strong></p><ul><li><strong>查询优化</strong>：使用适当的过滤器和日期范围</li><li><strong>索引管理</strong>：确保在经常查询的字段上有适当索引</li><li><strong>数据归档</strong>：归档旧数据以提高查询性能</li><li><strong>并发用户</strong>：监控数据库连接限制</li><li><strong>维护窗口</strong>：安排定期数据库维护</li></ul><h4>客户端优化<span class="hx:absolute hx:-mt-20" id=客户端优化></span>
+<a href=#%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bc%98%e5%8c%96 class=subheading-anchor aria-label="Permalink for this section"></a></h4><ul><li><strong>浏览器维护</strong>：定期清除缓存，更新浏览器</li><li><strong>网络优化</strong>：稳定的互联网连接，避免高峰时段</li><li><strong>设备性能</strong>：足够的RAM，关闭不必要的应用程序</li><li><strong>屏幕分辨率</strong>：为BigLedger优化显示设置</li></ul><h4>服务器端因素<span class="hx:absolute hx:-mt-20" id=服务器端因素></span>
+<a href=#%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ab%af%e5%9b%a0%e7%b4%a0 class=subheading-anchor aria-label="Permalink for this section"></a></h4><ul><li><strong>高峰使用时间</strong>：了解系统负载模式</li><li><strong>数据量</strong>：大报告和查询影响性能</li><li><strong>集成负载</strong>：多个同时集成影响速度</li><li><strong>维护窗口</strong>：计划维护影响可用性</li></ul><h3>数据性能<span class="hx:absolute hx:-mt-20" id=数据性能></span>
+<a href=#%e6%95%b0%e6%8d%ae%e6%80%a7%e8%83%bd class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>查询优化</strong>：使用适当的过滤器和日期范围</li><li><strong>报告效率</strong>：限制大报告的数据范围</li><li><strong>批处理</strong>：将类似操作分组在一起</li><li><strong>归档策略</strong>：归档旧数据以提高性能</li></ul><h2>升级程序<span class="hx:absolute hx:-mt-20" id=升级程序></span>
+<a href=#%e5%8d%87%e7%ba%a7%e7%a8%8b%e5%ba%8f class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>何时升级<span class="hx:absolute hx:-mt-20" id=何时升级></span>
+<a href=#%e4%bd%95%e6%97%b6%e5%8d%87%e7%ba%a7 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>安全事件</strong>：安全漏洞的即时升级</li><li><strong>系统中断</strong>：当系统完全不可用时</li><li><strong>数据损坏</strong>：任何疑似数据完整性问题</li><li><strong>关键业务影响</strong>：影响核心业务运营的问题</li></ul><h3>如何升级<span class="hx:absolute hx:-mt-20" id=如何升级></span>
+<a href=#%e5%a6%82%e4%bd%95%e5%8d%87%e7%ba%a7 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ol><li><strong>记录问题</strong>：全面的问题描述</li><li><strong>收集证据</strong>：截图、错误消息、日志</li><li><strong>评估影响</strong>：业务影响和紧急程度</li><li><strong>联系适当支持</strong>：使用正确的支持渠道</li><li><strong>跟进</strong>：监控解决和沟通状态</li></ol><h2>自助服务资源<span class="hx:absolute hx:-mt-20" id=自助服务资源></span>
+<a href=#%e8%87%aa%e5%8a%a9%e6%9c%8d%e5%8a%a1%e8%b5%84%e6%ba%90 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>知识库<span class="hx:absolute hx:-mt-20" id=知识库></span>
+<a href=#%e7%9f%a5%e8%af%86%e5%ba%93 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>FAQ部分</strong> - 常见问题答案</li><li><strong>视频教程</strong> - 分步视觉指南</li><li><strong>用户论坛</strong> - 社区驱动的支持</li><li><strong>文档</strong> - 综合用户指南</li></ul><h3>诊断工具<span class="hx:absolute hx:-mt-20" id=诊断工具></span>
+<a href=#%e8%af%8a%e6%96%ad%e5%b7%a5%e5%85%b7 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>系统健康检查</strong> - 内置系统诊断</li><li><strong>连接测试</strong> - 网络和集成测试</li><li><strong>权限检查器</strong> - 验证用户访问权限</li><li><strong>性能监控</strong> - 系统性能指标</li></ul><div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300"><div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"></div><div class="hx:w-full hx:min-w-0 hx:leading-7"><div class="hx:mt-6 hx:leading-7 hx:first:mt-0"><strong>效率提示</strong>：保持故障排除日志以跟踪重复问题及其解决方案。这建立了您的专业知识并帮助识别系统改进机会。</div></div></div><h2>预防策略<span class="hx:absolute hx:-mt-20" id=预防策略></span>
+<a href=#%e9%a2%84%e9%98%b2%e7%ad%96%e7%95%a5 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>主动维护<span class="hx:absolute hx:-mt-20" id=主动维护></span>
+<a href=#%e4%b8%bb%e5%8a%a8%e7%bb%b4%e6%8a%a4 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>定期更新</strong>：保持浏览器和系统更新</li><li><strong>培训计划</strong>：持续的用户教育和培训</li><li><strong>系统监控</strong>：定期健康检查和性能监控</li><li><strong>数据备份</strong>：维护当前备份和恢复程序</li></ul><h3>最佳实践<span class="hx:absolute hx:-mt-20" id=最佳实践></span>
+<a href=#%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>文档</strong>：保持程序文档化和最新</li><li><strong>测试</strong>：在生产前在暂存环境中测试更改</li><li><strong>沟通</strong>：通知用户系统更改和更新</li><li><strong>监控</strong>：为关键系统指标设置警报</li></ul><h2>获得帮助<span class="hx:absolute hx:-mt-20" id=获得帮助></span>
+<a href=#%e8%8e%b7%e5%be%97%e5%b8%ae%e5%8a%a9 class=subheading-anchor aria-label="Permalink for this section"></a></h2><h3>支持渠道<span class="hx:absolute hx:-mt-20" id=支持渠道></span>
+<a href=#%e6%94%af%e6%8c%81%e6%b8%a0%e9%81%93 class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>📧 邮箱支持</strong>：vincent@bigledger.com 技术问题</li><li><strong>💬 快速聊天</strong>：Telegram @leehongfay 即时问题</li><li><strong>📞 电话支持</strong>：工作时间内可用</li><li><strong>🌐 支持门户</strong>：在线工单系统和知识库</li></ul><h3>提供的支持信息<span class="hx:absolute hx:-mt-20" id=提供的支持信息></span>
+<a href=#%e6%8f%90%e4%be%9b%e7%9a%84%e6%94%af%e6%8c%81%e4%bf%a1%e6%81%af class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>问题描述</strong>：问题的清楚解释</li><li><strong>重现步骤</strong>：如何重新创建问题</li><li><strong>错误消息</strong>：任何错误消息的确切文本</li><li><strong>用户信息</strong>：账户详情和权限</li><li><strong>系统详情</strong>：浏览器、设备和网络信息</li><li><strong>业务影响</strong>：问题如何影响您的运营</li></ul><h3>响应时间期望<span class="hx:absolute hx:-mt-20" id=响应时间期望></span>
+<a href=#%e5%93%8d%e5%ba%94%e6%97%b6%e9%97%b4%e6%9c%9f%e6%9c%9b class=subheading-anchor aria-label="Permalink for this section"></a></h3><ul><li><strong>关键问题</strong>：1-2小时响应时间</li><li><strong>高优先级</strong>：4-8小时响应时间</li><li><strong>正常问题</strong>：1-2个工作日响应时间</li><li><strong>增强请求</strong>：在月度规划周期中审查</li></ul><div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300"><div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"></div><div class="hx:w-full hx:min-w-0 hx:leading-7"><div class="hx:mt-6 hx:leading-7 hx:first:mt-0"><strong>解决成功</strong>：通过适当的问题识别和使用合适的资源和支持渠道，大多数用户问题都可以快速解决。</div></div></div></div></div></article></main><footer class=corporate-footer><div class=container><div class=footer-grid><div class=footer-column><img src=https://www.bigledger.com/images/bigledger-logo-cropped.png alt="BigLedger 文档" height=32 style=margin-bottom:16px><p>Complete Business Management Platform - ERP, POS, E-Commerce & More</p></div><div class=footer-column><h4>Product</h4><ul><li><a href=https://www.bigledger.com/solutions>Solutions</a></li><li><a href=https://www.bigledger.com/pricing>Pricing</a></li><li><a href=https://www.bigledger.com/developers>Developers</a></li></ul></div><div class=footer-column><h4>Company</h4><ul><li><a href=https://www.bigledger.com/about>About</a></li><li><a href=https://www.bigledger.com/contact>Contact</a></li></ul></div><div class=footer-column><h4>Connect</h4><ul><li><a href=https://github.com/bigledger target=_blank>Github</a></li><li><a href=https://twitter.com/bigledger target=_blank>Twitter</a></li></ul></div></div><div class=footer-bottom><p>&copy; 2025 BigLedger. All rights reserved.</p></div></div></footer></body></html>
