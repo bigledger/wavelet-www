@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Implementation Guides</title><link>https://wiki.bigledger.com/guides/</link><description>Recent content in Implementation Guides on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Accounting Workflows Deep Dive</title><link>https://wiki.bigledger.com/guides/advanced/accounting-workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/advanced/accounting-workflows/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Implementation Guides</title><link>https://www.bigledger.com/guides/</link><description>Recent content in Implementation Guides on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Accounting Workflows Deep Dive</title><link>https://www.bigledger.com/guides/advanced/accounting-workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/advanced/accounting-workflows/</guid><description>
 &lt;p>&lt;em>Written by an ERP specialist with 30 years of experience implementing SAP R/3, Oracle ERP, Microsoft Dynamics, QuickBooks, Sage, Odoo, NetSuite, and now BigLedger. Drawing from real-world implementations across manufacturing, retail, services, and construction industries.&lt;/em>&lt;/p>
 &lt;h2>Table of Contents&lt;span class="hx:absolute hx:-mt-20" id="table-of-contents">&lt;/span>
 &lt;a href="#table-of-contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
@@ -1442,7 +1442,7 @@ title="Copy code"
 &lt;li>&lt;strong>Control&lt;/strong>: Month-end cut-off testing&lt;/li>
 &lt;/ul>
 &lt;p>This comprehensive guide represents decades of real-world experience implementing accounting workflows across diverse industries. The key to success is consistent application of these principles, proper training of staff, and leveraging BigLedger&amp;rsquo;s automation capabilities to reduce manual errors and improve efficiency.&lt;/p>
-&lt;p>Each section provides practical, implementable solutions that I&amp;rsquo;ve personally tested across multiple ERP implementations. The emphasis is always on creating robust, auditable processes that provide accurate financial information for decision-making while maintaining compliance with applicable accounting standards and regulations.&lt;/p></description></item><item><title>Branch Manager Guide</title><link>https://wiki.bigledger.com/guides/roles/branch-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/roles/branch-manager/</guid><description>
+&lt;p>Each section provides practical, implementable solutions that I&amp;rsquo;ve personally tested across multiple ERP implementations. The emphasis is always on creating robust, auditable processes that provide accurate financial information for decision-making while maintaining compliance with applicable accounting standards and regulations.&lt;/p></description></item><item><title>Branch Manager Guide</title><link>https://www.bigledger.com/guides/roles/branch-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/roles/branch-manager/</guid><description>
 &lt;h1>Branch Manager Operations and Performance Guide&lt;/h1>&lt;h2>Background Profile&lt;span class="hx:absolute hx:-mt-20" id="background-profile">&lt;/span>
 &lt;a href="#background-profile" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Role:&lt;/strong> Branch Manager&lt;br>
 &lt;strong>Responsibility:&lt;/strong> Retail location operations, staff management, inventory oversight, sales performance, P&amp;amp;L accountability&lt;br>
@@ -1586,7 +1586,7 @@ title="Copy code"
 &lt;li>Adapting to local market conditions and competition&lt;/li>
 &lt;li>Maintaining compliance with Malaysian business regulations&lt;/li>
 &lt;li>Optimizing costs while meeting company standards&lt;/li>
-&lt;/ul></description></item><item><title>Chart of Accounts Setup Guide</title><link>https://wiki.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</guid><description>
+&lt;/ul></description></item><item><title>Chart of Accounts Setup Guide</title><link>https://www.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</guid><description>
 &lt;p>Complete guide for setting up your Chart of Accounts in BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Chart of Accounts (COA) is the foundation of your financial system in BigLedger. It defines the structure of your general ledger and determines how financial transactions are categorized and reported.&lt;/p>
@@ -1765,7 +1765,7 @@ title="Copy code"
 &lt;li>Test with sample transactions&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>For additional support, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>MyInvois Setup Guide</title><link>https://wiki.bigledger.com/guides/einvoice-guides/myinvois-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/einvoice-guides/myinvois-setup/</guid><description>
+&lt;p>&lt;em>For additional support, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>MyInvois Setup Guide</title><link>https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/</guid><description>
 &lt;p>Complete guide for MyInvois implementation with BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>MyInvois is Malaysia&amp;rsquo;s national e-invoicing initiative by LHDN. BigLedger provides seamless integration as an MDEC-accredited PEPPOL service provider.&lt;/p>
@@ -1850,7 +1850,7 @@ title="Copy code"
 &lt;li>&lt;input disabled="" type="checkbox"> Backup process ready&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>For MyInvois support, contact &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Stock Management Guide</title><link>https://wiki.bigledger.com/guides/inventory-guides/stock-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/inventory-guides/stock-management/</guid><description>
+&lt;p>&lt;em>For MyInvois support, contact &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Stock Management Guide</title><link>https://www.bigledger.com/guides/inventory-guides/stock-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/inventory-guides/stock-management/</guid><description>
 &lt;p>Complete inventory management with BigLedger.&lt;/p>
 &lt;h2>Stock Setup&lt;span class="hx:absolute hx:-mt-20" id="stock-setup">&lt;/span>
 &lt;a href="#stock-setup" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Item Master&lt;span class="hx:absolute hx:-mt-20" id="item-master">&lt;/span>
@@ -1906,7 +1906,7 @@ title="Copy code"
 &lt;li>Obsolescence review&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Inventory support: &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Advanced Inventory &amp; Manufacturing</title><link>https://wiki.bigledger.com/guides/advanced/advanced-inventory-manufacturing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/advanced/advanced-inventory-manufacturing/</guid><description>
+&lt;p>&lt;em>Inventory support: &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Advanced Inventory &amp; Manufacturing</title><link>https://www.bigledger.com/guides/advanced/advanced-inventory-manufacturing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/advanced/advanced-inventory-manufacturing/</guid><description>
 &lt;p>&lt;em>Three decades of implementing manufacturing and inventory systems across discrete, process, and mixed-mode environments. From small job shops to Fortune 500 manufacturing operations.&lt;/em>&lt;/p>
 &lt;h2>Table of Contents&lt;span class="hx:absolute hx:-mt-20" id="table-of-contents">&lt;/span>
 &lt;a href="#table-of-contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
@@ -3399,7 +3399,7 @@ title="Copy code"
 &lt;/div>
 &lt;/div>
 &lt;p>This comprehensive guide represents three decades of practical experience in implementing and optimizing inventory and manufacturing processes. The key to success lies in establishing robust master data, implementing disciplined processes, and leveraging BigLedger&amp;rsquo;s automation capabilities while maintaining focus on accuracy and continuous improvement.&lt;/p>
-&lt;p>Each section provides detailed, implementable procedures that have been tested across multiple industries and ERP implementations. The emphasis is on creating systems that provide accurate, timely information for operational decision-making while maintaining compliance with applicable standards and regulations.&lt;/p></description></item><item><title>Cashier Guide</title><link>https://wiki.bigledger.com/guides/roles/cashier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/roles/cashier/</guid><description>
+&lt;p>Each section provides detailed, implementable procedures that have been tested across multiple industries and ERP implementations. The emphasis is on creating systems that provide accurate, timely information for operational decision-making while maintaining compliance with applicable standards and regulations.&lt;/p></description></item><item><title>Cashier Guide</title><link>https://www.bigledger.com/guides/roles/cashier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/roles/cashier/</guid><description>
 &lt;h1>BigLedger POS System - Cashier Questions &amp;amp; Scenarios&lt;/h1>&lt;h2>Background&lt;span class="hx:absolute hx:-mt-20" id="background">&lt;/span>
 &lt;a href="#background" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>I&amp;rsquo;m a cashier at a retail store in Malaysia using BigLedger POS system. I handle daily customer transactions, returns, and basic inventory queries. I need practical, step-by-step guidance for my daily tasks with limited technical knowledge.&lt;/p>
 &lt;h2>Daily POS Operations&lt;span class="hx:absolute hx:-mt-20" id="daily-pos-operations">&lt;/span>
@@ -3530,7 +3530,7 @@ title="Copy code"
 &lt;li>What if customer wants to negotiate price like in traditional markets - appropriate response?&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>These questions reflect real daily scenarios I face as a cashier and need clear, practical guidance to handle professionally and efficiently.&lt;/em>&lt;/p></description></item><item><title>Journal Entries Guide</title><link>https://wiki.bigledger.com/guides/accounting-guides/journal-entries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/accounting-guides/journal-entries/</guid><description>
+&lt;p>&lt;em>These questions reflect real daily scenarios I face as a cashier and need clear, practical guidance to handle professionally and efficiently.&lt;/em>&lt;/p></description></item><item><title>Journal Entries Guide</title><link>https://www.bigledger.com/guides/accounting-guides/journal-entries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/journal-entries/</guid><description>
 &lt;p>Master manual and automated journal entries in BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Journal entries are the foundation of accounting in BigLedger, recording all financial transactions in the general ledger.&lt;/p>
@@ -3766,7 +3766,7 @@ title="Copy code"
 &lt;li>Verify module integration&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Need help? Visit our &lt;a href="https://wiki.bigledger.com/user-guide/" >Support Center&lt;/a> or contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>PEPPOL Configuration Guide</title><link>https://wiki.bigledger.com/guides/einvoice-guides/peppol-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/einvoice-guides/peppol-configuration/</guid><description>
+&lt;p>&lt;em>Need help? Visit our &lt;a href="https://www.bigledger.com/user-guide/" >Support Center&lt;/a> or contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>PEPPOL Configuration Guide</title><link>https://www.bigledger.com/guides/einvoice-guides/peppol-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/peppol-configuration/</guid><description>
 &lt;p>Configure PEPPOL for international e-invoicing.&lt;/p>
 &lt;h2>What is PEPPOL?&lt;span class="hx:absolute hx:-mt-20" id="what-is-peppol">&lt;/span>
 &lt;a href="#what-is-peppol" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pan-European Public Procurement On-Line (PEPPOL) enables cross-border electronic document exchange.&lt;/p>
@@ -3834,7 +3834,7 @@ title="Copy code"
 &lt;li>Check compliance&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>PEPPOL support: &lt;a href="mailto:peppol@bigledger.com" >peppol@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Stock Transfer Procedures</title><link>https://wiki.bigledger.com/guides/inventory-guides/stock-transfer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/inventory-guides/stock-transfer/</guid><description>
+&lt;p>&lt;em>PEPPOL support: &lt;a href="mailto:peppol@bigledger.com" >peppol@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Stock Transfer Procedures</title><link>https://www.bigledger.com/guides/inventory-guides/stock-transfer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/inventory-guides/stock-transfer/</guid><description>
 &lt;p>Manage inventory movements between locations.&lt;/p>
 &lt;h2>Transfer Types&lt;span class="hx:absolute hx:-mt-20" id="transfer-types">&lt;/span>
 &lt;a href="#transfer-types" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Inter-Warehouse Transfer&lt;span class="hx:absolute hx:-mt-20" id="inter-warehouse-transfer">&lt;/span>
@@ -3894,7 +3894,7 @@ title="Copy code"
 &lt;li>Receipt confirmation&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Transfer support: &lt;a href="mailto:inventory@bigledger.com" >inventory@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>E-Commerce Specialist Guide</title><link>https://wiki.bigledger.com/guides/roles/ecommerce-specialist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/roles/ecommerce-specialist/</guid><description>
+&lt;p>&lt;em>Transfer support: &lt;a href="mailto:inventory@bigledger.com" >inventory@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>E-Commerce Specialist Guide</title><link>https://www.bigledger.com/guides/roles/ecommerce-specialist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/roles/ecommerce-specialist/</guid><description>
 &lt;h1>E-commerce Specialist - Questions and Scenarios&lt;/h1>&lt;h2>Role Profile&lt;span class="hx:absolute hx:-mt-20" id="role-profile">&lt;/span>
 &lt;a href="#role-profile" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Position:&lt;/strong> E-commerce Manager
 &lt;strong>Company:&lt;/strong> Multi-channel retailer with both online and offline presence
@@ -4018,7 +4018,7 @@ title="Copy code"
 &lt;a href="#performance-monitoring" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&amp;ldquo;What tools help me monitor system performance during high-traffic periods? How do I know if slow loading times are affecting my conversion rates?&amp;rdquo;&lt;/p>
 &lt;p>&amp;ldquo;Can I set up alerts for critical events like inventory reaching minimum levels, failed payment processing, or API connection issues?&amp;rdquo;&lt;/p>
 &lt;hr>
-&lt;p>These questions reflect the real challenges faced by e-commerce specialists managing multi-channel operations in Malaysia, covering technical, operational, and strategic concerns while maintaining focus on practical business outcomes.&lt;/p></description></item><item><title>E-Invoice Validation Rules</title><link>https://wiki.bigledger.com/guides/einvoice-guides/einvoice-validation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/einvoice-guides/einvoice-validation/</guid><description>
+&lt;p>These questions reflect the real challenges faced by e-commerce specialists managing multi-channel operations in Malaysia, covering technical, operational, and strategic concerns while maintaining focus on practical business outcomes.&lt;/p></description></item><item><title>E-Invoice Validation Rules</title><link>https://www.bigledger.com/guides/einvoice-guides/einvoice-validation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/einvoice-validation/</guid><description>
 &lt;p>Comprehensive validation rules for MyInvois compliance.&lt;/p>
 &lt;h2>Mandatory Fields&lt;span class="hx:absolute hx:-mt-20" id="mandatory-fields">&lt;/span>
 &lt;a href="#mandatory-fields" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Invoice Header&lt;span class="hx:absolute hx:-mt-20" id="invoice-header">&lt;/span>
@@ -4084,7 +4084,7 @@ title="Copy code"
 &lt;li>Monitor status&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>Validation support: &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Financial Reporting Excellence</title><link>https://wiki.bigledger.com/guides/advanced/financial-reporting-excellence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/advanced/financial-reporting-excellence/</guid><description>
+&lt;p>&lt;em>Validation support: &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Financial Reporting Excellence</title><link>https://www.bigledger.com/guides/advanced/financial-reporting-excellence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/advanced/financial-reporting-excellence/</guid><description>
 &lt;p>&lt;em>Drawing from 30 years of financial reporting across public companies, private enterprises, and multinational corporations. From IPO readiness to complex consolidations, this guide provides executive-level insights.&lt;/em>&lt;/p>
 &lt;h2>Table of Contents&lt;span class="hx:absolute hx:-mt-20" id="table-of-contents">&lt;/span>
 &lt;a href="#table-of-contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
@@ -5571,7 +5571,7 @@ title="Copy code"
 &lt;/button>
 &lt;/div>
 &lt;/div>
-&lt;p>This comprehensive guide provides the financial reporting expertise needed to create world-class reporting systems in BigLedger. The emphasis is on providing actionable insights that drive business decisions while maintaining compliance with applicable standards and regulations. Each section includes practical implementation guidance based on three decades of real-world experience across diverse industries and company sizes.&lt;/p></description></item><item><title>Financial Reporting Guide</title><link>https://wiki.bigledger.com/guides/accounting-guides/financial-reporting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/accounting-guides/financial-reporting/</guid><description>
+&lt;p>This comprehensive guide provides the financial reporting expertise needed to create world-class reporting systems in BigLedger. The emphasis is on providing actionable insights that drive business decisions while maintaining compliance with applicable standards and regulations. Each section includes practical implementation guidance based on three decades of real-world experience across diverse industries and company sizes.&lt;/p></description></item><item><title>Financial Reporting Guide</title><link>https://www.bigledger.com/guides/accounting-guides/financial-reporting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/financial-reporting/</guid><description>
 &lt;p>Generate accurate financial reports with BigLedger&amp;rsquo;s reporting suite.&lt;/p>
 &lt;h2>Available Reports&lt;span class="hx:absolute hx:-mt-20" id="available-reports">&lt;/span>
 &lt;a href="#available-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Financial Statements&lt;span class="hx:absolute hx:-mt-20" id="core-financial-statements">&lt;/span>
@@ -5761,7 +5761,7 @@ title="Copy code"
 &lt;li>Approval notes&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>For custom report development, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Bank Reconciliation Step-by-Step</title><link>https://wiki.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</guid><description>
+&lt;p>&lt;em>For custom report development, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Bank Reconciliation Step-by-Step</title><link>https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</guid><description>
 &lt;p>Master the bank reconciliation process with BigLedger&amp;rsquo;s AI-powered matching.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Bank reconciliation ensures your book balance matches your bank statement, identifying discrepancies and maintaining accurate cash records.&lt;/p>
@@ -6014,7 +6014,7 @@ title="Copy code"
 &lt;li>&lt;strong>Regular Reconciliation&lt;/strong>: Don&amp;rsquo;t let transactions accumulate&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>Need assistance? Our support team can help achieve 95% automation. Contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Compliance &amp; Audit Requirements</title><link>https://wiki.bigledger.com/guides/advanced/compliance-audit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/advanced/compliance-audit/</guid><description>
+&lt;p>&lt;em>Need assistance? Our support team can help achieve 95% automation. Contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Compliance &amp; Audit Requirements</title><link>https://www.bigledger.com/guides/advanced/compliance-audit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/advanced/compliance-audit/</guid><description>
 &lt;p>&lt;em>Three decades of experience navigating audits from Big 4 firms, regulatory compliance across multiple jurisdictions, and implementing bulletproof internal controls. From SOX compliance to Malaysian regulatory requirements.&lt;/em>&lt;/p>
 &lt;h2>Table of Contents&lt;span class="hx:absolute hx:-mt-20" id="table-of-contents">&lt;/span>
 &lt;a href="#table-of-contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
@@ -7243,7 +7243,7 @@ title="Copy code"
 &lt;/div>
 &lt;/div>
 &lt;p>This comprehensive compliance and audit guide provides the framework for maintaining the highest standards of financial control and regulatory compliance. The emphasis is on creating sustainable processes that not only meet current requirements but also position the organization for future regulatory changes and business growth.&lt;/p>
-&lt;p>Each section includes practical implementation guidance based on three decades of experience working with auditors, regulators, and implementing controls across diverse industries and company sizes. The goal is to transform compliance from a burden into a competitive advantage through superior financial transparency and control.&lt;/p></description></item><item><title>Finance Manager Guide</title><link>https://wiki.bigledger.com/guides/roles/finance-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/roles/finance-manager/</guid><description>
+&lt;p>Each section includes practical implementation guidance based on three decades of experience working with auditors, regulators, and implementing controls across diverse industries and company sizes. The goal is to transform compliance from a burden into a competitive advantage through superior financial transparency and control.&lt;/p></description></item><item><title>Finance Manager Guide</title><link>https://www.bigledger.com/guides/roles/finance-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/roles/finance-manager/</guid><description>
 &lt;h1>Finance Manager/Accountant Questions for BigLedger&lt;/h1>&lt;h2>Background Profile&lt;span class="hx:absolute hx:-mt-20" id="background-profile">&lt;/span>
 &lt;a href="#background-profile" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Professional accountant (ACCA/MICPA/CPA) with 5-10 years experience managing financial operations for Malaysian companies. Responsible for month-end close, statutory compliance, cash flow management, and providing strategic financial insights to management.&lt;/p>
 &lt;hr>
@@ -7426,7 +7426,7 @@ title="Copy code"
 &lt;li>&lt;strong>Strategic Insights&lt;/strong>: Providing actionable financial intelligence&lt;/li>
 &lt;li>&lt;strong>Cost Optimization&lt;/strong>: Improving working capital and operational efficiency&lt;/li>
 &lt;/ul>
-&lt;p>These questions reflect real-world challenges faced by finance professionals in Malaysian companies and focus on practical solutions that BigLedger can provide to improve financial operations and compliance.&lt;/p></description></item><item><title>Industry-Specific Workflows</title><link>https://wiki.bigledger.com/guides/advanced/industry-specific-workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/advanced/industry-specific-workflows/</guid><description>
+&lt;p>These questions reflect real-world challenges faced by finance professionals in Malaysian companies and focus on practical solutions that BigLedger can provide to improve financial operations and compliance.&lt;/p></description></item><item><title>Industry-Specific Workflows</title><link>https://www.bigledger.com/guides/advanced/industry-specific-workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/advanced/industry-specific-workflows/</guid><description>
 &lt;p>&lt;em>From implementing SAP in automotive plants to Oracle ERP in retail chains, Microsoft Dynamics in construction companies, and now BigLedger across diverse Malaysian industries. This guide provides battle-tested workflows for specific industry verticals.&lt;/em>&lt;/p>
 &lt;h2>Table of Contents&lt;span class="hx:absolute hx:-mt-20" id="table-of-contents">&lt;/span>
 &lt;a href="#table-of-contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
@@ -8993,7 +8993,7 @@ title="Copy code"
 &lt;/div>
 &lt;/div>
 &lt;p>This comprehensive industry-specific guide provides detailed workflows and best practices developed over 30 years of ERP implementations across diverse industries. Each section includes practical implementation steps, financial controls, and integration points specifically designed for BigLedger&amp;rsquo;s capabilities.&lt;/p>
-&lt;p>The emphasis is on providing actionable frameworks that can be immediately implemented while maintaining the flexibility to adapt to specific company requirements and industry regulations. These workflows have been tested across hundreds of implementations and continue to evolve with changing business needs and technological advances.&lt;/p></description></item><item><title>Internal Auditor Guide</title><link>https://wiki.bigledger.com/guides/roles/internal-audit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/roles/internal-audit/</guid><description>
+&lt;p>The emphasis is on providing actionable frameworks that can be immediately implemented while maintaining the flexibility to adapt to specific company requirements and industry regulations. These workflows have been tested across hundreds of implementations and continue to evolve with changing business needs and technological advances.&lt;/p></description></item><item><title>Internal Auditor Guide</title><link>https://www.bigledger.com/guides/roles/internal-audit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/roles/internal-audit/</guid><description>
 &lt;h1>Internal Auditor - BigLedger System Evaluation Questions&lt;/h1>&lt;h2>Role Profile&lt;span class="hx:absolute hx:-mt-20" id="role-profile">&lt;/span>
 &lt;a href="#role-profile" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>As an Internal Auditor (CIA, ACCA, CISA certified), I&amp;rsquo;m responsible for evaluating internal controls, compliance, and risk management using BigLedger&amp;rsquo;s audit trail and control features. I conduct operational, financial, and compliance reviews across all business processes to ensure regulatory adherence and operational efficiency.&lt;/p>
 &lt;h2>1. Audit Trail and Documentation&lt;span class="hx:absolute hx:-mt-20" id="1-audit-trail-and-documentation">&lt;/span>
@@ -9381,7 +9381,7 @@ title="Copy code"
 &lt;li>Standardized audit procedures and documentation&lt;/li>
 &lt;li>Management reporting and dashboard capabilities&lt;/li>
 &lt;/ul>
-&lt;p>This comprehensive evaluation will help determine BigLedger&amp;rsquo;s suitability for supporting modern internal audit functions in Malaysian businesses, ensuring robust control environments and regulatory compliance.&lt;/p></description></item><item><title>Integration Best Practices</title><link>https://wiki.bigledger.com/guides/advanced/integration-best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/advanced/integration-best-practices/</guid><description>
+&lt;p>This comprehensive evaluation will help determine BigLedger&amp;rsquo;s suitability for supporting modern internal audit functions in Malaysian businesses, ensuring robust control environments and regulatory compliance.&lt;/p></description></item><item><title>Integration Best Practices</title><link>https://www.bigledger.com/guides/advanced/integration-best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/advanced/integration-best-practices/</guid><description>
 &lt;p>&lt;em>Three decades of integrating ERPs with banking systems, payment gateways, EDI networks, and enterprise applications. From mainframe migrations to cloud integrations, this guide provides proven methodologies for seamless system integration.&lt;/em>&lt;/p>
 &lt;h2>Table of Contents&lt;span class="hx:absolute hx:-mt-20" id="table-of-contents">&lt;/span>
 &lt;a href="#table-of-contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
@@ -10927,7 +10927,7 @@ title="Copy code"
 &lt;/div>
 &lt;/div>
 &lt;p>This comprehensive integration guide provides the frameworks and methodologies needed to successfully integrate BigLedger with external systems and migrate from legacy platforms. The emphasis is on proven approaches that minimize risk while maximizing the benefits of system integration.&lt;/p>
-&lt;p>Each section includes detailed implementation guidance based on three decades of experience across multiple industries and technologies. The goal is to create seamless, secure, and efficient integrations that support business growth and operational excellence.&lt;/p></description></item><item><title>Merchandising Manager Guide</title><link>https://wiki.bigledger.com/guides/roles/merchandising-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/roles/merchandising-manager/</guid><description>
+&lt;p>Each section includes detailed implementation guidance based on three decades of experience across multiple industries and technologies. The goal is to create seamless, secure, and efficient integrations that support business growth and operational excellence.&lt;/p></description></item><item><title>Merchandising Manager Guide</title><link>https://www.bigledger.com/guides/roles/merchandising-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/roles/merchandising-manager/</guid><description>
 &lt;h1>Strategic Merchandising and Product Planning Excellence&lt;/h1>&lt;h2>Role Profile&lt;span class="hx:absolute hx:-mt-20" id="role-profile">&lt;/span>
 &lt;a href="#role-profile" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Position:&lt;/strong> Merchandising Manager&lt;br>
 &lt;strong>Industry Focus:&lt;/strong> Retail and distribution companies in Malaysia&lt;br>
@@ -11089,7 +11089,7 @@ title="Copy code"
 &lt;a href="#innovation-and-market-development" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Q14.1:&lt;/strong> &amp;ldquo;We&amp;rsquo;re considering launching a subscription box service for beauty products to compete with online-first brands. How can I use BigLedger to analyze product affinity, plan subscription assortments, and manage inventory for this new business model?&amp;rdquo;&lt;/p>
 &lt;p>&lt;strong>Q14.2:&lt;/strong> &amp;ldquo;Local manufacturers are developing innovative products that could differentiate us from competitors, but they require minimum order commitments and longer lead times. How do I evaluate these opportunities using BigLedger analytics and manage the risk of supporting local innovation?&amp;rdquo;&lt;/p>
 &lt;p>&lt;strong>Q14.3:&lt;/strong> &amp;ldquo;We&amp;rsquo;re exploring direct-to-consumer sales channels to capture more margin and customer data. How can BigLedger support a hybrid retail model where we serve both B2B and B2C customers with different pricing and service levels?&amp;rdquo;&lt;/p>
-&lt;p>These questions reflect the complex, strategic nature of merchandising management in the Malaysian retail environment, incorporating local market dynamics, regulatory requirements, and cultural considerations while leveraging BigLedger&amp;rsquo;s comprehensive capabilities for data-driven decision making.&lt;/p></description></item><item><title>Performance Optimization</title><link>https://wiki.bigledger.com/guides/advanced/performance-optimization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/advanced/performance-optimization/</guid><description>
+&lt;p>These questions reflect the complex, strategic nature of merchandising management in the Malaysian retail environment, incorporating local market dynamics, regulatory requirements, and cultural considerations while leveraging BigLedger&amp;rsquo;s comprehensive capabilities for data-driven decision making.&lt;/p></description></item><item><title>Performance Optimization</title><link>https://www.bigledger.com/guides/advanced/performance-optimization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/advanced/performance-optimization/</guid><description>
 &lt;p>&lt;em>Three decades of optimizing ERP systems from 10-user SAP implementations to 10,000-user Oracle deployments. From mainframe performance tuning to cloud optimization, this guide provides proven methodologies for maximum system performance.&lt;/em>&lt;/p>
 &lt;h2>Table of Contents&lt;span class="hx:absolute hx:-mt-20" id="table-of-contents">&lt;/span>
 &lt;a href="#table-of-contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
@@ -12629,7 +12629,7 @@ title="Copy code"
 &lt;/div>
 &lt;/div>
 &lt;p>This comprehensive performance optimization guide provides the foundation for maintaining high-performance BigLedger implementations at enterprise scale. The key to success lies in proactive monitoring, intelligent caching, efficient batch processing, and strategic data archiving.&lt;/p>
-&lt;p>Each section includes practical implementation guidance based on three decades of experience optimizing ERP systems across diverse environments. The emphasis is on creating sustainable performance that scales with business growth while maintaining data integrity and compliance requirements.&lt;/p></description></item><item><title>Procurement Manager Guide</title><link>https://wiki.bigledger.com/guides/roles/procurement-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/roles/procurement-manager/</guid><description>
+&lt;p>Each section includes practical implementation guidance based on three decades of experience optimizing ERP systems across diverse environments. The emphasis is on creating sustainable performance that scales with business growth while maintaining data integrity and compliance requirements.&lt;/p></description></item><item><title>Procurement Manager Guide</title><link>https://www.bigledger.com/guides/roles/procurement-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/roles/procurement-manager/</guid><description>
 &lt;h1>Procurement Manager Questions for BigLedger Documentation&lt;/h1>&lt;h2>Background Profile&lt;span class="hx:absolute hx:-mt-20" id="background-profile">&lt;/span>
 &lt;a href="#background-profile" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Professional procurement manager with 5-10 years experience, CPSM/CSCP certified, responsible for strategic sourcing, supplier development, contract negotiations, and procurement process optimization. Operating in Malaysian business environment with focus on cost, quality, delivery performance, and regulatory compliance.&lt;/p>
 &lt;hr>
@@ -12957,7 +12957,7 @@ title="Copy code"
 &lt;li>How can I manage long-term supplier relationships typical in Malaysian business culture?&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>These questions reflect the comprehensive needs of a professional procurement manager operating in Malaysia&amp;rsquo;s business environment, focusing on modern procurement practices, digital transformation, and value creation through strategic sourcing and supplier management.&lt;/p></description></item><item><title>Warehouse Manager Guide</title><link>https://wiki.bigledger.com/guides/roles/warehouse-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/roles/warehouse-manager/</guid><description>
+&lt;p>These questions reflect the comprehensive needs of a professional procurement manager operating in Malaysia&amp;rsquo;s business environment, focusing on modern procurement practices, digital transformation, and value creation through strategic sourcing and supplier management.&lt;/p></description></item><item><title>Warehouse Manager Guide</title><link>https://www.bigledger.com/guides/roles/warehouse-manager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/roles/warehouse-manager/</guid><description>
 &lt;h1>Warehouse Manager - BigLedger Inventory Management Questions&lt;/h1>&lt;h2>Role Profile&lt;span class="hx:absolute hx:-mt-20" id="role-profile">&lt;/span>
 &lt;a href="#role-profile" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Position:&lt;/strong> Warehouse Manager&lt;br>
 &lt;strong>Industry Focus:&lt;/strong> Distribution centers and retail warehouses in Malaysia&lt;br>

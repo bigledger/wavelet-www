@@ -1,161 +1,257 @@
 ---
-title: BigLedger ERP - Complete Business Management Platform
-description: Malaysia's leading cloud ERP platform trusted by 1 million users
+title: BigLedger - Next-Generation Business Platform
+description: Cloud-native ERP platform powering 1M+ businesses across Southeast Asia
 toc: false
 layout: hextra-home
 ---
 
 {{< hextra/hero-badge >}}
-  MDEC PEPPOL Accredited • E-Invoice Ready
+  MDEC PEPPOL Accredited • AI-Powered • Cloud-Native
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-headline >}}
-  Transform Your Business with BigLedger ERP
+  The Modern Operating System for Business
 {{< /hextra/hero-headline >}}
 
 {{< hextra/hero-subtitle >}}
-  **Trusted by 1 Million Users** • 100+ Integrated Modules • Malaysian Compliance Built-in
+  **Intelligent • Integrated • Innovative**
+  Built for the digital economy. Trusted by 1 million+ users.
 {{< /hextra/hero-subtitle >}}
 
-{{< hextra/hero-button text="Start Free Trial" link="/user-guide/introduction/" >}}
-{{< hextra/hero-button text="Watch Demo" link="/demos-resources/" style="secondary" >}}
+{{< hextra/hero-button text="Start Free Trial" link="https://bigledger.com/trial" >}}
+{{< hextra/hero-button text="See Live Demo" link="https://demo.bigledger.com" style="secondary" >}}
 
 ---
 
-## 🎯 **Your Complete Business Solution**
+## **One Platform. Infinite Possibilities.**
 
-{{< callout type="info" >}}
-BigLedger ERP unifies all your business operations in one powerful platform. From accounting to inventory, sales to manufacturing - manage everything seamlessly with intelligent automation and real-time insights.
-{{< /callout >}}
+BigLedger is a cloud-native business management platform that unifies your operations, automates workflows, and delivers real-time insights. From startups to enterprises, we power growth at scale.
+
+{{< cards >}}
+  {{< card link="#modules" title="💡 100+ Business Modules" subtitle="From accounting to AI analytics" >}}
+  {{< card link="#technology" title="⚡ Cloud-Native Architecture" subtitle="Scalable, secure, always available" >}}
+  {{< card link="#compliance" title="🛡️ Malaysia Compliance" subtitle="E-Invoice, SST, PEPPOL ready" >}}
+{{< /cards >}}
 
 ---
 
-## **Choose Your Journey**
+## **Platform Capabilities**
 
-{{< tabs items="🏢 For Businesses,🤝 For Partners,👩‍💻 For Developers" >}}
+{{< tabs items="🏢 Enterprise,🛒 Retail & F&B,🏭 Manufacturing,💻 Developers" >}}
 
 {{< tab >}}
-### **Everything You Need to Run Your Business**
+### **Enterprise-Grade Business Suite**
 
 {{< cards >}}
-  {{< card link="/modules/financial-accounting" title="Financial Management" subtitle="Complete accounting, GST/SST, financial reporting" >}}
-  {{< card link="/modules/inventory" title="Inventory & Warehouse" subtitle="Multi-location, barcode, serial/batch tracking" >}}
-  {{< card link="/modules/crm" title="Sales & CRM" subtitle="Customers, quotes, orders, invoicing" >}}
+  {{< card link="/modules/financial-accounting" title="Financial Management" subtitle="GL, AR, AP, bank reconciliation, multi-currency" >}}
+  {{< card link="/modules/procurement" title="Procurement & Supply Chain" subtitle="Purchase orders, vendor portal, approval workflows" >}}
+  {{< card link="/modules/inventory" title="Inventory & Warehouse" subtitle="Multi-location, serial/batch, barcode, cycle counting" >}}
+  {{< card link="/modules/sales-crm" title="Sales & CRM" subtitle="Opportunity pipeline, quotations, sales orders" >}}
+  {{< card link="/modules/hr-payroll" title="HR & Payroll" subtitle="Employee management, attendance, leave, EPF, SOCSO" >}}
+  {{< card link="/modules/projects" title="Project Management" subtitle="Resource planning, time tracking, billing" >}}
 {{< /cards >}}
-
-**Quick Links:** [Getting Started](/user-guide/introduction/) • [Video Tutorials](/demos-resources/) • [User Guide](/user-guide/)
 {{< /tab >}}
 
 {{< tab >}}
-### **Grow Your Business with BigLedger**
-
-Join our thriving partner ecosystem and help businesses transform digitally.
-
-**Partner Benefits:**
-- 💰 Attractive revenue sharing model
-- 🎓 Comprehensive training & certification
-- 🛠️ Implementation support & resources
-- 📈 Co-marketing opportunities
+### **Retail & F&B Solutions**
 
 {{< cards >}}
-  {{< card link="/partners/" title="Partner Program" subtitle="Learn about partnership opportunities" >}}
-  {{< card link="/partners/training/" title="Get Certified" subtitle="Technical and sales certification" >}}
-  {{< card link="/partners/resources/" title="Partner Resources" subtitle="Marketing materials and tools" >}}
+  {{< card link="/modules/pos" title="Point of Sale" subtitle="Fast checkout, split bill, kitchen display, offline mode" >}}
+  {{< card link="/modules/ecommerce" title="E-Commerce Integration" subtitle="Shopify, Lazada, Shopee - unified inventory" >}}
+  {{< card link="/modules/crm" title="Customer Loyalty" subtitle="Membership, points, rewards, targeted promotions" >}}
 {{< /cards >}}
 
-[**Apply to Become a Partner →**](https://bigledger.com/partners)
+**Key Features:**
+- Multi-outlet management with centralized control
+- Real-time inventory sync across channels
+- Kitchen display system for F&B
+- Table management and reservations
+- Integrated payment gateways
 {{< /tab >}}
 
 {{< tab >}}
-### **Build Powerful Integrations**
-
-Modern REST APIs and comprehensive documentation for developers.
+### **Manufacturing & Production**
 
 {{< cards >}}
-  {{< card link="/developers/api-reference/" title="API Documentation" subtitle="Complete REST API reference" >}}
-  {{< card link="/developers/getting-started/" title="Quick Start Guide" subtitle="Get up and running in minutes" >}}
-  {{< card link="/developers/sdks/" title="SDKs & Libraries" subtitle="Client libraries for popular languages" >}}
+  {{< card link="/modules/manufacturing" title="Production Planning" subtitle="BOM, work orders, capacity planning" >}}
+  {{< card link="/modules/inventory" title="Material Requirements" subtitle="MRP, procurement automation" >}}
+  {{< card link="/modules/manufacturing" title="Quality Control" subtitle="Inspection, NCR, CAPA workflows" >}}
 {{< /cards >}}
 
-**Developer Resources:** [Postman Collection](/developers/postman/) • [Webhooks](/developers/webhooks/) • [Sample Code](https://github.com/bigledger)
+**Advanced Capabilities:**
+- Multi-level BOM with version control
+- Shop floor control and job tracking
+- Subcontracting and outsourcing
+- Costing analysis (actual vs. standard)
+{{< /tab >}}
+
+{{< tab >}}
+### **Developer Platform**
+
+Build on BigLedger with modern APIs and tools.
+
+{{< cards >}}
+  {{< card link="/developers/api-reference/" title="REST APIs" subtitle="Comprehensive, well-documented endpoints" >}}
+  {{< card link="/developers/webhooks/" title="Webhooks & Events" subtitle="Real-time notifications for business events" >}}
+  {{< card link="/developers/applet-development/" title="Custom Applets" subtitle="Extend platform with your own modules" >}}
+{{< /cards >}}
+
+**Developer Tools:**
+- OpenAPI/Swagger specifications
+- SDKs for JavaScript, Python, PHP, .NET
+- Sandbox environment for testing
+- Postman collection and CLI tools
+
+[View API Documentation →](/developers/)
 {{< /tab >}}
 
 {{< /tabs >}}
 
 ---
 
-## **🚀 Platform Highlights**
-
-### **Core Business Applications**
+## **Technology Stack**
 
 {{< cards >}}
-  {{< card link="/modules/procurement" title="Purchasing" subtitle="PO, vendor management, approvals" >}}
-  {{< card link="/modules/manufacturing" title="Manufacturing" subtitle="BOM, production, quality control" >}}
-  {{< card link="/modules/pos" title="Point of Sale" subtitle="Retail, restaurant, multi-outlet" >}}
-  {{< card link="/modules/hr" title="Human Resources" subtitle="Payroll, leave, claims, attendance" >}}
-  {{< card link="/modules/projects" title="Project Management" subtitle="Tasks, milestones, time tracking" >}}
-  {{< card link="/ecommerce/" title="E-Commerce" subtitle="Shopify, Lazada, Shopee sync" >}}
+  {{< card title="🌐 Cloud-Native" subtitle="Microservices architecture on AWS. Auto-scaling, 99.9% uptime SLA, multi-region deployment." >}}
+  {{< card title="🤖 AI-Powered" subtitle="Machine learning for demand forecasting, OCR for document automation, intelligent recommendations." >}}
+  {{< card title="🔐 Enterprise Security" subtitle="SOC 2 Type II, ISO 27001 certified. End-to-end encryption, SSO, role-based access control." >}}
+  {{< card title="📱 Multi-Platform" subtitle="Web, iOS, Android apps. Progressive web app with offline capabilities." >}}
+  {{< card title="🔌 Integration Hub" subtitle="Pre-built connectors for 100+ platforms. Zapier, API webhooks, custom integrations." >}}
+  {{< card title="📊 Real-Time Analytics" subtitle="Live dashboards, predictive insights, custom reports. Export to BI tools." >}}
 {{< /cards >}}
 
 ---
 
-## **✨ What Makes BigLedger Different**
+## **E-Invoice & Compliance**
 
-{{< cards >}}
-  {{< card link="/e-invoice-peppol/" title="🧾 E-Invoice Ready" subtitle="MDEC PEPPOL accredited provider. Fully integrated with LHDN MyInvois for seamless compliance." >}}
-  {{< card link="/ai-intelligence/" title="🤖 AI-Powered" subtitle="Smart automation, OCR for documents, predictive analytics, and intelligent recommendations." >}}
-  {{< card link="/applets/" title="🧩 100+ Applets" subtitle="Extend functionality with ready-made business applets for every industry need." >}}
-{{< /cards >}}
-
----
-
-## **🏭 Industry Solutions**
-
-{{< callout >}}
-**Tailored for Your Industry**  
-Pre-configured templates and best practices for your specific business needs
+{{< callout type="info" >}}
+**MDEC PEPPOL Accredited Provider**
+Seamlessly compliant with LHDN MyInvois requirements
 {{< /callout >}}
 
+- ✅ Automatic e-invoice generation for all transactions
+- ✅ Real-time submission to LHDN MyInvois portal
+- ✅ QR code generation for validation
+- ✅ PEPPOL network connectivity for B2B
+- ✅ SST, customs, import/export declarations
+- ✅ Audit trail and compliance reporting
+
+[Learn More About E-Invoice →](/modules/e-invoice/)
+
+---
+
+## **Industry Solutions**
+
+Pre-configured solutions tailored to your industry vertical.
+
 {{< cards >}}
-  {{< card link="/user-guide/industry-solutions/" title="Retail & F&B" subtitle="Multi-store, loyalty, kitchen display" >}}
-  {{< card link="/user-guide/industry-solutions/" title="Wholesale & Distribution" subtitle="B2B portal, route sales, van sales" >}}
-  {{< card link="/user-guide/industry-solutions/" title="Manufacturing" subtitle="Discrete, process, job shop" >}}
-  {{< card link="/user-guide/industry-solutions/automotive-and-workshop-industry" title="Automotive" subtitle="Dealership, workshop, spare parts" >}}
-  {{< card link="/user-guide/industry-solutions/" title="Professional Services" subtitle="Time billing, project tracking" >}}
-  {{< card link="/user-guide/industry-solutions/" title="Healthcare" subtitle="Clinic, pharmacy, medical supplies" >}}
+  {{< card title="🛍️ Retail & E-Commerce" subtitle="Omnichannel, loyalty, POS, marketplace integrations" >}}
+  {{< card title="🍔 Food & Beverage" subtitle="Recipe management, kitchen display, table service" >}}
+  {{< card title="🏭 Manufacturing" subtitle="Production planning, BOM, quality control, MRP" >}}
+  {{< card title="🚗 Automotive" subtitle="Dealership, workshop, spare parts, service booking" >}}
+  {{< card title="🏥 Healthcare" subtitle="Clinic management, pharmacy, medical inventory" >}}
+  {{< card title="🏗️ Construction" subtitle="Project costing, subcontractor, equipment rental" >}}
+  {{< card title="📦 Wholesale Distribution" subtitle="B2B portal, route sales, van sales, territories" >}}
+  {{< card title="💼 Professional Services" subtitle="Time billing, project tracking, resource allocation" >}}
 {{< /cards >}}
 
 ---
 
-## **📊 See BigLedger in Action**
+## **Platform Architecture**
 
-## Ready to Transform Your Business?
+```
+┌─────────────────────────────────────────────────┐
+│           Multi-Tenant Cloud Platform           │
+├─────────────────────────────────────────────────┤
+│  Web App  │  Mobile Apps  │  API Gateway       │
+├─────────────────────────────────────────────────┤
+│        Microservices (100+ Modules)            │
+│  • Finance  • Inventory  • Manufacturing       │
+│  • CRM      • HR         • E-Commerce          │
+├─────────────────────────────────────────────────┤
+│        Data Layer & Analytics Engine            │
+│  • PostgreSQL  • Redis  • Elasticsearch        │
+├─────────────────────────────────────────────────┤
+│    Infrastructure (AWS Multi-Region)            │
+│  • Auto-scaling  • CDN  • Security             │
+└─────────────────────────────────────────────────┘
+```
 
-Join thousands of Malaysian businesses already using BigLedger to streamline operations and boost growth.
+**Key Technical Features:**
+- Event-driven architecture for real-time processing
+- Distributed caching for sub-100ms response times
+- Asynchronous job processing for batch operations
+- Multi-tenant isolation with data encryption
+- API rate limiting and DDoS protection
+
+---
+
+## **Pricing That Scales With You**
 
 {{< cards >}}
-  {{< card link="https://demo.bigledger.com" title="🖥️ Live Demo" subtitle="Try BigLedger with sample data" >}}
-  {{< card link="/user-guide/introduction/" title="📚 Quick Start Guide" subtitle="Get started in 30 minutes" >}}
-  {{< card link="https://bigledger.com/pricing" title="💰 Pricing Plans" subtitle="Transparent, affordable pricing" >}}
+  {{< card link="https://bigledger.com/pricing" title="💼 Startup" subtitle="RM 299/month - Perfect for growing businesses (up to 5 users)" >}}
+  {{< card link="https://bigledger.com/pricing" title="🏢 Business" subtitle="RM 999/month - Full-featured for SMEs (up to 25 users)" >}}
+  {{< card link="https://bigledger.com/pricing" title="🏭 Enterprise" subtitle="Custom pricing - Unlimited scale for large organizations" >}}
+{{< /cards >}}
+
+**All plans include:**
+- ✅ Unlimited transactions
+- ✅ E-Invoice & compliance
+- ✅ Mobile apps
+- ✅ API access
+- ✅ 24/7 support
+
+[View Detailed Pricing →](https://bigledger.com/pricing)
+
+---
+
+## **Trusted By Industry Leaders**
+
+> "BigLedger transformed our 50-store retail chain. Real-time inventory visibility across all locations has reduced stockouts by 80%."
+>
+> **— Operations Director, Leading Retail Chain**
+
+> "The e-invoice integration saved us 40 hours per month. Compliance is now fully automated."
+>
+> **— CFO, Manufacturing Company**
+
+### **Platform Statistics**
+
+- **1,000,000+** Active users across Southeast Asia
+- **99.95%** Average uptime over the past 12 months
+- **50,000+** Businesses managed daily
+- **100M+** Transactions processed monthly
+- **24/7** Local support in EN, MS, ZH, TH
+
+---
+
+## **Get Started in Minutes**
+
+{{< cards >}}
+  {{< card link="https://bigledger.com/trial" title="🚀 Start Free Trial" subtitle="No credit card required. Full access for 30 days." >}}
+  {{< card link="https://demo.bigledger.com" title="👁️ Live Demo" subtitle="Explore with sample data. No signup needed." >}}
+  {{< card link="https://bigledger.com/contact" title="💬 Talk to Sales" subtitle="Get personalized demo and pricing." >}}
 {{< /cards >}}
 
 ---
 
-## **🌟 Trusted by Leading Malaysian Businesses**
+## **Resources & Support**
 
-## Key Statistics
-
-- **1M+** Active Users across Malaysia and Southeast Asia
-- **99.9%** Uptime SLA guarantee for reliable business operations
-- **100+** Integrated Business Modules for comprehensive management
-- **24/7** Local Support in multiple languages
+{{< cards >}}
+  {{< card link="/developers/" title="📘 Developer Docs" subtitle="APIs, SDKs, integration guides" >}}
+  {{< card link="https://community.bigledger.com" title="👥 Community Forum" subtitle="Connect with other users" >}}
+  {{< card link="https://university.bigledger.com" title="🎓 BigLedger University" subtitle="Free training and certification" >}}
+  {{< card link="https://status.bigledger.com" title="📊 System Status" subtitle="Real-time platform health" >}}
+{{< /cards >}}
 
 ---
 
-## **Get Started Today**
+<div style="text-align: center; padding: 40px 0;">
 
-{{< cards >}}
-  {{< card link="https://bigledger.com/contact" title="📞 Contact Sales" subtitle="Get personalized demo and pricing" >}}
-  {{< card link="/support/" title="💬 Get Support" subtitle="Access documentation and help" >}}
-  {{< card link="/partners/" title="🤝 Partner With Us" subtitle="Join our growing ecosystem" >}}
-{{< /cards >}}
+## **Ready to modernize your business?**
+
+### Join thousands of companies already running on BigLedger
+
+{{< hextra/hero-button text="Start Your Free Trial" link="https://bigledger.com/trial" >}}
+
+</div>

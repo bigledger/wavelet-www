@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Applications</title><link>https://wiki.bigledger.com/applications/</link><description>Recent content in Applications on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/applications/index.xml" rel="self" type="application/rss+xml"/><item><title>Unified Contact Center (UCC)</title><link>https://wiki.bigledger.com/applications/unified-contact-center/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applications/unified-contact-center/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Applications</title><link>https://www.bigledger.com/applications/</link><description>Recent content in Applications on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/applications/index.xml" rel="self" type="application/rss+xml"/><item><title>Unified Contact Center (UCC)</title><link>https://www.bigledger.com/applications/unified-contact-center/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applications/unified-contact-center/</guid><description>
 &lt;h2>Transform Your Customer Service Operations&lt;span class="hx:absolute hx:-mt-20" id="transform-your-customer-service-operations">&lt;/span>
 &lt;a href="#transform-your-customer-service-operations" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger&amp;rsquo;s Unified Contact Center (UCC) is a comprehensive omnichannel communication platform that consolidates all customer interactions into a single, powerful interface. Manage conversations from multiple channels, provide superior customer service, and drive sales - all from one unified platform.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -82,7 +82,7 @@
 &lt;li>Sales opportunity tracking&lt;/li>
 &lt;li>Customer service ticket management&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Learn more about CRM Module →&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.bigledger.com/modules/crm/" >Learn more about CRM Module →&lt;/a>&lt;/p>
 &lt;h3>Sales &amp;amp; Order Management&lt;span class="hx:absolute hx:-mt-20" id="sales--order-management">&lt;/span>
 &lt;a href="#sales--order-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
 &lt;li>Quote generation within chat&lt;/li>
@@ -90,7 +90,7 @@
 &lt;li>Invoice sending via messaging apps&lt;/li>
 &lt;li>Payment collection through chat&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://wiki.bigledger.com/business-operations/order/" >Learn more about Sales Module →&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.bigledger.com/business-operations/order/" >Learn more about Sales Module →&lt;/a>&lt;/p>
 &lt;h3>E-Commerce Integration&lt;span class="hx:absolute hx:-mt-20" id="e-commerce-integration">&lt;/span>
 &lt;a href="#e-commerce-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
 &lt;li>Product catalog sharing&lt;/li>
@@ -98,7 +98,7 @@
 &lt;li>Order status updates&lt;/li>
 &lt;li>Abandoned cart recovery&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >Learn more about E-Commerce Module →&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >Learn more about E-Commerce Module →&lt;/a>&lt;/p>
 &lt;h3>Support &amp;amp; Ticketing&lt;span class="hx:absolute hx:-mt-20" id="support--ticketing">&lt;/span>
 &lt;a href="#support--ticketing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
 &lt;li>Automatic ticket creation from conversations&lt;/li>
@@ -153,7 +153,7 @@
 &lt;h2>Getting Started&lt;span class="hx:absolute hx:-mt-20" id="getting-started">&lt;/span>
 &lt;a href="#getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Step 1: Enable UCC Applet&lt;span class="hx:absolute hx:-mt-20" id="step-1-enable-ucc-applet">&lt;/span>
 &lt;a href="#step-1-enable-ucc-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Access the UCC applet from the BigLedger Applet Store:&lt;/p>
-&lt;p>&lt;a href="https://wiki.bigledger.com/applets/unified-contact-center-ucc-applet/" >Access UCC Applet →&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.bigledger.com/applets/unified-contact-center-ucc-applet/" >Access UCC Applet →&lt;/a>&lt;/p>
 &lt;h3>Step 2: Connect Channels&lt;span class="hx:absolute hx:-mt-20" id="step-2-connect-channels">&lt;/span>
 &lt;a href="#step-2-connect-channels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
 &lt;li>Navigate to Configuration → Channel Setup&lt;/li>
@@ -249,21 +249,21 @@
 &lt;/ul>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/applets/unified-contact-center-ucc-applet/" >UCC Applet Details&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >CRM Module Integration&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/developers/api-reference/" >API Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/applets/unified-contact-center-ucc-applet/" >UCC Applet Details&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >CRM Module Integration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/developers/api-reference/" >API Documentation&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;p>&lt;strong>Ready to transform your customer service?&lt;/strong>&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/applets/unified-contact-center-ucc-applet"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/applets/unified-contact-center-ucc-applet"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Setup UCC&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Get started with UCC configuration&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/demos-resources"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/demos-resources"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Watch Demo&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">See UCC in action&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/support"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/support"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Get Support&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Contact our team for assistance&lt;/div>&lt;/a>
 &lt;/div></description></item></channel></rss>

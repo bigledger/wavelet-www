@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Item-Management</title><link>https://wiki.bigledger.com/tags/item-management/</link><description>Recent content in Item-Management on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/item-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Items in Your Catalog</title><link>https://wiki.bigledger.com/user-guide/basic-operations/creating-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/creating-an-item/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Item-Management</title><link>https://www.bigledger.com/tags/item-management/</link><description>Recent content in Item-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/item-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Items in Your Catalog</title><link>https://www.bigledger.com/user-guide/basic-operations/creating-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/creating-an-item/</guid><description>
 &lt;p>Learn how to add products and services to your BigLedger catalog with proper configuration for optimal inventory management and e-commerce integration.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Items are the foundation of your business operations in BigLedger. Whether you&amp;rsquo;re selling physical products, digital services, or bundled offerings, proper item setup ensures accurate inventory tracking, pricing, and integration across all your sales channels.&lt;/p>
@@ -125,9 +125,9 @@
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After creating your items, continue with:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Management&lt;/a>&lt;/strong> - Learn comprehensive item maintenance&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/editing-an-item/" >Editing Items&lt;/a>&lt;/strong> - Modify existing items and specifications&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Set up flexible pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Management&lt;/a>&lt;/strong> - Learn comprehensive item maintenance&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/editing-an-item/" >Editing Items&lt;/a>&lt;/strong> - Modify existing items and specifications&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Set up flexible pricing strategies&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -138,10 +138,10 @@
 &lt;hr>
 &lt;h2>Related Topics&lt;span class="hx:absolute hx:-mt-20" id="related-topics">&lt;/span>
 &lt;a href="#related-topics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding different item classifications&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Setting up pricing&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Stock control and tracking&lt;/li>
-&lt;/ul></description></item><item><title>Editing Items &amp; Updating Product Information</title><link>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding different item classifications&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Setting up pricing&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Stock control and tracking&lt;/li>
+&lt;/ul></description></item><item><title>Editing Items &amp; Updating Product Information</title><link>https://www.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
 &lt;p>Learn how to efficiently modify existing items in your BigLedger catalog, update specifications, manage marketplace synchronization, and maintain accurate product information across all business operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The item editing interface provides comprehensive access to all aspects of your product and service information. From basic details to complex marketplace integrations, this powerful editing environment ensures your catalog stays current, accurate, and optimized for all business scenarios.&lt;/p>
@@ -305,7 +305,7 @@
 &lt;/ul>
 &lt;h3>Price and Cost Changes&lt;span class="hx:absolute hx:-mt-20" id="price-and-cost-changes">&lt;/span>
 &lt;a href="#price-and-cost-changes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>Coordinate with &lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
+&lt;li>Coordinate with &lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
 &lt;li>Update vendor costs and margin calculations&lt;/li>
 &lt;li>Modify marketplace-specific pricing&lt;/li>
 &lt;li>Review and update tax classifications&lt;/li>
@@ -371,10 +371,10 @@
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item editing, explore these related capabilities:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -385,18 +385,18 @@
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
-&lt;/ul></description></item><item><title>Item Maintenance &amp; Catalog Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/</guid><description>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
+&lt;/ul></description></item><item><title>Item Maintenance &amp; Catalog Management</title><link>https://www.bigledger.com/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/item-maintenance/</guid><description>
 &lt;p>Master the complete lifecycle of item management in BigLedger, from initial creation to ongoing maintenance, ensuring your product catalog remains accurate, organized, and optimized for all business operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Item maintenance is crucial for effective business operations. This comprehensive guide covers all aspects of managing your product and service catalog, including detailed configurations, categorization, pricing, and integration with various business modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;hr>
@@ -678,10 +678,10 @@
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item maintenance, explore these related areas:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -692,11 +692,11 @@
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
-&lt;/ul></description></item><item><title>Document Item Maintenance Applet</title><link>https://wiki.bigledger.com/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/doc-item-maintenance-applet/</guid><description>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
+&lt;/ul></description></item><item><title>Document Item Maintenance Applet</title><link>https://www.bigledger.com/applets/doc-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/doc-item-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Document Item Maintenance Applet is a crucial Core Module component that manages all non-physical items in BigLedger. This includes services, consulting fees, digital products, licenses, subscriptions, and any other document-based or non-inventory items that your business sells or purchases.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -902,21 +902,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Physical inventory items&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Service tax setup&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Service customers&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Physical inventory items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Service tax setup&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Service customers&lt;/li>
 &lt;/ul>
 &lt;h3>Service-Related Applets&lt;span class="hx:absolute hx:-mt-20" id="service-related-applets">&lt;/span>
 &lt;a href="#service-related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/time-tracking-applet/" >Time Tracking Applet&lt;/a>&lt;/strong> - Service time recording&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/project-management-applet/" >Project Management Applet&lt;/a>&lt;/strong> - Project-based services&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/resource-planning-applet/" >Resource Planning Applet&lt;/a>&lt;/strong> - Service resource management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/time-tracking-applet/" >Time Tracking Applet&lt;/a>&lt;/strong> - Service time recording&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/project-management-applet/" >Project Management Applet&lt;/a>&lt;/strong> - Project-based services&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/resource-planning-applet/" >Resource Planning Applet&lt;/a>&lt;/strong> - Service resource management&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/pricing-management-applet/" >Pricing Management Applet&lt;/a>&lt;/strong> - Service pricing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/invoice-generation-applet/" >Invoice Generation Applet&lt;/a>&lt;/strong> - Service billing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/revenue-recognition-applet/" >Revenue Recognition Applet&lt;/a>&lt;/strong> - Service revenue&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/pricing-management-applet/" >Pricing Management Applet&lt;/a>&lt;/strong> - Service pricing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/invoice-generation-applet/" >Invoice Generation Applet&lt;/a>&lt;/strong> - Service billing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/revenue-recognition-applet/" >Revenue Recognition Applet&lt;/a>&lt;/strong> - Service revenue&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>

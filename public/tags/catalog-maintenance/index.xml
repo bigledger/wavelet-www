@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Catalog-Maintenance</title><link>https://wiki.bigledger.com/tags/catalog-maintenance/</link><description>Recent content in Catalog-Maintenance on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/catalog-maintenance/index.xml" rel="self" type="application/rss+xml"/><item><title>Editing Items &amp; Updating Product Information</title><link>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Catalog-Maintenance</title><link>https://www.bigledger.com/tags/catalog-maintenance/</link><description>Recent content in Catalog-Maintenance on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/catalog-maintenance/index.xml" rel="self" type="application/rss+xml"/><item><title>Editing Items &amp; Updating Product Information</title><link>https://www.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
 &lt;p>Learn how to efficiently modify existing items in your BigLedger catalog, update specifications, manage marketplace synchronization, and maintain accurate product information across all business operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The item editing interface provides comprehensive access to all aspects of your product and service information. From basic details to complex marketplace integrations, this powerful editing environment ensures your catalog stays current, accurate, and optimized for all business scenarios.&lt;/p>
@@ -162,7 +162,7 @@
 &lt;/ul>
 &lt;h3>Price and Cost Changes&lt;span class="hx:absolute hx:-mt-20" id="price-and-cost-changes">&lt;/span>
 &lt;a href="#price-and-cost-changes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>Coordinate with &lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
+&lt;li>Coordinate with &lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
 &lt;li>Update vendor costs and margin calculations&lt;/li>
 &lt;li>Modify marketplace-specific pricing&lt;/li>
 &lt;li>Review and update tax classifications&lt;/li>
@@ -228,10 +228,10 @@
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item editing, explore these related capabilities:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -242,8 +242,8 @@
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
 &lt;/ul></description></item></channel></rss>

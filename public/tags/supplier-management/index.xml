@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Supplier-Management</title><link>https://wiki.bigledger.com/tags/supplier-management/</link><description>Recent content in Supplier-Management on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/supplier-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Supplier Maintenance Applet</title><link>https://wiki.bigledger.com/applets/supplier-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/supplier-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Supplier-Management</title><link>https://www.bigledger.com/tags/supplier-management/</link><description>Recent content in Supplier-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/supplier-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Supplier Maintenance Applet</title><link>https://www.bigledger.com/applets/supplier-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/supplier-maintenance-applet/</guid><description>
 &lt;h2>Executive Summary&lt;span class="hx:absolute hx:-mt-20" id="executive-summary">&lt;/span>
 &lt;a href="#executive-summary" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Supplier Maintenance Applet is a mission-critical Core Module component that serves as the central repository for all vendor and supplier information in BigLedger. This comprehensive supplier master data management system supports procurement operations, accounts payable processes, and vendor relationship management across all business modules. With capabilities to manage up to 500,000 suppliers, real-time synchronization, and extensive integration points, this applet forms the backbone of efficient supply chain operations.&lt;/p>
 &lt;p>&lt;strong>Key Business Benefits:&lt;/strong>&lt;/p>
@@ -223,21 +223,21 @@ As one of the 13 essential Core Module applets, the Supplier Maintenance Applet 
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer master data&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Supplier product relationships&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Supplier tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer master data&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;/strong> - Supplier product relationships&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Supplier tax settings&lt;/li>
 &lt;/ul>
 &lt;h3>Procurement Applets&lt;span class="hx:absolute hx:-mt-20" id="procurement-applets">&lt;/span>
 &lt;a href="#procurement-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Supplier order processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/purchase-requisition-applet/" >Purchase Requisition Applet&lt;/a>&lt;/strong> - Procurement requests&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/supplier-portal-applet/" >Supplier Portal Applet&lt;/a>&lt;/strong> - Supplier self-service&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Supplier order processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-requisition-applet/" >Purchase Requisition Applet&lt;/a>&lt;/strong> - Procurement requests&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-portal-applet/" >Supplier Portal Applet&lt;/a>&lt;/strong> - Supplier self-service&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/accounts-payable-applet/" >Accounts Payable Applet&lt;/a>&lt;/strong> - Supplier payments&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/payment-processing-applet/" >Payment Processing Applet&lt;/a>&lt;/strong> - Vendor payments&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/expense-management-applet/" >Expense Management Applet&lt;/a>&lt;/strong> - Supplier expenses&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/accounts-payable-applet/" >Accounts Payable Applet&lt;/a>&lt;/strong> - Supplier payments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/payment-processing-applet/" >Payment Processing Applet&lt;/a>&lt;/strong> - Vendor payments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/expense-management-applet/" >Expense Management Applet&lt;/a>&lt;/strong> - Supplier expenses&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>

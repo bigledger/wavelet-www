@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Reference</title><link>https://wiki.bigledger.com/tags/reference/</link><description>Recent content in Reference on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/reference/index.xml" rel="self" type="application/rss+xml"/><item><title>Complete Applet Catalog</title><link>https://wiki.bigledger.com/applets/applet-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/applet-catalog/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Reference</title><link>https://www.bigledger.com/tags/reference/</link><description>Recent content in Reference on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/reference/index.xml" rel="self" type="application/rss+xml"/><item><title>Complete Applet Catalog</title><link>https://www.bigledger.com/applets/applet-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/applet-catalog/</guid><description>
 &lt;p>This comprehensive catalog lists all applets available in the BigLedger ecosystem, organized by module and functionality. Each applet is described with its primary purpose, key features, and integration points.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
@@ -8,7 +8,7 @@
 &lt;/div>
 &lt;h2>Core Module Applets (13 Applets)&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets-13-applets">&lt;/span>
 &lt;a href="#core-module-applets-13-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Foundation applets required by all other modules&lt;/strong>&lt;/p>
-&lt;h3>1. &lt;a href="https://wiki.bigledger.com/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="1-tenant-admin-applet">&lt;/span>
+&lt;h3>1. &lt;a href="https://www.bigledger.com/applets/tenant-admin-applet/" >Tenant Admin Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="1-tenant-admin-applet">&lt;/span>
 &lt;a href="#1-tenant-admin-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>System-wide administration and configuration&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>User management and security configuration&lt;/li>
@@ -16,7 +16,7 @@
 &lt;li>Multi-tenant environment setup&lt;/li>
 &lt;li>System monitoring and health checks&lt;/li>
 &lt;/ul>
-&lt;h3>2. &lt;a href="https://wiki.bigledger.com/applets/chart-of-account-applet/" >Chart of Accounts Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="2-chart-of-accounts-applet">&lt;/span>
+&lt;h3>2. &lt;a href="https://www.bigledger.com/applets/chart-of-account-applet/" >Chart of Accounts Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="2-chart-of-accounts-applet">&lt;/span>
 &lt;a href="#2-chart-of-accounts-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Complete chart of accounts structure management&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Account hierarchies and financial statement mapping&lt;/li>
@@ -24,7 +24,7 @@
 &lt;li>Account classifications and controls&lt;/li>
 &lt;li>Integration foundation for all financial operations&lt;/li>
 &lt;/ul>
-&lt;h3>3. &lt;a href="https://wiki.bigledger.com/applets/organization-applet/" >Organization Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="3-organization-applet">&lt;/span>
+&lt;h3>3. &lt;a href="https://www.bigledger.com/applets/organization-applet/" >Organization Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="3-organization-applet">&lt;/span>
 &lt;a href="#3-organization-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Organizational structure and company management&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Company, branch, and location setup&lt;/li>
@@ -32,7 +32,7 @@
 &lt;li>Organizational hierarchy and reporting structure&lt;/li>
 &lt;li>Multi-location operational support&lt;/li>
 &lt;/ul>
-&lt;h3>4. &lt;a href="https://wiki.bigledger.com/applets/doc-item-maintenance-applet/" >Document Item Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="4-document-item-maintenance-applet">&lt;/span>
+&lt;h3>4. &lt;a href="https://www.bigledger.com/applets/doc-item-maintenance-applet/" >Document Item Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="4-document-item-maintenance-applet">&lt;/span>
 &lt;a href="#4-document-item-maintenance-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Service and non-inventory item management&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Professional services and consulting items&lt;/li>
@@ -40,7 +40,7 @@
 &lt;li>Service pricing and billing configurations&lt;/li>
 &lt;li>Document templates and standardization&lt;/li>
 &lt;/ul>
-&lt;h3>5. &lt;a href="https://wiki.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="5-inventory-item-maintenance-applet">&lt;/span>
+&lt;h3>5. &lt;a href="https://www.bigledger.com/applets/inv-item-maintenance-applet/" >Inventory Item Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="5-inventory-item-maintenance-applet">&lt;/span>
 &lt;a href="#5-inventory-item-maintenance-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Product and inventory master data&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Complete product information management&lt;/li>
@@ -48,7 +48,7 @@
 &lt;li>Pricing and costing methodologies&lt;/li>
 &lt;li>Product categories and classification&lt;/li>
 &lt;/ul>
-&lt;h3>6. &lt;a href="https://wiki.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="6-customer-maintenance-applet">&lt;/span>
+&lt;h3>6. &lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="6-customer-maintenance-applet">&lt;/span>
 &lt;a href="#6-customer-maintenance-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Customer master data and relationship management&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Complete customer profiles and contact management&lt;/li>
@@ -56,7 +56,7 @@
 &lt;li>Customer segmentation and classification&lt;/li>
 &lt;li>Multi-address and multi-contact support&lt;/li>
 &lt;/ul>
-&lt;h3>7. &lt;a href="https://wiki.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="7-supplier-maintenance-applet">&lt;/span>
+&lt;h3>7. &lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="7-supplier-maintenance-applet">&lt;/span>
 &lt;a href="#7-supplier-maintenance-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Vendor and supplier master data management&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Comprehensive supplier profiles&lt;/li>
@@ -64,7 +64,7 @@
 &lt;li>Supplier performance tracking&lt;/li>
 &lt;li>Vendor categorization and relationship management&lt;/li>
 &lt;/ul>
-&lt;h3>8. &lt;a href="https://wiki.bigledger.com/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="8-employee-maintenance-applet">&lt;/span>
+&lt;h3>8. &lt;a href="https://www.bigledger.com/applets/employee-maintenance-applet/" >Employee Maintenance Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="8-employee-maintenance-applet">&lt;/span>
 &lt;a href="#8-employee-maintenance-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Employee master records and HR foundation&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Complete employee profiles and information&lt;/li>
@@ -72,7 +72,7 @@
 &lt;li>System access and role management&lt;/li>
 &lt;li>HR integration and payroll foundation&lt;/li>
 &lt;/ul>
-&lt;h3>9. &lt;a href="https://wiki.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="9-tax-configuration-applet">&lt;/span>
+&lt;h3>9. &lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="9-tax-configuration-applet">&lt;/span>
 &lt;a href="#9-tax-configuration-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Complete tax setup and compliance management&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Tax codes, rates, and regulatory compliance&lt;/li>
@@ -80,7 +80,7 @@
 &lt;li>Automated tax calculations&lt;/li>
 &lt;li>Tax reporting and e-filing integration&lt;/li>
 &lt;/ul>
-&lt;h3>10. &lt;a href="https://wiki.bigledger.com/applets/cashbook-applet/" >Cashbook Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="10-cashbook-applet">&lt;/span>
+&lt;h3>10. &lt;a href="https://www.bigledger.com/applets/cashbook-applet/" >Cashbook Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="10-cashbook-applet">&lt;/span>
 &lt;a href="#10-cashbook-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Cash and bank account management&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Multiple cash and bank account setup&lt;/li>
@@ -88,7 +88,7 @@
 &lt;li>Cash flow tracking and management&lt;/li>
 &lt;li>Bank reconciliation and integration&lt;/li>
 &lt;/ul>
-&lt;h3>11. &lt;a href="https://wiki.bigledger.com/applets/workflow-design-applet/" >Workflow Design Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="11-workflow-design-applet">&lt;/span>
+&lt;h3>11. &lt;a href="https://www.bigledger.com/applets/workflow-design-applet/" >Workflow Design Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="11-workflow-design-applet">&lt;/span>
 &lt;a href="#11-workflow-design-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Business process automation and workflow management&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Visual workflow designer and configuration&lt;/li>
@@ -96,7 +96,7 @@
 &lt;li>Process automation and orchestration&lt;/li>
 &lt;li>Workflow performance monitoring&lt;/li>
 &lt;/ul>
-&lt;h3>12. &lt;a href="https://wiki.bigledger.com/applets/webhook-applet/" >Webhook Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="12-webhook-applet">&lt;/span>
+&lt;h3>12. &lt;a href="https://www.bigledger.com/applets/webhook-applet/" >Webhook Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="12-webhook-applet">&lt;/span>
 &lt;a href="#12-webhook-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Real-time event notifications and system integration&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>External system integration and notifications&lt;/li>
@@ -104,7 +104,7 @@
 &lt;li>API integration and data synchronization&lt;/li>
 &lt;li>Real-time business event broadcasting&lt;/li>
 &lt;/ul>
-&lt;h3>13. &lt;a href="https://wiki.bigledger.com/applets/t2t-admin-applet/" >T2T Admin Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="13-t2t-admin-applet">&lt;/span>
+&lt;h3>13. &lt;a href="https://www.bigledger.com/applets/t2t-admin-applet/" >T2T Admin Applet&lt;/a>&lt;span class="hx:absolute hx:-mt-20" id="13-t2t-admin-applet">&lt;/span>
 &lt;a href="#13-t2t-admin-applet" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>Tenant-to-Tenant administration for enterprise operations&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Multi-tenant enterprise administration&lt;/li>
@@ -253,42 +253,42 @@
 &lt;h2>Existing Specialized Applets&lt;span class="hx:absolute hx:-mt-20" id="existing-specialized-applets">&lt;/span>
 &lt;a href="#existing-specialized-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Inventory and Warehouse Management&lt;span class="hx:absolute hx:-mt-20" id="inventory-and-warehouse-management">&lt;/span>
 &lt;a href="#inventory-and-warehouse-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/stock-balance-applet/" >Stock Balance Applet&lt;/a>&lt;/strong> - Real-time inventory levels and tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/stock-take-applet/" >Stock Take Applet&lt;/a>&lt;/strong> - Physical inventory counting and reconciliation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/internal-stock-adjustment-applet/" >Internal Stock Adjustment Applet&lt;/a>&lt;/strong> - Inventory adjustments and corrections&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/internal-delivery-order-applet/" >Internal Delivery Order Applet&lt;/a>&lt;/strong> - Internal transfers and deliveries&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/stock-balance-applet/" >Stock Balance Applet&lt;/a>&lt;/strong> - Real-time inventory levels and tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/stock-take-applet/" >Stock Take Applet&lt;/a>&lt;/strong> - Physical inventory counting and reconciliation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/internal-stock-adjustment-applet/" >Internal Stock Adjustment Applet&lt;/a>&lt;/strong> - Inventory adjustments and corrections&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/internal-delivery-order-applet/" >Internal Delivery Order Applet&lt;/a>&lt;/strong> - Internal transfers and deliveries&lt;/li>
 &lt;/ul>
 &lt;h3>Team and Organization Management&lt;span class="hx:absolute hx:-mt-20" id="team-and-organization-management">&lt;/span>
 &lt;a href="#team-and-organization-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/team-maintenance-applet/" >Team Maintenance Applet&lt;/a>&lt;/strong> - Team structure and management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/group-maintenance-applet/" >Group Maintenance Applet&lt;/a>&lt;/strong> - Group configuration and management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/team-maintenance-applet/" >Team Maintenance Applet&lt;/a>&lt;/strong> - Team structure and management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/group-maintenance-applet/" >Group Maintenance Applet&lt;/a>&lt;/strong> - Group configuration and management&lt;/li>
 &lt;/ul>
 &lt;h3>Pricing and Sales Management&lt;span class="hx:absolute hx:-mt-20" id="pricing-and-sales-management">&lt;/span>
 &lt;a href="#pricing-and-sales-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/pricebook-applet/" >Pricebook Applet&lt;/a>&lt;/strong> - Advanced pricing management and strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/pricebook-applet/" >Pricebook Applet&lt;/a>&lt;/strong> - Advanced pricing management and strategies&lt;/li>
 &lt;/ul>
 &lt;h3>Process and Quality Management&lt;span class="hx:absolute hx:-mt-20" id="process-and-quality-management">&lt;/span>
 &lt;a href="#process-and-quality-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/process-monitoring-applet/" >Process Monitoring Applet&lt;/a>&lt;/strong> - Business process tracking and analysis&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/process-monitoring-applet/" >Process Monitoring Applet&lt;/a>&lt;/strong> - Business process tracking and analysis&lt;/li>
 &lt;/ul>
 &lt;h3>Membership and Loyalty Programs&lt;span class="hx:absolute hx:-mt-20" id="membership-and-loyalty-programs">&lt;/span>
 &lt;a href="#membership-and-loyalty-programs" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/membership-admin-console-applet/" >Membership Admin Console Applet&lt;/a>&lt;/strong> - Customer loyalty program management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/membership-points-currency/" >Membership Points Currency&lt;/a>&lt;/strong> - Points-based reward system&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/membership-program/" >Membership Program&lt;/a>&lt;/strong> - Membership program configuration&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/membership-admin-console-applet/" >Membership Admin Console Applet&lt;/a>&lt;/strong> - Customer loyalty program management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/membership-points-currency/" >Membership Points Currency&lt;/a>&lt;/strong> - Points-based reward system&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/membership-program/" >Membership Program&lt;/a>&lt;/strong> - Membership program configuration&lt;/li>
 &lt;/ul>
 &lt;h3>Communication and Customer Service&lt;span class="hx:absolute hx:-mt-20" id="communication-and-customer-service">&lt;/span>
 &lt;a href="#communication-and-customer-service" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/unified-contact-center-ucc-applet/" >Unified Contact Center (UCC) Applet&lt;/a>&lt;/strong> - Comprehensive customer service platform&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/unified-contact-center-ucc-applet/" >Unified Contact Center (UCC) Applet&lt;/a>&lt;/strong> - Comprehensive customer service platform&lt;/li>
 &lt;/ul>
 &lt;h3>E-Commerce Integration&lt;span class="hx:absolute hx:-mt-20" id="e-commerce-integration">&lt;/span>
 &lt;a href="#e-commerce-integration" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/90-ecomsync-related-applets/" >EcomSync Related Applets&lt;/a>&lt;/strong> - E-commerce synchronization tools&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/90-ecomsync-related-applets/" >EcomSync Related Applets&lt;/a>&lt;/strong> - E-commerce synchronization tools&lt;/li>
 &lt;/ul>
 &lt;h3>Distribution and Vendor Management&lt;span class="hx:absolute hx:-mt-20" id="distribution-and-vendor-management">&lt;/span>
 &lt;a href="#distribution-and-vendor-management" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/ingram-micro-ms-esd-applet/" >Ingram Micro MS ESD Applet&lt;/a>&lt;/strong> - Microsoft licensing distribution&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/vstecs-ms-esd-order-applet/" >VSTecs MS ESD Order Applet&lt;/a>&lt;/strong> - VSTecs distribution integration&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/ingram-micro-ms-esd-applet/" >Ingram Micro MS ESD Applet&lt;/a>&lt;/strong> - Microsoft licensing distribution&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/vstecs-ms-esd-order-applet/" >VSTecs MS ESD Order Applet&lt;/a>&lt;/strong> - VSTecs distribution integration&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Applet Categories by Function&lt;span class="hx:absolute hx:-mt-20" id="applet-categories-by-function">&lt;/span>
@@ -356,21 +356,21 @@
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Implementation Guides&lt;span class="hx:absolute hx:-mt-20" id="implementation-guides">&lt;/span>
 &lt;a href="#implementation-guides" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/" >Module Implementation Guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/core/" >Getting Started with Core Module&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/applets/applet-store/" >Applet Installation Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/" >Module Implementation Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/core/" >Getting Started with Core Module&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/applets/applet-store/" >Applet Installation Guide&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>Integration Documentation&lt;span class="hx:absolute hx:-mt-20" id="integration-documentation">&lt;/span>
 &lt;a href="#integration-documentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/developers/api-reference/" >API Reference&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/applets/webhook-applet/" >Webhook Integration&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/guides/advanced/integration-best-practices/" >System Integration Best Practices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/developers/api-reference/" >API Reference&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/applets/webhook-applet/" >Webhook Integration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/guides/advanced/integration-best-practices/" >System Integration Best Practices&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3>Support Resources&lt;span class="hx:absolute hx:-mt-20" id="support-resources">&lt;/span>
 &lt;a href="#support-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/applets/applet-directory/" >Applet Directory&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/applets/applet-store/" >Applet Store&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/" >User Guides&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/applets/applet-directory/" >Applet Directory&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/applets/applet-store/" >Applet Store&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/" >User Guides&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>

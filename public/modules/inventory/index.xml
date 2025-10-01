@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Inventory Module</title><link>https://wiki.bigledger.com/modules/inventory/</link><description>Recent content in Inventory Module on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/modules/inventory/index.xml" rel="self" type="application/rss+xml"/><item><title>Category Groups Management</title><link>https://wiki.bigledger.com/modules/inventory/category-groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/modules/inventory/category-groups/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Inventory Module</title><link>https://www.bigledger.com/modules/inventory/</link><description>Recent content in Inventory Module on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/modules/inventory/index.xml" rel="self" type="application/rss+xml"/><item><title>Category Groups Management</title><link>https://www.bigledger.com/modules/inventory/category-groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/modules/inventory/category-groups/</guid><description>
 &lt;p>Category Groups provide a hierarchical structure for organizing your inventory categories in BigLedger. This system helps maintain consistency across your product catalog and simplifies inventory management.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Under category groups, users can create and edit categories and specify relationships between category groups and individual categories. When creating items in the Item menu, you specify their category assignment.&lt;/p>
@@ -212,8 +212,8 @@ title="Copy code"
 &lt;/ul>
 &lt;h2>Related Documentation&lt;span class="hx:absolute hx:-mt-20" id="related-documentation">&lt;/span>
 &lt;a href="#related-documentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Configuration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Configuration&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

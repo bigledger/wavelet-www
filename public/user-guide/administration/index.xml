@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Administration</title><link>https://wiki.bigledger.com/user-guide/administration/</link><description>Recent content in Administration on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/user-guide/administration/index.xml" rel="self" type="application/rss+xml"/><item><title>Member Label List</title><link>https://wiki.bigledger.com/user-guide/administration/member-label-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-label-list/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Administration</title><link>https://www.bigledger.com/user-guide/administration/</link><description>Recent content in Administration on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/user-guide/administration/index.xml" rel="self" type="application/rss+xml"/><item><title>Member Label List</title><link>https://www.bigledger.com/user-guide/administration/member-label-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-label-list/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3317499439
 &lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:25:30.383Z
 5.Member label list: Create Member Label list&amp;gt;Compulsory information&amp;gt;Edit
@@ -15,7 +15,7 @@ After changing the details of the field, please click &amp;lsquo;save&amp;rsquo;
 Please click &amp;lsquo;delete&amp;rsquo; to remove the member label list from the list.
 5.3.2. In the labels tab, you can add labels to the label list.
 Please click &amp;lsquo;+&amp;rsquo; button to add labels.
-Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p></description></item><item><title>Member Listing</title><link>https://wiki.bigledger.com/user-guide/administration/member-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-listing/</guid><description>
+Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p></description></item><item><title>Member Listing</title><link>https://www.bigledger.com/user-guide/administration/member-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-listing/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3317564816
 &lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:28:05.761Z
 2. Member Listing: Create New Member &amp;gt; Membership Edit
@@ -46,7 +46,7 @@ Please click &amp;lsquo;+&amp;rsquo; button to add point adjustment.
 The following fields are compulsory:
 Branch
 Point Currency
-Item code &amp;amp; name&lt;/p></description></item><item><title>Team</title><link>https://wiki.bigledger.com/user-guide/administration/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/team/</guid><description>
+Item code &amp;amp; name&lt;/p></description></item><item><title>Team</title><link>https://www.bigledger.com/user-guide/administration/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/team/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3321069573
 &lt;strong>Last Updated&lt;/strong>: 2021-07-27T06:18:28.861Z
 2. Team: Create Team &amp;gt; Compulsory Information&amp;gt; Edit (General info, Members,Import Users, Permission)
@@ -78,7 +78,7 @@ Please follow the instructions or download the &amp;lsquo;simple format&amp;rsqu
 Please click &amp;lsquo;Upload file&amp;rsquo; to import the users in the team
 2.7 Please add or edit permission from the &amp;lsquo;Edit Permission&amp;rsquo; tab.
 You can &amp;lsquo;Select permission&amp;rsquo; from the list to Add permission.
-After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permission.&lt;/p></description></item><item><title>Member Classifications &amp; Access Control</title><link>https://wiki.bigledger.com/user-guide/administration/member-class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-class/</guid><description>
+After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permission.&lt;/p></description></item><item><title>Member Classifications &amp; Access Control</title><link>https://www.bigledger.com/user-guide/administration/member-class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-class/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -146,17 +146,17 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Adding and managing user accounts&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Organizing departments and teams&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/navigation/" >Navigation Guide&lt;/a> - Interface permissions and access&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/platform-overview/" >Platform Overview&lt;/a> - Security architecture overview&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Adding and managing user accounts&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Organizing departments and teams&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/navigation/" >Navigation Guide&lt;/a> - Interface permissions and access&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/platform-overview/" >Platform Overview&lt;/a> - Security architecture overview&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
 &lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Priority): Core role-based access control documentation&lt;br>
 &lt;strong>Phase 2&lt;/strong> (Follow-up): Advanced security features and integration guides&lt;br>
 &lt;strong>Phase 3&lt;/strong> (Enhancement): Analytics, reporting, and optimization strategies&lt;/p>
-&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://wiki.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/group-listing/</guid><description>
+&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://www.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/group-listing/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -258,10 +258,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
@@ -273,7 +273,7 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic group creation and management functionality is available. For complex organizational requirements or advanced permission setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://wiki.bigledger.com/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-label/</guid><description>
+&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://www.bigledger.com/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-label/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -372,10 +372,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>

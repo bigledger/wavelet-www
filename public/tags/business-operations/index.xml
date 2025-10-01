@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Business-Operations</title><link>https://wiki.bigledger.com/tags/business-operations/</link><description>Recent content in Business-Operations on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/business-operations/index.xml" rel="self" type="application/rss+xml"/><item><title>Document Item Types &amp; Classifications</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Business-Operations</title><link>https://www.bigledger.com/tags/business-operations/</link><description>Recent content in Business-Operations on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/business-operations/index.xml" rel="self" type="application/rss+xml"/><item><title>Document Item Types &amp; Classifications</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-types/</guid><description>
 &lt;p>Understanding BigLedger&amp;rsquo;s document item types is fundamental to effective inventory management, sales processing, and business operations. Each item type serves specific business scenarios and offers unique functionality for managing complex inventory relationships.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger supports five distinct document item types, each designed for specific business scenarios and inventory relationships. These types determine how items behave in transactions, inventory tracking, and financial reporting.&lt;/p>
@@ -461,11 +461,11 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your understanding of BigLedger&amp;rsquo;s item management:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance Procedures&lt;/a> - Creating and managing individual items&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Complete inventory control system&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes&lt;/a> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and sales management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/manufacturing/" >Manufacturing Integration&lt;/a> - Production and assembly workflows&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance Procedures&lt;/a> - Creating and managing individual items&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Complete inventory control system&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes&lt;/a> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and sales management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/manufacturing/" >Manufacturing Integration&lt;/a> - Production and assembly workflows&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -490,7 +490,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Implementation Success&lt;/strong>: Businesses that properly implement BigLedger&amp;rsquo;s item type system see 40% improvement in inventory accuracy and 25% reduction in transaction processing time.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Price Book Management &amp; Customer Pricing</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/price-book/</guid><description>
+&lt;/div></description></item><item><title>Price Book Management &amp; Customer Pricing</title><link>https://www.bigledger.com/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/price-book/</guid><description>
 &lt;p>Price books in BigLedger serve as the foundation for organized price list management, enabling businesses to maintain structured pricing for different customer segments, sales channels, and market conditions while ensuring consistency across all commercial operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price books are centralized repositories that organize and manage pricing information for your products and services. They work in conjunction with pricing schemes to provide flexible, scalable pricing solutions that adapt to various business scenarios and customer requirements.&lt;/p>
@@ -999,12 +999,12 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your pricing management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Advanced pricing templates and strategies&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/price-set/" >Price Set Configuration&lt;/a> - Rule-based pricing logic and conditions&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Advanced pricing templates and strategies&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/price-set/" >Price Set Configuration&lt;/a> - Rule-based pricing logic and conditions&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -1043,7 +1043,7 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pricing Success&lt;/strong>: Organizations implementing structured price book systems typically achieve 20-30% improvement in pricing consistency, 15-25% increase in profit margins, and 40% reduction in pricing-related errors.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
+&lt;/div></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
 &lt;p>Document item maintenance in BigLedger provides comprehensive tools for managing business documents throughout their entire lifecycle, ensuring proper workflow integration, compliance tracking, and seamless coordination across all business operations and departments.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Document item maintenance encompasses the creation, modification, approval, processing, and archiving of all business documents within BigLedger. This system ensures that documents flow efficiently through business processes while maintaining audit trails, compliance requirements, and operational efficiency.&lt;/p>
@@ -1736,12 +1736,12 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your document management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>

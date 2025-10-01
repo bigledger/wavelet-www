@@ -1,5 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Team-Management</title><link>https://wiki.bigledger.com/tags/team-management/</link><description>Recent content in Team-Management on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/team-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Team Maintenance Applet</title><link>https://wiki.bigledger.com/applets/team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/team-maintenance-applet/</guid><description>
-&lt;p>1&lt;/p></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://wiki.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/group-listing/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Team-Management</title><link>https://www.bigledger.com/tags/team-management/</link><description>Recent content in Team-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/team-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Team Maintenance Applet</title><link>https://www.bigledger.com/applets/team-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/team-maintenance-applet/</guid><description>
+&lt;p>1&lt;/p></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://www.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/group-listing/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -101,10 +101,10 @@
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>

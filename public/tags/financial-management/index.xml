@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Financial-Management</title><link>https://wiki.bigledger.com/tags/financial-management/</link><description>Recent content in Financial-Management on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/financial-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Price Book Management &amp; Customer Pricing</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/price-book/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Financial-Management</title><link>https://www.bigledger.com/tags/financial-management/</link><description>Recent content in Financial-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/financial-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Price Book Management &amp; Customer Pricing</title><link>https://www.bigledger.com/user-guide/daily-tasks/price-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/price-book/</guid><description>
 &lt;p>Price books in BigLedger serve as the foundation for organized price list management, enabling businesses to maintain structured pricing for different customer segments, sales channels, and market conditions while ensuring consistency across all commercial operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price books are centralized repositories that organize and manage pricing information for your products and services. They work in conjunction with pricing schemes to provide flexible, scalable pricing solutions that adapt to various business scenarios and customer requirements.&lt;/p>
@@ -507,12 +507,12 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your pricing management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Advanced pricing templates and strategies&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/price-set/" >Price Set Configuration&lt;/a> - Rule-based pricing logic and conditions&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Advanced pricing templates and strategies&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/price-set/" >Price Set Configuration&lt;/a> - Rule-based pricing logic and conditions&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -551,14 +551,14 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pricing Success&lt;/strong>: Organizations implementing structured price book systems typically achieve 20-30% improvement in pricing consistency, 15-25% increase in profit margins, and 40% reduction in pricing-related errors.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Pricing Schemes &amp; Strategy Management</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/</guid><description>
+&lt;/div></description></item><item><title>Pricing Schemes &amp; Strategy Management</title><link>https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/</guid><description>
 &lt;p>Master BigLedger&amp;rsquo;s flexible pricing system to create sophisticated pricing strategies that adapt to different customers, markets, and business scenarios while maintaining profitability and competitive positioning.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pricing schemes in BigLedger are powerful templates that define pricing structures for your products and services. These schemes can be applied across multiple business modules including POS, sales orders, quotations, and e-commerce platforms, providing consistent pricing while allowing for customer-specific and scenario-based flexibility.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Key Concept&lt;/strong>: Pricing schemes create the framework, while actual item prices are set in the &lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> module. This separation allows for flexible pricing strategies across different customer segments and sales channels.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Key Concept&lt;/strong>: Pricing schemes create the framework, while actual item prices are set in the &lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> module. This separation allows for flexible pricing strategies across different customer segments and sales channels.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;hr>
@@ -877,10 +877,10 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;h2>Next Steps and Advanced Features&lt;span class="hx:absolute hx:-mt-20" id="next-steps-and-advanced-features">&lt;/span>
 &lt;a href="#next-steps-and-advanced-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering basic pricing schemes, explore:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a>&lt;/strong> - Detailed price lists and management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Apply pricing to specific items&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a>&lt;/strong> - Implement pricing in retail operations&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a>&lt;/strong> - Detailed price lists and management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Apply pricing to specific items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a>&lt;/strong> - Implement pricing in retail operations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel pricing strategies&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -891,10 +891,10 @@ Price books can implement different calculation methods:&lt;/p>
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Management Overview&lt;/a> - Complete financial integration&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and pricing management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Platforms&lt;/a> - Online pricing and synchronization&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/dashboard/" >Business Analytics&lt;/a> - Pricing performance analysis&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Management Overview&lt;/a> - Complete financial integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and pricing management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Platforms&lt;/a> - Online pricing and synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/dashboard/" >Business Analytics&lt;/a> - Pricing performance analysis&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help&lt;span class="hx:absolute hx:-mt-20" id="getting-help">&lt;/span>

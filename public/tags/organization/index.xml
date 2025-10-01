@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Organization</title><link>https://wiki.bigledger.com/tags/organization/</link><description>Recent content in Organization on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/organization/index.xml" rel="self" type="application/rss+xml"/><item><title>Group Listings &amp; Organizational Management</title><link>https://wiki.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/group-listing/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Organization</title><link>https://www.bigledger.com/tags/organization/</link><description>Recent content in Organization on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/organization/index.xml" rel="self" type="application/rss+xml"/><item><title>Group Listings &amp; Organizational Management</title><link>https://www.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/group-listing/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -100,10 +100,10 @@
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
@@ -115,7 +115,7 @@
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic group creation and management functionality is available. For complex organizational requirements or advanced permission setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://wiki.bigledger.com/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-label/</guid><description>
+&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://www.bigledger.com/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-label/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -214,10 +214,10 @@
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
@@ -229,12 +229,12 @@
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic label creation and member assignment functionality is available. For complex labeling strategies or advanced organizational requirements, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance and best practices consultation.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Location Organization Applet</title><link>https://wiki.bigledger.com/applets/location-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/location-organization-applet/</guid><description>
+&lt;/div></description></item><item><title>Location Organization Applet</title><link>https://www.bigledger.com/applets/location-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/location-organization-applet/</guid><description>
 &lt;p>Each branch can have multiple locations
 This is the third icon in the sidebar, &amp;ldquo;Location.&amp;rdquo; This section lists all the locations, and each branch can have multiple locations. Users can create new locations or edit existing ones here.
-The edit tabs are similar to those in &lt;a href="https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch&amp;#43;-&amp;#43;Organization&amp;#43;Applet#Edit-branch" target="_blank" rel="noopener">https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch+-+Organization+Applet#Edit-branch&lt;/a>&lt;/p></description></item><item><title>Settings of Organization Applet</title><link>https://wiki.bigledger.com/applets/settings-of-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/settings-of-organization-applet/</guid><description>
+The edit tabs are similar to those in &lt;a href="https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch&amp;#43;-&amp;#43;Organization&amp;#43;Applet#Edit-branch" target="_blank" rel="noopener">https://bigledger.atlassian.net/wiki/spaces/AKAUN/pages/3196191408/Branch+-+Organization+Applet#Edit-branch&lt;/a>&lt;/p></description></item><item><title>Settings of Organization Applet</title><link>https://www.bigledger.com/applets/settings-of-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/settings-of-organization-applet/</guid><description>
 &lt;p>﻿This section covers all the settings used by Wavelet.
-The role permission allows you to set specific permissions if needed.&lt;/p></description></item><item><title>Branch Organization Applet</title><link>https://wiki.bigledger.com/applets/branch-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/branch-organization-applet/</guid><description>
+The role permission allows you to set specific permissions if needed.&lt;/p></description></item><item><title>Branch Organization Applet</title><link>https://www.bigledger.com/applets/branch-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/branch-organization-applet/</guid><description>
 &lt;p>noneThis section covers the second main tab in the sidebar, Branches, where users can create and edit details for their branches.
 A company can have multiple branches
 Users can either choose to create their branch from the second icon on the left sidebar or move to the Company Listing Edit Tab to create a branch.
@@ -278,7 +278,7 @@ Settlement is used for your cashbook or POS, including payment options like Grab
 Labels: are used for tagging the branch
 Extension: is used CP Commerce
 Customer and Supplier: link the branch to a specific customer/supplier. When configured here, transactions will be automatically recorded. This feature is part of the intercompany configuration details
-Intercompany: Set whether the system automatically finalizes intercompany transactions or leaves them as drafts for manual approval. You can also configure if creating a sales invoice should auto-create the purchase invoice. This is where auto-configuration settings are managed.&lt;/p></description></item><item><title>Company Organization Applet</title><link>https://wiki.bigledger.com/applets/company-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/company-organization-applet/</guid><description>
+Intercompany: Set whether the system automatically finalizes intercompany transactions or leaves them as drafts for manual approval. You can also configure if creating a sales invoice should auto-create the purchase invoice. This is where auto-configuration settings are managed.&lt;/p></description></item><item><title>Company Organization Applet</title><link>https://www.bigledger.com/applets/company-organization-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/company-organization-applet/</guid><description>
 &lt;p>noneWhen logging into the Organization Applet, the first page displayed to the user is the Company Listing page in the first icon on the left sidebar.
 In this section, we will cover two key topics:
 How to Create a Company: A step-by-step guide on setting up company details and adding the address.

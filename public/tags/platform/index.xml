@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Platform</title><link>https://wiki.bigledger.com/tags/platform/</link><description>Recent content in Platform on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/platform/index.xml" rel="self" type="application/rss+xml"/><item><title>Platform Overview - BigLedger Business Operating System</title><link>https://wiki.bigledger.com/user-guide/getting-started/platform-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/getting-started/platform-overview/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Platform</title><link>https://www.bigledger.com/tags/platform/</link><description>Recent content in Platform on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/platform/index.xml" rel="self" type="application/rss+xml"/><item><title>Platform Overview - BigLedger Business Operating System</title><link>https://www.bigledger.com/user-guide/getting-started/platform-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/getting-started/platform-overview/</guid><description>
 &lt;h1>BigLedger Business Operating System Architecture&lt;/h1>&lt;h2>🎯 TLDR (Too Long; Didn&amp;rsquo;t Read)&lt;span class="hx:absolute hx:-mt-20" id="-tldr-too-long-didnt-read">&lt;/span>
 &lt;a href="#-tldr-too-long-didnt-read" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;strong>BigLedger is a Business Operating System (BOS)&lt;/strong> - Think Android for your business operations&lt;/li>
@@ -382,21 +382,21 @@
 &lt;h2>🔗 See Also&lt;span class="hx:absolute hx:-mt-20" id="-see-also">&lt;/span>
 &lt;a href="#-see-also" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Getting Started&lt;span class="hx:absolute hx:-mt-20" id="getting-started">&lt;/span>
 &lt;a href="#getting-started" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/implementation" >Implementation Guide&lt;/a> - Step-by-step deployment guide&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/applets/applet-store/" >Applet Store Overview&lt;/a> - Browse available applets&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/tutorials/quick-start" >Quick Start Tutorial&lt;/a> - Get running in 30 minutes&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/implementation" >Implementation Guide&lt;/a> - Step-by-step deployment guide&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/applets/applet-store/" >Applet Store Overview&lt;/a> - Browse available applets&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/tutorials/quick-start" >Quick Start Tutorial&lt;/a> - Get running in 30 minutes&lt;/li>
 &lt;/ul>
 &lt;h3>Core Modules&lt;span class="hx:absolute hx:-mt-20" id="core-modules">&lt;/span>
 &lt;a href="#core-modules" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Complete accounting solution&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >CRM &amp;amp; Sales&lt;/a> - Customer relationship management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Stock and warehouse control&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Complete accounting solution&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >CRM &amp;amp; Sales&lt;/a> - Customer relationship management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Stock and warehouse control&lt;/li>
 &lt;/ul>
 &lt;h3>Advanced Topics&lt;span class="hx:absolute hx:-mt-20" id="advanced-topics">&lt;/span>
 &lt;a href="#advanced-topics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/developers/api-reference/" >API Documentation&lt;/a> - Integration guide&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/developers/applet-sdk" >Custom Applet Development&lt;/a> - Build your own&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/ai-intelligence/" >AI &amp;amp; Automation&lt;/a> - Leverage AI capabilities&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/developers/api-reference/" >API Documentation&lt;/a> - Integration guide&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/developers/applet-sdk" >Custom Applet Development&lt;/a> - Build your own&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/ai-intelligence/" >AI &amp;amp; Automation&lt;/a> - Leverage AI capabilities&lt;/li>
 &lt;/ul>
 &lt;h2>❓ Frequently Asked Questions&lt;span class="hx:absolute hx:-mt-20" id="-frequently-asked-questions">&lt;/span>
 &lt;a href="#-frequently-asked-questions" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;details>

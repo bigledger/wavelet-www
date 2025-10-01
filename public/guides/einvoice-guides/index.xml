@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – E-Invoice Implementation</title><link>https://wiki.bigledger.com/guides/einvoice-guides/</link><description>Recent content in E-Invoice Implementation on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/guides/einvoice-guides/index.xml" rel="self" type="application/rss+xml"/><item><title>MyInvois Setup Guide</title><link>https://wiki.bigledger.com/guides/einvoice-guides/myinvois-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/einvoice-guides/myinvois-setup/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – E-Invoice Implementation</title><link>https://www.bigledger.com/guides/einvoice-guides/</link><description>Recent content in E-Invoice Implementation on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/guides/einvoice-guides/index.xml" rel="self" type="application/rss+xml"/><item><title>MyInvois Setup Guide</title><link>https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/myinvois-setup/</guid><description>
 &lt;p>Complete guide for MyInvois implementation with BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>MyInvois is Malaysia&amp;rsquo;s national e-invoicing initiative by LHDN. BigLedger provides seamless integration as an MDEC-accredited PEPPOL service provider.&lt;/p>
@@ -83,7 +83,7 @@
 &lt;li>&lt;input disabled="" type="checkbox"> Backup process ready&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>For MyInvois support, contact &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>PEPPOL Configuration Guide</title><link>https://wiki.bigledger.com/guides/einvoice-guides/peppol-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/einvoice-guides/peppol-configuration/</guid><description>
+&lt;p>&lt;em>For MyInvois support, contact &lt;a href="mailto:einvoice@bigledger.com" >einvoice@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>PEPPOL Configuration Guide</title><link>https://www.bigledger.com/guides/einvoice-guides/peppol-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/peppol-configuration/</guid><description>
 &lt;p>Configure PEPPOL for international e-invoicing.&lt;/p>
 &lt;h2>What is PEPPOL?&lt;span class="hx:absolute hx:-mt-20" id="what-is-peppol">&lt;/span>
 &lt;a href="#what-is-peppol" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pan-European Public Procurement On-Line (PEPPOL) enables cross-border electronic document exchange.&lt;/p>
@@ -151,7 +151,7 @@ title="Copy code"
 &lt;li>Check compliance&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>PEPPOL support: &lt;a href="mailto:peppol@bigledger.com" >peppol@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>E-Invoice Validation Rules</title><link>https://wiki.bigledger.com/guides/einvoice-guides/einvoice-validation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/einvoice-guides/einvoice-validation/</guid><description>
+&lt;p>&lt;em>PEPPOL support: &lt;a href="mailto:peppol@bigledger.com" >peppol@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>E-Invoice Validation Rules</title><link>https://www.bigledger.com/guides/einvoice-guides/einvoice-validation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/einvoice-guides/einvoice-validation/</guid><description>
 &lt;p>Comprehensive validation rules for MyInvois compliance.&lt;/p>
 &lt;h2>Mandatory Fields&lt;span class="hx:absolute hx:-mt-20" id="mandatory-fields">&lt;/span>
 &lt;a href="#mandatory-fields" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Invoice Header&lt;span class="hx:absolute hx:-mt-20" id="invoice-header">&lt;/span>

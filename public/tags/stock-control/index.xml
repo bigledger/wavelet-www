@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Stock-Control</title><link>https://wiki.bigledger.com/tags/stock-control/</link><description>Recent content in Stock-Control on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/stock-control/index.xml" rel="self" type="application/rss+xml"/><item><title>Inventory Item Maintenance Applet</title><link>https://wiki.bigledger.com/applets/inv-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/inv-item-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Stock-Control</title><link>https://www.bigledger.com/tags/stock-control/</link><description>Recent content in Stock-Control on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/stock-control/index.xml" rel="self" type="application/rss+xml"/><item><title>Inventory Item Maintenance Applet</title><link>https://www.bigledger.com/applets/inv-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/inv-item-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Inventory Item Maintenance Applet is the central hub for managing all physical product and inventory master data in BigLedger. This Core Module applet provides comprehensive product information management, stock control parameters, and integration foundation for all inventory-related operations across multiple modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -212,21 +212,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/doc-item-maintenance-applet/" >Document Item Maintenance Applet&lt;/a>&lt;/strong> - Service and non-inventory items&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor product relationships&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Product tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/doc-item-maintenance-applet/" >Document Item Maintenance Applet&lt;/a>&lt;/strong> - Service and non-inventory items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor product relationships&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Product tax settings&lt;/li>
 &lt;/ul>
 &lt;h3>Inventory Management Applets&lt;span class="hx:absolute hx:-mt-20" id="inventory-management-applets">&lt;/span>
 &lt;a href="#inventory-management-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/stock-balance-applet/" >Stock Balance Applet&lt;/a>&lt;/strong> - Real-time inventory levels&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/stock-take-applet/" >Stock Take Applet&lt;/a>&lt;/strong> - Physical inventory counting&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/internal-stock-adjustment-applet/" >Internal Stock Adjustment Applet&lt;/a>&lt;/strong> - Inventory adjustments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/stock-balance-applet/" >Stock Balance Applet&lt;/a>&lt;/strong> - Real-time inventory levels&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/stock-take-applet/" >Stock Take Applet&lt;/a>&lt;/strong> - Physical inventory counting&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/internal-stock-adjustment-applet/" >Internal Stock Adjustment Applet&lt;/a>&lt;/strong> - Inventory adjustments&lt;/li>
 &lt;/ul>
 &lt;h3>Pricing and Sales Applets&lt;span class="hx:absolute hx:-mt-20" id="pricing-and-sales-applets">&lt;/span>
 &lt;a href="#pricing-and-sales-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/pricebook-applet/" >Pricebook Applet&lt;/a>&lt;/strong> - Advanced pricing management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Product order processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Product procurement&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/pricebook-applet/" >Pricebook Applet&lt;/a>&lt;/strong> - Advanced pricing management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Product order processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Product procurement&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>

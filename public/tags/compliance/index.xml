@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Compliance</title><link>https://wiki.bigledger.com/tags/compliance/</link><description>Recent content in Compliance on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/compliance/index.xml" rel="self" type="application/rss+xml"/><item><title>Tax Configuration Applet</title><link>https://wiki.bigledger.com/applets/tax-configuration-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/tax-configuration-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Compliance</title><link>https://www.bigledger.com/tags/compliance/</link><description>Recent content in Compliance on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/compliance/index.xml" rel="self" type="application/rss+xml"/><item><title>Tax Configuration Applet</title><link>https://www.bigledger.com/applets/tax-configuration-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/tax-configuration-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Tax Configuration Applet is a critical Core Module component that manages all tax-related configurations in BigLedger. This applet provides comprehensive tax setup, compliance management, and automated tax calculations that support all taxable transactions across every BigLedger module.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -215,21 +215,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/chart-of-account-applet/" >Chart of Account Applet&lt;/a>&lt;/strong> - Tax account mapping&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor tax configurations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/chart-of-account-applet/" >Chart of Account Applet&lt;/a>&lt;/strong> - Tax account mapping&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor tax configurations&lt;/li>
 &lt;/ul>
 &lt;h3>Financial Applets&lt;span class="hx:absolute hx:-mt-20" id="financial-applets">&lt;/span>
 &lt;a href="#financial-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-reporting-applet/" >Tax Reporting Applet&lt;/a>&lt;/strong> - Statutory tax reports&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-payment-applet/" >Tax Payment Applet&lt;/a>&lt;/strong> - Tax payment processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-reconciliation-applet/" >Tax Reconciliation Applet&lt;/a>&lt;/strong> - Tax account reconciliation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-reporting-applet/" >Tax Reporting Applet&lt;/a>&lt;/strong> - Statutory tax reports&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-payment-applet/" >Tax Payment Applet&lt;/a>&lt;/strong> - Tax payment processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-reconciliation-applet/" >Tax Reconciliation Applet&lt;/a>&lt;/strong> - Tax account reconciliation&lt;/li>
 &lt;/ul>
 &lt;h3>Transaction Applets&lt;span class="hx:absolute hx:-mt-20" id="transaction-applets">&lt;/span>
 &lt;a href="#transaction-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/sales-tax-applet/" >Sales Tax Applet&lt;/a>&lt;/strong> - Sales transaction taxation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/purchase-tax-applet/" >Purchase Tax Applet&lt;/a>&lt;/strong> - Purchase transaction taxation&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/ecommerce-tax-applet/" >E-Commerce Tax Applet&lt;/a>&lt;/strong> - Online transaction taxation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-tax-applet/" >Sales Tax Applet&lt;/a>&lt;/strong> - Sales transaction taxation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-tax-applet/" >Purchase Tax Applet&lt;/a>&lt;/strong> - Purchase transaction taxation&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/ecommerce-tax-applet/" >E-Commerce Tax Applet&lt;/a>&lt;/strong> - Online transaction taxation&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -371,7 +371,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Compliance Critical&lt;/strong>: Tax configuration directly impacts regulatory compliance. Always consult with qualified tax professionals and test thoroughly before implementing changes in production.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
+&lt;/div></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
 &lt;p>Document item maintenance in BigLedger provides comprehensive tools for managing business documents throughout their entire lifecycle, ensuring proper workflow integration, compliance tracking, and seamless coordination across all business operations and departments.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Document item maintenance encompasses the creation, modification, approval, processing, and archiving of all business documents within BigLedger. This system ensures that documents flow efficiently through business processes while maintaining audit trails, compliance requirements, and operational efficiency.&lt;/p>
@@ -1064,12 +1064,12 @@ title="Copy code"
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your document management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -1108,7 +1108,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Implementation Success&lt;/strong>: Organizations implementing comprehensive document maintenance workflows typically achieve 50% reduction in document processing time, 40% improvement in compliance adherence, and 60% increase in operational efficiency.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>E-Invoice Generation Applet</title><link>https://wiki.bigledger.com/applets/einvoice-generation-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/einvoice-generation-applet/</guid><description>
+&lt;/div></description></item><item><title>E-Invoice Generation Applet</title><link>https://www.bigledger.com/applets/einvoice-generation-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/einvoice-generation-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
@@ -1137,9 +1137,9 @@ title="Copy code"
 &lt;h2>Integration Points&lt;span class="hx:absolute hx:-mt-20" id="integration-points">&lt;/span>
 &lt;a href="#integration-points" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Dependencies&lt;span class="hx:absolute hx:-mt-20" id="core-module-dependencies">&lt;/span>
 &lt;a href="#core-module-dependencies" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Tax compliance settings&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer compliance data&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/chart-of-account-applet/" >Chart of Account Applet&lt;/a>&lt;/strong> - Account mapping&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Tax compliance settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/customer-maintenance-applet/" >Customer Maintenance Applet&lt;/a>&lt;/strong> - Customer compliance data&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/chart-of-account-applet/" >Chart of Account Applet&lt;/a>&lt;/strong> - Account mapping&lt;/li>
 &lt;/ul>
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>TODO: Document Related Applets&lt;span class="hx:absolute hx:-mt-20" id="todo-document-related-applets">&lt;/span>

@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Api-Reference</title><link>https://wiki.bigledger.com/tags/api-reference/</link><description>Recent content in Api-Reference on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/api-reference/index.xml" rel="self" type="application/rss+xml"/><item><title>API Reference</title><link>https://wiki.bigledger.com/developers/api-reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/developers/api-reference/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Api-Reference</title><link>https://www.bigledger.com/tags/api-reference/</link><description>Recent content in Api-Reference on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/api-reference/index.xml" rel="self" type="application/rss+xml"/><item><title>API Reference</title><link>https://www.bigledger.com/developers/api-reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/developers/api-reference/</guid><description>
 &lt;p>Complete reference documentation for all BigLedger REST APIs. Since all BigLedger applets are built with Angular, every feature in the BigLedger interface has a corresponding API endpoint, ensuring 100% programmatic access to all functionality.&lt;/p>
 &lt;p>We will continuously improve this documentation, suggestions are welcome.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -780,7 +780,7 @@ title="Copy code"
 &lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
 &lt;/button>
 &lt;/div>
-&lt;/div></description></item><item><title>Purchasing APIs</title><link>https://wiki.bigledger.com/developers/api-reference/purchasing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/developers/api-reference/purchasing/</guid><description>
+&lt;/div></description></item><item><title>Purchasing APIs</title><link>https://www.bigledger.com/developers/api-reference/purchasing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/developers/api-reference/purchasing/</guid><description>
 &lt;p>Complete API reference for BigLedger&amp;rsquo;s purchasing and procurement module. Manage suppliers, purchase orders, bills, and streamline your procurement workflows.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
@@ -1478,7 +1478,7 @@ title="Copy code"
 &lt;/button>
 &lt;/div>
 &lt;/div>
-&lt;!-- TODO: Add detailed webhook payloads for each event --></description></item><item><title>Reporting APIs</title><link>https://wiki.bigledger.com/developers/api-reference/reports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/developers/api-reference/reports/</guid><description>
+&lt;!-- TODO: Add detailed webhook payloads for each event --></description></item><item><title>Reporting APIs</title><link>https://www.bigledger.com/developers/api-reference/reports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/developers/api-reference/reports/</guid><description>
 &lt;p>Generate financial reports, analytics dashboards, and business intelligence data programmatically. Access the same reporting capabilities available in BigLedger&amp;rsquo;s Angular interface through REST APIs.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
@@ -2540,7 +2540,7 @@ title="Copy code"
 &lt;div class="success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4">&lt;/div>
 &lt;/button>
 &lt;/div>
-&lt;/div></description></item><item><title>Batch Operations API</title><link>https://wiki.bigledger.com/developers/api-reference/batch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/developers/api-reference/batch/</guid><description>
+&lt;/div></description></item><item><title>Batch Operations API</title><link>https://www.bigledger.com/developers/api-reference/batch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/developers/api-reference/batch/</guid><description>
 &lt;p>Process large volumes of data efficiently with BigLedger&amp;rsquo;s batch operation APIs. Perfect for data migrations, bulk imports, mass updates, and high-volume integrations.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
@@ -3541,7 +3541,7 @@ title="Copy code"
 &lt;!-- TODO: Add webhook integration for batch completion notifications -->
 &lt;!-- TODO: Add batch operation retry mechanisms -->
 &lt;!-- TODO: Add data transformation utilities -->
-&lt;!-- TODO: Add comprehensive error recovery strategies --></description></item><item><title>Integration APIs</title><link>https://wiki.bigledger.com/developers/api-reference/integrations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/developers/api-reference/integrations/</guid><description>
+&lt;!-- TODO: Add comprehensive error recovery strategies --></description></item><item><title>Integration APIs</title><link>https://www.bigledger.com/developers/api-reference/integrations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/developers/api-reference/integrations/</guid><description>
 &lt;p>Connect BigLedger with external systems, marketplaces, and business applications through our comprehensive integration APIs. Built for seamless data synchronization and workflow automation.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>

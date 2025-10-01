@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Optimization</title><link>https://wiki.bigledger.com/tags/optimization/</link><description>Recent content in Optimization on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/optimization/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Practices</title><link>https://wiki.bigledger.com/user-guide/best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/best-practices/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Optimization</title><link>https://www.bigledger.com/tags/optimization/</link><description>Recent content in Optimization on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/optimization/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Practices</title><link>https://www.bigledger.com/user-guide/best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/best-practices/</guid><description>
 &lt;p>Expert tips, optimization strategies, and proven methodologies to maximize your BigLedger effectiveness. Learn from successful implementations and avoid common pitfalls.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>This section compiles best practices from thousands of successful BigLedger implementations across various industries. Follow these guidelines to achieve optimal performance, security, and user satisfaction.&lt;/p>
@@ -887,9 +887,9 @@ title="Copy code"
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Continue your BigLedger journey:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/developers/" >Developer Resources&lt;/a>&lt;/strong> - Extend BigLedger with custom development&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/industry-solutions/" >Industry Solutions&lt;/a>&lt;/strong> - Industry-specific optimizations&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/ai-intelligence/" >AI Intelligence&lt;/a>&lt;/strong> - Leverage AI-powered features&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/developers/" >Developer Resources&lt;/a>&lt;/strong> - Extend BigLedger with custom development&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/industry-solutions/" >Industry Solutions&lt;/a>&lt;/strong> - Industry-specific optimizations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/ai-intelligence/" >AI Intelligence&lt;/a>&lt;/strong> - Leverage AI-powered features&lt;/li>
 &lt;li>&lt;strong>&lt;a href="https://academy.bigledger.com" target="_blank" rel="noopener">Advanced Training&lt;/a>&lt;/strong> - Specialized training programs&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">

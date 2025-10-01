@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Accounting Guides</title><link>https://wiki.bigledger.com/guides/accounting-guides/</link><description>Recent content in Accounting Guides on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/guides/accounting-guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Chart of Accounts Setup Guide</title><link>https://wiki.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Accounting Guides</title><link>https://www.bigledger.com/guides/accounting-guides/</link><description>Recent content in Accounting Guides on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/guides/accounting-guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Chart of Accounts Setup Guide</title><link>https://www.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/chart-of-accounts-setup/</guid><description>
 &lt;p>Complete guide for setting up your Chart of Accounts in BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Chart of Accounts (COA) is the foundation of your financial system in BigLedger. It defines the structure of your general ledger and determines how financial transactions are categorized and reported.&lt;/p>
@@ -177,7 +177,7 @@ title="Copy code"
 &lt;li>Test with sample transactions&lt;/li>
 &lt;/ol>
 &lt;hr>
-&lt;p>&lt;em>For additional support, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Journal Entries Guide</title><link>https://wiki.bigledger.com/guides/accounting-guides/journal-entries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/accounting-guides/journal-entries/</guid><description>
+&lt;p>&lt;em>For additional support, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Journal Entries Guide</title><link>https://www.bigledger.com/guides/accounting-guides/journal-entries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/journal-entries/</guid><description>
 &lt;p>Master manual and automated journal entries in BigLedger.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Journal entries are the foundation of accounting in BigLedger, recording all financial transactions in the general ledger.&lt;/p>
@@ -413,7 +413,7 @@ title="Copy code"
 &lt;li>Verify module integration&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>Need help? Visit our &lt;a href="https://wiki.bigledger.com/user-guide/" >Support Center&lt;/a> or contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Financial Reporting Guide</title><link>https://wiki.bigledger.com/guides/accounting-guides/financial-reporting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/accounting-guides/financial-reporting/</guid><description>
+&lt;p>&lt;em>Need help? Visit our &lt;a href="https://www.bigledger.com/user-guide/" >Support Center&lt;/a> or contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Financial Reporting Guide</title><link>https://www.bigledger.com/guides/accounting-guides/financial-reporting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/financial-reporting/</guid><description>
 &lt;p>Generate accurate financial reports with BigLedger&amp;rsquo;s reporting suite.&lt;/p>
 &lt;h2>Available Reports&lt;span class="hx:absolute hx:-mt-20" id="available-reports">&lt;/span>
 &lt;a href="#available-reports" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Financial Statements&lt;span class="hx:absolute hx:-mt-20" id="core-financial-statements">&lt;/span>
@@ -603,7 +603,7 @@ title="Copy code"
 &lt;li>Approval notes&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>For custom report development, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Bank Reconciliation Step-by-Step</title><link>https://wiki.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</guid><description>
+&lt;p>&lt;em>For custom report development, contact &lt;a href="mailto:support@bigledger.com" >support@bigledger.com&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Bank Reconciliation Step-by-Step</title><link>https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/guides/accounting-guides/bank-reconciliation-guide/</guid><description>
 &lt;p>Master the bank reconciliation process with BigLedger&amp;rsquo;s AI-powered matching.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Bank reconciliation ensures your book balance matches your bank statement, identifying discrepancies and maintaining accurate cash records.&lt;/p>

@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger 文档 – Automation</title><link>https://www.bigledger.com/zh/tags/automation/</link><description>Recent content in Automation on BigLedger 文档</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://www.bigledger.com/zh/tags/automation/index.xml" rel="self" type="application/rss+xml"/><item><title>小程序与工作流程</title><link>https://www.bigledger.com/zh/applets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/zh/applets/</guid><description>
+&lt;p>BigLedger 的模块化架构建立在小程序之上 - 可重复使用的组件提供特定的业务功能。每个小程序可以被多个模块使用，确保整个系统的一致性。&lt;/p>
+&lt;h2>理解小程序&lt;span class="hx:absolute hx:-mt-20" id="理解小程序">&lt;/span>
+&lt;a href="#%e7%90%86%e8%a7%a3%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>重要提示&lt;/strong>：小程序与模块具有多对多关系。例如，税务配置小程序被财务会计、销售、采购和电子商务模块使用。这种设计消除了重复并确保系统中的行为一致。&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3>关键特征&lt;span class="hx:absolute hx:-mt-20" id="关键特征">&lt;/span>
+&lt;a href="#%e5%85%b3%e9%94%ae%e7%89%b9%e5%be%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>可重复使用&lt;/strong> - 一个小程序服务多个模块&lt;/li>
+&lt;li>&lt;strong>可配置&lt;/strong> - 根据您的业务需求定制&lt;/li>
+&lt;li>&lt;strong>集成&lt;/strong> - 无缝协同工作&lt;/li>
+&lt;li>&lt;strong>独立&lt;/strong> - 可以在不影响其他组件的情况下更新&lt;/li>
+&lt;/ul>
+&lt;h2>小程序资源&lt;span class="hx:absolute hx:-mt-20" id="小程序资源">&lt;/span>
+&lt;a href="#%e5%b0%8f%e7%a8%8b%e5%ba%8f%e8%b5%84%e6%ba%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>完整的小程序参考&lt;span class="hx:absolute hx:-mt-20" id="完整的小程序参考">&lt;/span>
+&lt;a href="#%e5%ae%8c%e6%95%b4%e7%9a%84%e5%b0%8f%e7%a8%8b%e5%ba%8f%e5%8f%82%e8%80%83" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/applet-catalog/" >完整小程序目录&lt;/a>&lt;/strong> - 按模块组织的所有 BigLedger 小程序的综合目录&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/applet-directory/" >小程序目录&lt;/a>&lt;/strong> - 可搜索的小程序市场和安装指南&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/applet-store/" >小程序商店&lt;/a>&lt;/strong> - 额外小程序和扩展的市场&lt;/li>
+&lt;/ul>
+&lt;h3>特色小程序类别&lt;span class="hx:absolute hx:-mt-20" id="特色小程序类别">&lt;/span>
+&lt;a href="#%e7%89%b9%e8%89%b2%e5%b0%8f%e7%a8%8b%e5%ba%8f%e7%b1%bb%e5%88%ab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>核心模块（13个基本小程序）&lt;span class="hx:absolute hx:-mt-20" id="核心模块13个基本小程序">&lt;/span>
+&lt;a href="#%e6%a0%b8%e5%bf%83%e6%a8%a1%e5%9d%9713%e4%b8%aa%e5%9f%ba%e6%9c%ac%e5%b0%8f%e7%a8%8b%e5%ba%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>所有其他模块所需的基础小程序：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tenant-admin-applet/" >租户管理小程序&lt;/a>&lt;/strong> - 系统管理和配置&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/chart-of-account-applet/" >会计科目表小程序&lt;/a>&lt;/strong> - 财务账户结构&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/organization-applet/" >组织小程序&lt;/a>&lt;/strong> - 公司和组织结构&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/customer-maintenance-applet/" >客户维护小程序&lt;/a>&lt;/strong> - 客户主数据&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/supplier-maintenance-applet/" >供应商维护小程序&lt;/a>&lt;/strong> - 供应商主数据&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/employee-maintenance-applet/" >员工维护小程序&lt;/a>&lt;/strong> - 员工记录&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/tax-configuration-applet/" >税务配置小程序&lt;/a>&lt;/strong> - 税务设置和合规&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/applet-catalog/#core-module-applets-13-applets" >查看所有核心小程序 →&lt;/a>&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4>库存与运营&lt;span class="hx:absolute hx:-mt-20" id="库存与运营">&lt;/span>
+&lt;a href="#%e5%ba%93%e5%ad%98%e4%b8%8e%e8%bf%90%e8%90%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/stock-take-applet/" >库存盘点小程序&lt;/a>&lt;/strong> - 数字库存计数和管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/stock-balance-applet/" >库存余额小程序&lt;/a>&lt;/strong> - 实时库存跟踪&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/internal-stock-adjustment-applet/" >内部库存调整小程序&lt;/a>&lt;/strong> - 库存修正&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/process-monitoring-applet/" >流程监控小程序&lt;/a>&lt;/strong> - 业务流程跟踪&lt;/li>
+&lt;/ul>
+&lt;h4>客户参与&lt;span class="hx:absolute hx:-mt-20" id="客户参与">&lt;/span>
+&lt;a href="#%e5%ae%a2%e6%88%b7%e5%8f%82%e4%b8%8e" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/team-maintenance-applet/" >团队维护小程序&lt;/a>&lt;/strong> - 团队结构和管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/membership-admin-console-applet/" >会员管理控制台小程序&lt;/a>&lt;/strong> - 客户忠诚度计划&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/unified-contact-center-ucc-applet/" >统一联络中心小程序&lt;/a>&lt;/strong> - 客户服务平台&lt;/li>
+&lt;/ul>
+&lt;h4>定价与商务&lt;span class="hx:absolute hx:-mt-20" id="定价与商务">&lt;/span>
+&lt;a href="#%e5%ae%9a%e4%bb%b7%e4%b8%8e%e5%95%86%e5%8a%a1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/pricebook-applet/" >价格表小程序&lt;/a>&lt;/strong> - 高级定价管理&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/zh/applets/90-ecomsync-related-applets/" >EcomSync 相关小程序&lt;/a>&lt;/strong> - 电子商务同步&lt;/li>
+&lt;/ul>
+&lt;h2>模块集成&lt;span class="hx:absolute hx:-mt-20" id="模块集成">&lt;/span>
+&lt;a href="#%e6%a8%a1%e5%9d%97%e9%9b%86%e6%88%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>小程序设计为与模块具有多对多关系：&lt;/p></description></item></channel></rss>

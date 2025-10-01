@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Inventory-Management</title><link>https://wiki.bigledger.com/tags/inventory-management/</link><description>Recent content in Inventory-Management on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/inventory-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Inventory Item Maintenance Applet</title><link>https://wiki.bigledger.com/applets/inv-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/inv-item-maintenance-applet/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Inventory-Management</title><link>https://www.bigledger.com/tags/inventory-management/</link><description>Recent content in Inventory-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/inventory-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Inventory Item Maintenance Applet</title><link>https://www.bigledger.com/applets/inv-item-maintenance-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/inv-item-maintenance-applet/</guid><description>
 &lt;h2>Purpose and Overview&lt;span class="hx:absolute hx:-mt-20" id="purpose-and-overview">&lt;/span>
 &lt;a href="#purpose-and-overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The Inventory Item Maintenance Applet is the central hub for managing all physical product and inventory master data in BigLedger. This Core Module applet provides comprehensive product information management, stock control parameters, and integration foundation for all inventory-related operations across multiple modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
@@ -212,21 +212,21 @@
 &lt;h2>Related Applets&lt;span class="hx:absolute hx:-mt-20" id="related-applets">&lt;/span>
 &lt;a href="#related-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Core Module Applets&lt;span class="hx:absolute hx:-mt-20" id="core-module-applets">&lt;/span>
 &lt;a href="#core-module-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/doc-item-maintenance-applet/" >Document Item Maintenance Applet&lt;/a>&lt;/strong> - Service and non-inventory items&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor product relationships&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Product tax settings&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/doc-item-maintenance-applet/" >Document Item Maintenance Applet&lt;/a>&lt;/strong> - Service and non-inventory items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/supplier-maintenance-applet/" >Supplier Maintenance Applet&lt;/a>&lt;/strong> - Vendor product relationships&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/tax-configuration-applet/" >Tax Configuration Applet&lt;/a>&lt;/strong> - Product tax settings&lt;/li>
 &lt;/ul>
 &lt;h3>Inventory Management Applets&lt;span class="hx:absolute hx:-mt-20" id="inventory-management-applets">&lt;/span>
 &lt;a href="#inventory-management-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/stock-balance-applet/" >Stock Balance Applet&lt;/a>&lt;/strong> - Real-time inventory levels&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/stock-take-applet/" >Stock Take Applet&lt;/a>&lt;/strong> - Physical inventory counting&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/internal-stock-adjustment-applet/" >Internal Stock Adjustment Applet&lt;/a>&lt;/strong> - Inventory adjustments&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/stock-balance-applet/" >Stock Balance Applet&lt;/a>&lt;/strong> - Real-time inventory levels&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/stock-take-applet/" >Stock Take Applet&lt;/a>&lt;/strong> - Physical inventory counting&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/internal-stock-adjustment-applet/" >Internal Stock Adjustment Applet&lt;/a>&lt;/strong> - Inventory adjustments&lt;/li>
 &lt;/ul>
 &lt;h3>Pricing and Sales Applets&lt;span class="hx:absolute hx:-mt-20" id="pricing-and-sales-applets">&lt;/span>
 &lt;a href="#pricing-and-sales-applets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/pricebook-applet/" >Pricebook Applet&lt;/a>&lt;/strong> - Advanced pricing management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Product order processing&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Product procurement&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/pricebook-applet/" >Pricebook Applet&lt;/a>&lt;/strong> - Advanced pricing management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/sales-order-applet/" >Sales Order Applet&lt;/a>&lt;/strong> - Product order processing&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/applets/purchase-order-applet/" >Purchase Order Applet&lt;/a>&lt;/strong> - Product procurement&lt;/li>
 &lt;/ul>
 &lt;h2>Setup Guide&lt;span class="hx:absolute hx:-mt-20" id="setup-guide">&lt;/span>
 &lt;a href="#setup-guide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Quick Start&lt;span class="hx:absolute hx:-mt-20" id="quick-start">&lt;/span>
@@ -363,7 +363,7 @@ title="Copy code"
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Important&lt;/strong>: Product master data changes can affect pricing, inventory levels, and financial reporting. Always test changes in a development environment first.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Document Item Types &amp; Classifications</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/</guid><description>
+&lt;/div></description></item><item><title>Document Item Types &amp; Classifications</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-types/</guid><description>
 &lt;p>Understanding BigLedger&amp;rsquo;s document item types is fundamental to effective inventory management, sales processing, and business operations. Each item type serves specific business scenarios and offers unique functionality for managing complex inventory relationships.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger supports five distinct document item types, each designed for specific business scenarios and inventory relationships. These types determine how items behave in transactions, inventory tracking, and financial reporting.&lt;/p>
@@ -826,11 +826,11 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your understanding of BigLedger&amp;rsquo;s item management:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance Procedures&lt;/a> - Creating and managing individual items&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Complete inventory control system&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes&lt;/a> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and sales management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/manufacturing/" >Manufacturing Integration&lt;/a> - Production and assembly workflows&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance Procedures&lt;/a> - Creating and managing individual items&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Complete inventory control system&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes&lt;/a> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and sales management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/manufacturing/" >Manufacturing Integration&lt;/a> - Production and assembly workflows&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -855,7 +855,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Implementation Success&lt;/strong>: Businesses that properly implement BigLedger&amp;rsquo;s item type system see 40% improvement in inventory accuracy and 25% reduction in transaction processing time.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Introduction to Stock Take Applet</title><link>https://wiki.bigledger.com/applets/introduction-to-stock-take-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/applets/introduction-to-stock-take-applet/</guid><description>
+&lt;/div></description></item><item><title>Introduction to Stock Take Applet</title><link>https://www.bigledger.com/applets/introduction-to-stock-take-applet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/applets/introduction-to-stock-take-applet/</guid><description>
 &lt;p>The Stock Take Applet offers a one-stop solution for all your inventory management needs, providing everything you need for traceability and efficient stock control.
 Key Features:
 Centralized Solution: Manage all your inventory data in one place, reducing the complexity of handling multiple systems.

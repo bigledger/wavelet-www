@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Document-Management</title><link>https://wiki.bigledger.com/tags/document-management/</link><description>Recent content in Document-Management on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/document-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Document-Management</title><link>https://www.bigledger.com/tags/document-management/</link><description>Recent content in Document-Management on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/document-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
 &lt;p>Document item maintenance in BigLedger provides comprehensive tools for managing business documents throughout their entire lifecycle, ensuring proper workflow integration, compliance tracking, and seamless coordination across all business operations and departments.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Document item maintenance encompasses the creation, modification, approval, processing, and archiving of all business documents within BigLedger. This system ensures that documents flow efficiently through business processes while maintaining audit trails, compliance requirements, and operational efficiency.&lt;/p>
@@ -691,12 +691,12 @@
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your document management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>

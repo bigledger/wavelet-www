@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Analytics</title><link>https://wiki.bigledger.com/tags/analytics/</link><description>Recent content in Analytics on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>Reports &amp; Analytics</title><link>https://wiki.bigledger.com/user-guide/reports-analytics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/reports-analytics/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Analytics</title><link>https://www.bigledger.com/tags/analytics/</link><description>Recent content in Analytics on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>Reports &amp; Analytics</title><link>https://www.bigledger.com/user-guide/reports-analytics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/reports-analytics/</guid><description>
 &lt;p>Harness the power of your business data with BigLedger&amp;rsquo;s comprehensive reporting and analytics capabilities. Transform raw data into actionable insights that drive better business decisions.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger&amp;rsquo;s Reports &amp;amp; Analytics suite provides:&lt;/p>
@@ -798,16 +798,16 @@ title="Copy code"
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering Reports &amp;amp; Analytics:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Implement data-driven decision making&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/troubleshooting/" >Troubleshooting&lt;/a>&lt;/strong> - Resolve reporting issues&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/developers/" >Developer Resources&lt;/a>&lt;/strong> - Advanced customization and API integration&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/best-practices/" >Best Practices&lt;/a>&lt;/strong> - Implement data-driven decision making&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/troubleshooting/" >Troubleshooting&lt;/a>&lt;/strong> - Resolve reporting issues&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/developers/" >Developer Resources&lt;/a>&lt;/strong> - Advanced customization and API integration&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Analytics Mastery&lt;/strong>: You&amp;rsquo;ve mastered Reports &amp;amp; Analytics when you can quickly create meaningful reports that drive business decisions and improvement initiatives.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Reporting APIs</title><link>https://wiki.bigledger.com/developers/api-reference/reports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/developers/api-reference/reports/</guid><description>
+&lt;/div></description></item><item><title>Reporting APIs</title><link>https://www.bigledger.com/developers/api-reference/reports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/developers/api-reference/reports/</guid><description>
 &lt;p>Generate financial reports, analytics dashboards, and business intelligence data programmatically. Access the same reporting capabilities available in BigLedger&amp;rsquo;s Angular interface through REST APIs.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>

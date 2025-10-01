@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger Documentation – Tutorial</title><link>https://wiki.bigledger.com/tags/tutorial/</link><description>Recent content in Tutorial on BigLedger Documentation</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://wiki.bigledger.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Document Item Types &amp; Classifications</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigLedger - Complete Business Management Platform – Tutorial</title><link>https://www.bigledger.com/tags/tutorial/</link><description>Recent content in Tutorial on BigLedger - Complete Business Management Platform</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://www.bigledger.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Document Item Types &amp; Classifications</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-types/</guid><description>
 &lt;p>Understanding BigLedger&amp;rsquo;s document item types is fundamental to effective inventory management, sales processing, and business operations. Each item type serves specific business scenarios and offers unique functionality for managing complex inventory relationships.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>BigLedger supports five distinct document item types, each designed for specific business scenarios and inventory relationships. These types determine how items behave in transactions, inventory tracking, and financial reporting.&lt;/p>
@@ -461,11 +461,11 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your understanding of BigLedger&amp;rsquo;s item management:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance Procedures&lt;/a> - Creating and managing individual items&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Complete inventory control system&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes&lt;/a> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and sales management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/manufacturing/" >Manufacturing Integration&lt;/a> - Production and assembly workflows&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance Procedures&lt;/a> - Creating and managing individual items&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Complete inventory control system&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes&lt;/a> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and sales management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/manufacturing/" >Manufacturing Integration&lt;/a> - Production and assembly workflows&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -490,22 +490,22 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Implementation Success&lt;/strong>: Businesses that properly implement BigLedger&amp;rsquo;s item type system see 40% improvement in inventory accuracy and 25% reduction in transaction processing time.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Introduction</title><link>https://wiki.bigledger.com/user-guide/getting-started/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/getting-started/introduction/</guid><description>
+&lt;/div></description></item><item><title>Introduction</title><link>https://www.bigledger.com/user-guide/getting-started/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/getting-started/introduction/</guid><description>
 &lt;p>Welcome to BigLedger, your comprehensive gateway to streamlined business operations and valuable insights. BigLedger centralizes your data to provide real-time insights and streamlined management across all aspects of your business.&lt;/p>
 &lt;h2>Getting Started Resources&lt;span class="hx:absolute hx:-mt-20" id="getting-started-resources">&lt;/span>
 &lt;a href="#getting-started-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Explore our comprehensive resources to maximize your BigLedger experience:&lt;/p>
 &lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/user-guide/platform-overview"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/platform-overview"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Platform Overview&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">First-time and existing users - registration and permissions guide&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/applets/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/applets/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Applet Directory&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">User guide on BigLedger Applets and automation tools&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/user-guide/industry-solutions/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/user-guide/industry-solutions/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Industry Solutions&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Discover solutions tailored for your specific industry&lt;/div>&lt;/a>
 &lt;a
-class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://wiki.bigledger.com/modules/"
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="https://www.bigledger.com/modules/"
 >&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">Module Guide&lt;/span>&lt;div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">Comprehensive guide to BigLedger&amp;rsquo;s business modules&lt;/div>&lt;/a>
 &lt;/div>
 &lt;h2>New to BigLedger?&lt;span class="hx:absolute hx:-mt-20" id="new-to-bigledger">&lt;/span>
@@ -559,7 +559,7 @@ class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hid
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Pro Tip&lt;/strong>: Start with our most popular modules - Financial Accounting, Inventory Management, and CRM - to see immediate benefits in your daily operations.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Member Label List</title><link>https://wiki.bigledger.com/user-guide/administration/member-label-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-label-list/</guid><description>
+&lt;/div></description></item><item><title>Member Label List</title><link>https://www.bigledger.com/user-guide/administration/member-label-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-label-list/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3317499439
 &lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:25:30.383Z
 5.Member label list: Create Member Label list&amp;gt;Compulsory information&amp;gt;Edit
@@ -576,7 +576,7 @@ After changing the details of the field, please click &amp;lsquo;save&amp;rsquo;
 Please click &amp;lsquo;delete&amp;rsquo; to remove the member label list from the list.
 5.3.2. In the labels tab, you can add labels to the label list.
 Please click &amp;lsquo;+&amp;rsquo; button to add labels.
-Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p></description></item><item><title>Member Listing</title><link>https://wiki.bigledger.com/user-guide/administration/member-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-listing/</guid><description>
+Please fill up the compulsory information to add a new label. Please take note that once you create a new label in the label list, the label will be listed in the member label module.&lt;/p></description></item><item><title>Member Listing</title><link>https://www.bigledger.com/user-guide/administration/member-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-listing/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3317564816
 &lt;strong>Last Updated&lt;/strong>: 2021-07-26T04:28:05.761Z
 2. Member Listing: Create New Member &amp;gt; Membership Edit
@@ -607,7 +607,7 @@ Please click &amp;lsquo;+&amp;rsquo; button to add point adjustment.
 The following fields are compulsory:
 Branch
 Point Currency
-Item code &amp;amp; name&lt;/p></description></item><item><title>Team</title><link>https://wiki.bigledger.com/user-guide/administration/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/team/</guid><description>
+Item code &amp;amp; name&lt;/p></description></item><item><title>Team</title><link>https://www.bigledger.com/user-guide/administration/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/team/</guid><description>
 &lt;p>&lt;strong>Page ID&lt;/strong>: 3321069573
 &lt;strong>Last Updated&lt;/strong>: 2021-07-27T06:18:28.861Z
 2. Team: Create Team &amp;gt; Compulsory Information&amp;gt; Edit (General info, Members,Import Users, Permission)
@@ -639,7 +639,7 @@ Please follow the instructions or download the &amp;lsquo;simple format&amp;rsqu
 Please click &amp;lsquo;Upload file&amp;rsquo; to import the users in the team
 2.7 Please add or edit permission from the &amp;lsquo;Edit Permission&amp;rsquo; tab.
 You can &amp;lsquo;Select permission&amp;rsquo; from the list to Add permission.
-After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permission.&lt;/p></description></item><item><title>Creating Items in Your Catalog</title><link>https://wiki.bigledger.com/user-guide/basic-operations/creating-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/creating-an-item/</guid><description>
+After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permission.&lt;/p></description></item><item><title>Creating Items in Your Catalog</title><link>https://www.bigledger.com/user-guide/basic-operations/creating-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/creating-an-item/</guid><description>
 &lt;p>Learn how to add products and services to your BigLedger catalog with proper configuration for optimal inventory management and e-commerce integration.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Items are the foundation of your business operations in BigLedger. Whether you&amp;rsquo;re selling physical products, digital services, or bundled offerings, proper item setup ensures accurate inventory tracking, pricing, and integration across all your sales channels.&lt;/p>
@@ -766,9 +766,9 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After creating your items, continue with:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Management&lt;/a>&lt;/strong> - Learn comprehensive item maintenance&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/editing-an-item/" >Editing Items&lt;/a>&lt;/strong> - Modify existing items and specifications&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Set up flexible pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Management&lt;/a>&lt;/strong> - Learn comprehensive item maintenance&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/editing-an-item/" >Editing Items&lt;/a>&lt;/strong> - Modify existing items and specifications&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Set up flexible pricing strategies&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -779,10 +779,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;hr>
 &lt;h2>Related Topics&lt;span class="hx:absolute hx:-mt-20" id="related-topics">&lt;/span>
 &lt;a href="#related-topics" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding different item classifications&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Setting up pricing&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Stock control and tracking&lt;/li>
-&lt;/ul></description></item><item><title>Editing Items &amp; Updating Product Information</title><link>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding different item classifications&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Setting up pricing&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Stock control and tracking&lt;/li>
+&lt;/ul></description></item><item><title>Editing Items &amp; Updating Product Information</title><link>https://www.bigledger.com/user-guide/basic-operations/editing-an-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/editing-an-item/</guid><description>
 &lt;p>Learn how to efficiently modify existing items in your BigLedger catalog, update specifications, manage marketplace synchronization, and maintain accurate product information across all business operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The item editing interface provides comprehensive access to all aspects of your product and service information. From basic details to complex marketplace integrations, this powerful editing environment ensures your catalog stays current, accurate, and optimized for all business scenarios.&lt;/p>
@@ -946,7 +946,7 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;/ul>
 &lt;h3>Price and Cost Changes&lt;span class="hx:absolute hx:-mt-20" id="price-and-cost-changes">&lt;/span>
 &lt;a href="#price-and-cost-changes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
-&lt;li>Coordinate with &lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
+&lt;li>Coordinate with &lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a> updates&lt;/li>
 &lt;li>Update vendor costs and margin calculations&lt;/li>
 &lt;li>Modify marketplace-specific pricing&lt;/li>
 &lt;li>Review and update tax classifications&lt;/li>
@@ -1012,10 +1012,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item editing, explore these related capabilities:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Comprehensive catalog management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control and tracking&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel sales optimization&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -1026,18 +1026,18 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
-&lt;/ul></description></item><item><title>Item Maintenance &amp; Catalog Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/</guid><description>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items&lt;/a> - Start with item creation fundamentals&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding item classifications&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration&lt;/li>
+&lt;/ul></description></item><item><title>Item Maintenance &amp; Catalog Management</title><link>https://www.bigledger.com/user-guide/basic-operations/item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/item-maintenance/</guid><description>
 &lt;p>Master the complete lifecycle of item management in BigLedger, from initial creation to ongoing maintenance, ensuring your product catalog remains accurate, organized, and optimized for all business operations.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Item maintenance is crucial for effective business operations. This comprehensive guide covers all aspects of managing your product and service catalog, including detailed configurations, categorization, pricing, and integration with various business modules.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Scope&lt;/strong>: This guide covers post-creation item management. If you need to create new items, start with our &lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a>.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;hr>
@@ -1319,10 +1319,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Next Steps&lt;span class="hx:absolute hx:-mt-20" id="next-steps">&lt;/span>
 &lt;a href="#next-steps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering item maintenance, explore these related areas:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/pricing-scheme/" >Pricing Schemes&lt;/a>&lt;/strong> - Advanced pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a>&lt;/strong> - Complete stock control&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel selling&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a>&lt;/strong> - Cost tracking and reporting&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -1333,11 +1333,11 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
-&lt;/ul></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/creating-an-item/" >Creating Items Guide&lt;/a> - Start with item creation&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/editing-an-item/" >Editing Items Guide&lt;/a> - Quick editing procedures&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/document-item-types/" >Document Item Types&lt;/a> - Understanding classifications&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a> - Pricing strategies and implementation&lt;/li>
+&lt;/ul></description></item><item><title>Document Item Maintenance &amp; Workflow Management</title><link>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/basic-operations/document-item-maintenance/</guid><description>
 &lt;p>Document item maintenance in BigLedger provides comprehensive tools for managing business documents throughout their entire lifecycle, ensuring proper workflow integration, compliance tracking, and seamless coordination across all business operations and departments.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Document item maintenance encompasses the creation, modification, approval, processing, and archiving of all business documents within BigLedger. This system ensures that documents flow efficiently through business processes while maintaining audit trails, compliance requirements, and operational efficiency.&lt;/p>
@@ -2030,12 +2030,12 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your document management expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/document-item-types/" >Document Item Types&lt;/a> - Understanding document classifications and types&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Core item management procedures and workflows&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/" >Business Operations&lt;/a> - Operational workflow integration and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Accounting&lt;/a> - Financial document integration and processing&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer document portal and communication&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/inventory/" >Inventory Management&lt;/a> - Inventory document workflows and integration&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
@@ -2074,7 +2074,7 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Implementation Success&lt;/strong>: Organizations implementing comprehensive document maintenance workflows typically achieve 50% reduction in document processing time, 40% improvement in compliance adherence, and 60% increase in operational efficiency.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Member Classifications &amp; Access Control</title><link>https://wiki.bigledger.com/user-guide/administration/member-class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-class/</guid><description>
+&lt;/div></description></item><item><title>Member Classifications &amp; Access Control</title><link>https://www.bigledger.com/user-guide/administration/member-class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-class/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -2142,17 +2142,17 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Adding and managing user accounts&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Organizing departments and teams&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/navigation/" >Navigation Guide&lt;/a> - Interface permissions and access&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/platform-overview/" >Platform Overview&lt;/a> - Security architecture overview&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Adding and managing user accounts&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Organizing departments and teams&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/navigation/" >Navigation Guide&lt;/a> - Interface permissions and access&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/platform-overview/" >Platform Overview&lt;/a> - Security architecture overview&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
 &lt;a href="#development-timeline" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Phase 1&lt;/strong> (Priority): Core role-based access control documentation&lt;br>
 &lt;strong>Phase 2&lt;/strong> (Follow-up): Advanced security features and integration guides&lt;br>
 &lt;strong>Phase 3&lt;/strong> (Enhancement): Analytics, reporting, and optimization strategies&lt;/p>
-&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://wiki.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/group-listing/</guid><description>
+&lt;p>For immediate assistance with member classification setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a>&lt;/p></description></item><item><title>Group Listings &amp; Organizational Management</title><link>https://www.bigledger.com/user-guide/administration/group-listing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/group-listing/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -2254,10 +2254,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - User roles and access control&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Individual user account management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/team/" >Team Configuration&lt;/a> - Department and team setup&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Label Management&lt;/a> - Organizational labeling systems&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
@@ -2269,7 +2269,7 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic group creation and management functionality is available. For complex organizational requirements or advanced permission setup, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://wiki.bigledger.com/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/administration/member-label/</guid><description>
+&lt;/div></description></item><item><title>Member Label Configuration &amp; Management</title><link>https://www.bigledger.com/user-guide/administration/member-label/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/administration/member-label/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-yellow-100 hx:bg-yellow-50 hx:text-yellow-900 hx:dark:border-yellow-200/30 hx:dark:bg-yellow-700/30 hx:dark:text-yellow-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">⚠️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
@@ -2368,10 +2368,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>While this page is under development, explore these related topics:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-label-list/" >Member Label Lists&lt;/a> - Creating label categories and parent structures&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-listing/" >User Management&lt;/a> - Core user account management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/group-listing/" >Group Listings&lt;/a> - Organizational group structures&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/member-class/" >Member Classifications&lt;/a> - Role-based access control&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Development Timeline&lt;span class="hx:absolute hx:-mt-20" id="development-timeline">&lt;/span>
@@ -2383,14 +2383,14 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
 &lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Current Status&lt;/strong>: Basic label creation and member assignment functionality is available. For complex labeling strategies or advanced organizational requirements, contact technical support at &lt;a href="mailto:vincent@bigledger.com" >vincent@bigledger.com&lt;/a> for guidance and best practices consultation.&lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>Pricing Schemes &amp; Strategy Management</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/</guid><description>
+&lt;/div></description></item><item><title>Pricing Schemes &amp; Strategy Management</title><link>https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/</guid><description>
 &lt;p>Master BigLedger&amp;rsquo;s flexible pricing system to create sophisticated pricing strategies that adapt to different customers, markets, and business scenarios while maintaining profitability and competitive positioning.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Pricing schemes in BigLedger are powerful templates that define pricing structures for your products and services. These schemes can be applied across multiple business modules including POS, sales orders, quotations, and e-commerce platforms, providing consistent pricing while allowing for customer-specific and scenario-based flexibility.&lt;/p>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;div class="hx:select-none hx:text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">ℹ️&lt;/div>&lt;/div>
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7">
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Key Concept&lt;/strong>: Pricing schemes create the framework, while actual item prices are set in the &lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> module. This separation allows for flexible pricing strategies across different customer segments and sales channels.&lt;/div>
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0">&lt;strong>Key Concept&lt;/strong>: Pricing schemes create the framework, while actual item prices are set in the &lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a> module. This separation allows for flexible pricing strategies across different customer segments and sales channels.&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;hr>
@@ -2709,10 +2709,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;h2>Next Steps and Advanced Features&lt;span class="hx:absolute hx:-mt-20" id="next-steps-and-advanced-features">&lt;/span>
 &lt;a href="#next-steps-and-advanced-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>After mastering basic pricing schemes, explore:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a>&lt;/strong> - Detailed price lists and management&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Apply pricing to specific items&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a>&lt;/strong> - Implement pricing in retail operations&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel pricing strategies&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/price-book/" >Price Book Management&lt;/a>&lt;/strong> - Detailed price lists and management&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/user-guide/item-maintenance/" >Item Maintenance&lt;/a>&lt;/strong> - Apply pricing to specific items&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a>&lt;/strong> - Implement pricing in retail operations&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a>&lt;/strong> - Multi-channel pricing strategies&lt;/li>
 &lt;/ol>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300">
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2">&lt;/div>
@@ -2723,10 +2723,10 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;hr>
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/financial-accounting/" >Financial Management Overview&lt;/a> - Complete financial integration&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and pricing management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Platforms&lt;/a> - Online pricing and synchronization&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/business-operations/dashboard/" >Business Analytics&lt;/a> - Pricing performance analysis&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/financial-accounting/" >Financial Management Overview&lt;/a> - Complete financial integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Sales Operations&lt;/a> - Customer relationship and pricing management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Platforms&lt;/a> - Online pricing and synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/business-operations/dashboard/" >Business Analytics&lt;/a> - Pricing performance analysis&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help&lt;span class="hx:absolute hx:-mt-20" id="getting-help">&lt;/span>
@@ -2745,7 +2745,7 @@ After adding the permission, you can Edit or Delete it from the &amp;lsquo;Permi
 &lt;li>Market analysis and competitive positioning&lt;/li>
 &lt;li>Custom pricing scheme development&lt;/li>
 &lt;li>Advanced integration and automation setup&lt;/li>
-&lt;/ul></description></item><item><title>Price Set Configuration &amp; Advanced Pricing Logic</title><link>https://wiki.bigledger.com/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wiki.bigledger.com/user-guide/daily-tasks/price-set/</guid><description>
+&lt;/ul></description></item><item><title>Price Set Configuration &amp; Advanced Pricing Logic</title><link>https://www.bigledger.com/user-guide/daily-tasks/price-set/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bigledger.com/user-guide/daily-tasks/price-set/</guid><description>
 &lt;p>Price sets in BigLedger provide sophisticated, rule-based pricing capabilities that enable complex pricing strategies adaptable to diverse business conditions, customer segments, and operational scenarios. This advanced pricing system supports enterprise-level requirements with powerful logic engines and flexible configuration options.&lt;/p>
 &lt;h2>Overview&lt;span class="hx:absolute hx:-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Price sets represent the most advanced tier of BigLedger&amp;rsquo;s pricing architecture, offering rule-based logic that can automatically apply different pricing strategies based on configurable conditions. They work seamlessly with price books and pricing schemes to create comprehensive, intelligent pricing solutions.&lt;/p>
@@ -3524,12 +3524,12 @@ title="Copy code"
 &lt;h2>Related Resources&lt;span class="hx:absolute hx:-mt-20" id="related-resources">&lt;/span>
 &lt;a href="#related-resources" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Expand your advanced pricing expertise:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Foundation pricing template system&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/daily-tasks/price-book/" >Price Book Management &amp;amp; Customer Pricing&lt;/a> - Core price list management and customer assignment&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation and integration&lt;/li>
-&lt;li>&lt;a href="https://wiki.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/pricing-scheme/" >Pricing Schemes &amp;amp; Strategy Management&lt;/a> - Foundation pricing template system&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/daily-tasks/price-book/" >Price Book Management &amp;amp; Customer Pricing&lt;/a> - Core price list management and customer assignment&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/user-guide/basic-operations/item-maintenance/" >Item Maintenance&lt;/a> - Individual item pricing and management&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/crm/" >Customer Management&lt;/a> - Customer relationship and pricing integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/pos/" >POS Configuration&lt;/a> - Retail pricing implementation and integration&lt;/li>
+&lt;li>&lt;a href="https://www.bigledger.com/modules/ecommerce/" >E-Commerce Integration&lt;/a> - Multi-channel pricing synchronization&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2>Getting Help and Support&lt;span class="hx:absolute hx:-mt-20" id="getting-help-and-support">&lt;/span>
